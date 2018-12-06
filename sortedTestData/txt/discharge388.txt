@@ -1,0 +1,106 @@
+**INSTITUTION
+GENERAL MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[XXX M ZZZ YYY]
+ADMISSION DATE :
+**DATE[May 02 2007]
+DISCHARGE DATE :
+**DATE[May 04 2007]
+HISTORY OF PRESENT ILLNESS :
+Ms. **NAME[AAA] is a very pleasant **AGE[in 50s]- year - old who was admitted on **DATE[May 2 2007] .
+She was complaining of abdominal pain , nausea , and vomiting .
+The patient was admitted and she was given IV hydration .
+She had n.p.o.
+She was given pain medication , which alleviated her pain .
+The patient 's amylase and lipase were initially elevated .
+Her lipase was 2779 .
+On the day of discharge , it is 416 .
+The patient 's AST and ALT were not ever elevated .
+Her alk phos was initially 136 .
+It returned to 86 on the 3rd of **DATE[May] .
+Of note , the patient 's triglycerides were checked .
+They returned at 578 at 12:40 p.m.
+Of note , they were 81 at 9:38 a.m.
+The patient is currently on TriCor for treatment of her hyperlipidemia and hypertriglyceridemia .
+The patient did have 1 day of gemfibrozil and then was returned back to her TriCor .
+The patient also had , on admission , an elevated creatinine of 4.2 .
+After IV hydration , her creatinine on the day of discharge was 2.5 .
+Her FENA is consistent with prerenal azotemia .
+I have instructed the patient to continue to take p.o. well and to continue to hydrate herself with her renal insufficiency .
+The patient 's glucoses were running somewhat high at approximately 230 .
+Her metformin had been stopped secondary to her dehydration as well as her renal insufficiency .
+She was treated with sliding scale insulin and her home Lantus at 35 units at bedtime and her lispro .
+The patient was also found to have an initial hemoglobin and hematocrit of 14.7 and 44.6 .
+On the day of discharge , it was 10.1 and 30.9 .
+I believe this is her normal hemoglobin and hematocrit with her endstage renal disease .
+It did appear that with her iron being 21 and her ferritin 271 , she may need further evaluation .
+The TIBC has not returned .
+The patient did have monitoring and serial troponins , which were negative .
+On the day of discharge , the patient is able to eat a regular meal without exacerbating abdominal pain .
+She is able to drink fluids .
+She had an episode of chest pain on the 3rd of **DATE[May] .
+She had a chest x-ray , which was clear .
+She had an EKG , which was unchanged , and a negative troponin .
+She had an ultrasound of her abdomen , which shows hypoechoic pancreas unchanged from **DATE[Mar] .
+There is no peripancreatic fluid collection .
+It is felt that the patient is having a pancreatitis secondary to hypertriglyceridemia .
+She will continue on her TriCor and follow up with Dr. **NAME[WWW VVV] .
+Of note , the patient states she is somewhat weak .
+I had Physical Therapy evaluate her .
+They felt that she would benefit from a postacute rehab facility .
+The patient refused this .
+We will try to get her into home PT .
+She does have weakness of her right leg as per my assessment as well as PT / OT .
+DISCHARGE DIAGNOSES :
+PANCREATITIS AND ACUTE RENAL FAILURE , PROBABLY SECONDARY TO HYPERTRIGLYCERIDEMIA .
+DISCHARGE INSTRUCTIONS :
+Her diet will be low fat , low cholesterol .
+Her activity is as tolerated .
+Her instructions are to hold her metformin for now .
+She will have PT / OT and home safety evaluation at home .
+DISCHARGE MEDICATIONS :
+1. Aspirin 325 mg p.o. daily .
+2. Atenolol 100 mg b.i.d.
+3. TriCor 145 mg daily .
+4. Mag oxide 400 mg b.i.d.
+5. Oxybutynin 5 mg 2 tablets b.i.d.
+6. Protonix 40 mg daily .
+7. Paxil 40 mg daily .
+8. Cozaar 100 mg b.i.d.
+Of note , this was held in the hospital secondary to hypervolemia .
+We are restarting it on discharge .
+9. Zocor 40 mg daily .
+10. Humalog 10 units before meals b.i.d.
+11. Lantus 70 units subcutaneous bedtime .
+12. She will also have her oxycodone as prescribed previously .
+She states she has some at home .
+I did not give her a prescription for more oxycodone .
+She has 5 - mg tablets she may take every 6 hours for severe abdominal pain .
+13. Elavil 100 mg p.o. bedtime .
+FOLLOW UP :
+The patient has an appointment with Dr. **NAME[WWW VVV] on **DATE[May 5]th at 4 p.m. , who will follow her for her renal failure , her pancreatitis , her hypertriglyceridemia , and her anemia .
+___________________________________
+**NAME[XXX M UUU] , M.D.
+Dictator :
+**NAME[XXX UUU] , M.D.
+**INITIALS
+D :
+**DATE[May 04 2007] 15:21:01
+T :
+**DATE[May 04 2007] 17:49:07
+R :
+**DATE[May 04 2007] 17:49:07/kb
+Job ID :
+332393/**ID-NUM
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[UUU , TTT] ***
+Electronically Signed by **NAME[XXX ZZZ YYY]
+**DATE[May 17 2007] 11:46:21 AM

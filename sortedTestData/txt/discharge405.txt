@@ -1,0 +1,108 @@
+**INSTITUTION
+Transfer Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Jan 02 2008]
+Discharged :
+**DATE[Jan 08 2008]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+DATE OF ADMISSION :
+**DATE[Jan 2 2008] .
+DATE OF TRANSFER :
+**DATE[Jan 8 2008] .
+ATTENDING PHYSICIAN :
+Dr. **NAME[VVV UUU] .
+PRIMARY DISCHARGE DIAGNOSES :
+1. Chronic obstructive pulmonary disease .
+2. Pneumonia .
+3. Right lower lobe mass .
+4. Diabetes mellitus .
+SECONDARY DISCHARGE DIAGNOSES :
+1. Hypothyroidism .
+2. Depression .
+3. Coronary artery disease status post myocardial infarction .
+DISCHARGE CONDITION :
+Stable .
+CONSULTS :
+1. Physical Therapy .
+2. Occupational Therapy .
+3. Speech Pathology .
+PROCEDURES :
+1. **DATE[Jan 2 2008] .
+Portable chest x-ray showed bilateral pleural effusions , right greater than left .
+Effusions have increased since previous exam .
+2. **DATE[Jan 2 2008] .
+Chest CT with contrast showed no findings of pulmonary embolism .
+Complete collapse of right lower lobe similar to appearance in previous CT scan .
+There is also increased soft tissue adjacent to the bronchus intermedius as well as mildly enlarged right hilar lymph nodes .
+There are also abnormal and large subcarinal and pericarinal lymph nodes .
+New complete atelectasis of left lower lobe .
+Small bilateral pleural effusions .
+Area of mucus puddling in airways of left upper lobe .
+Changes of advanced emphysema .
+REASON FOR ADMISSION :
+A **AGE[in 70s]- year - old female with a history of COPD and asthma presents with shortness of breath .
+**INSTITUTION COURSE :
+Ms. **NAME[AAA] is a **AGE[in 70s]- year - old female with a history of COPD and asthma who presents with shortness of breath , worse for the last day .
+In addition , the staff at the nursing home where she resides noted a low oxygen saturation and sent her to **INSTITUTION .
+During her stay at **INSTITUTION , Ms. **NAME[AAA] has remained stable .
+For her COPD , she was put on Mucomyst , DuoNebs , and oral prednisone .
+For her left lower lobe pneumonia , she was initially started on azithromycin but was then switched to Avelox .
+She remained afebrile throughout her stay .
+Initially she required 6 L of oxygen per minute by face mask .
+By the time of discharge , she was weaned down to 4 L of oxygen per minute through her Oxymizer .
+By the time of discharge , the patient stated that her shortness of breath was greatly improved from when she was first admitted .
+She denied fever , chills , or pain .
+Her white blood count was slightly elevated during her second and third days of admission .
+This could be secondary to prednisone ; however , she had a normal white blood count by the time of discharge .
+Regarding her right lower lobe mass , the patient continues to refuse bronchoscopy and further workup .
+For her diabetes , Ms. **NAME[AAA] was started on 10 units of Lantus subcu at bedtime .
+However , her blood sugars remain uncontrol and were as high as more than 500 .
+Because of this , we increased her Lantus gradually .
+By the time of discharge , her Lantus was 16 units subcu nightly .
+In addition , she was also placed on an insulin - sliding scale during her stay here .
+She was seen by Speech Pathology , which recommended aspiration precautions as well as thickened liquids .
+However , the patient refused both and at the time of discharge she was on a regular diet which she tolerated well .
+The patient also suffered from insomnia during her stay here .
+She was initially started on Benadryl because it was thought that this would provide minimal respiratory sedation effects .
+However , the patient refused this medication and called the physician on call at night who prescribed Restoril .
+For her hypertension and hypothyroidism , she was continued on her home medications .
+Lovenox and Protonix were started for DVT and peptic ulcer disease prophylaxis , respectively .
+TRANSFER MEDICATIONS :
+1. Mucomyst 20% inhalation solution 1 mL aerosolized q.i.d.
+2. DuoNeb 3 mL aerosolized q.i.d.
+3. Norvasc 10 mg p.o. daily .
+4. Aspirin 81 mg p.o. daily .
+5. Lovenox 40 mg subcu daily .
+6. NovoLog insulin - sliding scale ( moderate dose scale ) .
+7. Lantus 16 units subcu nightly .
+8. Imdur 30 mg p.o. daily .
+9. Synthroid 75 mcg p.o. daily .
+10. Metoprolol 25 mg p.o. b.i.d.
+11. Avelox 400 mg p.o. daily x 14 days .
+12. Benicar 40 mg p.o. daily .
+13. Protonix 40 mg p.o. daily .
+14. Prednisone 30 mg p.o. daily .
+TRANSFER INSTRUCTIONS :
+1. Ms. **NAME[AAA] is to be transferred back to her nursing home .
+Her diet is regular ( Ms. **NAME[AAA] was asked by Speech Pathology to start a diet of thick nectars as well as follow aspiration precautions ; however , the patient refused this ) .
+2. Activity as tolerated .
+3. Will follow up with Dr. **NAME[ZZZ] in 10 days .
+4. She is to return to the hospital if she has worsening shortness of breath , fever , or chills .
+______________________________
+**NAME[WWW XXX]
+HS Job # 574581 / 38997 /
+SHY # **ID-NUM
+D :
+**DATE[Jan 08 2008] 14:54
+T :
+**DATE[Jan 08 2008] 14:55
+**CARBON-COPY

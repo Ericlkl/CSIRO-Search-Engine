@@ -1,0 +1,79 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+____________________________________________________________
+**NAME[AAA , BBB M]
+**ID-NUM
+**ID-NUM
+A3B/1
+SERVICE OF :
+**NAME[ZZZ]
+**NAME[YYY]
+DATE OF ADMISSION :
+**DATE[Jul 11 2007]
+DATE OF DISCHARGE :
+**DATE[Jul 13 2007]
+DISPOSITION :
+Discharged to Long Wood at **PLACE assisted living .
+DISCHARGE DIAGNOSES :
+1. Seizure disorder .
+2. Chronic obstructive pulmonary disease with asthmatic bronchitis .
+3. Congestive heart failure - history of .
+4. Degenerative joint disease .
+5. Macular degeneration of retina .
+CONSULTANTS :
+Neurology - Dr. **NAME[WWW] .
+DISCHARGE MEDICATIONS :
+1. Allopurinol 100 mg daily .
+2. Baby aspirin 81 mg daily .
+3. Aggrenox 1 b.i.d.
+4. Celebrex 200 mg daily .
+5. Advair 250/50 one puff b.i.d.
+6. Lasix 60 mg daily .
+7. Lopressor 12.5 mg b.i.d.
+8. Ocuvite 1 b.i.d.
+9. Protonix 40 mg daily .
+10. Dilantin 200 mg in the morning and 300 mg in the evening .
+11. Zoloft 100 mg daily .
+12. Triamcinolone 0.1% cream apply topically to rash b.i.d. p.r.n. for rash or pruritus .
+13. Oxygen 2 L by nasal cannula nightly .
+14. Tylenol 1000 mg p.o. q.6 hours p.r.n. pain .
+HOSPITAL COURSE :
+This **AGE[in 80s]- year - old man was admitted under urgent circumstances from Long Wood at **PLACE assisted living after having been found on the floor of his apartment where he was very confused and was thrashing about .
+He had no memory of a seizure .
+There had been a history of seizure disorder and it was expected that he was postictal .
+The patient was sent to the emergency department of this hospital .
+Another spell occurred there .
+This may have been a seizure .
+At that point , he was admitted .
+CT scan of the brain without contrast showed no evidence of mass effect , shift , or intracranial hemorrhage .
+There is mild diffuse atrophy .
+There is no evidence of skull fracture .
+His Dilantin level was 11.3 .
+On repeat , it was 10.1 ( on a dose of Dilantin 200 mg b.i.d. ) .
+Electroencephalogram showed no evidence of seizure activity .
+MRI scan of the brain was done and the report was pending upon discharge .
+Cervical spine x-ray showed evidence of significant osteoarthritis and multilevel degenerative disk disease .
+There was limited motion on extension and flexion .
+Electroencephalogram showed sinus bradycardia with premature atrial contractions and a right bundle branch block .
+His heart rate was about 55 .
+Chest x-ray showed what appeared to be a mild opacity at the left base .
+Repeat chest x-ray was more clear .
+A BNP level was elevated at 232 .
+Overall , there were no new diagnoses made .
+The patient had had a history of significant osteoarthritis of the cervical spine .
+His Dilantin level was satisfactory , but it was felt that perhaps a higher dose of Dilantin was indicated .
+Adding a second drug was not recommended by the neurologic consultant .
+The patient will be discharged on Dilantin 200 mg q.a.m. and 300 mg q.p.m.
+He will remain on the same medicines otherwise .
+THE DICTATION ENDS ABRUPTLY AT THIS POINT .
+___________________
+**NAME[XXX M. YYY] , M.D.
+Dict :
+**DATE[Jul 13 2007] 11:57:24
+Tran :
+**DATE[Jul 13 2007] 15:41:56
+PML/jat/345301/**ID-NUM/**ID-NUM
+R :
+**DATE[Jul 17 2007] 14:02:01/tmt
+**CARBON-COPY

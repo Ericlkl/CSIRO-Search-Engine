@@ -1,0 +1,29 @@
+PRINCIPAL DIAGNOSIS :
+Malignant neoplasm of the ileus .
+SECONDARY DIAGNOSES :
+1. Metastatic disease to nodes .
+2. Pleural effusion .
+3. Peritoneal adhesions .
+4. Hypotension .
+5. Anemia .
+SURGICAL PROCEDURES :
+The patient had laparoscopic lysis of adhesions , intercostal catheter insertion , osteopathic manipulation , venous catheterization and colectomy from the surgical team .
+HISTORY :
+The patient is a sweet **AGE[in 60s]- year - old who had been in the hospital within the last week with a pleural effusion that was causing significant dyspnea .
+When she represented we did CAT scans of her belly which suggested a stricture .
+There was also evidence of a mass in the duodenal region .
+This was fully evaluated and she was found to have a small bowel malignancy by biopsy and resection .
+The patient 's postop course was complicated by an ongoing respiratory distress , abdominal pain and dysfunction , and a need for further pulmonary intervention .
+So she was transferred at the patient 's and family 's request to **INSTITUTION in **PLACE .
+In the hospital the patient required IV Dilaudid , IV fluids and total parenteral nutrition and did have deep venous thrombosis prophylaxis , Social Work support for her and the family , and a stress test that she did pass before all of her procedures took place .
+Her glucoses were monitored and treated with insulin coverage , she had no life threatening arrhythmias .
+She did have anemia requiring transfusions of blood .
+For more information , please refer to the hospital chart .
+_________________________
+**NAME[YYY ZZZ] , MD
+D :
+**DATE[Jul 09 2007]/ 1:42 P
+T :
+**DATE[Jul 11 2007] 12:34 A sn
+#**ACCESSION-NUMBER[1]/**ID-NUM
+**CARBON-COPY

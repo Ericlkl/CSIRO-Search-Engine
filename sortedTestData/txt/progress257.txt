@@ -1,0 +1,29 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 30s] years
+Sex :
+Female
+DOB :
+**DATE[Dec 9 1975]
+Author :
+**NAME[XXX , WWW]
+Health Status
+Summary of Hospitalization :
+**AGE[in 30s] yo female admitted s/p OD found to have aspiration pneumonia
+Subjective / Events Overnight :
+Saw pt this morning for tachycardia , given diltiazem IV with temporary effects .
+Spoke with Dr. **NAME[VVV] - he saw pt and ordered Ativan for w/d treatment .
+BP decreasing over the course of the day with HR 140 - per Dr. **NAME[VVV] , transfer to Step Down ; report given to **NAME[UUU]
+CT / Pe protocol pending
+Professional Services
+Credentials and Title of Author **NAME[TTT] Signing this **NAME[SSS] : CRNP
+Perform by **NAME[XXX , WWW]
+( on **DATE[Jan 08 2008] 19:17 )
+Sign by **NAME[XXX , WWW]
+( on **DATE[Jan 08 2008] 19:17 )
+VERIFY by **NAME[XXX , WWW]
+( on **DATE[Jan 08 2008] 19:17 )

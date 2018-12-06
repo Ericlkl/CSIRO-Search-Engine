@@ -1,0 +1,61 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[WWW M XXX]
+ADMISSION DATE :
+**DATE[Aug 02 2007]
+EVALUATION DATE :
+**DATE[Aug 05 07]
+The patient is going to be transferred to **INSTITUTION .
+Her discharge diagnoses are COPD , delirium , dementia , significant mitral regurgitation , anorexia , and no nodules .
+The patient states that she is doing okay today .
+She just does not have a lot of energy .
+She would like to get some help with her memory and is not opposed to going to **INSTITUTION for them trying to help her with that .
+She actually been much less agitated in the last 2 days compared to the first day that she was admitted where she just basically walked around constantly asking people to take her home .
+She has not really done that for the last 2 days .
+PHYSICAL EXAMINATION :
+Per exam today , she has a few rhonchi .
+Her heart was regular with 2/6 murmur at the apex .
+Her abdomen was soft and nontender .
+Her extremities were without significant edema .
+ASSESSMENT AND PLAN :
+1. Dementia .
+She is going to go **INSTITUTION for adjustment in her medications and also for the treatment of her anorexia .
+I suspect that she may have a component of malnutrition that contributes to her worsening dementia recently , although , it sounds like she had some mild baseline dementia .
+We tried to get MRI scan here prior to transfer and were unsuccessful and we recommended she get that over at **INSTITUTION just to complete the workup .
+2. Mitral regurgitation and heart failure .
+We added ACE inhibitor to her medications .
+Her blood pressure is on the low side , so we did not add a beta - blocker as well .
+She also has significant COPD , so we will hold off on adding beta - blocker therapy at this time for both of those reasons .
+3. Pulmonary nodules .
+She will have to have a followup CT in a few months just to reevaluate those areas .
+The radiologist thought it was more likely inflammatory etiology .
+She does not have evidence of significant infection at this time .
+She did complain of some cough intermittently , which is a chronic problem for her .
+Her case was discussed in detail with house staff .
+I agree with their note as written .
+My note should be considered linked to theirs .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+LMB/cs
+D :
+**DATE[Aug 05 2007] 20:13:47
+T :
+**DATE[Aug 06 2007] 03:51:53
+R :
+**DATE[Aug 06 2007] 03:51:53/cs
+Job ID :
+334528/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Aug 21 2007] 08:56:47 PM

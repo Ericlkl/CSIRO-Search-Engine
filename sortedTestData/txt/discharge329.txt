@@ -1,0 +1,56 @@
+FINAL DIAGNOSES :
+1. Appendicitis , status post laparoscopic appendectomy .
+2. High blood pressure .
+3. Diabetes .
+4. Left ovarian cyst .
+5. Hyperlipidemia .
+OPERATIONS AND PROCEDURES :
+1. Laparoscopic appendicectomy .
+2. CT scan of the abdomen .
+CONSULTATION :
+1. Surgeon , **NAME[VVV UUU] , M.D.
+2. **NAME[TTT M SSS] , M.D. , OB / GYN .
+The patient is a **AGE[in 40s]- year - old African American moderately obese female who was admitted through the emergency room with a history of one day of abdominal pain , started in the mid abdomen , radiating to the right lower quadrant , some fever and chills .
+She tried to have nonsteroidal antiinflammatory which did not give her any relief .
+She came to the emergency room .
+A CT scan was done which showed some evidence of appendicitis .
+Dr. **NAME[UUU] was consulted .
+CT abdomen showed proper left ovarian cyst , measured approximately 4.3 cm and otherwise normal CT scan .
+On examination , the patient was with very tender right lower quadrant .
+She has guarding and rigidity with positive rebound .
+Her white blood cell was quite elevated .
+It was 17.1 .
+The next day , we examined the patient , and we put differential diagnosis of pelvic inflammatory disease versus acute appendicitis .
+Dr. **NAME[SSS] came and see the patient , and he said that his impression is abdomen is relatively soft , some guarding of the right lower quadrant and profound tenderness .
+There is no cervical motion tenderness , so it is possible appendicitis , and then the patient was seen by Dr. **NAME[UUU] who decided to go for laparoscopic appendicectomy .
+The patient tolerated the operation very well , and on the operative report , he said , possible early appendicitis , laparoscopic appendicectomy by Dr. **NAME[UUU] .
+Postoperative report did confirm the diagnosis of epiploic appendicitis .
+The patient was doing fine during her stay in the hospital except for her blood pressure which was bouncing 160/140 .
+She was n.p.o. for the first 2 days , and we gave her Vasotec IV 1.25 mg and clonidine 0.2 mg tablet .
+Her sugar too was a little bit elevated at 190 .
+We will keep her on the insulin sliding scale and we hold her oral medication which was started on the third day during her stay in the hospital .
+The patient was asked to start her metformin but because of her BUN and creatinine was a little bit elevated , her creatinine was 1.5 and BUN is 22 , so she was asked to hold on the metformin for 2 days until recheck it by her PCP , to restart on all her oral medications .
+The patient was discharged in a very stable condition .
+We will fax a copy of discharge to her PCP , and no isolation of organism , no IV fluid .
+Regular diet and low sodium , as tolerated activity , and to be seen by Dr. **NAME[RRR] , maybe in one week time and Dr. **NAME[UUU] , the surgeon as per requested .
+No postdischarge services or therapy .
+MEDICATIONS ON DISCHARGE :
+Her medications on discharge were :
+1. Atenolol 100 mg oral daily .
+2. Benazepril and hydrochlorothiazide 40 mg oral daily .
+3. Dulcolax suppository daily .
+4. Clonidine 0.2 mg 3 times daily .
+5. Vytorin **DATE[May 21] oral at bedtime .
+6. Lasix 40 mg twice daily .
+7. Lantus insulin 40 units at bedtime .
+8. Glucophage 100 mg orally twice daily .
+The patient during her stay , she was started to have good bowel sounds and she was tolerating food very good , and she was advised that she will take insulin Lantus 40 units until she will regain her full ability to eat and then she can increase it to 80 units per night as per her regimen before admission .
+The patient was discharged in the stable condition .
+______________________________
+**NAME[WWW M XXX] , M.D.
+HS Job # 991729 / 41129 /
+# **ID-NUM
+D :
+**DATE[Aug 26 2007] 19:49
+T :
+**DATE[Aug 28 2007] 21:22

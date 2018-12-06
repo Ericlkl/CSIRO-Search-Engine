@@ -1,0 +1,73 @@
+**INSTITUTION
+CARDIOLOGY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Feb 04 2007]
+DISCHARGE DATE :
+**DATE[Feb 21 2007]
+ADDENDUM
+This is an addendum to the discharge summary that was already dictated on **DATE[Feb 18 2007] ; job ID : 353386 .
+LABORATORY DATA :
+The patient 's labs on day of discharge are as follows :
+Sodium 141 , potassium 4.9 , chloride 105 , CO2 is 29 , BUN 41 , and creatinine 1.4. H and H 10.5 and 31.5 respectively , platelets 278 , and WBC 6.2 .
+The patient had no complaints on day of discharge .
+She was given discharge instructions for patients with congestive heart failure .
+She should follow a low salt , fat , and cholesterol diet with a 2 - g sodium restriction and 2 L fluid restriction a day .
+She should not lift anything heavier than 5 pounds .
+She should follow up with Dr. **NAME[UUU VVV] in 2 weeks at **PHONE and Dr. **NAME[YYY ZZZ] , Cardiology in the **INSTITUTION in 2 weeks at **PHONE .
+She should notify Dr. **NAME[ZZZ] , as well , if she has any further new increased shortness of breath , new onset of chest pain , lightheadedness , dizziness , or fainting ; and weight gain of more than 2 pounds in a day or 4 pounds in a week .
+DISCHARGE MEDICATIONS :
+Include the following
+1. Synthroid 25 mcg daily , which should be increased to 50 mcg daily in 3 weeks .
+2. Enteric - coated aspirin 81 mg daily .
+3. Wellbutrin XL 150 mg daily .
+4. Dovonex ointment 0.005% two times a day to all affected areas .
+5. Clobetasol 0.05% two times a day to the affected areas on body .
+She should avoid face and skin folds .
+She should discontinue this on **DATE[Feb 23 2007] .
+6. Desonide 0.05% two times a day for the face .
+She should discontinue this on **DATE[Feb 23 2007] .
+7. Senokot 1 tablet 2 times a day as needed for constipation .
+8. Milrinone 0.25 mcg / kg per minute continuous infusion through her PICC line .
+Home care was set up to her through VITAS Hospice Care .
+She did have infusion partners come in prior to discharge to hook her up to her milrinone .
+All orders were faxed to home care prior to discharge .
+Additionally , they should maintain routine PICC line care and flushes as per their protocol .
+She should have a TSH checked by home care in 10 weeks with results to her PCP .
+Additionally , she can follow up the Dermatology at **PHONE if needed for her psoriasis .
+Her ventricular fibrillation / ventricular tachycardia detection on her ICD was turned off on **DATE[Feb 20 2007] , as planned prior to discharge , given that she has opted for palliative measures and hospice care at this time .
+___________________________________
+**NAME[YYY M ZZZ] , M.D.
+Dictator :
+**NAME[WWW XXX] , C.R.N.P.
+AG/sp
+D :
+**DATE[Feb 21 2007] 13:55:07
+T :
+**DATE[Feb 21 2007] 22:01:08
+R :
+**DATE[Feb 22 2007] 06:47:20/clo
+Job ID :
+355348/**ID-NUM
+CC:
+**NAME[YYY M. ZZZ] , M.D.
+535 Scaife Hall
+**STREET-ADDRESS
+**PLACE , PA
+**ZIP-CODE
+**NAME[UUU M. VVV] , M.D.
+**STREET-ADDRESS
+**PLACE , PA
+**ZIP-CODE
+**PHONE
+*** Dictated By :
+-**NAME[XXX , TTT] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Feb 31 2007] 05:03:10 PM

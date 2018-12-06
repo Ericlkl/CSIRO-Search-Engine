@@ -1,0 +1,51 @@
+**INSTITUTION
+Transfer Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Sep 11 2007]
+Discharged :
+**DATE[Sep 22 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+PRIMARY DIAGNOSES :
+1. Myelodysplastic syndrome transformed to acute myeloid leukemia status post matched unrelated donor stem cell transplant , complicated by graft-versus-host disease , lungs .
+2. Acute renal failure secondary to acute tubular necrosis .
+3. Bilateral lower lobe pneumonia .
+BRIEF HPI :
+This **AGE[in 60s]- year - old male with history of MDS diagnosed in **DATE[Feb 2006] status post ( _______________ ) stem cell transplantation done in **DATE[Feb 2007] complicated by GVHD .
+The patient progressed to acute myeloid leukemia in **DATE[Jun 2007] status post induction with idarubicin - ara - C completed on **DATE[Jul 3 2007] .
+The patient received Mylotarg on **DATE[Sep 5 2007] .
+He was found to be hypotensive on routine clinic visit and was admitted through the emergency room with septic shock .
+HOSPITAL COURSE :
+The patient had a prolonged complicated course during his hospital stay .
+He was initially started on rigorous IV fluid and Levophed infusion for hypotension .
+He was gradually weaned off pressors over the course of a few days .
+The patient had to be intubated following his admission to ICU due to poor mentation and concern with inability to protect his airways .
+He was kept on ( _______________ ) mechanical ventilation .
+The patient remained pancytopenic and was maintained on multiple antibiotics including acyclovir , Azactam , Cipro , fluconazole , and Flagyl , along with Neupogen .
+His blood cultures were negative .
+He was treated for bilateral pneumonia .
+He was treated for GVHD of the gut with IV hydrocortisone and Prograf .
+He required multiple transfusions of red cells and platelets during his ICU stay .
+He developed acute renal failure secondary to shock and required initially CVVHD followed by hemodialysis as needed .
+He also had complication with rapid atrial fibrillation requiring DC cardioversion and amiodarone infusion which was maintained throughout .
+The patient continued to deteriorate clinically with worsening renal failure and hypotension requiring pressors .
+He was finally discussed with family and they agreed to withdraw support and aggressive measures due to very poor prognosis from his primary disease and ongoing complications .
+He , unfortunately , expired on **DATE[Sep 22 2007] , at 10:50 p.m. following withdrawal of his ventilator support .
+The patient was evaluated and pronounced dead on **DATE[Sep 22 2007] , at 10:50 p.m.
+______________________________
+**NAME[WWW XXX] , Resident
+HS Job # 910850 / 36382 /
+SHY # **ID-NUM
+D :
+**DATE[Sep 23 2007] 17:32
+T :
+**DATE[Sep 23 2007] 18:51
+**CARBON-COPY

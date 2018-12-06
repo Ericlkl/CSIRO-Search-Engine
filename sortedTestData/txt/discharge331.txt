@@ -1,0 +1,16 @@
+The patient is a very pleasant **AGE[in teens]- year - old white male with no significant past medical history , who comes in with fever , abdominal pain , and throat pain for a couple of days ' duration .
+He was also complaining of severe swallowing difficulty and pain in the throat .
+He finally came to the emergency room and CT scan of the abdomen showed no evidence of any retroperitoneal adenitis , although one was suspected .
+His cultures were obtained ; however , significantly he had enlarged pustular tonsils as well .
+He had been started on Unasyn in the emergency room , which was continued after the patient was transferred to the regular floor .
+IV fluids were given to him .
+He felt better , temperature started to defervesce , and he was discharged home on **DATE[Jun 10 2007] , to continue oral Cipro 250 mg p.o. b.i.d. for 7 days .
+He has been instructed to follow up with Dr. **NAME[XXX] , his PCP .
+______________________________
+**NAME[YYY M ZZZ] , M.D.
+HS Job # 630540 / 28711 /
+# **ID-NUM
+D :
+**DATE[Jun 10 2007] 15:25
+T :
+**DATE[Jun 12 2007] 11:17

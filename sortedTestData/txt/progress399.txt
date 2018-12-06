@@ -1,0 +1,49 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING **NAME[UUU :
+YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jul 22 2007]
+EVALUATION DATE :
+**DATE[Jul 30 07]
+Date of service is **DATE[Jul 30 2007] .
+Mr. **NAME[AAA] has done well overnight .
+He did have an episode of agitation and was treated with some Haldol but clinically he is much better this morning .
+On examination , he is afebrile .
+Vital signs are stable .
+His heart rate is down in the 60s now on the labetalol .
+Blood pressure has been in the 130s systolic .
+His chest is clear with some bronchial breath sounds posteriorly .
+His abdomen is soft and he is moving his bowels .
+Extremities are warm and dry with a moderate amount of edema .
+Chest x-ray shows slight increase in some effusions and bilateral pulmonary vascular congestion .
+On the laboratory examination , he has a mild hypernatremia .
+His white blood cell count is 15,000 .
+PLAN :
+Today , my plan will be to discontinue his labetalol drip and place him on p.o. labetalol .
+I have advanced his diet to clear liquids , left his IV fluid at 50 ml an hour of D5 water in light of his mild hypernatremia .
+I have left him on piperacillin and tazobactam and vancomycin for his abdominal infection .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Jul 30 2007] 19:44:13
+T :
+**DATE[Jul 30 2007] 20:12:33
+R :
+**DATE[Jul 30 2007] 20:12:33/lsm
+Job ID :
+368720/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Aug 12 2007] 01:30:45 PM

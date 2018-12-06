@@ -1,0 +1,150 @@
+**INSTITUTION
+CARDIOTHORACIC SURGERY
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Feb 12 2007]
+TRANSFER DATE :
+**DATE[Feb 25 07]
+TRANSFERRED TO :
+TRANSFERRED TO CARE OF :
+The patient 's date of birth :
+**DATE[Feb 15 1930] .
+DISPOSITION :
+The patient is transferred to Latrobe Area Transitional Care Unit under care of Dr. **NAME[RRR QQQ] .
+TRANSFER DIAGNOSIS ( ES ):
+1. STATUS POST RE-DO STERNOTOMY , CORONARY ARTERY BYPASS GRAFTING TIMES ONE , MITRAL VALVE REPAIR WITH AN ANNULOPLASTY BAND ON **DATE[Feb 16 2007] .
+2. CORONARY ARTERY DISEASE STATUS POST CORONARY ARTERY BYPASS GRAFTING TIMES FOUR IN 1988 .
+3. STATUS POST ABDOMINAL AORTIC ANEURYSM REPAIR IN 1996 .
+4. HISTORY OF BACK SURGERY .
+5. HISTORY OF MYOCARDIAL INFARCTIONS .
+6. HISTORY OF CARDIOMYOPATHY .
+7. HISTORY OF CONGESTIVE HEART FAILURE .
+8. HISTORY OF SIGNIFICANT MITRAL REGURGITATION .
+9. HISTORY OF MILD RENAL INSUFFICIENCY .
+10. HISTORY OF PULMONARY HYPERTENSION .
+REASON FOR ADMISSION :
+This is a **AGE[in 70s]- year - old male who was referred to **INSTITUTION Cardiac Catheterization Laboratory , to Dr. **NAME[PPP OOO] , from the Latrobe Area .
+The patient is a **AGE[in 70s]- year - old male with an extensive past medical history who had complaints of progressive shortness of breath with exertion and known coronary artery disease and mitral regurgitation .
+The patient was transferred to **INSTITUTION on **DATE[Feb 12 2007] .
+The patient had a transesophageal ecchocardiogram on the day of admission which revealed severe LV dysfunction with ejection fraction of 20 to 25 % .
+Severe mitral regurgitation with incomplete coaptation of mitral valve leaflets and systolic flow reversed in right pulmonary veins , mild tricuspid regurgitation , moderate to severe pulmonary hypertension , moderate atherosclerosis of the descending thoracic aorta .
+The patient was seen by Cardiac Surgery , Dr. **NAME[YYY ZZZ] .
+After all the risks and benefits of surgery were discussed , the patient consented to proceed .
+HOSPITAL COURSE :
+On **DATE[Feb 16 2007] , the patient went to the operating room where Dr. **NAME[YYY ZZZ] performed an re-do sternotomy , a coronary artery bypass grafting times one ( RSVG to the PDA ) and a mitral valve repair with a #30 Cosgrove band .
+Dr. **NAME[ZZZ] was assisted by **NAME[NNN MMM] , PA-C , and **NAME[LLL KKK] , PA-C .
+No operative complications were noted , and the patient was transferred to the CTICU in stable condition .
+During the postoperative period , the patient was treated for respiratory insufficiency and hemodynamic instability .
+The patient was successfully extubated from mechanical ventilation and hemodynamically stable and was stable for transfer to Unit 6D .
+Once upon Unit 6D the patient continued aggressive pulmonary toilette and conservative diuretic therapy .
+The patient remained in rate - controlled atrial fibrillation .
+The patient was seen by Physical Therapy and Occupational Therapy for ways of increasing ambulation and activity .
+The patient was weaned from a milrinone drip without difficulty .
+The patient was restarted on a beta blocker with Coreg as well as an ACE inhibitor with Altace .
+The patient progressed well and was stable for transfer for further rehabilitation on **DATE[Feb 25 2007] .
+The patient remained afebrile at 36.7 , in normal sinus rhythm at 100 beats per minute .
+Blood pressure was stable , 110/60 , and the patient oxygen saturation was 98% on room air .
+The patient had adequate intake and output noted .
+The patient was awake , alert and oriented times three and neurologically intact .
+Gait was steady with multiple assistance .
+Heart was regular in rate and rhythm .
+Lungs clear to auscultation , decreased in the bilateral bases , and the patient was encouraged to continue deep breathing and coughing .
+Abdomen is soft , nontender and nondistended with positive bowel sounds .
+Positive peripheral pulses and negative bilateral lower extremity edema .
+Sternum was stable , incisions dry and intact , and the patient was stable for transfer .
+TRANSFER DIAGNOSES :
+1. STATUS POST RE-DO STERNOTOMY .
+2. CORONARY ARTERY BYPASS GRAFTING TIMES ONE .
+3. MITRAL VALVE REPAIR WITH AN ANNULOPLASTY BAND ON **DATE[Feb 16 2007] .
+CONDITION :
+Condition is stable .
+TRANSFER INSTRUCTIONS :
+Vitals routine .
+Daily ins and outs and daily weights .
+Diet is cardiac , heart healthy , low sodium .
+ALLERGIES :
+ALLERGY IS TO PENICILLIN .
+Respiratory :
+The patient is to continue incentive spirometry treatments q. two hours and PEP therapy q. four hours .
+CONSULTS :
+Physical Therapy , Occupational Therapy , Nutrition and Social Work .
+ACTIVITY :
+The patient is to increase activity slowly as tolerated .
+Elevate legs when sitting .
+The patient is not to lift anything heavier than 5 pounds for four weeks to follow sternal precautions .
+The patient is to continue incentive spirometry treatments q.i.d.
+Shower daily ; no tub baths for the first four weeks .
+Wash incisions with a mild soap and water and pat dry .
+Do not apply oils , powders or lotions to incisions .
+If incisional drainage does occur , cover with a dry 4 x 4 .
+Any remaining sutures or staples must be removed in seven days if present .
+Call house officer if any of the following are noted : heart rate greater than 110 beats per minute or less than 50 beats per minute .
+Temperature elevation greater than 101.0 degrees or a sustained low - grade temperature of 99 degrees or higher .
+Weight gain greater than five pounds within 24 hours .
+Fever associated with chills .
+Increased swelling , redness or drainage at or around the incision sites .
+New or increased shortness of breath , chest pain , lightheadedness , dizziness , severe calf pain , unusual rashes , burning on urination , nausea , vomiting , diarrhea or severe depression .
+MEDICATIONS :
+Transfer medications include the following :
+1. Enteric - coated aspirin 81 mg p.o. q. day .
+2. Lasix 20 mg p.o. q. day .
+3. K-Tab 10 mEq p.o. q. day .
+4. Coreg 6.25 mg p.o. b.i.d.
+5. Altace 5 mg p.o. q. day .
+6. Lipitor 10 mg p.o. q. day .
+7. Pepcid 20 mg p.o. b.i.d. times two weeks .
+8. Colace 100 mg p.o. b.i.d. p.r.n. for constipation .
+9. Vicodin one tablet p.o. q. four to six hours p.r.n. for pain .
+10. Tylenol 650 mg p.o. q. four to six hours p.r.n. for discomfort .
+The patient is to have laboratory studies to be drawn every other day starting on **DATE[Feb 26 2007] .
+The patient is to have electrolytes , BUN and creatinine , CBC with differential .
+FOLLOWUP :
+The patient is to follow up with primary care physician , Dr. **NAME[RRR QQQ] , in two weeks .
+The patient can call **PHONE for an appointment .
+The patient is follow up with cardiologist , Dr. **NAME[UUU VVV] , in four weeks .
+The patient should call for an appointment at **PHONE .
+The patient should follow up with cardiothoracic surgeon , Dr. **NAME[YYY ZZZ] , in four weeks .
+The patient should call **PHONE .
+CONDITION ON TRANSFER :
+The patient is stable for transfer .
+Transfer discussed with the patient and family .
+The patient and family verbalized understanding .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[WWW XXX] , C.R.N.P.
+MM/lek
+D :
+**DATE[Feb 25 2007] 11:32:18
+T :
+**DATE[Feb 25 2007] 11:45:07
+R :
+**DATE[Feb 25 2007] 11:45:07/lek
+Job ID :
+361341/**ID-NUM
+Cc :
+Faxed to Unit 6D
+&lt;start header&gt;
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+ADMISSION DATE :
+**DATE[Feb 12 2007]
+TRANSFER DATE :
+**DATE[Feb 25 07]
+Page 5 of 5
+&lt;end header&gt;
+&lt;START FOOTER&gt;
+&lt;end footer&gt;
+*** Dictated By :
+-**NAME[XXX , JJJ] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Mar 12 2007] 04:31:23 PM

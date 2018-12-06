@@ -1,0 +1,51 @@
+**INSTITUTION
+Cardiology
+Discharge Summary
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT# :
+**ID-NUM
+ATTENDING :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Nov 25 2007] 04:00:00
+DISCHARGE DATE :
+**DATE[Dec 09 2007]
+Mr. **NAME[AAA] is an **AGE[in 80s]- year - old gentleman who presented with scrotal pain , swelling and back pain .
+He was found to have retroperitoneal abscess and underwent drainage .
+He also has a history of coronary artery bypass grafting and hypertension .
+He has been on Unasyn for approximately 14 days and is improving .
+He is being discharged today with PICC line in place and will have Unasyn for another 2 weeks .
+He will follow - up with us in approximately 1 month and he will follow-up with the surgeons in 2-4 weeks as well .
+He will receive physical therapy at the skilled nursing facility as needed and we will see him as an outpatient .
+_________________________
+**NAME[WWW M XXX] , M.D.
+_________________________
+**NAME[YYY]
+**NAME[ZZZ]
+DICTATED BY :
+**NAME[WWW M XXX] , M.D.
+**INITIALS
+D :
+**DATE[Dec 09 2007] 12:35:59
+T :
+**DATE[Dec 09 2007] 20:36:32
+R :
+**DATE[Dec 09 2007] 20:36:32/lmm
+Job ID :
+382065/**ID-NUM
+CC :
+&lt;start header&gt;**INSTITUTION
+Cardiology
+Discharge Summary
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT# :
+**ID-NUM
+Page 1 of 1
+&lt;end header&gt;
+*** Dictated By :
+013398-**NAME[XXX , CCC] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Dec 19 2007] 04:56:54 PM

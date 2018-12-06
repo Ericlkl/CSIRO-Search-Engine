@@ -1,0 +1,56 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Jun 17 2007]
+Discharged :
+**DATE[Jun 19 2007]
+Dict :
+**NAME[XXX] , AUTHOR
+Attend :
+**NAME[ZZZ , YYY]
+ATTENDING OF RECORD :
+Dr. **NAME[WWW]
+DISCHARGE DIAGNOSES :
+1. Metastatic ocular melanoma .
+2. Acute renal failure with hyperkalemia .
+3. Disseminated intravascular coagulation .
+**INSTITUTION COURSE :
+Mrs. **NAME[AAA] is a **AGE[in 70s]- year-old female with a history of metastatic ocular melanoma , status post enucleation of the right eye performed in 1994 .
+The patient has undergone multiple different chemotherapeutic regimens , as well as Interferon and Interleukin-2 in the past , and was most recently enrolled in a new UPCI protocol .
+The patient has known worsening metastatic disease in the lung , liver , soft tissues as well as spine , and is also known to have significant compression of the common bile duct .
+The patient did have to discontinue her most recent UPCI experimental protocol secondary to worsening liver function tests as well as diarrhea .
+The patient presented today to **NAME[VVV] for routine follow up , and at that time had some basic labs drawn which revealed a creatinine of 1.8 and a potassium level of 6.4 .
+The patient was subsequently admitted for management of her hyperkalemia .
+1. With regards to the patient 's metabolic abnormalities including her elevated creatinine and hyperkalemia , the patient did receive multiple doses of Kayexalate , and did also receive 1 gram of calcium gluconate as well .
+The patient did not have any EKG changes consistent with hyperkalemia .
+We did hydrate the patient with IV fluids , and we did discontinue the potassium supplements that the patient had been receiving as an outpatient .
+With these therapies , we did discontinue her potassium level down to within the normal range by the time of discharge .
+2. With regards to the patient 's thrombocytopenia , we did check a DIC panel which was positive , demonstrating a low fibrinogen , positive D-dimer , and positive fibrin degradation products .
+The patient , in addition , also had a mildly elevated INR of 1.5 .
+We did give the patient some FFP , but given her very poor prognosis at this point , we did not further aggressively manage the DIC .
+3. With regards to the patient 's metastatic ocular melanoma , we did discuss the patient 's perception of her current treatment options .
+She did express understanding of the fact that there was not much more to be done in terms of treatment for her disease , and she did express a desire in terms of talking with the palliative care service here .
+We subsequently did consult the palliative care service to discuss options of palliative care versus home hospice with the patient .
+After discussing these issues with the patient , she did decide to become comfort measures only and to be discharged to home with home hospice .
+DISCHARGE MEDICATIONS :
+1. Phos-Lo 1334 mg p.o. t.i.d. with meals .
+2. Colace 100 mg p.o. b.i.d.
+3. OxyContin 20 mg p.o. q. 12 hours .
+4. Oxycodone 15 mg p.o. q. 3 hours p.r.n. for pain .
+5. Protonix 40 mg p.o. daily .
+6. Senna 2 tabs p.o. at bedtime p.r.n. for constipation .
+______________________________
+AUTHOR **NAME[XXX]
+HS Job # 850739 / 41855 /
+SHY # **ID-NUM
+D :
+**DATE[Jun 20 2007] 16:35
+T :
+**DATE[Jun 22 2007] 04:56
+**CARBON-COPY

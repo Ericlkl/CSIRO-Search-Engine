@@ -1,0 +1,48 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[VVV M WWW]
+ADMISSION DATE :
+**DATE[May 25 2007]
+EVALUATION DATE :
+**DATE[Jun 06 07]
+I personally manage Mr. **NAME[AAA] in the ICU .
+He is a **AGE[in 60s]- year - old man with a history of stroke , hemiparesis , respiratory insufficiency , lethargy , and somnolence .
+The patient continues to do reasonably well .
+He continues to marginally improve in his mental status daily .
+His ventilation function has been also reasonably good , as well , on tracheostomy mask .
+He gets pulmonary toilette .
+His chest x-ray is otherwise unremarkable .
+We continue to get him out of bed into chair , occupational therapy , and physical therapy , and he does not show any evidence of any new or acute infection that I can see .
+He passes air reasonably well on both sides of his chest .
+Heart is regular rhythm .
+Abdomen is soft without masses , tenderness , or distension .
+Bowel sounds are adequately good .
+His laboratory parameters are otherwise unremarkable .
+Our plan at this point is rehabilitation .
+CRITICAL CARE TIME :
+30 MINUTES .
+___________________________________
+**NAME[XXX M. YYY] , M.D.
+Dictator :
+**NAME[XXX M. YYY] , M.D.
+**INITIALS
+D :
+**DATE[Jun 06 2007] 22:01:11
+T :
+**DATE[Jun 06 2007] 22:08:39
+R :
+**DATE[Jun 06 2007] 22:08:39/eab
+Job ID :
+378205/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[YYY , UUU M]. ***
+Electronically Signed by **NAME[XXX YYY]
+**DATE[Jul 01 2007] 01:54:52 AM

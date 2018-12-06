@@ -1,0 +1,125 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA , BBB M]
+**ID-NUM
+**ID-NUM
+A3B/338
+SERVICE OF :
+**NAME[ZZZ M YYY]
+DATE OF ADMISSION :
+**DATE[Dec 24 2007]
+DATE OF DISCHARGE :
+**DATE[Dec 29 2007]
+ADMISSION DIAGNOSES :
+Hypoxia and chronic obstructive pulmonary disease .
+DISCHARGE DIAGNOSES :
+1. Hypoxia .
+2. Bilateral pneumonia .
+3. Chronic obstructive pulmonary disease .
+4. Type 2 diabetes .
+5. Stiff man syndrome .
+6. Seizure disorder .
+7. Anemia .
+8. Osteoporosis .
+9. Edema .
+10. Aspiration .
+11. History of anoxic brain injury .
+CONSULTS :
+Dr. **NAME[TTT] from Pulmonary .
+PROCEDURES :
+Echocardiogram .
+The preliminary report is the only report that is available at the time of this dictation .
+Please see the hospital chart for the final dictation of the echocardiogram when it is ready .
+The patient also underwent a CT of the chest , PE protocol , and it was negative for pulmonary embolism .
+HISTORY AND PHYSICAL :
+Please see dictated version on the chart .
+HOSPITAL COURSE :
+The patient is a **AGE[in 60s]- year - old female who was admitted and received the following care :
+1. Hypoxia .
+The patient was found to have bilateral pneumonia after ruling out for a pulmonary embolism .
+She did have a Condition C called on **DATE[Dec 24 2007] , which caused her to be transferred to the telemetry 3B unit .
+The note in the chart does not indicate exactly why the Condition C was called , however , it is presumed that she had some respiratory distress , but her respiratory rate was 30 and at no time did she have an actual respiratory arrest .
+The patient was initially started on Zosyn for her pneumonia .
+Sputum cultures were obtained .
+The patient 's sputum subsequently grew out Haemophilus influenzae , and she was changed to Avelox for coverage reasons .
+She will be sent home on Avelox to complete a 14 - day course .
+The patient was known to be hypoxic when she was admitted .
+She has not used or worn oxygen at home prior to admission .
+She was on 4 liters of oxygen at the time of discharge .
+Her home care will be consulted so that she can continue with her home O2 .
+2. COPD .
+The patient was also found to be having a COPD exacerbation .
+She was started on high dose IV steroids and these were tapered .
+At the time of discharge , she was on prednisone 60 mg daily .
+This will be continued as an outpatient .
+She was also given Pulmicort , Xopenex , and Atrovent .
+These will be continued as an outpatient , however , the Xopenex will be changed to albuterol for insurance coverage reasons .
+She will need to follow up with Dr. **NAME[TTT] from Pulmonary as an outpatient .
+3. Type 2 diabetes mellitus .
+The patient is a known type 2 diabetic .
+Her sugars were a bit elevated on the steroids .
+She received sliding scale insulin and we continued her on her Glucophage .
+Her sugars were in the range of 190s to 270s .
+We will follow these as an outpatient .
+Hopefully , her blood sugars will improve as she tapers down off the steroids .
+4. Stiff man syndrome .
+She was stable from that standpoint .
+5. Seizure disorder .
+She was stable from that standpoint and was to continue on her outpatient dose of phenobarbital .
+6. Anemia .
+Her hemoglobin is stable just prior to discharge at around 10.7 .
+She had no evidence of unexplained bleeding .
+7. Osteoporosis .
+The patient is to continue on her Evista and she will continue on her calcium and vitamin D .
+8. Edema .
+The patient was given IV Lasix 2 times during her admission with some diuresis .
+She also had an echocardiogram .
+Please see previous dictation for details .
+9. Aspiration .
+The patient underwent a Barium swallow which showed penetration with thin and extra thickened liquids .
+Therefore , she will be sent home with a mechanical soft diet and honey - thickened liquids .
+10. DVT prophylaxis .
+The patient received subcu heparin for DVT prophylaxis .
+DISPOSITION :
+Discharged to home .
+CONDITION :
+Favorable for continued improvement .
+DISCHARGE MEDICATIONS :
+1. Acetaminophen 650 mg q.6 hours p.r.n.
+2. Pulmicort Respules 0.5/2 mL b.i.d.
+3. Calcium plus vitamin D daily .
+4. Celexa 40 mg daily .
+5. Klonopin 2 mg t.i.d.
+6. Humibid DM 30/600 ER one b.i.d. p.r.n. cough .
+7. Atrovent 2.5 mL one neb t.i.d.
+8. Metformin 500 mg b.i.d.
+9. Multivitamin 1 p.o. daily .
+10. Phenobarbital 60 mg b.i.d.
+11. MiraLax 17 g dissolved in 8 ounces of water , juice , soda , etc. , by mouth daily .
+12. Evista 60 mg daily .
+13. Risperdal 0.5 mg b.i.d.
+14. Trazodone 300 mg daily .
+15. Avelox 400 mg p.o. daily x 11 days .
+16. Prednisone 10 mg taper as follows days 1 through 3 , take 3 tablets b.i.d. then days 4 through 6 take 2 tablets p.o. b.i.d. , then day 7 through 9 take one tablet b.i.d. , then days 11 through 13 take one tablet p.o. daily .
+17. Albuterol nebs 2.5 mg per 3 mL one neb q.4 hours p.r.n.
+DIET :
+A 2000 - kilocalorie ADA diet and mechanical soft diet with honey thickened liquids .
+PHYSICAL ACTIVITY :
+The patient is to ambulate with her walker only short distances .
+Home care consult for home O2 , visiting nurse home nebulizer , PT / OT .
+FOLLOWUP :
+Follow up with Dr. **NAME[UUU] in 1-2 weeks .
+Follow up with Dr. **NAME[TTT] in 1-2 weeks .
+She is to call for appointments for both .
+Total time spent in preparing the patient 's discharge including review of the records , organizing , and coordinating her home care , home O2 , and home nebulizers , reviewing her medications , discussing with the family and the patient , and preparing her discharge materials , was one hour .
+___________________
+**NAME[WWW CCC XXX] , M.D.
+Dict :
+**DATE[Dec 29 2007] 11:26:19
+Tran :
+**DATE[Dec 29 2007] 13:27:18
+RBH/ss/366214/**ID-NUM/**ID-NUM
+R :
+**DATE[Dec 30 2007] 23:54:34/rhk
+**CARBON-COPY

@@ -1,0 +1,80 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Aug 02 2007]
+EVALUATION DATE :
+**DATE[Aug 03 07]
+I personally interviewed and examined the patient .
+The patient continues to wax and wane in her mental status .
+She is at times not responsive and at other times , she is appropriate and responsive , especially around her family .
+She does not have any new physical complaints such as chest pain or abdominal pain .
+She has no headaches .
+She is arousable .
+She denies any specific complaints .
+She is still incontinent .
+PHYSICAL EXAMINATION :
+Vital Signs :
+Her blood pressure today is 160/83 .
+She is afebrile .
+Pulse of about 100 .
+General :
+She is no acute distress .
+Responds to commands , but not appropriately .
+Heart :
+Regular .
+She is slightly tachycardic .
+Abdomen :
+No tenderness , masses , or hepatosplenomegaly .
+Extremities :
+There is no edema .
+LABORATORY DATA :
+Laboratory tests were reviewed .
+Her glucose is slightly elevated at 224 yesterday .
+Her liver function tests are normal .
+Ammonia level is low .
+CPK is elevated at 1534 .
+Her CT scan of the head was consistent with evidence of left MCA-ACA stoke .
+The CT of the chest showed a right middle lobe consolidation despite the negative chest x-ray .
+ASSESSMENT AND PLAN :
+1. Altered mental status .
+Her illness appears to be very similar prior illness of acute delirium .
+We have not found any specific reason for it .
+Thyroid function tests are pending .
+We have done a comprehensive toxicology screen which is also pending .
+We will also get Neurology to see the patient .
+2. Possible aspiration pneumonia .
+CT scan is suggestive of pneumonia .
+We will start her on antibiotics .
+She has been requiring oxygen and will continue that .
+3. Urinary incontinence .
+This is likely secondary to acute delirium at this time .
+We will monitor her carefully .
+4. Diabetes .
+We will continue to check blood sugars .
+We will try to keep blood sugars less than 180 .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+**INITIALS
+D :
+**DATE[Aug 03 2007] 18:08:44
+T :
+**DATE[Aug 04 2007] 02:36:33
+R :
+**DATE[Aug 04 2007] 02:36:33/jd
+Job ID :
+331072 /**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[ZZZ , SSS M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Aug 16 2007] 02:52:43 PM

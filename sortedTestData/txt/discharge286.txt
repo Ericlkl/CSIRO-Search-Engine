@@ -1,0 +1,81 @@
+**INSTITUTION
+GENERAL MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING **NAME[TTT : YYY]
+WALKER
+ADMISSION DATE :
+**DATE[Feb 23 2007]
+DISCHARGE DATE :
+**DATE[Feb 28 2007]
+The patient is being discharged to home .
+HISTORY OF PRESENT ILLNESS :
+As per __________ H and P .
+A **AGE[in 20s]- year - old with recurrent pancreatitis / chronic abdominal pain .
+She complains of abdominal pain for 3 weeks .
+She was taking pain medications at home .
+Decreased oral intake .
+Epigastric pain radiating to back .
+Denies diarrhea , constipation , but has had emesis , denies bloody .
+She received Dilaudid at the Emergency Department .
+PAST MEDICAL HISTORY :
+Recurrent pancreatitis with pancreas injury after resection of adrenal tumor approximately 13 years ago .
+Postpartum in **DATE[Jan 2007] .
+LABORATORY FINDINGS :
+The patient 's admission labs :
+Sodium 142 , potassium 3.9 , chloride 105 , CO2 23 , anion gap14 , BUN 7 , creatinine 0.8 , amylase 116 , and lipase 235 .
+White blood cell count 6.9 , hemoglobin 12.8 , hematocrit 37 , and platelets 279 .
+HOSPITAL COURSE :
+Course of hospitalization is as follows :
+1. GI .
+History of chronic pancreatitis after pancreas injury after resection of adrenal tumor approximately 13 years ago .
+The patient during hospitalization was on Dilaudid PCA .
+The patient also received Ultram as needed .
+The patient will be discharged on her same medications of OxyContin 80 mg and oxycodone 10 mg as needed .
+The patient takes Phenergan at home and received Phenergan for nausea .
+The patient will also be continued as needed on her home medications of Colace , lactulose , and senna for bowel movements .
+The patient reportedly had a diarrhea during the hospitalization .
+Stool cultures are not available at this time .
+The patient was on IV fluids which were discontinued prior to discharge .
+The patient 's attending note on **DATE[Feb 28 2007] , with the following discharge note :
+Acute pancreatitis , resolved .
+The patient was tolerating and on analgesics .
+Chronic pain syndrome , follow up with **INSTITUTION and follow up with Dr. **NAME[ZZZ] in 2 weeks .
+The patient 's amylase and lipase on **DATE[Feb 25 2007] , were normal at amylase 83 and lipase 196 .
+2. Infectious disease .
+The patient 's white blood cell count rose to the highest 8.6 but on **DATE[Feb 27 2007] , it decreased back to 6.4 .
+Workup was done .
+Urine culture showed no growth .
+Urinalysis negative .
+Blood cultures showed no growth for 2 days and no growth for 1 day .
+The patient 's chest x-ray shows lungs remain clear .
+3. Fluids , Electrolytes , and Nutrition .
+The patient 's potassium and magnesium were replaced as needed , and on **DATE[Feb 28 2007] , potassium was 3.8 and magnesium was 1.7 .
+4. Disposition .
+As written by Dr. **NAME[YYY ZZZ] .
+The patient is being discharged to home in stable condition .
+___________________________________
+**NAME[YYY]
+WALKER
+Dictator :
+**NAME[VVV XXX , WWW]
+DP/s
+D :
+**DATE[Feb 28 2007] 13:31:02
+T :
+**DATE[Feb 29 2007] 01:02:19
+R :
+**DATE[Feb 29 2007] 01:02:19/s
+Job ID :
+365323/**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX , WWW-VVV] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Mar 16 2007] 10:32:20 AM

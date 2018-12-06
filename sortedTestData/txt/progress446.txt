@@ -1,0 +1,18 @@
+The patient was examined on rounds with housestaff .
+I have reviewed the patient data and films .
+Refer to the medical intern progress note by Dr. **NAME[XXX] .
+I have verified her findings and agree with her plan .
+Last 24 hrs : self extubation with toleration of spontaneous breathing .
+He continues to have paroxysms of dyspnea and coughing and requires reinforcement .
+He tolerates fentanyl infusion at 75 mcg / hr with methadone -- awake and alert .
+Impression :
+**AGE[in 40s] year old male with severe emphysema and acute respiratory failure requiring mechanical ventilation .
+1. Resp failure : chronic -- exacerbated by anxiety
+2. COPD exacerbation -- on solumedrol , azithromycin , xopenex
+3. narcotic dependence -- on methadone and fentanyl infusion -- last time fentanly stopped -- signifcant anxiety and dyspnea
+4. anxiety -- on klonopin .
+-- consult psychiatry -- evaluate him for this interesting interaction of his anxiety and his severe lung disease
+Critical care time spent exclusive of teaching and procedures = 35 Minutes , provided throughout the day .
+**NAME[YYY ZZZ] , MD
+Perform by **NAME[ZZZ , YYY M]
+( on **DATE[Jul 14 2007] 15:28 )

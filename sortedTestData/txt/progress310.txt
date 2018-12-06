@@ -1,0 +1,48 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Mar 04 07]
+I am seeing this critically ill patient for continued management of multiple medical problems including respiratory failure .
+I have seen and examined this patient .
+I have reviewed the chest x-ray and laboratory data and I have discussed the patient 's care with the SICU team and the Thoracic Surgery Service .
+Mrs. **NAME[AAA] had an episode of hypotension and unresponsiveness this morning which is a significant change in her mental status .
+I have given her some fluid resuscitation .
+Her blood glucose levels were low and we are supplementing these with D50 .
+However , I have obtained an arterial blood gases which is 7.27 , 78 , and 103 on her BiPAP of support .
+I switched her to mechanical ventilation and will titrate her minute ventilation to get her CO2 down .
+Her hematocrit is 29 .
+There is no evidence of active bleeding .
+Her mean arterial pressures are in the 60s now with better ventilation and volume loading .
+Urine output over the last 24 hours has been 750 cc .
+BUN and creatinine are 28 and 0.7 .
+She is afebrile .
+T = 35 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 04 2007] 14:22:21
+T :
+**DATE[Mar 04 2007] 14:34:35
+R :
+**DATE[Mar 04 2007] 14:34:35/jas
+Job ID :
+374734/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 09 2007] 04:49:41 PM

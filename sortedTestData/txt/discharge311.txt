@@ -1,0 +1,103 @@
+**INSTITUTION
+GERIATRIC MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[May 22 2007]
+DISCHARGE DATE :
+**DATE[May 30 2007]
+PRIMARY DIAGNOSES :
+ESOPHAGEAL CANCER .
+SECONDARY DIAGNOSES :
+1. CORONARY ARTERY DISEASE STATUS POST STENT .
+2. HISTORY OF CEREBRAL VASCULAR ACCIDENT .
+3. DIABETES .
+4. HYPERLIPIDEMIA .
+5. HARD OF HEARING .
+6. BILATERAL LENS IMPLANTS .
+STUDIES :
+1. CT of the neck on **DATE[May 24 2007] showed no CT evidence of subcutaneous emphysema or evidence of perforation of the cervical esophagus .
+2. CT of the chest on **DATE[May 24 2007] showed 16 mm left mid pole thyroid nodule focal calcification .
+3. Chest x-ray on **DATE[May 28 2007] showed a small left pleural effusion with left bibasilar atelectasis .
+4. Swallowing study on **DATE[May 26 2007] showed a patent esophageal stent without evidence of leak and a small type 1 sliding hiatal hernia .
+REASON FOR ADMISSION :
+Mr. **NAME[AAA] was admitted on **DATE[May 22 2007] with difficulty swallowing .
+HOSPITAL COURSE :
+Mr. **NAME[AAA] is a **AGE[90+]- year - old gentleman who was diagnosed with esophageal cancer in **DATE[Oct] of 2006 .
+His prior medical treatments had been performed at **INSTITUTION , which included chemotherapy and radiation .
+He was scheduled to have a clinic appointment with Dr. **NAME[RRR] from Thoracic Surgery at **INSTITUTION shortly after his admission date to the hospital .
+However , he began to have difficulty swallowing and pain in his throat and was admitted ahead of his clinic appointment for this .
+He was initially made NPO and evaluated by Thoracic Surgery consultation here at **INSTITUTION .
+It was decided that the patient would have an EGD with esophageal stent placement .
+This was done on **DATE[May 23 2007] .
+This procedure went well with stent placement .
+However , when patient was extubated postprocedure , he suffered respiratory distress and required intubation and subsequent transfer to the MICU .
+He was extubated within 48 hours .
+At this time , the patient also developed a large right pleural effusion .
+This was drained with placement of a right pigtail catheter by Interventional Radiology on **DATE[May 25 2007] .
+This pigtail catheter drained over 1 liter of fluid within 48 hours and then stopped draining fluid .
+It was removed on **DATE[May 28 2007] .
+Subsequent chest x-ray showed complete resolution of this right pleural effusion .
+The patient was briefly on Zosyn and vancomycin while in the ICU due to concerns over aspiration pneumonia ; however , his white count remained normal in the 6.4-7.3 range with no fevers .
+Chest x-ray did not show signs of pneumonia after the pleural effusion had been drained and his antibiotics were stopped .
+The patient continues to be afebrile with no signs of infection after that time .
+Following his return from the Intensive Care Unit to the regular floor bed , the patient was started on clear liquids and advanced his diet soft .
+The patient 's appetite has been poor ; however , he has been tolerating soft diet without pain or difficulty swallowing .
+He has been receiving Boost supplements with each meal per nutrition recommendations .
+The patient was evaluated by Physical Therapy during this admission .
+Following his ICU stay , the patient was acutely deconditioned and required assistance with standing .
+He was evaluated by Physical Medicine and Rehabilitation and it was thought that the patient would be suitable for subacute rehabilitation .
+The patient is from the **PLACE , PA area and he was discharged to a skilled nursing facility in the **PLACE area .
+The patient was discharged in good condition with close follow up with his thoracic surgeon Dr. **NAME[RRR] .
+During this admission , the patient had 2 other issues .
+One was his chronic anemia with a hemoglobin value ranging from 8-9.9 .
+The patient has had this anemia since undergoing radiation and chemotherapy for his esophageal cancer .
+Iron studies were obtained during this admission which indicated that patient was likely suffering from iron deficiency anemia .
+He was started on iron supplementation this admission .
+Also , the patient does have a history of diabetes .
+The hemoglobin A1c value checked during this admission showed a value of 9.4 .
+The patient had previously been on Avandia only as an outpatient as a p.m. medication , however , during this admission he was started on insulin receiving insulin NPH 6 units b.i.d. with good control of his sugars from that point on .
+DISCHARGE MEDICATIONS :
+1. DuoNeb 3 mL aerosolized every 6 hours for shortness of breath .
+2. Protonix 40 mg p.o. daily .
+3. Ferrous sulfate 325 mg p.o. t.i.d.
+4. Insulin NPH 6 units subcutaneous b.i.d.
+5. Oxycodone 2.5 mg p.o. every 6 hours p.r.n.
+6. Ativan 1 mg p.o. every 8 hours p.r.n. agitation .
+7. Colace 100 mg p.o. b.i.d.
+DISCHARGE INSTRUCTIONS :
+DIET :
+Soft diet with 1 can of Boost plus with each meal
+DISPOSITION :
+To skilled nursing facility for rehabilitation .
+CONDITION ON DISCHARGE :
+Good .
+ACTIVITY :
+As tolerated .
+FOLLOW UP :
+The patient will follow up with Dr. **NAME[RRR] in the **INSTITUTION at the **INSTITUTION on **DATE[Jun 8] at 11 a.m.
+The patient was given the phone number and directions to this clinic .
+___________________________________
+**NAME[YYY M ZZZ] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+BH/lg
+D :
+**DATE[May 30 2007] 13:03:59
+T :
+**DATE[May 30 2007] 22:31:25
+R :
+**DATE[May 31 2007] 06:59:43/jb
+Job ID :
+367968/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , QQQ] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Jun 08 2007] 10:36:42 AM

@@ -1,0 +1,14 @@
+The patient was examined on rounds with housestaff .
+I have reviewed the patient data and films .
+Refer to the history and physical by Dr. **NAME[XXX] .
+I have reviewed her findings and agree with her plan .
+Impression :
+**AGE[in 40s] year old male with severe emphysema and acute respiratory failure requiring mechanical ventilation .
+1. Resp failure : tolerated PS ventilation well , tomorrow will attempt limited t tube trial with goal of extubation
+2. COPD exacerbation -- on solumedrol , azithromycin , xopenex
+3. narcotic dependence -- restarted methadone
+4. anxiety -- restart xanax .
+Critical care time spent exclusive of teaching and procedures = 35 Minutes
+**NAME[YYY ZZZ] , MD
+Perform by **NAME[ZZZ , YYY M]
+( on **DATE[Jul 10 2007] 15:14 )

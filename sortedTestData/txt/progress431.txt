@@ -1,0 +1,54 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[WWW M XXX]
+ADMISSION DATE :
+**DATE[Aug 02 2007]
+EVALUATION DATE :
+**DATE[Aug 04 07]
+SUBJECTIVE :
+The patient is sitting comfortably today .
+She seems less agitated overall compared to yesterday .
+She denies any complaints of pain .
+She has not eaten much for her breakfast .
+She continues to just want to drink fluids with no calories such as Diet pop .
+We told her that we wanted to make sure she only drinks liquid drinks with calories and her response is that she really does not want to have coffee and diet soda .
+She had a CT of her abdomen today given her pulmonary nodules to look just for a mass .
+There was no intraabdominal process noted .
+She did have some left renal scarring .
+She was accepted to Western Psyche , but there was a glitch in bed so we were unable to transfer her yesterday .
+ASSESSMENT AND PLAN :
+1. Dementia .
+She seems to be doing somewhat better today .
+We have initiated Aricept therapy .
+She will have further med adjustment at Wester Psyche .
+2. Malnutrition .
+She has been ordered supplements , and we will continue to watch her closely and try and get her to eat healthier .
+She had put a feeding tube at the outside hospital .
+I think placing a G-tube would be appropriate at this point , but this may need to be considered if she does not continue to improve her nutrition .
+She is on vitamin therapy .
+Need to give her thiamine 100 mg a day as well as multiple vitamin .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Aug 04 2007] 22:14:14
+T :
+**DATE[Aug 05 2007] 04:25:13
+R :
+**DATE[Aug 05 2007] 04:25:13/jd
+Job ID :
+332923/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Aug 21 2007] 08:56:44 PM

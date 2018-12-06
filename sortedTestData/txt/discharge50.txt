@@ -1,0 +1,57 @@
+**INSTITUTION
+HEMATOLOGY - ONCOLOGY
+DEATH SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Dec 05 2007]
+ATE OF DEATH :
+**DATE[Dec 06 07]
+CAUSE OF DEATH :
+Questionable acute right heart failure versus pulmonary embolism .
+REASON FOR ADMISSION :
+The patient was a **AGE[in 30s]- year-old male with __________ .
+He had significant past medical history of pulmonary hypertension and right heart failure .
+He had a history of gout .
+He had been discharged 24 hours prior to presenting again to the emergency room complaining of pain uncontrolled by his home regimen of methadone and Dilaudid .
+He was seen in the emergency room on the evening of **DATE[Dec 5 2007] .
+There he was given 3 doses of 8 mg of Dilaudid with marginal control of his pain .
+He also had a blood work , which showed hemoglobin of 6.6 with a white count of 11.5 .
+His hemoglobin was roughly near his recent baseline .
+He had been on respiratory support for that .
+He was also noted to have a questionable right lower lobe infiltrate and chest x-ray .
+He was admitted to 12D .
+Subsequently , in the early morning of **DATE[Dec 6 2007] , he was found unresponsive on the floor .
+While his vital signs were been taken , he was complaining of acute shortness of breath and inability to breath .
+He was subsequently given supplemental oxygen .
+Respiratory code was called .
+On the arrival , the Critical Care Medicine Service found the patient in bradycardia rhythm .
+He also was having agonal respirations .
+The patient had intubation attempted .
+At that time , he was noted to have massive secretions in his pharynx .
+He subsequently was able to be intubated and given full cardiac resuscitation attempts .
+After approximately 20 to 30 minutes , the patient developed an agonal respiration and was declared dead .
+The family was contacted early in the morning of **DATE[Dec 6 2007] .
+No autopsy was performed .
+___________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+D :
+**DATE[Dec 15 2007] 15:40:01
+T :
+**DATE[Dec 15 2007] 17:20:05
+R :
+**DATE[Dec 15 2007] 17:20:05/ja
+Job ID :
+347338 /**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[ZZZ , VVV M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Dec 17 2007] 09:06:21 AM

@@ -1,0 +1,20 @@
+The patient was examined on rounds with housestaff .
+I have reviewed her data and films .
+Last 24 hrs : extubated , tolerates spontanous breathing nicely .
+S : had some chest discomfort the day of admission , breathing well now .
+O : vitals : as per EMTEK documentation -- I have reviewed these .
+HEENT : no thrush , nl JVP
+CV : RRR
+LUNG : no wheeze , no crackles
+ABD : soft
+EXT : no edema , warm
+IMP : **AGE[in 70s] year old female with emphysema , PA HTN with respiratory failure -- now extubated .
+1. Emphysema -- wean to oral steroids
+2. Pneumonia -- doubt precipitant -- on azithromycin
+3. EKG changes -- we have consulted our cardiologists -- they believe she has evidence for pericarditis , and ACS is unlikely .
+4. CHF with diastolic dysfunction -- cardizem .
+Critical care time exclusive of teaching and procedures = 33 minutes provided throughout the entire day .
+**NAME[WWW XXX] , MD
+Assistant Professor of **NAME[CCC]
+Perform by **NAME[XXX , WWW M]
+( on **DATE[Sep 14 2007] 20:08 )

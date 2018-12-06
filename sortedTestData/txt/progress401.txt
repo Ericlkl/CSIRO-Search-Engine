@@ -1,0 +1,68 @@
+DATE :
+TIME:
+**DATE[May 15 07]
+CHIEF COMPLAINT :
+Balance difficulty , nausea and vomiting since approximately 3 PM .
+HISTORY OF PRESENT ILLNESS :
+This elderly white female , with a history of hyperthyroidism , hyperlipidemia , osteoporosis , presents to the Emergency
+Department with complaints of nausea and vomiting since approximately 3 PM with a rapid cardiac rate .
+Her blood pressure at home was 181/60 with a pulse of 135 .
+This prompted her to present to the Emergency Department where she was seen , examined and admitted to the intermediate care unit .
+PHYSICAL EXAMINATION :
+VITAL SIGNS :
+Temperature 97.7o , pulse 136 , respirations 20 , blood pressure 151/62 with a pulse ox of 95% on room air .
+She is 5 feet 2 inches , weighs 130 pounds .
+GENERAL :
+The patient is alert and oriented .
+Mood appears good .
+HEENT :
+She is normocephalic .
+She exhibits no evidence of hemiatrophy .
+Pupils equal and reactive to light and accommodation .
+Extraocular muscles are intact .
+Conjunctivae and sclerae within limits of normal .
+Tympanic membranes and drums are intact .
+The buccal mucosa is normal .
+The thyroid is not enlarged .
+Carotid pulsations equal bilaterally .
+No bruits are appreciated .
+SKIN :
+Warm and dry .
+CHEST :
+Bisymmetrically equal in development and excursion .
+BREASTS :
+Not examined .
+HEART :
+Presence of a tachycardia with no S3 or S4 .
+LUNGS :
+Clear bilaterally with no rales or rhonchi .
+ABDOMEN :
+Soft , protuberant with no tenderness , masses , rigidity or guarding .
+Bowel sounds are present .
+No bruits are appreciated .
+There is a scar from her previous hysterectomy .
+EXTREMITIES :
+Bisymmetrically equal in development and range - of - motion .
+GENITALIA :
+Normal female external genitalia .
+RECTAL :
+Unremarkable .
+NEUROLOGICAL :
+Deep tendon reflexes are intact .
+Sensory and motor function within limits of normal .
+Cranial nerves are intact .
+IMPRESSION :
+1. Dehydration .
+2. Tachycardia secondary to uncontrolled hyperthyroidism .
+3. History of hyperlipidemia .
+4. Anxiety .
+5. Depression ,
+6. Osteoporosis .
+_________________________
+**NAME[YYY M ZZZ] , D.O.
+D :
+**DATE[May 15 2007]/10:57 A
+T :
+**DATE[May 15 2007] 11:49 A ec
+#**ACCESSION-NUMBER[1]/**ID-NUM
+**CARBON-COPY

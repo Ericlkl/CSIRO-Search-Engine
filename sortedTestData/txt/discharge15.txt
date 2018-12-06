@@ -1,0 +1,103 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+Discharged :
+**DATE[Nov 10 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+The patient was admitted on **DATE[Nov 6 2007] .
+DISCHARGE DIAGNOSES :
+PRIMARY DIAGNOSES :
+1. Acute renal failure .
+2. Multiple myeloma .
+SECONDARY DIAGNOSES :
+1. Membranoproliferative glomerulonephritis .
+2. Hypothyroidism .
+STUDIES :
+1. CT of the head on **DATE[Nov 3 2007] , showed increasing microvascular ischemic change .
+2. Renal ultrasound on **DATE[Nov 4 2007] , showed echogenic kidneys consistent with renal parenchymal disease .
+3. Echocardiogram on **DATE[Nov 6 2007] , showed ejection fraction of 55% , mild mitral insufficiency , and 1+ tricuspid insufficiency with mild pulmonary hypertension .
+4. MRI of the head on **DATE[Nov 8 2007] , showed extensive presumed small-vessel ischemic changes within the brainstem .
+Supratentorial brain and left cerebellar hemisphere .
+PROCEDURE PERFORMED :
+A bone marrow biopsy was performed on **DATE[Nov 4 2007] , which showed a less than 10% plasma cell level .
+**INSTITUTION ADMISSION :
+Ms. **NAME[AAA] is a **AGE[in 60s]- year-old female with a history of smoldering multiple myeloma and membranoproliferative glomerulonephritis who presented from her office visit with anemia and thrombocytopenia and epistaxis .
+The patient also had lab work , showed acute renal failure with elevated creatinine .
+The patient also complained of fatigue and headache upon admission .
+HOSPITAL COURSE :
+1. Hematologic -- anemia -- the patient 's anemia was treated with transfusion upon admission and fatigue was improved .
+The patient had iron studies which showed iron-deficiency anemia and was started on iron therapy upon discharge .
+Thrombocytopenia .
+The patient presented with platelet count of 41 upon admission with bleeding from her nose .
+The patient was transfused platelets one time on the second hospital day .
+Platelet count improved with transfusion , however , they continued to improve spontaneously and remained in the 60,000 range .
+The patient was evaluated for TTP with peripheral blood smear and checking for hemolysis ; however , the patient did not have altered mental status and did not spike fevers and blood smear showed very few histocytes .
+It was thought that it was not likely related to TTP .
+Multiple myeloma .
+The patient has a history of smoldering multiple myeloma with treatments with Cytoxan and steroids and had a bone marrow transplant in **DATE[Mar 2007] .
+The patient 's multiple myeloma was worked up because of her renal failure .
+It was thought to be possibly due to worsening multiple myeloma .
+The patient 's M spike was not elevated .
+It was 0.49 .
+2. Acute renal failure .
+Creatinine upon admission was 3.5 and over the next several days continued to increase to 4.7 .
+The patient was started on hemodialysis on **DATE[Nov 6 2006] , after a tunneled dialysis catheter was placed in the right internal jugular vein by general surgery .
+The patient was worked up for acute renal failure .
+It was not felt to be postobstructive and not prerenal but somehow related to her multiple myeloma .
+The patient had 24 - hour urine protein which was 7.22 gm per day .
+The patient has a history of membranoproliferative glomerulonephritis which has been worked in the past , and all other etiologies were negative and was thought to be due to her multiple myeloma .
+During her hospital stay , the patient 's renal function did not show signs of improvement and patient was discharged with hemodialysis followup .
+3. Hypertension -- the patient was placed on nifedipine and continued on her level of atenolol and blood pressure remained stable .
+4. Hypothyroidism .
+The patient was continued on her home dose of Synthroid .
+No active issues .
+5. The patient had an episode of shortness of breath and was most likely related to some pulmonary edema , however , an echocardiogram was performed which showed a normal EF .
+6. Headache .
+The patient had headache that was relieved only with oxycodone .
+A CT scan of the head showed microvascular ischemic changes .
+A followup MRI which also showed similar changes .
+This was most likely due to her multiple myeloma with hyperviscosity .
+7. Fever .
+The patient 's spiked a fever on hospital day 7 of 38.1 .
+Cultures were drawn and were negative upon discharge .
+The patient was on moxifloxacin for sinusitis and fever subsided .
+DISCHARGE MEDICATIONS :
+1. Atenolol 25 mg p.o. q. day .
+2. Synthroid 0.125 mcg p.o. q. day .
+3. Valtrex 500 mg p.o. q. day .
+4. Hydrocortisone 10 mg p.o. q. day .
+5. Detrol LA 4 mg p.o. q. day .
+6. Protonix 40 mg p.o. q. day .
+7. Nifedipine XL 90 mg p.o. q. day .
+8. Procrit 20,000 units IV q. hemodialysis .
+9. Sevelamer 2400 mg p.o. t.i.d.
+10. PhosLo t.i.d.
+11. Iron sulfate 325 mg p.o. t.i.d.
+DISCHARGE INSTRUCTIONS :
+Diet as tolerated .
+**INSTITUTION .
+CONDITION :
+Good .
+ACTIVITY :
+As tolerated .
+FOLLOWUP :
+Follow up with :
+1. Dr. **NAME[ZZZ] on Tuesday , **DATE[Nov 16 2007] , at 10:45 a.m.
+2. Dr. **NAME[VVV] on **DATE[Dec 7 2007] , at the **INSTITUTION office at 2 p.m.
+The patient was instructed to have blood work drawn for lab work once a week .
+______________________________
+**NAME[WWW XXX]
+HS Job # 653103 / 38374 / 36132
+SHY # **ID-NUM
+D :**DATE[Nov 11 2007] 13:56
+T :**DATE[Nov 12 2007] 09:12
+**CARBON-COPY

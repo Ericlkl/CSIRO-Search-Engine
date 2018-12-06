@@ -1,0 +1,83 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Mar 03 2007]
+EVALUATION DATE :
+**DATE[Mar 14 07]
+A **AGE[in 50s]- year - old female .
+Overnight events were reviewed .
+Medications and labs were reviewed .
+Condition is stable in **INSTITUTION 7F .
+ASSESSMENT
+1. Seizure disorder , new onset .
+Neurologic status stable .
+Remote CVA .
+No lateralization .
+Tracking commands .
+Protective reflexes intact .
+DVT , ulcer and seizure prophylaxis .
+Cognitive function and psychomotor function stable .
+Dilantin level free 1.1 .
+2. C. diff colitis .
+Asymptomatic .
+The patient on vancomycin and metronidazole .
+We would discontinue lactobacillus supplementation until vancomycin complete .
+3. Morbid obesity .
+Asymptomatic .
+Restrictive lung disease .
+Increased cardiovascular risk factor .
+Weight reduction mandatory .
+Remote gastric bypass , cholecystectomy .
+No diarrhea .
+4. Thyroid CA , papillary .
+Status post RTX .
+No signs of recurrent disease .
+No neck mass or lymphadenopathy .
+5. Hypertension .
+Blood pressure controlled .
+No evidence of neurovascular or cardiovascular decompensation .
+Stable .
+6. Coronary artery disease .
+CHF .
+Diastolic dysfunction .
+Sinus rhythm , S1 and S2 normal .
+No audible S3 , S4 , or gallops .
+Flow murmur stable .
+MR murmur stable .
+No cardiovascular decompensation .
+7. UTI , remote .
+No flank pain , dysuria , or fever .
+8. DJD .
+Polyarticular osteoarthritis , right knee surgery .
+No signs of infection or in situ thrombosis .
+9. Gastric ulceration .
+Asymptomatic .
+Continue pantoprazole .
+Abdomen soft and nontender .
+No nausea , vomiting , or GI bleed .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 14 2007] 13:16:27
+T :
+**DATE[Mar 15 2007] 22:44:52
+R :
+**DATE[Mar 15 2007] 22:44:52/ak
+Job ID :
+346226/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , VVV M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Apr 08 2007] 08:41:30 PM

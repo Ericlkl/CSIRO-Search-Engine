@@ -1,0 +1,163 @@
+Progress **INSTITUTION
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] M
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 70s] years
+Sex :
+Female
+DOB :
+**DATE[Jun 1 1937]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Current Medications :
+Current medication administration orders
+Normal Saline Flush ( SODIUM CHLORIDE 0.9% FLUSH 10 ML SYR ) , 1 mL , Solution , IV , PRN , Other ( enter in comments ) , Routine ,
+**DATE[Jun 03 07] 21:12:00
+Normal Saline Flush ( SODIUM CHLORIDE 0.9% FLUSH 10 ML SYR ) , 1 mL , Solution , IV , Q8H , Routine ,
+**DATE[Jun 03 07] 22:00:00
+balsam Peru / castor oil / trypsin topical ( Xenaderm ) ( XENADERM OINTMENT 60 GM ) , 1 Application , Oint , Topically , TID , PRN , Other ( enter in comments ) , Routine ,
+**DATE[Jun 03 07] 18:25:00 ,
+Special Instructions : to stage 2 coccyx emollients , topical ( Sween Cream 60 gm ) ( SWEEN CREAM 60 GM ) , 1 Application ,
+Cream , Topically , BID ,
+**DATE[Jun 03 07] 21:00:00
+azithromycin ( AZITHROMYCIN 250 MG TABLET ) , 250 mg , Tab , By Mouth , Daily , Routine ,
+**DATE[Jun 03 07] 9:00:00 ,
+4 Day ( s ) ,
+**DATE[Jun 06 07] 9:00:00
+heparin ( HEPARIN 5000 U / ML VIAL 1 ML ) , 5,000 Unit( s ) , Solution , subQ , Q12H , Routine ,
+**DATE[Jun 02 07] 15:00:00
+insulin regular ( Regular Insulin Sliding Scale Low ) ( INSULIN HUMAN REG 100 U / ML 10 ML VIAL ) , 2 - 12 Unit ( s ) , Injection , subQ , ACandHS , Routine ,
+**DATE[Jun 02 07] 16:00:00
+hydrochlorothiazide - lisinopril ( Prinzide 12.5 mg - 20 mg oral tablet ) ( ZESTORETIC 20 / 12.5 MG TABLET ) , 1 tab ( s ) , Tab , By Mouth , Daily , Routine ,
+**DATE[Jun 02 07] 14:48:00
+pioglitazone ( Actos ) ( PIOGLITAZONE 15 MG ) , 15 mg , Tab , By Mouth , Daily , Routine ,
+**DATE[Jun 03 07] 13:51:00
+aspirin ( ASPIRIN 81 MG ENTERIC COATED ) , 81 mg , Ec tab , By Mouth , Daily , Routine ,
+**DATE[Jun 02 07] 14:44:00
+atorvastatin ( Lipitor ) ( ATORVASTATIN 10 MG TAB ) , 10 mg , Tab , By Mouth , At Bedtime , Routine ,
+**DATE[Jun 02 07] 22:00:00
+metoprolol ( Lopressor ) ( METOPROLOL TART 50 MG TABLET ) , 50 mg , Tab , By Mouth , BID , Routine ,
+**DATE[Jun 04 07] 18:00:00
+Current prescriptions / home medications
+hydrochlorothiazide - lisinopril ( Prinzide 12.5 mg - 20 mg oral tablet ) , 1 tab ( s ) By Mouth Daily
+3 Refill ( s )
+3 Tot. Refills
+pioglitazone ( Actos 30 mg oral tablet ) , 1 tab ( s ) By Mouth Daily
+3 Refill ( s )
+3 Tot. Refills
+aspirin , 81 mg By Mouth Daily
+0 Refill ( s )
+0 Tot. Refills
+atorvastatin ( Lipitor ) , 10 mg By Mouth Daily # 30
+0 Refill ( s )
+0 Tot. Refills
+metoprolol , 25 mg By Mouth BID # 60
+0 Refill ( s )
+0 Tot. Refills
+Subjective
+Pt seen and examined .
+Feeling much better today .
+Coughing is resolving and congestion is resolving .
+Pt ambulated with PT in the halls yesterday .
+Pt was OOB to chair yesterday .
+Pt was afebrile yesterday .
+HR more controlled with increased Lopressor dose yesterday .
+No complaints this AM .
+Physical Examination
+Vitals :
+36.7 , 87 , 20 , 119/78 , 94% RA
+Gen :
+AAO x 3 .
+NAD .
+Pleasant .
+Looks more alert
+Heent :
+Neck supple .
+trachea midline .
+No JVD .
+Heart :
+RRR .
+S1S2 Normal .
+No M / R / T
+Lungs :
+CTAB
+Abdomen :
+BS x 4 , normoactive .
+soft , **INITIALS .
+No G / R
+Ext :
+No C / C / E .
+1+ distal pulses
+Results Review
+General results
+New results :
+Results New ( never reviewed )
+**DATE[Jun 3 2007] 8:53 AM
+Vitamin B12 459
+Folic Acid &gt ; 24.0
+TG 214 mg / dL High
+( Modified )
+Cholesterol 217 mg / dL High
+( Modified )
+LDL 133 mg / dL High
+( Modified )
+HDL 41 mg / dL
+( Modified )
+LDL / HDL Ratio 3.24 High
+( Modified )
+VLDL 43 mg / dL High
+( Modified )
+Chol / HDL Ratio 5.3 High
+( Modified )
+Plan
+Disposition
+1. Sinusitis
+- on Day 4 of Zithromax .
+Feeling much better today .
+- congestion and cough resolving
+2. s/p Fall
+- pt medically stable at this time .
+Activity increased with PT yesterday
+- awaiting evaluation to see if pt qualifies for acute rehab
+- Pt would benefit from gait training and reconditioning
+- Will D / C foley today to encourage further ambulation and decrease infection risk
+3. Borderline Tacchycardia
+- resolved with increase of Lopressor to 50 mg BID
+- will D / C Flex
+4. DM ( 160 , 191 , 156 , 210 )
+- HgBA1C = 6.2 -- Excellent
+- Tolerating 15 mg Actos Daily
+- would not favor increasing dosing due to pt intolerability in the past , lack of intolerance at this point , and excellent HgBA1C
+5. HTN
+- stable on prinizide 12.5/20 and metoprolol 50 BID currently
+6. Hyperlipidemia
+- stable on lipitor 10 mg currently
+7. CAD
+- stable on ASA
+8. Placement
+- pt medically stable at this time .
+Main issue is concern for pt safety on D / C .
+- Awaiting to see if pt qualifies for acute rehab
+- pt only interested in going to 4A for rehab .
+Pt not willing to consider outside rehab facility or nursing home placement .
+Addendum by **NAME[XXX , WWW M] on **DATE[Jun 05 2007] 4:19 PM
+The pt has been approved for 4A acute rehab .
+Transfer to 4A completed at this time .
+Will continue to follow .
+Perform by **NAME[XXX , WWW] J
+( on **DATE[Jun 05 2007] 10:06 )
+Sign by **NAME[XXX , WWW] J
+( on **DATE[Jun 05 2007] 10:06 )
+VERIFY by **NAME[XXX , WWW] J
+( on **DATE[Jun 05 2007] 10:06 )
+Sign by **NAME[VVV , UUU]
+( on **DATE[Jun 05 2007] 10:06 )
+**NAME[CCC :XXX , WWW] J
+( on **DATE[Jun 05 2007] 10:06 )
+Modify by **NAME[XXX , WWW] J
+( on **DATE[Jun 05 2007] 16:19 )
+Sign by **NAME[XXX , WWW] J
+( on **DATE[Jun 05 2007] 16:19 )

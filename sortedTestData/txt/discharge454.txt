@@ -1,0 +1,50 @@
+**INSTITUTION
+ORTHOPEDIC SURGERY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Oct 08 2007]
+DISCHARGE DATE :
+**DATE[Oct 11 2007]
+REASON FOR ADMISSION :
+This is a **AGE[in 50s]- year - old man who sustained a very severe left radial head and neck fracture with significant displacement and comminution .
+He was taken to the Operating Room on **DATE[Oct 08 07] for left radial head and neck open reduction and internal fixation .
+He tolerated the procedure well and was admitted to the hospital for routine postoperative care .
+HOSPITAL COURSE :
+He remained afebrile with stable vital signs .
+He had EPL , FPL and interossei function .
+He had light touch in the radial , medial and ulnar nerve distributions with less than 2 second capillary refill .
+He stayed for 2 additional days because of pain but by the time of discharge his pain was controlled with p.o. pain meds .
+He was ambulating on his own , voiding on his own and tolerating a regular diet .
+DISCHARGE INSTRUCTIONS :
+He will follow up with Dr. **NAME[ZZZ] in 10-14 days .
+He will maintain his wound clean , dry and intact .
+DISCHARGE MEDICATIONS :
+1. Percocet .
+2. Colace .
+CONDITION AT DISCHARGE :
+Good .
+___________________________________
+**NAME[YYY M ZZZ] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+PS/dm
+D :
+**DATE[Oct 21 2007] 10:12:05
+T :
+**DATE[Oct 21 2007] 12:13:54
+R :
+**DATE[Oct 30 2007] 12:43:22/lmm
+Job ID :
+355124/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , SSS] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Oct 30 2007] 03:00:42 PM

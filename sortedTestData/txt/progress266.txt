@@ -1,0 +1,237 @@
+PULM CONSULT
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] L
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 40s] years
+Sex :
+Female
+DOB :
+**DATE[Jul 20 1958]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Allergy / reaction profile ( all ): codeine
+Current Medications : medication administration orders
+heparin ( HEPARIN 5000 U / ML VIAL 1 ML ) , 5,000 Unit ( s ) , Solution , subQ , Q8H , Routine , **DATE[May 18 07] 12:00:00
+nicotine ( nicotine 21 mg / 24 hr transdermal film , extended release ) ( NICOTINE 21 MG PATCH ) , 1 Patch , Film , extended release , Topically , Daily , Routine , **DATE[May 18 07] 10:01:00
+albuterol - ipratropium ( DuoNeb ) ( ALBUTEROL / IPRATROP 3 MG / 0.5 MG / 3 ML ) , 3 mL , Solution , Inhalation , Q2H , PRN , For Wheezing , Routine , **DATE[May 18 07] 8:32:00 , Special Instructions : *** 2.5 mg ALBUTEROL + 0.5 mg ATROVENT ***
+albuterol - ipratropium ( DuoNeb ) ( ALBUTEROL / IPRATROP 3 MG / 0.5 MG / 3 ML ) , 3 mL , Solution , Inhalation , QID , Routine , **DATE[May 18 07] 8:32:00 , Special Instructions : *** 2.5 mg ALBUTEROL + 0.5 mg ATROVENT ***
+methylPREDNISolone ( Solu-Medrol ) ( MethylPREDNISolone SOD SUCC 125 MG VIAL ) , 60 mg , Powder inj , IV , Q12H , Routine , **DATE[May 18 07] 9:00:00
+Medications :
+Denies home medications
+Admission Information
+Admission Date :
+**DATE[May 18 2007]
+Attending Physician :
+**NAME[ZZZ , YYY]
+History of Presenting Disease
+Chief Complaint
+Shortness of Breath .
+History of Present Illness
+**AGE[in 40s] year old female with hx of active tobacco abuse ( 1 1/2 ppd X 34 years ) , bronchitis , and psoriasis presented to ED earlier today with c/o SOB , mild wheezing , chest congestion , cough occasionally productive of thick white sputum and chills .
+ED evaluation revealed hypoxemia ( 90% ) on room air , diffuse wheezing with occasional rhonchi on exam , low - grade temp 99.3 .
+CXR interpreted as clear lungs , normal heart size per radiology .
+This current episode was precipated by a URI .
+No relieving factors .
+No chest pain or tightness ED course included duoneb , solumedrol 125 mg IV , zithromax 500 po  , O2 at 2l with SPO2 94% .
+Pt admitted with hypoxemia , bronchospasm and bronchitis .
+An EKG was also obtained which revealed NSR with probable RA enlargement w/ frequent unifocal PVC 's , non - specific ST-T abnormalities perhaps mild high lateral ischemia per cardiology interpretation .
+In regards to pulmonary hx , pt has had occasional bronchitis with wheezes in the past .
+She denies requiring hospitalization or prednisone tapers in the past .
+She has never seen a pulmonologist or had PFT 's .
+She has not required inhaled therapy in the past .
+She denies any routine exertional dyspnea or hemoptysis .
+She does Snore but denies daytime hypersomnolence .
+Past Medical History :
+1. BRONCHITIS
+2. PSORIASIS
+3. ACTIVE TOBACCO ABUSE
+Surgical History
+Colectomy ( 45.8 )
+Date and Details : 1999 .
+Social History
+Employment
+Job Description : cashier at Shop ' N ' Save grocery store .
+Employment Status :
+Employed .
+Occupational Exposures
+None .
+Marital Status
+Single .
+Living arrangements
+House .
+Tobacco Use
+Active Smoker :
+1 1/2 ppd X 34 years .
+Alcohol Use
+Active drinker : admits to 8 beers and 4 shots per week .
+Drug use
+Denies .
+None .
+Family History
+CAD
+Father :
+MI .
+Siblings : brother MI .
+Review of Systems
+Cardiovascular symptoms : no chest pain , no palpitations .
+Respiratory symptoms :
+Dyspnea ( with exertion , wheezing ) , Orthopnea , Sputum production , occasional thick white sputum .
+Other details .
+A TEN SYSTEM REVIEW WAS PERFORMED AND IS AS PER THE HPI OR IS OTHERWISE NEGATIVE OR NONCONTRIBUTORY
+Vital signs
+BP : systolic 105 , diastolic 57 , cuff .
+Pulse : 83 beats per min .
+Resp : 20 breaths / min at rest .
+Temp : 37.4 degrees Celsius .
+Pulse Oximetry ( O2 Sats ) : 91-92% on 3L NC O2 .
+Physical Exam
+General Appearance
+No acute distress .
+Head
+**INITIALS. **NAME[VVV] EOMI , NASAL AND ORAL MUSOSA NORMAL .
+NASAL AND ORAL MUCOSA WERE NORMAL .
+DENTITION - IS IN GOOD REPAIR .
+THERE IS CROWING OF THE POSTERIOR OROPHARYNGEAL AIRWAY .
+Eyes
+SCLERA ANICTERIC .
+Ears
+NL .
+Cardiovascular
+NORMAL S1 , S2 NO MURMURS RUBS OR GALLOPS .
+NORMAL PMI .
+Respiratory
+NORMAL EXCURSION .
+TRACHEA MIDLINE .
+NO ACUTE DISTRESS .
+FAINT ANTERIOR WHEEZING , FAIR AIR MOVEMENT , OCCASIONAL RHONCHI POSTERIOR .
+NO ACESSORY MUSCLE USE , No egophony or change in fremitis .
+Gastrointestinal
+NONTENDER .
+NORMAL ACTIVE BOWEL SOUNDS .
+NO HSM .
+POSITIVE BS .
+Musculoskeletal
+NO SCOLIOSIS .
+Skin
+NO RASH .
+NO JAUNDICE .
+Neurological
+NORMAL MOOD AND APPETITE .
+CN 2-12 INTACT .
+5/5 UPPER HAND GRIP STRENGTH .
+**NAME[UUU] .
+General Results
+Most recent results
+All :
+ALLRESLTSECT .
+**DATE[May 18 2007] 9:30 AM
+Oxygen per liter 3.0 L / min
+**DATE[May 18 2007] 7:00 AM
+Oxygen per liter 3.0 L / min
+**DATE[May 18 2007] 5:50 AM
+Pain scale 0
+**DATE[May 18 2007] 5:29 AM
+Pain scale 0
+**DATE[May 18 2007] 4:00 AM
+Chest Anterior Xray XRCH1V
+( Preliminary )
+**DATE[May 18 2007] 3:51 AM
+Na 139 mEq / L
+K 3.8 mEq / L
+Cl 102 mEq / L
+CO2 29 mEq / L
+Anion Gap 8.0
+BUN 8 mg / dL
+Cr 0.6 mg / dL
+Glucose 115 mg / dL High
+Ca 8.6 mg / dL
+Troponin I &lt ; 0.04 ng / mL
+WBC 7.9 X10E+09 / L
+RBC 4.60 X10E+12 / L
+Hgb 15.0 gm / dL
+Hct 43.0 %
+MCV 93.6 fL
+MCH 32.6 pg High
+MCHC 34.8 gm / dL
+RDW 13.0 %
+MPV 7.0 fL
+Platelets 132 X10E+09 / L Low
+Neutrophils 78 %
+Lymphs 17 %
+Monocytes 5 %
+Eosinophils 0 %
+Basophils 0 %
+ABS Neutrophils 6.1 X10E+09 / L
+ABS Lymphs 1.3 X10E+09 / L
+ABS Monocytes 0.4 X10E+09 / L
+Abs Eos , auto 0.0 X10E+09 / L
+ABS Basophils 0.0 X10E+09 / L
+PT 10.8 sec
+INR 0.9
+Activated PTT 29.9 sec
+**DATE[May 18 2007] 3:31 AM
+Pain scale 0
+**DATE[May 18 2007] 3:24 AM
+Temperature Conversion 37.4 Deg C
+Temperature 99.3 Deg F
+Temperature Site Oral
+Pulse 93 BPM
+Respiratory Rate 24
+O2 Saturation 90 %
+Systolic BP 105 mmHg
+Diastolic BP 57 mmHg
+BP Site Left Arm
+Basic vital signs comments
+94% - 2L NC
+Pain scale 0
+Admission height conversion 167.6 cm
+Admission Height ( in ) 66.00 in
+Admission weight conversion ( kg ) 81.8 kg
+Admission weight ( lb ) 180.0 lb
+Weight Method Estimation
+**DATE[May 18 2007] 3:23 AM
+ECG Image
+EKG Image
+ECG Interpretation
+MARQINT
+Ventricular Rate 100 BPM
+Atrial Rate 100 BPM
+P-R Interval 140 ms
+QRS Duration 80 ms
+QT 334 ms
+QTc 431 ms
+P Axis 80 Degrees
+R Axis 62 Degrees
+T Axis 103 Degrees
+**DATE[May 18 2007] 12:00 AM
+Emergency room reports
+ED Evaluation
+( Preliminary )
+Chest Radiograph
+The patient 's radiograph is within normal limits ( my read ) .
+Other Studies :
+EKG - SINUS RHYTHM
+RIGHT ATRIAL ENLARGEMENT WITH FREQUENT UNIFOCAL PREMATURE VENTRICULAR COMPLEXES NON SPECIFIC ST-T ABNORMALITIES PERHAPS MILDHIGH LATERAL ISCHEMIA - my read
+Impression and Plan
+Impression :
+1. BRONCHITIS with COPD exacerbation due to Tobacco use .
+- CXR WITHOUT INFILTRATE ( portable CXR ) , RECEIVED ZITHROMAX 500 WOULD CONTINUE WITH po ABX. , NO LEUKOCYTOSIS , MILD TEMP 99.3 , SPUTUM NON - PURULENT WHITE IN COLOR , SEND SPUTUM CX
+2. HYPOXEMIA - REQUIRING 2L O2 TO MAINTAIN SPO2 91-92 % , PROBABLY SECONDART TO COPD .
+3. BRONCHOSPASM - PT WITH FAINT ANTERIOR WHEEZE , CONTINUE WITH IV SOLUMEDROL 60 MG Q 12 HOURS , DUONEBS QID , O2
+4. TOBACCO ABUSE - NICOTINE PATCH , DISCUSSED CHANTIX FOR POSSIBLE OUTPATIENT USE
+5. PROBABLE COPD - SHE WILL NEED EVENTUAL OUTPATIENT PFT 's O2 EVAL PRIOR TO d/C AND SUGGEST FOLLOW - UP
+6. ABNORMAL EKG SUGGESTING UNDERLYING CORONARY ISCHEMIA .
+T/C CARDIAC
+EVALUATION DOBUTAMINE THALLIUM +/- FORMAL CARDS EVAL
+Professional Services
+Credentials and Title of Author **NAME[TTT] Signing this Document : MD , Attending - UPP General Medicine
+Pulmonary / ccm
+Perform by **NAME[XXX , WWW] J
+( on **DATE[May 18 2007] 17:13 )
+Sign by **NAME[XXX , WWW] J
+( on **DATE[May 18 2007] 17:13 )
+VERIFY by **NAME[XXX , WWW] J
+( on **DATE[May 18 2007] 17:13 )

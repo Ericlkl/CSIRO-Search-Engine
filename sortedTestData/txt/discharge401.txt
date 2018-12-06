@@ -1,0 +1,58 @@
+**INSTITUTION
+GENERAL MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 20 2007]
+DISCHARGE DATE :
+**DATE[Nov 22 2007]
+DISCHARGE DIAGNOSIS :
+Urinary tract infection .
+BRIEF HISTORY OF PRESENT ILLNESS :
+The patient is a **AGE[in 60s]- year - old male who has a history of arthritis who presented to the emergency department after he was found to be in poor living condition by the EMS .
+According to the emergency department , he was apparently hypothermic when EMS initially arrived to assess him .
+On arrival to the emergency department however he was no longer hypothermic .
+A part of this was related to the fact that he had been living in a condemned house without heat or electricity for several months .
+**INSTITUTION COURSE :
+The patient , on admission , was actually alert and oriented x 3 and actually was very interactive .
+He did have what looked like an urinary tract infection with urinalysis showing 2 + leukocyte esterase , urine white blood cells of 103 , urine blood 3 + , and urine rbc 's 539 .
+Urine culture showed multiple organisms from the urine sample .
+He did not have a leukocytosis with a WBC of 6.3 .
+He was started on Bactrim oral and continued on his regimen during his inpatient course .
+Much of the complexity of the stay was related to finding an appropriate disposition as his house was condemned .
+After a complex process of contacting multiple people , social work was able to help us discharge him to a shelter .
+A detailed account of the social work process is in Power Chart .
+DISCHARGE MEDICATIONS :
+Bactrim 1 tablet DS b.i.d. for 5 days .
+DISPOSITION :
+The patient is discharged to home in stable condition .
+He is to consume a regular diet and perform activities as tolerated .
+He has been discharged to shelter .
+Followup :
+The patient is to follow up with primary care provide on an as needed basis .
+___________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Nov 22 2007] 19:36:31
+T :
+**DATE[Nov 22 2007] 23:50:53
+R :
+**DATE[Nov 22 2007] 23:50:53/jd
+Job ID :
+357275/**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX , VVV] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Nov 26 2007] 09:03:27 AM

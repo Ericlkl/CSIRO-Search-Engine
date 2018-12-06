@@ -1,0 +1,56 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Sep 07 2007]
+EVALUATION DATE :
+**DATE[Sep 09 07]
+HISTORY OF PRESENT ILLNESS :
+The patient is doing about the same today .
+She was seen by Vascular and they were trying to take her to the OR tomorrow .
+She continues to complain of some dizziness when she gets up quickly .
+PHYSICAL EXAMINATION :
+On her exam today , the finger - nose was on target .
+There was mild symmetric drift .
+Her upper extremity strength was 5/5 .
+Lower extremity strength was also 5/5 with exception of some mild proximal weakness in her shoulders .
+Her tandem walking , she is unable to do but she is able to stand and walk on her heels and her toes .
+We tried to do a BNA when we took her back .
+She developed profound dizziness , had to close her eyes and sat back up .
+It looked like a positive test but she would not let us evaluate her eyes for nystagmus .
+ASSESSMENT AND PLAN :
+1. Increased sedimentation rate , increased WBC count , and anemia .
+She is to undergo temporal artery biopsy .
+We discussed her case with Rheumatology .
+They suggested repeating her EMG nerve conduction study in case her biopsy is negative .
+We already have those tests on board as we may proceed with muscle nerve biopsy and bone marrow biopsy as well .
+2. Vertigo .
+Her symptoms are somehow suggestive of a peripheral vertigo , probably benign positional vertigo but given Rheumatology 's assessment that she has some asymmetric sensory abnormality , we will set her for an MRI scan of her brain and will be seen in the **INSTITUTION for 4 more vestibular function tests once we get some , I think , more important tests first .
+The case was discussed in detail with house staff .
+I agree with their note as written .
+My note should be considered linked to theirs .
+___________________________________
+**NAME[YYY ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+**INITIALS
+D :
+**DATE[Sep 09 2007] 21:37:50
+T :
+**DATE[Sep 10 2007] 04:26:08
+R :
+**DATE[Sep 10 2007] 04:26:08/jcm
+Job ID :
+339710 /**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[ZZZ , XXX M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Sep 21 2007] 09:06:34 PM

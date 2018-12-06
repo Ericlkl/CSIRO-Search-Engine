@@ -1,0 +1,61 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[ZZZ M YYY]
+ADMISSION DATE :
+**DATE[Apr 12 2007]
+EVALUATION DATE :
+**DATE[Apr 16 07]
+I personally interviewed and examined the patient this morning and discussed the case with Dr. **NAME[XXX] .
+She had a bad night last night .
+She was up all night with what she calls burning pain in her abdomen .
+The taper of her IV morphine did not work , and she is not yet on the full oral dose of pain medicine she took as an outpatient .
+She feels that it may be because she did not have a bowel movement yesterday or has been constipated for several days and is now asking for a cathartic even though in the past she had said that might make it worse .
+She has no shortness of breath .
+No other significant complaints except her abdominal pain and her constipation .
+PHYSICAL EXAMINATION :
+Vital Signs :
+Blood pressure 156/90 , respirations are normal , and pulse is in the 70 .
+She has a low - grade fever at 99.4 .
+Head and Neck :
+Unremarkable .
+Lungs :
+Poor inspiratory effort this morning .
+Cardiac :
+Unremarkable .
+Abdomen :
+Soft but is diffusely tender although some of the areas are not particularly reproducible .
+Extremities :
+Trace edema .
+LABORATORIES :
+Electrolytes , BUN , and creatinine were unremarkable with the exception of a persistent hypokalemia .
+White count 10,700 , hemoglobin and hematocrit stable at 11.6 and 33 .
+IMPRESSION :
+1. Abdominal pain .
+She is being treated for acid reflux disease somewhat more aggressively than she had been at home and that has not yet helped .
+There is no evidence of intraabdominal pathology by laboratory or by x-ray .
+I suspect this is an exacerbation of her chronic abdominal pain .
+Although , it is possible that gastroesophageal reflux disease has played some component because she has gotten slightly better with more aggressive treatment of that .
+We will continue to try to taper her pain medicines and get her bowels moving and get her up and around again so she can go home .
+2. Hypokalemia .
+We will replace her potassium with oral supplementation .
+___________________________________
+**NAME[ZZZ YYY] , M.D.
+Dictator :
+**NAME[ZZZ YYY] , M.D.
+MR/va
+D :
+**DATE[Apr 16 2007] 10:28:31
+T :
+**DATE[Apr 16 2007] 11:42:13
+R :
+**DATE[Apr 16 2007] 11:42:13/va
+Job ID :
+348083/**ID-NUM
+Cc:

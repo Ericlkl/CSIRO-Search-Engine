@@ -1,0 +1,61 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[May 10 2007]
+EVALUATION DATE :
+**DATE[May 13 07]
+I personally interviewed and examined the patient today .
+The patient was complaining of severe pain in the back initially when his PCA pump was continued .
+However , once he took his oral morphine sulfate , he improved and was having a lot less pain .
+He continues to have some sensory symptoms down his left leg .
+He continues to have marked pain .
+He denies any nausea , vomiting , diarrhea , or constipation .
+He has not had any fever or chills .
+I reviewed his CT scan with Radiology .
+He has compression fracture and recommendation of Radiology is to treat him medically first before considering vertebroplasty .
+PHYSICAL EXAMINATION :
+Vital Signs :
+I reviewed his vital signs .
+His vital signs are stable and normal .
+He is afebrile .
+Chest :
+Clear .
+Heart :
+Regular rhythm .
+No murmurs .
+Abdomen :
+No tenderness or masses .
+Extremities :
+There is no edema .
+PROBLEMS :
+1. Severe low back pain at this time .
+We plan to continue him on morphine sulfate around the clock to see if we can control his pain better .
+He will remain on his fentanyl patch as well .
+2. Abdominal pain .
+This is much better at this time .
+No specific change in the medications will be made .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+**INITIALS
+D :
+**DATE[May 13 2007] 12:35:58
+T :
+**DATE[May 14 2007] 04:03:31
+R :
+**DATE[May 14 2007] 19:17:06/rs
+Job ID :
+345354/**ID-NUM
+*** Dictated By :
+-**NAME[ZZZ , VVV M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[May 23 2007] 03:09:55 PM

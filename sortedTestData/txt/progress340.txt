@@ -1,0 +1,74 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Apr 11 07]
+Mrs. **NAME[AAA] is a **AGE[in 60s]- year - old woman status post lung volume reduction surgery .
+She continues to require critical care for management of her respiratory failure , pneumonia , hyperglycemia , and renal failure .
+ASSESSMENT AND PLAN :
+1. Pulmonary .
+Respiratory failure .
+I am currently managing Mrs. **NAME[AAA] on assist / control ventilation , rate of 16 , tidal volume 350 , 40% FiO2 , and 5 of PEEP .
+Her tolerance of trach mask trials is improving .
+She was able to tolerate six hours today .
+Chest x-ray shows bibasilar atelectasis and effusion .
+Breath sounds are distant bilaterally without significant wheeze or rhonchi .
+I will continue to wean her FiO2 as tolerated .
+2. Cardiovascular .
+Extremities are warm and adequately perfused .
+She is in a sinus rhythm in the 70s to 80s with mean pressures in the 60s today .
+She is not requiring inotropic or pressor support .
+3. Infectious disease .
+Afebrile with a white count of 7.5 .
+I am continuing ciprofloxacin for Klebsiella and E. coli pneumonia diagnosed from a BAL on **DATE[Apr 07 2007] .
+I will check a C. diff toxin today .
+4. Fluids , electrolytes , and nutrition .
+Sodium 137 , potassium 4.7 , and magnesium 2.1 .
+I have replaced electrolytes per protocol .
+5. Renal .
+Acute renal failure .
+I am continuing intermittent hemodialysis .
+She is scheduled to be dialyzed tomorrow morning with a BUN of 55 and a creatinine of 2.8 today .
+Following dialysis , I will discontinue her temporary Uldall catheter and attempt to arrange for tunneled dialysis catheter placement tomorrow .
+6. Hematology .
+Hemoglobin this morning is 8.9 with a platelet count of 193 .
+There is no evidence of active bleeding or clinically significant coagulopathy at this time .
+I will continue subcutaneous heparin .
+She does have an IVC filter in place .
+7. Endocrine .
+Hyperglycemia .
+I will continue sliding scale insulin coverage and NPH insulin to maintain euglycemic control and Epogen for renal failure as well as her baseline dose of prednisone 10 mg per day .
+8. Prophylaxis .
+I will continue Prevacid .
+9. Neurologic .
+Awake and alert and moves all extremities .
+She has no focal deficits .
+CRITICAL CARE TIME = 32 MINUTES .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Apr 12 2007] 00:55:30
+T :
+**DATE[Apr 12 2007] 07:44:37
+R :
+**DATE[Apr 12 2007] 07:44:37/rrl
+Job ID :
+423096/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 04 2007] 07:45:00 PM

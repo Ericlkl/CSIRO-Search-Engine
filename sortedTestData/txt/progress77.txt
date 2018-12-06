@@ -1,0 +1,76 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING **NAME[WWW :
+YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Apr 29 2007]
+EVALUATION DATE :
+**DATE[Apr 31 07]
+I personally interviewed and examined the patient .
+The care plan was discussed with the resident team .
+Please consider this note linked to the resident note .
+The patient had an uneventful night .
+She continues to have discomfort in her buttocks and in her knees .
+She states her pain is well controlled generally .
+PHYSICAL EXAMINATION
+She is a chronically ill - appearing woman appearing much older than her stated age of **AGE[in 40s] .
+Blood pressure is 119/49 , heart rate 111 , and temperature is 37.4 .
+Her mouth is without lesions .
+Eyes are anicteric .
+Lungs :
+Diminished at the bases , but otherwise clear .
+Heart Sounds :
+Regular rate and rhythm , occasional ectopy .
+Abdomen :
+Soft and nontender with positive bowel sounds .
+Extremities :
+With erythema over the left knee with pain .
+Right elbow also limited secondary to pain .
+Skin :
+Without draining of wounds , but purulent material under both breasts , bilateral buttocks , upper thighs , and posterior thighs .
+Discoid hyperpigmented areas on scalp .
+Few dry cracked skin pumped with hyperpigmentation bilaterally .
+LABORATORY DATA
+Labs are detailed in the resident note and reviewed by me in their entirety and include white count of 14.7 which is down from yesterday 's 17.5 and platelet count of 418 .
+Urinalysis :
+Leukocyte esterase 1+ .
+ASSESSMENT AND PLAN
+This is a case of supra - infected discoid lupus lesions in a **AGE[in 40s]- year - old woman with a 20 - year history of lupus and of all medications over 8 months .
+1. Lupus .
+Appreciate Dermatology 's support .
+Continuing with __________ 4 mg twice a day .
+2. Pain control .
+Adequate .
+We will control to monitor .
+3. ID .
+Appreciate Plastic 's recommendations regarding lack of abscesses to drain .
+Continue with vancomycin day #3 and Unasyn day #3 .
+4. Rheumatology .
+Plaquenil started yesterday 200 mg twice a day .
+5. Disposition .
+Will need a PT consult and OT for evaluation of placement .
+The patient does not appear capable of caring for herself at home ; although , she does have a mother who helps her .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+**INITIALS
+D :
+**DATE[Apr 31 2007] 08:50:28
+T :
+**DATE[Apr 31 2007] 23:48:48
+R :
+**DATE[Apr 31 2007] 23:48:48/gn
+Job ID :
+369074 /**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[ZZZ , TTT M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[May 21 2007] 10:46:38 PM

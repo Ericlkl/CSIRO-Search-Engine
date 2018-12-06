@@ -1,0 +1,100 @@
+**INSTITUTION
+SURGICAL ONCOLOGY
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Oct 28 2007]
+TRANSFERRED DATE :
+**DATE[Nov 08 07]
+TRANSFERRED TO :
+**NAME[VVV M. UUU] , M.D.
+TRANSFERRED TO CARE OF :
+ADMISSION DIAGNOSIS ( ES ):
+STATUS POST COLON RESECTION FOR TUBULOVILLOUS ADENOMA .
+DISCHARGE DIAGNOSIS ( ES )
+STATUS POST COLON RESECTION FOR TUBULOVILLOUS ADENOMA .
+HISTORY OF PRESENT ILLNESS :
+Mr. **NAME[AAA] is a **AGE[in 60s]- year - old gentleman that was found on a colonoscopy to have a small 7 mm cecal polyp , which was removed as were two 7 mm transverse colon polyps .
+However , in the upper left colon at approximately 55 cm from the anal verge , a sessile polypoid lesion was found with gross appearance suggestive of villous adenoma .
+Biopsies were taken , but because of its sessile appearance , it was impossible to remove via colonoscopy .
+For this reason , the patient was sent to our service to undergo surgical procedure of removal of the polyp .
+PAST MEDICAL HISTORY :
+1. Multiple angioplasties in 1990 followed by triple bypass surgery in 1991 .
+2. In 2002 , he underwent a mitral valve replacement as well as subsequent placement of pacemaker .
+3. In **DATE[Nov 2007] , the patient underwent surgery upon his left elbow .
+4. He also underwent cryosurgery in 1995 for treatment of prostate cancer .
+5. Coronary artery disease .
+6. _______ polymyalgia rheumatica .
+7. Gout .
+HOSPITAL COURSE :
+The patient was admitted to our service and on **DATE[Nov 01 2007] underwent procedure of laparoscopic resection of splenic flexure of the colon .
+After the surgery , the patient was sent to the ICU because of his past medical history , baseline condition , and because of the major surgery he underwent .
+Once his respiratory condition and ischemic heart disease were taken care of and stabilized in the ICU , he was then sent to our regular floor where he began his recovery from surgery .
+The patient 's recovery was good .
+He was progressively advanced initially to a clear liquid diet , then to a full liquid diet , and eventually to a soft diabetic diet .
+Once he was able to tolerate a diet , he was started on home medications .
+Progressively , he was able to be out of bed and ambulate without assistance .
+The patient progressively regained his bowel function and was able to pass gas and bowel movements .
+On **DATE[Nov 08 2007] , he was felt cleared to be transferred to the TCU at **INSTITUTION under the care of Dr. **NAME[TTT] .
+The only reason he was held on our floor was the conversion from heparin drip for anticoagulation to p.o. anticoagulation with Coumadin .
+Presently , his INR is 1.6 .
+The patient will be transferred to the Transitional Care Unit and he will continue to have Coumadin until the INR will be therapeutic at 3 and the heparin drip will be discontinued .
+This is very important past surgery considering that the patient has a mitral valve replacement .
+TRANSFER INSTRUCTIONS :
+1. Activity :
+Ambulation as tolerated .
+2. Patient care :
+a. Intake and output every shift .
+b. The order was specified to keep the incision clean and dry .
+It was specified that the patient may shower , but no bathtubs recommended .
+c. A daily CBC with differential and coagulation status will be drawn daily in the TCU .
+3. Nutritional services :
+1,800 calorie ADA diet was recommended plus diabetic Boost t.i.d.
+4. Once in the TCU , physical therapy and occupational therapy will see the patient , evaluate him , and they will plan his treatment schedule to regain totally his mobility function .
+5. The patient was advised to schedule an appointment with Dr. **NAME[ZZZ] in about two weeks for postoperative followup .
+The visit will be at the **INSTITUTION at **INSTITUTION .
+6. The patient was told all of the recommendations and agreed .
+All of his questions were answered appropriately and to the patient 's satisfaction .
+TRANSFER MEDICATIONS :
+1. Lasix 30 mg p.o. b.i.d. for congestive heart failure .
+2. K-Lor 20 mEq. p.o. b.i.d. as potassium replacement .
+3. Coreg 3.125 mg p.o. b.i.d. for hypertension .
+4. Percocet 5/325 mg 1-2 tabs p.o. q4h. p.r.n. pain .
+5. Protonix 40 mg p.o. daily for GI prophylaxis .
+6. Tylenol 650 mg p.o. q6h. p.r.n. headache .
+7. Zetia 10 mg p.o. daily for hypercholesterolemia .
+8. Allopurinol 100 mg p.o. daily for gout .
+9. Lisinopril 40 mg p.o. daily for hypertension .
+10. Colchicine 0.6 mg p.o. daily for gout .
+11. Prednisone 5 mg p.o. daily for polymyalgia rheumatica .
+12. Requip 1 mg p.o. at bedtime for Parkinsons .
+13. Coenzyme Q10 100 mg p.o. daily for Parkinsons .
+14. Toprol XL 25 mg p.o. daily for hypertension .
+15. Hypercoagulation protocol , to discontinue when INR is therapeutic at 3 .
+16. Coumadin 5 mg p.o. at bedtime .
+The dose will be adjusted by the accepting attending to reach an INR level of 3 .
+___________________________________
+**NAME[YYY ZZZ] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+RP/dld
+D :
+**DATE[Nov 08 2007] 12:01:19
+T :
+**DATE[Nov 08 2007] 12:13:35
+R :
+**DATE[Nov 11 2007] 21:57:43/rs
+Job ID :
+380377/**ID-NUM
+&lt;END FOOTER&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX , SSS] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Dec 01 2007] 11:30:10 AM

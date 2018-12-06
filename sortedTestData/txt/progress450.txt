@@ -1,0 +1,8 @@
+Patient seen and examined .
+All data reviewed .
+Full dictated consult to follow job ID 363437
+In brief :
+**AGE[in 70s] year old white male admitted with right PNA and effusion with thoracostomy tube drainage with previously known AAA now measuring 4.6 cm by CT .
+Will discuss future treatment with Dr. **NAME[VVV UUU] .
+Continue GIB work up .
+Perform by **NAME[XXX , WWW M] ( on **DATE[Mar 26 2007] 14:44 )

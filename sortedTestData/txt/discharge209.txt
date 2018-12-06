@@ -1,0 +1,48 @@
+**INSTITUTION
+HEMATOLOGY-ONCOLOGY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[ZZZ M YYY]
+ADMISSION DATE :
+**DATE[Apr 07 2007]
+DISCHARGE DATE :
+**DATE[Mar 06 2007]
+FINAL DIAGNOSES :
+1. Sickle cell painful event .
+2. Urinary tract infection .
+HOSPITAL COURSE :
+The patient was initially admitted from the emergency room where she presented with a questionable infiltrate on her chest x-ray as well as hypoxia .
+She was moved to the ICU ; originally for O2 support .
+She was given a transfusion of 2 units .
+Regarding her hemoglobin of 6.0 with the concurrent hypoxia .
+The transfusions occurred on **DATE[Feb 26 2007] .
+Following the transfusion , her O2 needs decreased .
+She was subsequently transferred to the Stepdown Unit for further respiratory care .
+She was transferred to the Stepdown Unit on **DATE[Feb 30 2007] , for continuation of her pulmonary care .
+She subsequently was transferred to the regular floor where she was eventually discharged on **DATE[Mar 6 2007] .
+MEDICATIONS :
+Medications at the time of discharge included :
+1. MS Contin 100 mg t.i.d.
+2. MSIR 30 mg q. 6 h. p.r.n. pain .
+3. She was also given Lasix .
+4. Diltiazem 60 mg q. 6 h. regarding of her history of SVT .
+5. Prednisone regarding her respiratory status .
+She subsequently would be seen in the **INSTITUTION in Hematology in 2 weeks .
+___________________________________
+**NAME[ZZZ M YYY]
+Dictator :
+**NAME[ZZZ M. YYY] , M.D.
+D :
+**DATE[Apr 15 2007] 15:29:31
+T :
+**DATE[Apr 15 2007] 15:54:43
+R :
+**DATE[Apr 15 2007] 15:54:43/rpk
+Job ID :
+347322/**ID-NUM
+Cc:

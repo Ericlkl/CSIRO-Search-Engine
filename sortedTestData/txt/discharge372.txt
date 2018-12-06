@@ -1,0 +1,90 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+____________________________________________________________
+**NAME[AAA , BBB M]
+**ID-NUM
+**ID-NUM
+A6B/1
+SERVICE OF :
+**NAME[ZZZ M YYY]
+DATE OF ADMISSION :
+**DATE[Oct 13 2007]
+DATE OF DISCHARGE :
+**DATE[Oct 17 2007]
+DISPOSITION :
+Transferred to a skilled nursing facility .
+ADMISSION DIAGNOSIS :
+Chronic obstructive pulmonary disease exacerbation .
+DISCHARGE DIAGNOSES :
+1. Chronic obstructive pulmonary disease exacerbation ( end stage oxygen and steroid dependent ) .
+2. Peripheral vascular disease .
+3. Coronary artery disease .
+4. Tobacco abuse .
+5. Alcohol abuse .
+6. History of cerebrovascular accident .
+7. History of peptic ulcer disease with remote gastrointestinal bleed .
+8. Degenerative joint disease .
+9. History of deep venous thrombosis with pulmonary embolus and IVC filter placement in the remote past .
+10. Blood culture positive for vancomycin - resistant enterococcus , one bottle only ( question if this is a contaminant ) .
+11. Flexion contracture of the right lower extremity .
+CONSULTANTS :
+Pulmonary - Drs. **NAME[TTT , SSS] and **NAME[RRR] .
+HISTORY OF PRESENT ILLNESS :
+Mrs. **NAME[AAA] is a **AGE[in 70s]- year - old female who was admitted from **INSTITUTION with worsening dyspnea on exertion and shortness of breath .
+She was most recently to **INSTITUTION on **DATE[Sep 27] through **DATE[Sep 30 2007] , for lower extremity cellulitis .
+She was sent to **INSTITUTION to complete IV antibiotic treatment and to receive physical therapy .
+She was treated with IV steroids and antibiotics .
+She did have an initial blood culture that showed gram positive cocci .
+She was started on vancomycin until final sensitivity showed that this was vancomycin - resistant enterococcus .
+Only one bottle of the initial blood cultures was positive for this , thus , the blood culture type remained negative and there is a question of whether this may have been a skin contaminant rather than a true bacteremia .
+The patient did have some problems with mental status changes during her hospital stay .
+She had them on her last hospital stay and started on Ativan , due to a significant history of alcohol abuse .
+She also had problems during her last hospital stay with removing her O2 and having mental status changes when acutely hypoxic .
+During this hospital stay , there was some discussion as to whether or not she could return to **INSTITUTION 's **INSTITUTION; the staff there say the patient was refusing to participate in physical therapy .
+I discussed this with the patient and her husband today and they both report that because she has not ambulated in two years , she was refusing to walk , but otherwise , participated in therapy .
+She currently has a significant right lower extremity flexion contracture that limits her ability to use a wheelchair or transfer and they are hoping she can receive more therapy to relieve this so she can return home to the care of her husband .
+At the time of her discharge , she is back to her baseline end stage COPD with no new acute issues identified , other than the question of the VRE , which is felt likely to be a contaminant .
+DISCHARGE CONDITION :
+Poor and readmission is likely , given the end stage nature of her multiple medical problems .
+DISCHARGE MEDICATIONS :
+1. DuoNeb via nebulizer q.i.d.
+2. Norvasc 10 mg po daily .
+3. Lipitor 10 mg po daily .
+4. Azithromycin 500 mg po daily .
+5. Xenaderm topically to areas of skin breakdown daily .
+6. Budesonide inhalation 0.5 mg b.i.d.
+7. Klonopin 0.5 mg po q. 8 hours prn .
+8. Plavix 75 mg po daily .
+9. Senokot one po q.h.s.
+10. Eucerin topically b.i.d. prn .
+11. Mucinex 1200 mg po b.i.d.
+12. Heparin 5000 units subcutaneously q. 12 hours .
+13. Insulin regular sliding scale , low dose .
+14. Lisinopril 20 mg po daily .
+15. Milk of magnesia 30 cc po q.h.s. prn .
+16. Lopressor 50 mg po b.i.d.
+17. Acetaminophen 650 mg po q.6 hours prn .
+18. Oxycodone 5 mg po q.6 hours prn .
+19. Protonix 40 mg po daily .
+20. Prednisone 40 mg po daily , dose to be reassessed by admitting physicians at **INSTITUTION .
+21. Zoloft 50 mg po daily .
+22. Triamcinolone 0.1% cream t.i.d. to the legs .
+23. Also , she requires 3 liters 02 nasal cannula to maintain O2 saturations greater than or equal to 93% .
+She will need follow up blood work , including CBC and BNP next week at **INSTITUTION .
+Physical therapy and occupational therapy assessments are required .
+Her diet is 1800 calorie ADA , if that is not standard at **INSTITUTION .
+No concentrated sweets may be substituted .
+Follow up care will be provided by our group at **INSTITUTION .
+Approximately 50 minutes was spent on her discharge and transfer .
+___________________
+**NAME[WWW M. XXX] ,
+M.D.
+Dict :
+**DATE[Oct 17 2007] 14:02:33
+Tran :
+**DATE[Oct 17 2007] 14:40:11
+**INITIALS
+R :
+**DATE[Oct 17 2007] 14:40:11/dk
+**CARBON-COPY

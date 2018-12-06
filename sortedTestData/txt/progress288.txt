@@ -1,0 +1,57 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[SSS]
+**NAME[TTT]
+ADMISSION DATE :
+**DATE[Oct 04 2007]
+EVALUATION DATE :
+**DATE[Oct 09 07]
+Ms. **NAME[AAA] is a **AGE[in 40s]- year - old woman with AIDS , viral encephalitis , brain edema , viral pneumonitis , chronic renal failure , dialysis - dependent , pulmonary edema , fluid overload .
+The patient had been doing reasonably well today on antivirals and supportive care .
+She was due to be dialyzed on today 's date , **DATE[Oct 09 07] , developed what appears to be flash pulmonary edema , rather unexpectedly .
+She dropped her oxygen saturation to 88% .
+She was seen to have some white frothy material in her mouth .
+It would appear to be pulmonary edema material .
+She was , however , continuing to follow commands and engage in confused conversation .
+It was elected to intubate her to adequately oxygenate her pending dialysis .
+She was intubated by the critical care Fellow under my direct supervision with a #8 endotracheal tube at 23 cm .
+She had good breath sounds on both sides .
+Her CO2 was positive .
+Her oxygen saturation quickly came up to 100% .
+Her vital signs remain stable .
+A chest x-ray is ordered .
+She is now for dialysis and with a potential of extubation following dialysis .
+FINAL DIAGNOSIS :
+1. Viral encephalitis .
+2. Brain edema .
+3. Viral pneumonitis .
+4. Chronic renal failure , dialysis - dependent .
+5. Pulmonary edema and fluid overload .
+6. Procedure - intubation .
+The procedure was performed by the critical care Fellow under my direct supervision .
+I was present for the entire procedure .
+__________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Oct 09 2007] 02:43:44
+T :
+**DATE[Oct 09 2007] 07:57:11
+R :
+**DATE[Oct 09 2007] 07:57:11/jas
+Job ID :
+338121/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , RRR M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Nov 04 2007] 08:45:07 PM

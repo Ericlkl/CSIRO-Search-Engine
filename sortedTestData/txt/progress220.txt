@@ -1,0 +1,47 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M. ZZZ] , M.D.
+ADMISSION DATE :
+**DATE[Feb 12 2007]
+EVALUATION DATE :
+**DATE[Apr 12 07]
+I am seeing this patient on Critical Care rounds with the house staff , and I agree with the findings and plan as documented in the house staff note .
+This is a **AGE[in 60s]- year - old woman with a sternal infection status post CABG , has a history of coronary artery disease , hypertension , diabetes mellitus , hypothyroidism , respiratory failure , and renal insufficiency as well as malnutrition .
+Her active issues include :
+1. Respiratory failure .
+The patient is receiving mechanical ventilation and pressure support of 10/5 .
+Her minute ventilation and tidal volumes are appropriate .
+2. The patient has pain on palpation of her right thigh .
+I will obtain lower extremity Dopplers to rule out deep vein thrombosis .
+3. Infectious Disease .
+The patient is receiving empiric Flagyl .
+Clostridium difficile toxins are negative times four , therefore , the Flagyl will be discontinued .
+4. Renal insufficiency .
+The patient 's renal function has recovered and she has not required hemodialysis for over one week .
+Will discuss with Renal removal of the patient 's dialysis catheter .
+Billing code : 99232 .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Apr 12 2007] 14:47:06
+T :
+**DATE[Apr 13 2007] 13:30:33
+R :
+**DATE[Apr 13 2007] 13:30:33/hw
+Job ID :
+424026 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Apr 30 2007] 05:32:36 PM

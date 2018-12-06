@@ -1,0 +1,25 @@
+R1 cross cover
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] L
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 40s] years
+Sex :
+Female
+DOB :
+**DATE[Jul 20 1958]
+Author :
+**NAME[XXX , WWW M]
+Impression and Plan
+Called regarding pt 's CXR .
+Radiology called to 6A to report potential pnemonia in RLL , not seen on previous CXR .
+PT on Zithromax , currently afebrile , VSS .
+t/c adding PO amox or IV Rochepin .
+will defer to primary team in the AM .
+Perform by **NAME[XXX , WWW] K
+( on **DATE[May 19 2007] 01:42 )
+Sign by **NAME[XXX , WWW] K
+( on **DATE[May 19 2007] 01:42 )
+VERIFY by **NAME[XXX , WWW] K
+( on **DATE[May 19 2007] 01:42 )

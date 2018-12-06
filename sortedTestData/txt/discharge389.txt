@@ -1,0 +1,63 @@
+**INSTITUTION
+VASCULAR SURGERY
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Aug 19 2007]
+TRANSFERRED DATE :
+**DATE[Sep 01 07]
+TRANSFERRED TO :
+REHAB
+TRANSFERRED TO CARE OF :
+DISPOSITION :
+Rehab .
+**INSTITUTION COURSE :
+This is a **AGE[in 50s]- year - old male who was admitted on **DATE[Aug 19 2007] through the emergency department from another hospital , was necrotic and purulent , gangrene of his left lower extremity .
+The patient is status post a revascularization procedure and amputation of his left great toe at outside hospital about a year ago .
+The patient started developing a breakdown of his amputation stump of his toe .
+This was not managed appropriately and consequently progressed into a massive infection of his right lower extremity with gas in the wound as well as purulence draining from the wound and as well as necrotic tissue .
+The patient was started on antibiotics , namely Zosyn and he was taken to the OR on **DATE[Aug 20 2007] and underwent a guillotine amputation of his left lower extremity .
+**NAME[TTT] pus was draining from his dorsal aspect of his foot , tracking down from the proximal aspect .
+The wound was left open and he was taken back to the OR on **DATE[Aug 24] for revision and further debridement .
+More tissue was taken out up to healthy tissue and the wound was not closed at the time .
+The patient was transferred to the floor in good condition .
+On **DATE[Aug 29] , the patient underwent an above - knee amputation of his left lower extremity to viable tissue .
+Postoperatively the patient did well .
+His white count did not go up .
+He was on IV Vanco which was discontinued two days prior to his discharge .
+The stump was healing adequately .
+No purulence or drainage from the wound .
+The patient will be transferred in good condition to disposition of rehab and further physical therapy .
+I have asked him to follow up with Dr. **NAME[SSS] or Dr. **NAME[ZZZ] in one month .
+TRANSFER MEDICATIONS :
+(1) Lopressor 25 mg p.o. b.i.d.
+(2) Aspirin 81 mg p.o. q. day
+TRANSFER INSTRUCTIONS :
+(1) Regular diet .
+(2) Physical therapy and rehabilitation .
+___________________________________
+**NAME[YYY]
+**NAME[ZZZ] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+IN/pap
+D :
+**DATE[Sep 01 2007] 13:18:21
+T :
+**DATE[Sep 01 2007] 13:22:39
+R :
+**DATE[Sep 01 2007] 13:22:39/pap
+Job ID :
+371167/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , RRR] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Sep 06 2007] 09:06:40 AM

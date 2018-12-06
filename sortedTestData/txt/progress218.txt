@@ -1,0 +1,49 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M. ZZZ] , M.D.
+ADMISSION DATE :
+**DATE[Feb 12 2007]
+EVALUATION DATE :
+**DATE[Apr 03 07]
+VENTILATOR MANAGEMENT NOTE
+I am managing this **AGE[in 60s]- year - old female with respiratory and renal failure after external wound debridement and pectoralis flaps .
+Mrs. **NAME[AAA] is awake and alert this morning .
+Yesterday , she was able to go from 9 a.m. till 9 p.m. on 10 cm of water pressure support .
+After that , I rested her on assist control .
+Overnight , her peak airway pressures , minute ventilation , and gas exchange have been adequate .
+She does not have a chest x-ray today .
+I have her out of bed into a chair and I have placed her back on 10 cm of water pressure support with a plan to let her go for as long as tolerated today before resting her back on AC .
+She is finishing up a course of cefepime and vancomycin for her __________ .
+Clinically , she is improving .
+Her white count is stable and she has been afebrile .
+I have her on an ACE inhibitor and Coreg for her ischemic heart disease .
+I have increased her tube feeds slightly .
+She has stress ulcer and DVT prophylaxis .
+Of note , she has a significantly elevated TSH level with a normal T4 which has been confirmed by a repeat thyroid function test .
+I suspect that she is not absorbing her p.o. Synthroid well in the setting of her tube feeding .
+I have asked for Endocrinology to see if they have any other further input as well .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Apr 03 2007] 19:20:34
+T :
+**DATE[Apr 03 2007] 20:04:41
+R :
+**DATE[Apr 03 2007] 20:04:41/bab
+Job ID :
+412405/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 03 2007] 09:49:18 AM

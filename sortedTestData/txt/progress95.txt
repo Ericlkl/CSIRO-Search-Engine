@@ -1,0 +1,174 @@
+Progress **INSTITUTION
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] M
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 70s] years
+Sex :
+Female
+DOB :
+**DATE[Jun 1 1937]
+Author :
+**NAME[VVV , UUU M]
+Health Status
+Current Medications :
+Current medication administration orders
+Normal Saline Flush ( SODIUM CHLORIDE 0.9% FLUSH 10 ML SYR ) , 1 mL , Solution , IV , PRN , Other ( enter in comments ) , Routine ,
+**DATE[Jun 03 07] 21:12:00
+Normal Saline Flush ( SODIUM CHLORIDE 0.9% FLUSH 10 ML SYR ) , 1 mL , Solution , IV , Q8H , Routine ,
+**DATE[Jun 03 07] 22:00:00
+balsam Peru / castor oil / trypsin topical ( Xenaderm ) ( XENADERM OINTMENT 60 GM ) , 1 Application , Oint , Topically , TID , PRN , Other ( enter in comments ) , Routine ,
+**DATE[Jun 03 07] 18:25:00 ,
+Special Instructions : to stage 2 coccyx emollients , topical ( Sween Cream 60 gm ) ( SWEEN CREAM 60 GM ) , 1 Application , Cream , Topically , BID ,
+**DATE[Jun 03 07] 21:00:00
+potassium chloride 20 mEq + Sodium Chloride 0.45% 1000 mL , 1000 mL , IV , Routine ,
+**DATE[Jun 02 07] 15:55:00 ,
+100 mL / hr , Administer Over : 10.1 HR azithromycin ( AZITHROMYCIN 250 MG TABLET ) , 250 mg , Tab , By Mouth , Daily , Routine ,
+**DATE[Jun 03 07] 9:00:00 ,
+4 Day ( s ) ,
+**DATE[Jun 06 07] 9:00:00
+heparin ( HEPARIN 5000 U / ML VIAL 1 ML ) , 5,000 Unit ( s ) , Solution , subQ , Q12H , Routine ,
+**DATE[Jun 02 07] 15:00:00 insulin regular ( Regular Insulin Sliding Scale Low ) ( INSULIN HUMAN REG 100 U / ML 10 ML VIAL ) , 2 - 12 Unit ( s ) , Injection , subQ , ACandHS , Routine ,
+**DATE[Jun 02 07] 16:00:00
+hydrochlorothiazide - lisinopril ( Prinzide 12.5 mg - 20 mg oral tablet ) ( ZESTORETIC 20 / 12.5 MG TABLET ) , 1 tab ( s ) , Tab , By Mouth , Daily , Routine ,
+**DATE[Jun 02 07] 14:48:00
+pioglitazone ( Actos ) ( PIOGLITAZONE 15 MG ) , 15 mg , Tab , By Mouth , Daily , Routine ,
+**DATE[Jun 03 07] 13:51:00
+aspirin ( ASPIRIN 81 MG ENTERIC COATED ) , 81 mg , Ec tab , By Mouth , Daily , Routine ,
+**DATE[Jun 02 07] 14:44:00
+atorvastatin ( Lipitor ) ( ATORVASTATIN 10 MG TAB ) , 10 mg , Tab , By Mouth , At Bedtime , Routine ,
+**DATE[Jun 02 07] 22:00:00
+metoprolol ( Lopressor ) ( METOPROLOL TART 25MG TAB ) , 25 mg , Tab , By Mouth , BID , Routine ,
+**DATE[Jun 02 07] 18:00:00
+Current prescriptions / home medications
+hydrochlorothiazide - lisinopril ( Prinzide 12.5 mg-20 mg oral tablet ) , 1 tab ( s ) By Mouth Daily
+3 Refill ( s )
+3 Tot. Refills
+pioglitazone ( Actos 30 mg oral tablet ) , 1 tab ( s ) By Mouth Daily
+3 Refill ( s )
+3 Tot. Refills
+aspirin , 81 mg By Mouth Daily
+0 Refill ( s )
+0 Tot. Refills
+atorvastatin ( Lipitor ) , 10 mg By Mouth Daily # 30
+0 Refill ( s )
+0 Tot. Refills
+metoprolol , 25 mg By Mouth BID # 60
+0 Refill ( s )
+0 Tot. Refills
+Subjective
+Pt seen and examined .
+Overall , pt feeling slightly better this AM .
+Pt is coughing more this morning now that her congestion is starting to loosen up .
+Pt denies CP / SOB / lightheadedness / palpitations / dizziness .
+Denies having the sensation of a racing heartbeat .
+Pt did not ambulate with PT yesterday because she was at a test at the time of the PT visit .
+Pt denies N / V / D .
+Had 1 BM yesterday .
+Denies other complaints at this time .
+Physical Examination
+Vitals :
+36.4 , 103 , 20 , 145/79 , 94% RA
+Gen :
+AAO x 3 .
+NAD .
+Pleasant .
+Looks more alert
+Heent :
+Neck supple .
+trachea midline .
+No JVD .
+Heart :
+RRR .
+S1S2 Normal .
+No M / R / T
+Lungs :
+Rhonchi Bilaterally
+Abdomen :
+BS x 4 , normoactive .
+soft , **INITIALS .
+No G / R
+Ext :
+No C / C / E .
+1+ distal pulses
+Results Review
+General results
+New results :
+Results New ( never reviewed )
+**DATE[Jun 3 2007] 6:00 PM
+D-Dimer , Quant , ELISA ( R/O PE and DVT )
+1102 ng / mL High
+**DATE[Jun 3 2007] 8:53 AM
+Hgb A1C 6.2 High
+TSH 1.27 uIU / mL
+Most recent results
+All :
+ALLRESLTSECT
+**DATE[Jun 3 2007] 4:40 PM
+Echo Comp
+ECCOM
+( Preliminary )
+Echocardiogram **DATE[Jun 4 07] - EF 50-55% ; aortic sclerosis , mild mitral and tricuspid insufficiency .
+No pericardial effusion
+Chest CT - PE Protocol **DATE[Jun 4 07] - preliminary negative for PE .
+Final report pending at this time
+EKG **DATE[Jun 4 07] - Sinus Tacchycardia with non - specific St - T wave changes
+Plan
+Disposition
+1. Sinusitis
+- on Day 3 of Zithromax .
+Feeling better today .
+- congestion loosening .
+Pt coughing more as a result
+2. s/p Fall
+- main concern at this time is patient safety at home
+- would favor more aggressive PT with a possible evaluation for acute rehab .
+Pt would benefit from acute rehab
+3. Borderline Tacchycardia
+- pt 's HR fluctuating between high 90 's and high 110 's
+- no evidence for acute cause such as sepsis , DVT / PE , CVA , A-fib , or orthostasis
+- would recheck orthostatics today , including an assessment of HR during this measurement
+- Etiology at this point likely the fact that the pt has not been taking her Lopressor for 6 months
+- if orthostatics negative , may favor increasing Lopressor to 50 BID
+4. DM ( 141 , 170 , 124 , 163 )
+- HgBA1C = 6.2 -- Excellent
+- pt started on Actos 15 Daily yesterday .
+No problems with tolerance yet .
+- In light of prior non-compliance and excellent A1C , may even favor decreasing Actos to 7.5 mg Daily
+5. HTN
+- on prinizide 12.5 / 20 and metoprolol 25 BID currently
+- BP slightly higher today than yesterday .
+If orthostatics negative , may favor increasing Lopressor to 50 BID
+6. Hyperlipidemia
+- on lipitor 10 mg currently .
+Lipid panel pending
+7. CAD
+- stable on ASA
+8. Placement
+- pt safety is the main concern at this point .
+- would favor more aggressive PT / OT today .
+Pt has not ambulated since admission
+- pt would benefit from acute rehab / gait training / home safety evaluation .
+Would consider evaluation to see if pt qualifies for inpatient rehab on 4A
+Addendum by **NAME[XXX , WWW] on **DATE[Jun 04 2007] 10:41 AM
+Pt was seen and examed by me .
+Case discussed with medical student of **NAME[CCC VVV].
+Agree with the plan of above .
+- recheck orthostatic BP + HR , if neg. increase b-block to 50 bid for her hr controlled .
+- Waiting for sw and pt final report .
+trying to move her to acute reh. in 4A .
+R2 resident .
+**NAME[WWW XXX]
+Perform by **NAME[VVV , UUU] J
+( on **DATE[Jun 04 2007] 09:44 )
+Sign by **NAME[VVV , UUU] J
+( on **DATE[Jun 04 2007] 09:44 )
+VERIFY by **NAME[VVV , UUU] J
+( on **DATE[Jun 04 2007] 09:44 )
+Sign by **NAME[XXX , WWW]
+( on **DATE[Jun 04 2007] 10:41 )
+**NAME[DDD : VVV , UUU] J
+( on **DATE[Jun 04 2007] 09:44 )
+Modify by **NAME[XXX , WWW]
+( on **DATE[Jun 04 2007] 10:41 )

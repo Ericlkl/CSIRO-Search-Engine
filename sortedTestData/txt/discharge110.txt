@@ -1,0 +1,36 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Jul 05 2007]
+Discharged :
+**DATE[Jul 10 2007]
+Dict :
+**NAME[ZZZ , YYY]
+Attend :
+**NAME[ZZZ , YYY]
+The patient was brought to the same day admitting area for elective total knee arthroplasty .
+The patient has end - stage osteoarthritis of her knees , left greater than right .
+She was admitted for elective total knee arthroplasty of the left knee using computer navigation which was uneventful .
+The patient 's past medical history is remarkable for hypertension , tubal ligation , previous right knee arthroscopy , and herniorrhaphy .
+She weighs 280 pounds and is 5 feet 4 inches .
+The patient 's laboratories were stable throughout the postoperative course .
+She required no special intervention .
+She had a complaint of some buttock pain thought to be possibly related to her catheter site for pain blocks .
+The patient was stable for discharge to home at the end of the admission with a dry and clean wound without sign of infection .
+She was to return in follow up approximately 3 weeks .
+She had negative ultrasounds of her calf before discharge .
+______________________________
+**NAME[YYY ZZZ] , MD
+HS Job # 113339 / 38374 / 36132
+SHY # **ID-NUM
+D :
+**DATE[Jul 28 2007] 14:25
+T :
+**DATE[Jul 29 2007] 06:33
+**CARBON-COPY

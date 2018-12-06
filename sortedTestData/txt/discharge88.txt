@@ -1,0 +1,66 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Aug 08 2007]
+Discharged :
+**DATE[Aug 14 2007]
+Dict :
+**NAME[WWW , VVV]
+Attend :
+**NAME[ZZZ , YYY]
+CONSULTS :
+**NAME[UUU TTT] , MD
+DIAGNOSTIC TESTING PERFORMED :
+Echocardiogram on **DATE[Aug 10 2007] .
+ADMITTING DIAGNOSES :
+1. Pneumonia .
+2. Chronic obstructive pulmonary disease exacerbation .
+3. Mild congestive heart failure , chronic .
+DISCHARGE DIAGNOSES :
+1. Pneumonia .
+2. Chronic obstructive pulmonary disease exacerbation .
+3. Mild congestive heart failure , chronic .
+BRIEF HISTORY OF PRESENT ILLNESS :
+The patient is an **AGE[in 80s]- year - old male with a known history of COPD and coronary artery disease , who presented to an outside hospital with symptoms weakness , production of white sputum , chills without documented fever , general anorexia , dyspnea , and increasing oxygen requirement over his baseline of 2 L diagnosed by x-ray with pneumonia and transferred to **INSTITUTION for further management .
+The patient was believed to have a remote history of MRSA which was never confirmed by our review of his records dating back at least 2 years .
+HOSPITAL COURSE :
+1. Pneumonia :
+The patient was treated initially with ceftriaxone and azithromycin based on his history of MRSA .
+He was also given vancomycin , starting at the outside hospital , and this was continued here and simplified to moxifloxacin on which he was continued for the remainder of his hospitalization and discharged on the last few days of oral moxifloxacin .
+His initial oxygen requirement was 6 L , and this was gradually tapered down overtime , but he still had a baseline requirement of 2 L which was present prior to the hospitalization and was sent home on continued home oxygen .
+He did have still increased requirements with exercise and exertion to 3 to 4 L ; however , this was not felt to be an issue in terms of discharge .
+2. COPD :
+The patient was given a burst of IV steroids , Solu-Medrol which was then converted over to oral steroids prior to discharge .
+He was also treated with bronchodilators in order to manage his symptoms of bronchospasm .
+3. Coronary artery disease and congestive heart failure :
+As mentioned , he was seen by Dr. **NAME[TTT] , who recommended taking an echocardiogram .
+This echocardiogram showed mildly decreased LV function and septal dyskinesia secondary to his left bundle branch block .
+The degree of dysfunction was considered to be mild .
+The patient was also optimized on his CHF management to include an ACE inhibitor , a statin , and a low-dose beta blocker .
+No major cardiac events during the hospitalization , and the patient was discharged on these new medications .
+4. Deconditioning :
+Once the patient 's pneumonia began to resolve , he regained some of his strength and was able to tolerated some mild physical therapy .
+He was not felt to qualify for acute rehabilitation and was eventually returned home with home health care .
+DISCHARGE INSTRUCTIONS :
+The patient 's discharge instructions were to have moderate activity with alternating periods of rest and activity .
+He was to continue on a low-salt diet , moderate amounts of fluid , and his respiratory care was to allow up to 4 L of oxygen for the first 2 days of home care , then to be tapered back down to his previous baseline of 2 L .
+DISCHARGE MEDICATIONS :
+Aspirin 81 mg p.o. daily , clopidogrel 75 mg p.o. daily , Advair 500/50 one puff b.i.d. , isosorbide mononitrate 30 mg p.o. daily , Synthroid 150 mcg p.o. daily , lisinopril 5 mg p.o. daily , moxifloxacin 4 mg p.o. daily for 6 days from the day of discharge making a total of 10 days , multivitamin with minerals 1 capsule p.o. daily , artificial tears 1 drop to both eyes every 6 hours , and prednisone 40 mg p.o. once daily .
+He was to follow up with his PCP 1 week following the discharge to determine the rate at which he should be weaned off the prednisone , Combivent inhaler was to be given 4 times daily inhaled .
+As mentioned , PCP followup with Dr. **NAME[SSS RRR] in **PLACE , Pennsylvania .
+He was to have a chest x-ray 1 month following discharge .
+______________________________
+**NAME[VVV WWW] , resident
+HS Job # 317540 / 37775 /
+SHY # **ID-NUM
+D :
+**DATE[Sep 06 2007] 16:22
+T :
+**DATE[Sep 06 2007] 18:17
+**CARBON-COPY

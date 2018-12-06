@@ -1,0 +1,79 @@
+**INSTITUTION
+TRAUMA
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Feb 05 2007]
+DISCHARGE DATE :
+**DATE[Feb 12 2007]
+DISCHARGE DIAGNOSIS ( ES ) :
+1. Status post motor vehicle collision .
+2. Status post exploratory laparotomy with repair of mesenteric defects x 2 .
+3. Status post removal of foreign bodies from facial laceration and primary closure .
+HOSPITAL COURSE :
+The patient is a **AGE[in 40s]- year - old male who was involved in a motor vehicle collision versus a building , and arrived to **INSTITUTION on **DATE[Feb 5 2007] as a level-1 trauma .
+The patient was intubated upon arrival with positive loss of consciousness .
+However , the patient was responsive to pain on presentation .
+Upon arrival , the patient was seen and evaluated by the Trauma Surgery Team and initial injuries were found to be notable for small facial lacerations .
+The patient underwent a full CT scan of the chest , abdomen , and pelvis due to the mechanism of injury .
+The patient was found to have 2 mesenteric defects and hematomas on CT scan .
+Early in the morning on **DATE[Feb 6 2007] , the patient was taken to the operating room where he underwent exploratory laparotomy as well as repair of 2 mesenteric defects .
+The patient tolerated the procedure well without complication .
+Following the procedure , the patient remained intubated and was transferred to the intensive care unit for further hemodynamic monitoring .
+While in the ICU on **DATE[Feb 7 2007] , the patient was seen in consultation by the Facial Surgery Service and the lacerations on the patient 's face were closed with absorbable suture .
+On **DATE[Feb 9 2007] , the patient was felt stable for extubation .
+The patient tolerated this well and later on in the evening the patient was felt stable for transfer to a monitor bed on the regular floor .
+Upon arrival to the floor , the patient 's Foley catheter was discontinued .
+PCA pain medications were discontinued .
+Intravenous fluids were also discontinued .
+The patient 's diet was advanced as tolerated .
+The patient was out of bed and ambulatory with physical and occupational therapy .
+The patient was voiding urine spontaneously .
+The patient tolerated the advancement of his diet from clears to regular diet without complication .
+Throughout the remainder of the hospital course , the patient remained afebrile and hemodynamically stable .
+The patient 's abdominal incision was clean , dry , and intact without signs of infection as well as facial lacerations remained clean , dry , and intact with no drainage or signs of infection .
+Of note , during this admission , the patient 's left upper extremity was found to have notable serous blisters and tense bullae .
+The patient was seen by the Dermatology Service , and this was felt to be due to a particular matter from airbag deployment causing a second degree burns of left upper extremity forearm .
+The patient underwent Doppler Venous scan of the extremities , which was negative for DVT .
+During this admission , the patient also did not have IV access in the left upper extremity that could have led to an infiltrate .
+The patient was continued on bacitracin ointment , Xeroform gauze , and wrapped in Kerlix .
+The patient was also started on Ancef IV for possible infection of left upper extremity .
+On **DATE[Feb 12 2007] , the patient was seen by the Trauma Surgery Service and flet stable for discharge to home .
+DISCHARGE INSTRUCTIONS :
+The patient is being discharged to home .
+He was instructed to follow up with the **INSTITUTION in 1 to 2 weeks .
+Phone number **PHONE .
+The patient was also instructed to follow up with the **INSTITUTION in 1 week for further evaluation .
+The patient was instructed to return to the ED or call **NAME[VVV] MD for fever , chills , nausea or vomiting , intolerable pain , signs of infection of any of his incisions or his left upper extremity .
+ACTIVITY :
+Ad lib .
+DIET :
+Regular .
+DISCHARGE MEDICATIONS :
+1. Colace 100 mg p.o. b.i.d.
+2. Vicodin 5/500 mg tabs 1 to 2 tabs p.o. q.4-6 hours p.r.n.
+3. Keflex 500 mg p.o. q.6 hours x 5 days .
+___________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Feb 12 2007] 12:51:02
+T :
+**DATE[Feb 12 2007] 15:13:59
+R :
+**DATE[Feb 12 2007] 15:13:59/ja
+Job ID :
+343874/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , UUU M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Feb 22 2007] 12:49:51 PM

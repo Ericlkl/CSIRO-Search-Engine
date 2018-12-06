@@ -1,0 +1,124 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Mar 14 2007]
+Discharged :
+**DATE[Mar 20 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+PRIMARY CARE PHYSICIAN :
+**NAME[YYY ZZZ] , MD
+ADMISSION DIAGNOSES :
+1. Right lower lobe pneumonia .
+2. Syncopal event .
+3. Gait ataxia .
+4. Urinary incontinence .
+DISCHARGE DIAGNOSES :
+1. Right lower lobe pneumonia .
+2. Congestive heart failure exacerbation .
+3. Chronic obstructive pulmonary disease exacerbation .
+4. New oxygen requirements .
+5. Urinary tract infection .
+SECONDARY DIAGNOSES :
+1. Multiple transient ischemic attacks .
+2. Chronic atrial fibrillation on Coumadin .
+3. History of hypothyroidism .
+4. Hypertension .
+5. Diffuse vascular disease .
+6. Coronary artery disease .
+7. Carotid disease .
+8. Peripheral vascular disease .
+9. Vascular dementia .
+10. Interstitial fibrosis .
+11. Gastroesophageal reflux disease .
+12. Sick sinus syndrome with symptomatic bradycardia status post pacemaker placement in **DATE[Oct 2006] .
+13. Benign prostatic hyperplasia .
+14. Hearing loss .
+15. History of tobacco abuse with 3 packs per day history .
+16. Peripheral neuropathy .
+CONSULTS :
+1. Cardiology with Dr. **NAME[VVV] .
+2. Home care consult .
+3. PT .
+4. OT .
+IMPORTANT RESULTS :
+1. Chest x-ray portable on **DATE[Mar 13 2007] , showing cardiomegaly , pacer , and pathy airspace opacity at the right base mostly likely representing atelectasis although pneumonia or aspiration cannot be excluded .
+2. **DATE[Mar 14 2007] , chest x-ray PA and lateral showing a probable interval increased airspace opacity in the right middle and lower zones which could represent pneumonia or edema .
+3. Chest x-ray PA and lateral on **DATE[Mar 17 2007] , which showed cardiomegaly , small bilateral pleural effusion , and early left lobe infiltrate .
+4. EKG on **DATE[Mar 14 2007] , showing atrial fibrillation with PVC s , right bundle-branch block , and left anterior hemiblock .
+5. Echocardiogram on **DATE[Mar 19 2007] , showing normal right ventricular size and function .
+LV ejection fraction estimated at 35 % to 40 % , nondilated left ventricle with moderately impaired systolic function and regional wall motion abnormalities consistent with coronary artery disease , moderately severe mitral regurgitation with enlargement of the left atrium , and aortic sclerosis with moderate aortic regurgitation .
+6. B-type natriuretic peptide on **DATE[Mar 18 2007] , was 463 , on **DATE[Mar] was 294 .
+**INSTITUTION COURSE :
+Mr. **NAME[AAA] is an **AGE[in 80s]- year - old gentleman with a history significant for multiple TIA s; chronic atrial fibrillation , on Coumadin ; coronary artery disease ; and COPD who presented with increased wheezing and shortness of breath .
+He had not had any fevers , however , had had a persistent cough .
+On admission , he had a chest x-ray which showed a questionable right lower lobe pneumonia .
+It actually had patchy airspace opacity where atelectasis , pneumonia , or aspiration could not be ruled out .
+He had been started on ceftriaxone and azithromycin .
+He developed fever after admission to 38.4 .
+Urinalysis showed trace leukocyte esterase , 11 to 20 wbc 's , and 3 + bacteria .
+His urine culture eventually grew out enterococcus , so his ceftriaxone was discontinued , and he was started on Unasyn .
+Legionella urinary antigen was negative .
+Blood cultures were also negative .
+Subsequent chest x-rays on day 2 and day 5 of admission showed increasing cephalization , what looked like early congestive heart failure .
+Her B-type natriuretic peptide **DATE[Mar 18 2007] , was 463 .
+A repeat on **DATE[Mar 19 2007] , was 294 .
+He was started on 40 mg of IV Lasix once daily , that was switched to oral 40 mg prior to discharge .
+He was seen by Dr. **NAME[VVV] who changed his metoprolol to Coreg and recommended an ACE inhibitor .
+He had an echocardiogram which showed an LV ejection fraction of 35 % to 40 % with moderately severe mitral regurgitation , aortic sclerosis with moderate aortic regurgitation .
+However , he had a nondilated left ventricle with moderately impaired systolic function and regional wall motion abnormalities .
+His EKG on admission showed atrial fibrillation with PVC s and aberrantly conductive complexes that was unchanged from prior .
+His troponin was also negative on admission .
+Prior to discharge , the patient improved symptomatically , however , continued to have diffuse wheezes and some rhonchi with occasional wheezes .
+He will be discharged to home on round - the - clock DuoNeb treatment .
+He also had an oxygen requirement during the hospitalization initially on 4 L of oxygen .
+He was able to be weaned down to 3 L .
+His resting pulse oximeter was 2 to 3 L while at exercise required up to 4 L of oxygen .
+Home nursing was consulted , and he will be getting home oxygen as well as PT and OT at home .
+During hospitalization , Mr. **NAME[AAA] developed a supratherapeutic INR up to 4.8 .
+On admission , he was 1.6 .
+At home , he had been getting 7.5 mg of Coumadin , had been loaded with 10 mg on admission .
+However , his INR became supratherapeutic .
+It was held for 2 days , and on discharge , his INR was 2.0 .
+He was discharged home on 2 mg of Coumadin .
+DISCHARGE MEDICATIONS :
+1. Tylenol 650 mg p.o. q.6 h. p.r.n.
+2. DuoNebs q.4 h. around the clock while awake .
+3. Norvasc 10 mg p.o. q. day .
+4. Augmentin 500 mg p.o. q.12 h. for an additional 3 days until **DATE[Mar 23 2007] , for a total of 10 - day course .
+5. Aspirin 81 mg p.o. q. day .
+6. Coreg 6.25 mg p.o. b.i.d.
+7. Colace 100 mg p.o. b.i.d.
+8. Folic acid 1 mg p.o. q. day .
+9. Lasix 40 mg p.o. q. day .
+10. Neurontin 100 mg p.o. q.a.m. and 300 mg p.o. q.p.m.
+11. Synthroid 25 mcg p.o. q. day .
+12. Protonix 40 mg p.o. q. day .
+13. Paroxetine 10 mg p.o. q. day .
+14. Dilantin Kapseals 100 mg p.o. t.i.d.
+15. K-Dur 10 mEq p.o. q. day .
+16. Zocor 10 mg p.o. nightly .
+17. Coumadin 5 mg p.o. nightly .
+FOLLOWUP AND INSTRUCTIONS :
+1. The patient will be discharged to home with home oxygen .
+He will need 2 L at rest and 4 L with exercise .
+He will also continue with DuoNebs every 4 hours while awake for 2 days and every 6 hours for additional 2 days as needed .
+2. Follow up with Dr. **NAME[ZZZ] within the week .
+3. Heart healthy diet .
+______________________________
+**NAME[WWW M XXX] , Resident
+HS Job # 845712 / 38373 / 32948
+SHY # **ID-NUM
+D :
+**DATE[Mar 20 2007] 10:40
+T :
+**DATE[Mar 21 2007] 19:35
+**CARBON-COPY

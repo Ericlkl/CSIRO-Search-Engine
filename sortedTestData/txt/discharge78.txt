@@ -1,0 +1,119 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Sep 20 2007]
+Discharged :
+**DATE[Sep 23 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+CONSULTS :
+GI , Dr. **NAME[VVV] .
+PROCEDURES :
+1. Chest x-ray done on **DATE[Sep 20 2007] , showed an extensive consolidation in the left mid lung .
+Reevaluation would be appropriate after a course of antibiotics to ensure that the consolidation resolved and exclude a postobstructive pneumonia .
+2. A repeat chest x-ray frontal and lateral views done on **DATE[Sep 21 2007] , still revealed extensive consolidation in the left upper lobe with air bronchograms compatible with pneumonia .
+Again , a reevaluation was recommended .
+3. A CT scan of the chest , and abdomen and pelvis done on **DATE[Sep 22 2007] , showed the following :
+A large area of consolidation involving nearly the entire left upper lobe compatible with pneumonia .
+There is also a minimal consolidation in the left lower lobe as well as a left effusion and small right effusion .
+There is no discrete mass seen .
+The abdomen showed a small amount of free fluid and no intra-abdominal mass .
+There is a small amount of pelvic free fluid .
+There is a heterogenous attenuation within the bladder , presumably representing a clot .
+There is no discrete mass identified .
+HOSPITAL COURSE :
+The patient is a **AGE[in 50s]- year - old African-American female with a past medical history significant only for diabetes who now presents with fever of about 1 week 's duration associated with chills , and generalized weakness , poor appetite and a dry cough ,
+She reports a weight loss of about 20 pounds over the past month and some night sweats .
+She has a smoking history of about 25 to 30 years of less than 1/2 pack per day .
+She denies alcohol and drug use .
+On examination , the patient appeared cachectic , but not in distress .
+Her vital signs on admission were blood pressure of 174/100 , which later improved spontaneously to 136/76 .
+She had an initial heart rate of 117 , temperature of 37.8 , O2 sat 97% at room air .
+She had dry mucous membranes .
+There were no lymphadenopathies noted in the neck .
+Cardiovascular exam was normal .
+Examination of the lungs was clear with decreased breath sounds over the left lung field .
+Abdominal exam was unremarkable .
+She had no edema and she had full and equal pulses .
+Laboratories showed normal electrolytes .
+BUN of 8 and creatinine 0.6 .
+Glucose was elevated at 377 .
+CBC showed the following :
+Elevated WBC at 14.4 with a left shift .
+Hemoglobin was 12.2 , hematocrit of 36.5 .
+The patient had an albumin of 2.5 , total protein 5.1 , bilirubin 0.7 , ALT 89 , AST 164 , and alkaline phosphatase of 195 .
+Initial frontal chest x-ray was read as left upper lobe pneumonia .
+Urinalysis done showed ketones 3+ , blood 1+ , protein 1+ , glucose 3+ .
+It was negative for nitrite and leukocyte esterase .
+So this patient was admitted as a case of pneumonia and was started on IV azithromycin and Rocephin .
+She was given antipyretics for fever and was hydrated initially .
+The following issues were addressed during her hospital stay :
+1. Pneumonia :
+As mentioned , the patient was given IV antibiotics .
+She had a T-max of 39.1 which was treated with antipyretics .
+She was also given drug aerosol treatments as needed .
+By the second day , the patient remained afebrile , and was switched to p.o. antibiotics which she tolerated well .
+Blood cultures showed no growth .
+Legionella urine antigen was also negative .
+Because of the possible postobstructive etiology in the chest for the pneumonia , chest CT scan was done which was negative for malignancy .
+On discharge , the patient remained afebrile with improved WBC and stable vital signs and no O2 requirement .
+The plan was for her to complete the course of oral antibiotics .
+2. Dehydration :
+The patient came in dehydrated and was given IV fluids for hydration and was noted to have improved p.o. intake throughout the rest of her hospital stay .
+3. Diabetes mellitus :
+The patient has not been on any medications .
+She reports a 10 year history of diabetes .
+She was initially put on metformin on admission , but this was changed to glyburide since the patient had to undergo a CT scan .
+She was also put on insulin sliding scale coverage .
+She also received Lantus .
+Glucose had on and off control .
+HbAIc showed 15.3% .
+On insulin use , this was discussed with the patient .
+She deferred this and opted to stay on oral medications first .
+She was also started on aspirin and an ACE inhibitor for renal protection .
+She was given an ADA diet during her hospital stay .
+4. Low MCV anemia :
+Iron studies showed an iron of 21 , TIBC of 103 , iron saturation percent of 20 .
+A stool guaiac was ordered , but the patient was not able to give any specimen for this .
+GI was consulted to further evaluate for possible GI blood loss ; however , GI will hold off further evaluation including endoscopy and colonoscopy until the pneumonia is cleared .
+5. Elevated liver function tests :
+On admission , she had elevated liver function tests .
+An alcohol level was taken which did not show any evidence of alcohol .
+Urine toxicology screen was only positive for marijuana .
+Hepatitis panel was negative .
+Lipase was normal .
+She had a GGPT of 66 .
+The elevated liver function may still be related to an acute infection , but because of the presentation of weight loss with anemia and sweating , an oncologic etiology was considered .
+Again , GI was on board to evaluate this .
+A CEA was taken which was normal .
+On the third hospital day , the patient was deemed stable for discharge .
+DISCHARGE MEDICATIONS :
+Were the following :
+1. Aspirin 81 mg p.o. daily .
+2. Glyburide 10 mg p.o. with breakfast .
+3. Metformin 500 mg p.o. b.i.d.
+4. Lisinopril 2.5 mg p.o. daily .
+5. Azithromycin 500 mg p.o. daily for 7 days .
+FOLLOWUP :
+The patient is to follow up with Dr. **NAME[XXX] at the **INSTITUTION on Tuesday , **DATE[Sep 30 2007] .
+ADDENDUM :
+A lipid panel was also taken which showed triglycerides of 174 , cholesterol of 96 , LDL of 48 , HDL 13 and VLDL of 35 .
+Because of the CT scan finding in the pelvis of heterogenous attenuation within the bladder which might represent a clot , a urine cytology was ordered , and is not yet available on discharge .
+This should be followed after the patient is discharged .
+______________________________
+**NAME[WWW M XXX] , M.D.
+HS Job # 145900 / 41855 /
+SHY # **ID-NUM
+D :
+**DATE[Sep 30 2007] 00:32
+T :
+**DATE[Sep 30 2007] 08:16
+**CARBON-COPY

@@ -1,0 +1,47 @@
+Progress **INSTITUTION
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] R
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 40s] years
+Sex :
+Female
+DOB :
+**DATE[Jan 29 1959]
+Author :
+**NAME[XXX , WWW M]
+Subjective
+**NAME[VVV] CRNP NOTE
+S :
+Asked to see patient for low BP , 83/41 .
+Pt without symptoms .
+BP meds held this am .
+Reports nausea with vomiting , last emesis last night after CT
+PO contrast .
+Has been receiving high dose diuretics for edema .
+BUN 56
+creat 6.6
+baseline 1.7
+BNP 20
+O :
+Alert awake and oriented .
+No distress at this time .
+Lungs with diminished aeration throughout .
+Heart with RRR
+No MRG
+Abd. rotund .
+Soft NT
+B LE with trace edema
+A/P :
+Hypotension related to hypovolemia
+1. IV bolus .
+recheck VS
+2. Discuss case with Dr. **NAME[UUU]
+**NAME[WWW XXX]. CRNP
+Perform by **NAME[XXX , WWW] H
+( on **DATE[Jun 31 2007] 10:28 )
+Sign by **NAME[XXX , WWW] H
+( on **DATE[Jun 31 2007] 10:28 )
+VERIFY by **NAME[XXX , WWW] H
+( on **DATE[Jun 31 2007] 10:28 )

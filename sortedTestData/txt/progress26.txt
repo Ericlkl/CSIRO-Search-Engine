@@ -1,0 +1,169 @@
+Progress Note
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 30s] years
+Sex :
+Male
+DOB :
+**DATE[Sep 24 1969]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Current Medications : medication administration orders chlordiazepoxide ( Librium )( CHLORDIAZEPOXIDE 25 MG CAP ) , 25 mg , Cap , By
+Mouth , QID , PRN , For Withdrawal ( Alcohol ) , Routine ,
+**DATE[Jul 17 07] 9:46:00
+folic acid ( FOLIC ACID 1 MG TABLET ) , 1 mg , Tab , By Mouth , Daily , Routine ,
+**DATE[Jul 17 07] 9:29:00
+thiamine ( THIAMINE HCL 100 MG TABLET ) , 100 mg , Tab , By Mouth , Daily , Routine ,
+**DATE[Jul 17 07] 9:28:00
+Normal Saline Flush ( SODIUM CHLORIDE 0.9% FLUSH 10 ML SYR ) , 3 mL , Solution , IV , Q8H , Routine ,
+**DATE[Jul 17 07] 9:00:00
+spironolactone ( SPIRONOLACTONE 25 MG TABLET ) , 100 mg , Tab , By Mouth , Daily , Routine ,
+**DATE[Jul 17 07] 9:00:00
+pantoprazole ( Protonix ) ( PANTOPRAZOLE ) , 40 mg , IV , Q24H , Routine ,
+**DATE[Jul 17 07] 4:00:00
+magnesium hydroxide ( Milk of Magnesia 8% oral suspension ) ( MAGNESIUM HYDROXIDE SUSP 30 ML ) , 30 mL , Susp , By Mouth , At Bedtime , PRN , For Constipation , Routine ,
+**DATE[Jul 17 07] 3:59:00
+nicotine ( NICOTINE 21 MG PATCH ) , 21 mg , Film , extended release , Topically , Daily , Routine ,
+**DATE[Jul 17 07] 9:00:00
+albuterol - ipratropium ( DuoNeb ) ( ALBUTEROL / IPRATROP 3 MG / 0.5 MG / 3ML ) , 3 mL , Solution , Inhalation , Q2H , PRN , For Wheezing , Routine ,
+**DATE[Jul 17 07] 3:40:00 ,
+Special Instructions :
+***2.5 mg ALBUTEROL + 0.5 mg ATROVENT*** albuterol-ipratropium ( DuoNeb ) ( ALBUTEROL / IPRATROP 3 MG / 0.5 MG / 3ML ) , 3 mL , Solution , Inhalation , QID , Routine ,
+**DATE[Jul 17 07] 3:40:00 ,
+Special Instructions :
+***2.5 mg ALBUTEROL + 0.5 mg ATROVENT*** lisinopril 40 mg , 40 mg , Tab , By Mouth , Daily , Routine ,
+**DATE[Jul 17 07] 9:00:00
+insulin regular ( Regular Insulin Sliding Scale Low ) ( INSULIN HUMAN REG 100 U / ML 10 ML VIAL ) , 2 - 12 Unit ( s ) , Injection , subQ , ACandHS , Routine ,
+**DATE[Jul 17 07] 7:00:00
+Results Review
+General results
+Today 's results :
+ALLRESLTSECT
+**DATE[Jul 17 2007] 6:00 AM
+Temperature Conversion 37.0 Deg C
+Temperature 98.6 Deg F
+Temperature Site Oral
+Pulse 91 BPM
+Respiratory Rate 20
+Systolic BP 123 mmHg
+Diastolic BP 57 mmHg
+Current weight conversion 124.8 kg
+Weight 274.50 lb
+Weight Method Bedscale
+**DATE[Jul 17 2007] 5:40 AM
+Na 130 mEq / L Low
+K 3.7 mEq / L
+Cl 96 mEq / L Low
+CO2 30 mEq / L
+Anion Gap 4.0 Low
+BUN 5 mg / dL Low
+Cr 0.6 mg / dL
+Glucose 88 mg / dL
+Ca 8.1 mg / dL Low
+Ca ( adjusted ) 10.1 ( Modified )
+Ionized Calcium 1.13 mMol / L Low
+Mg 1.3 mg / dL Low
+Phos 4.1 mg / dL
+Albumin 1.7 gm / dL Low
+Total Protein 7.0 gm / dL
+Bili , Total 4.5 mg / dL High
+ALT / SGPT 71 IntUnit / L High
+AST / SGOT 185 IntUnit / L High
+Alk Phos 114 IntUnit / L
+WBC 14.4 X10E+09/L High
+RBC 3.13 X10E+12/L Low
+Hgb 11.2 gm / dL Low
+Hct 33.0 % Low
+MCV 105.4 fL High
+MCH 35.8 pg High
+MCHC 33.9 gm / dL
+RDW 16.6 % High
+MPV 6.8 fL
+Platelets 177 X10E+09/L
+Neutrophils 73 %
+Lymphs 17 %
+Monocytes 8 %
+Eosinophils 1 %
+Basophils 0 %
+ABS Neutrophils 10.5 X10E+09/L High
+ABS Lymphs 2.5 X10E+09/L
+ABS Monocytes 1.2 X10E+09/L
+Abs Eos , auto 0.1 X10E+09/L
+ABS Basophils 0.0 X10E+09/L
+PT 21.1 sec High
+INR 1.8 High
+History of Present Illness
+The patient presents with complaint of :
+It is characterized by Abdominal pain .
+Patient denies N/V/D .
+Patient tolerating a low sodium diet .
+Patient ambulating .
+Patient denies fever , chills , SOB and chest pain .
+Patient denies symptoms of alcohol withdrawal including history of seizures and DT 's..
+Physical Examination
+Constitutional
+Pleasant SWM in NAD .
+Cooperative with the interview .
+Head
+Atraumatic , normocephalic .
+Neck
+Supple with no evidence of adenopathy .
+Heart
+Regular rate .
+No m/r/g 's appreciated .
+Lungs
+CTA-B .
+No w/r/r/appreciated .
+Abdomen
+Abdominal distension with a + fluid wave .
+Reducible left inguinal hernia .
+Normal active bowel sounds .
+Extremities
++1 pedal edema .
+Skin
+Spider angioma - right side of his chest - near his subclavicular area .
+Mental status
+Alert and oriented to person , place and date .
+Articulation and speech
+Clear .
+Coherent .
+Cranial nerves
+Fine hand tremor .
+Impression and Plan
+General Plan
+**AGE[in 30s] year old SWM with a history of alcoholism , DM , HTN , Lone A-Fib who was admitted for ascites .
+1. GI - . Ascites - GI consult .
+Portal Hypertension - patient started on Nadolol
+GERD - Protonix
+2. Cardiac - Htn - continue lisnopril .
+Will follow his K + levels .
+Prolong QT / Lone Afib - cardiology consult .
+Repeat EKG in the AM .
+Echo ordered .
+Will follow up on results .
+3. FEN - Low Na + will fluid restrict and check electrolyte status in the AM .
+Low Ca + - repeat ionized calcium level in the AM
+Low magnesium - Mg + oxide 400 mg PO ordered .
+Will recheck magnesium level in the AM .
+4. Endo - DM - Prandin ordered .
+Will continue to monitor .
+HA1C pending .
+Will follow up on .
+5. ID-H&amp; H trending down .
+Patient remains afebrile .
+Blood cultures pending .
+Will follow up on to r/o SBP .
+Will wait for GI recommendations .
+6. Psych - Patient started on Librium for alcohol withdrawal .
+Patient given folate and thiamine .
+Will check folate and thiamine levels .
+NH3 level was within normal levels .
+7. Dispo - recommend an alcohol rehab treatment program upon discharge .
+**INSTITUTION Intern
+Perform by **NAME[XXX , WWW M] ( on **DATE[Jul 17 2007] 13:53 )
+Sign by **NAME[XXX , WWW M] ( on **DATE[Jul 17 2007] 13:53 )
+VERIFY by **NAME[XXX , WWW M] ( on **DATE[Jul 17 2007] 13:53 )

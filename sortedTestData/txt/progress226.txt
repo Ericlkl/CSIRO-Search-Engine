@@ -1,0 +1,45 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M. ZZZ] , M.D.
+ADMISSION DATE :
+**DATE[Feb 12 2007]
+EVALUATION DATE :
+**DATE[Apr 18 07]
+I am seeing this patient on Critical Care rounds with the house staff .
+I agree with the findings and plan as documented in the house staff note .
+This is a **AGE[in 60s]- year - old woman after sternectomy developed respiratory failure .
+Her active issues include :
+1. Respiratory failure .
+The patient was rested overnight on assist / control , will occasionally tolerate periods of pressure support trials until she develops agitation .
+She is being worked up for placement into a long-term acute care facility .
+2. DVT in the right internal jugular vein .
+She is on heparin infusion , therapeutic at 56.5 .
+Once she has surgical enteral access , she will be placed on Coumadin .
+3. Diarrhea .
+Clostridium difficile toxins are pending at this time .
+Billing code 99232 .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Apr 18 2007] 15:19:48
+T :
+**DATE[Apr 18 2007] 20:48:35
+R :
+**DATE[Apr 18 2007] 20:48:35/klf
+Job ID :
+433029/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Apr 30 2007] 05:33:08 PM

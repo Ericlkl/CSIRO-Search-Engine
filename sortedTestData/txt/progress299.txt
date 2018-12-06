@@ -1,0 +1,76 @@
+DATE :
+TIME:
+**DATE[Jan 18 08]
+8:10 a.m.
+CHIEF COMPLAINT :
+Chills , vomiting and headache for the past 2 days .
+HISTORY OF PRESENT ILLNESS :
+This is a **AGE[in 30s]- year - old white male , with a history of narcotic abuse , who is on methadone for the past 1 years .
+He states that periodically when he is unable to take the methadone p.o. because of gastrointestinal intolerance he will inject it .
+He had been told on numerous occasions by his counselor that this was unacceptable ; however , he continued to do so .
+He states on Tuesday morning , at approximately 5:30 a.m. , he injected his 115 mg dose of methadone and about 45 minutes later he noted chills , vomiting and headache .
+He states he was retching severely and vomited approximately 30 to 40 times , until he even noticed some blood as he was vomiting .
+He states the rest of the day he was unable to get out of bed .
+He was feeling so ill he just laid in bed through to Wednesday and even into Wednesday .
+He continued to feel ill and finally came into the Emergency Department early on Thursday morning .
+In the Emergency Department , he was found to have an elevated white count and some shakiness .
+It was decided he should be admitted to the hospital for further treatment .
+PHYSICAL EXAMINATION :
+VITAL SIGNS :
+On admission , temperature was 98.2  , blood pressure 123/76 , heart rate 69 , respirations 16 , O2 saturation 96% , height 5 feet 6 inches , weight 145 pounds .
+GENERAL :
+Well - developed , well - nourished white male , lying in bed , in no acute distress .
+HEENT :
+He is normocephalic , atraumatic .
+Pupils are equal round and reactive to light and accommodation .
+Extraocular muscles are intact bilaterally .
+The nasal and buccal mucosa are pink and moist without lesions .
+He does have poor dentition with multiple caries .
+There is no erythema or swelling noted .
+NECK :
+Supple without adenopathy , thyromegaly , JVD , or bruits .
+SKIN :
+There are no rashes , but there are multiple track marks on both antecubital fossas .
+There is no erythema or fluctuant areas .
+HEART :
+Regular rate and rhythm without murmurs , rubs or gallops .
+LUNGS :
+Diffuse wheezes bilaterally , especially on end expiration .
+There are no rales or rhonchi noted .
+ABDOMEN :
+Soft , tender in the midepigastric region .
+There is no rebound , guarding or masses .
+There are positive bowel sounds .
+BACK :
+Without spinal tenderness or scoliosis .
+EXTREMITIES :
+Without clubbing , cyanosis , or edema .
+Pulses are intact .
+GENITALIA / RECTAL :
+GU and rectal are deferred at this time .
+NEUROLOGICAL :
+He is awake , alert and oriented x 3 .
+Cranial nerves II-XII are grossly intact .
+Sensory and motor are grossly intact .
+MUSCULOSKELETAL :
+Without deformity .
+IMPRESSION AND PLAN :
+1. Leukocytosis :
+We will await blood cultures .
+We have him presently on IV Rocephin .
+Continue to monitor .
+2. Narcotics abuse and possible methadone withdrawal .
+We will consult Pain Management for management of his methadone , since we do not prescribe methadone .
+3. Asthma :
+We will start handheld nebulizer with albuterol q.4h p.r.n.
+4. Gastritis / gastroesophageal reflux disease :
+We will start him on Protonix 40 mg p.o. daily and continue to follow .
+_________________________
+**NAME[YYY M ZZZ] , M.D.
+D :
+**DATE[Jan 18 2008]/ 8:10 A
+T :
+**DATE[Jan 18 2008]
+8:47 A lz
+#**ACCESSION-NUMBER[1]/**ID-NUM
+**CARBON-COPY

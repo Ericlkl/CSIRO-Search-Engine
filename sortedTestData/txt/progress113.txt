@@ -1,0 +1,44 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 18 2007]
+EVALUATION DATE :
+**DATE[Nov 20 07]
+I personally examined the patient on **DATE[Nov 20 2007] .
+I reviewed the consultation note from the Infectious Disease Service from **DATE[Nov 19 2007] .
+I discussed the case with Dr. **NAME[VVV UUU] .
+Please insert my note linked to Dr. **NAME[UUU] .
+The patient feels fairly well this morning but did have fever up to 100.4 yesterday .
+He had some fleeting right - sided back pain but that has completely resolved .
+He denies headaches , cough , chest pain or dyspnea , abdominal pain , nausea , vomiting , diarrhea or constipation .
+The patient has had several of the urine cultures positive for Candida and it is possible that this is a Candida bacteremia with possible abscess formation , then the perinephric fluid collection , or that he might have a bacterial abscess .
+There is also the possibility that he might have ceded his pleural effusion at the suggestion of the Infectious Disease Service , we have stopped his Zosyn but continued him on intravenous fluconazole .
+We will contact IR for drainage of the perinephric abscess and I would be inclined to also do a diagnostic thoracentesis at the same time .
+The patient is comfortable today .
+We will continue him on his present regimen .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+**INITIALS
+D :
+**DATE[Nov 20 2007] 11:00:45
+T :
+**DATE[Nov 21 2007] 01:24:12
+R :
+**DATE[Nov 21 2007] 01:24:12/pn
+Job ID :
+354394/**ID-NUM
+Cc:
+*** Dictated By :
+028200-Painter , M.D.-Thomas D. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Nov 26 2007] 09:05:37 AM

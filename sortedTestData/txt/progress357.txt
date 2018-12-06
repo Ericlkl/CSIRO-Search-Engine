@@ -1,0 +1,64 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Apr 29 07]
+Currently , I continue to see this **AGE[in 50s]- year - old patient status post bilateral lung reduction surgery complicated with ICU course .
+The remainder of her respiratory insufficiency , doing trach mask trials since **DATE[Apr 23 2007] , renal failure , volume overload , electrolyte abnormality , and some hypoglycemia .
+I examined her , reviewed her laboratory data , and chart data .
+Hemodynamically stable at this point in time .
+Means are now up into the 70s .
+She is clinically warm and well perfused .
+No issues from this standpoint , in sinus rhythm .
+From a respiratory standpoint , as previously mentioned she has been off the vent since **DATE[Apr 23 2007] , clinically doing well from this standpoint on trach mask , anywhere from 36% to 40% trach collar .
+She was hypoglycemic today .
+She is on NPH and a moderate sliding - scale .
+NPH dose is 5 b.i.d. , which I will hold .
+She is enteral nutritional support with TwoCal HN at 30 mL / hour which she has been tolerating .
+Otherwise , she is in renal failure .
+No evidence of recovery .
+She is hypophosphatemic with a phosphate of 1.4 , which I did supplement .
+Clearance is adequate 24 / 1.3 .
+She did restart Prisma today with a UF of 100 , in light that her blood pressure has been followed , I will increase the UF to 150 mL an hour .
+I put her back on Prisma this morning .
+Her blood pressure is relatively marginal , and I think we will be able to take off volume on her in the setting of her blood pressure .
+So , we will continue her on Prisma for this reason and try to get volume off her at night if she is still volume overloaded .
+She is still neutropenic today .
+Her white count is 1.9 with only 9 neutrophils and a few bands , so she is absolute neutropenic with an ANC of less than 500 .
+I did give her another dose of Neupogen .
+I did review her medication chart again with our __________ , who rounds with us , and there is nothing else that could be contributing to this .
+So , I gave her another dose of Neupogen today , and we will follow her white count tomorrow .
+If it does not respond , I might have to get Hematology involved .
+She is also a little bit more erythematous .
+On talking to her family , she has very sensitive skin , has to use mild soaps at home ; so , I did order everything to be hypoallergenic at this point in time , to see whether or not this also helps .
+The family did this at one point in time , and her erythematous had improved significantly .
+She is not pruritic at this point in time .
+So , at this point in time , otherwise we will continue her current support care management .
+CRITICAL CARE TIME = 32 MINUTES .
+___________________________________
+**NAME[WWW VVV XXX] , M.D.
+Dictator :
+**NAME[WWW VVV XXX] , M.D.
+PLS/cap
+D :
+**DATE[Apr 29 2007] 16:24:15
+T :
+**DATE[Apr 29 2007] 17:48:18
+R :
+**DATE[Apr 29 2007] 18:40:36/rs
+Job ID :
+452901/**ID-NUM
+*** Dictated By :
+-**NAME[XXX , SSS VVV] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 10 2007] 06:16:09 PM

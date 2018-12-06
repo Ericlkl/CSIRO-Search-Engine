@@ -1,0 +1,94 @@
+**INSTITUTION
+GENERAL MEDICINE
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jan 11 2008]
+TRANSFER DATE :
+**DATE[Jan 11 08]
+TRANSFERRED TO :
+TRANSFERRED TO CARE OF :
+**NAME[YYY ZZZ] , M.D.
+DATE OF ADMISSION:
+**DATE[Jan 10 2008]
+DATE OF TRANSFER:
+**DATE[Jan 11 2008]
+DISPOSITION :
+TRANSFER DIAGNOSIS ( ES ) :
+SHORTNESS OF BREATH / EXACERBATION OF CHRONIC OBSTRUCTIVE PULMONARY DISEASE .
+HOSPITAL COURSE :
+Ms. **NAME[AAA] is an **AGE[in 80s]- year - old Caucasian female with a history of CHF and COPD who was recently transferred to the **INSTITUTION Care on **DATE[Jan 5 2008] , and returns to the Emergency Department on **DATE[Jan 10 2008] , with complaints of increasing shortness of breath .
+She reportedly had an episode of worsening shortness of breath earlier in the day at the nursing home , and a chest x-ray was done at that time concerning for early CHF or pulmonary edema .
+The patient herself denied any complaints , including chest pain , fevers and cough .
+She was brought to the Emergency Department and further evaluated by the physicians and had a chest x-ray which showed improving interstitial pulmonary edema and no consolidation .
+She received Atrovent , albuterol , Lasix and aspirin in the Emergency Department and did respond well to that treatment .
+She was admitted to the 12D Medicine Unit for further evaluation and received an additional Lasix 40 mg IV today with good diuresis .
+A Foley catheter is in place to monitor the output .
+During her course on 12D she remained stable , did not have any episodes of dyspnea and was seen by the primary care physician this morning and determined to be stable for transfer back to the nursing home with some med changes , including the discontuence of Avandia and initiation of Prandin as well as the initiation of hydralazine for further blood pressure control .
+She will be transferred to **INSTITUTION via ambulance this afternoon .
+TRANSFER INSTRUCTIONS :
+DIAGNOSIS - SHORTNESS OF BREATH , RESOLVED .
+ALLERGIES :
+NO KNOWN DRUG ALLERGIES .
+PRIMARY CARE PHYSICIAN :
+Dr. **NAME[YYY ZZZ] can be reached through **PHONE .
+Pneumonia vaccine was received on **DATE[Aug 14 2007] .
+Flu vaccine was received on **DATE[Jan 2 2008] .
+Vital signs - per facility protocol .
+Activity - is as tolerated .
+Bladder care - she does have a Foley catheter in for I&amp ; O measurement and should have routine Foley care per facility protocol .
+Bowel regime - per facility protocol .
+Diet - heart healthy , 1800 calorie ADA .
+Respiratory care - Duo nebs q. 4 hours p.r.n. dyspnea .
+Oxygen to maintain saturations of greater than or equal to 91% .
+Physical therapy and occupational therapy evaluation and treatment as per the recommendations is requested .
+LABORATORIES :
+Electrolytes , BUN , creatinine , magnesium , phosphorus , calcium , CBC , differential and platelets q. Monday and Thursday times 2 weeks , then per SNIF routine .
+DVT prophylaxis per facility protocol .
+DISCHARGE MEDICATIONS :
+New medications are :
+1. Prandin 0.5 mg p.o. twice a day with meals .
+2. Hydralazine 10 mg p.o. three times a day for hypertension .
+Discontinued medications :
+Avandia 4 mg p.o. twice a day .
+Other medications ordered at the time of discharge :
+1. Enteric coated aspirin 81 mg daily for prophylaxis .
+2. Atorvastatin 40 mg p.o. at bedtime for hyperlipidemia .
+3. Carvedilol 18.75 mg p.o. twice a day for hypertension .
+4. Darbepoetin alpha 40 mcg subcu q. Friday for anemia .
+5. Aricept 5 mg p.o. daily for dementia .
+6. Ferrous sulfate 300 mg p.o. twice a day for anemia .
+7. Lasix 40 mg p.o. twice a day for coronary artery disease / pulmonary effusion .
+8. Isosorbide dinitrate 20 mg p.o. three times a day for coronary artery disease .
+9. Protonix 40 mg p.o. twice a day for GERD .
+On the morning of transfer her vital signs were blood pressure 140/54 , heart rate 91 , temperature 97.9 , respirations 20 .
+HEENT anicteric .
+Cardiac - heart rate 91 , irregular .
+Pulmonary - crackles throughout .
+Extremities - no lower extremity edema .
+Abdomen - soft , nontender .
+Bowel sounds present times four .
+Neuro - awake and alert , oriented times two .
+She will be transferred to the nursing home this afternoon via ambulance .
+CONDITION ON TRANSFER :
+Stable .
+___________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW XXX] , VVV] , M.S.N. , B.C.
+AL/lmp
+D :
+**DATE[Jan 11 2008] 12:25:08
+T :
+**DATE[Jan 11 2008] 12:30:54
+R :
+**DATE[Jan 11 2008] 12:30:54/lmp
+Job ID :
+342145 /**ID-NUM
+**CARBON-COPY

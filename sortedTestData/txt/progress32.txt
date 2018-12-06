@@ -1,0 +1,51 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M. ZZZ] , M.D.
+ADMISSION DATE :
+**DATE[Aug 18 2007]
+EVALUATION DATE :
+**DATE[Aug 25 07]
+I am continuing to see this **AGE[in 70s]- year - old gentleman status post CABG , postop course complicated with cardiac arrest and now with severe anoxic encephalopathy with burst suppression on EEG yesterday .
+Hemodynamically he remains unchanged index ___________ 2.5 .
+He continues on 5 mcg of dopamine as well as epinephrine at 0.1 .
+Also he became a little bit vasodilated overnight and ended up back on the Vasopressin at 0.02 units per minute .
+The balloon pump remains in ___________ at 1:1 .
+From a respiratory standpoint the AA gradient remains stable .
+The patient , also of note , with elevated LFT s secondary to a shocked liver .
+Neurologically patient still with mono clonus worse than yesterday clinically .
+I am continuing him on propofol for suppression of this activity in light that his jerking notably makes the family uncomfortable .
+I did have another discussion with the patient 's family .
+I did again inform them that he appears to be having more mono clonus activity , has not shown any recovery , and his prognosis remains extremely poor as far as neurological recovery .
+I did speak to them again about what their wishes would be in light of note that he is unlikely to recover .
+They again did express to me that he would not want to live like this .
+They did want to proceed ahead , as per their wishes , to get an EEG in the morning , and if he still has burst suppression on the EEG , at that point in time they did want to make him comfortable .
+But of note , his birthday is apparently tomorrow , so their wish is not to withdraw support on Friday , but likely wait until Saturday .
+I told them whatever made them comfortable as far as getting through this process would be acceptable to me .
+I did discuss with them that if his heart should stop or he should have a lethal arrhythmia , that we should not do any chest compressions or any defibrillation on him , and his wife was in agreement to this .
+Otherwise she did want to continue current management and clinical care .
+So , at this point in time , we will proceed ahead , get the EEG tomorrow , and otherwise continue his current supportive care and management .
+___________________________________
+**NAME[WWW VVV XXX] , M.D.
+Dictator :
+**NAME[WWW VVV XXX] , M.D.
+**INITIALS
+D :
+**DATE[Aug 25 2007] 20:57:43
+T :
+**DATE[Aug 25 2007] 21:31:24
+R :
+**DATE[Aug 25 2007] 21:31:24/lmh
+Job ID :
+362399 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , QQQ VVV] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Sep 01 2007] 05:31:09 PM

@@ -1,0 +1,99 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA , BBB]
+**ID-NUM
+**ID-NUM
+A5B/571
+CORRECTED REPORT-DATE
+SERVICE OF :
+**NAME[ZZZ M YYY]
+DATE OF ADMISSION :
+**DATE[Jun 31 2007]
+DATE OF DISCHARGE :
+**DATE[Jul 03 2007]
+PRINCIPAL DIAGNOSES
+1. Acute back pain - intractable .
+2. Chronic back pain .
+3. Postoperative neurosurgical intervention .
+4. Chronic anticoagulation therapy .
+5. Hypertension .
+6. Hypothyroidism .
+7. Fibromyalgia - degenerative joint disease .
+8. Anemia .
+9. Restless leg syndrome .
+10. Diabetes mellitus .
+11. GERD .
+12. Obstructive sleep apnea .
+CONSULTANTS
+Consultations appreciated by :
+1. PT / OT .
+2. Enterostomal Therapy .
+3. Neurosurgery .
+4. Pulmonary .
+MEDICATION RECONCILIATION FORMS
+Currently include :
+1. Two Extra - Strength Tylenol every six hours as needed for mild pain .
+2. Aspirin 81 mg coated .
+3. Celebrex 200 mg two times a day ( to consider dose reduction ) .
+4. Clobetasol 0.05% cream two times a day topically to buttocks .
+5. Lotrimin 1% cream , one cream topically to groin folds two times a day as needed .
+6. Flexeril 10 mg orally three times a day .
+7. Iron 325 by mouth daily .
+8. HCTZ 25 mg by mouth daily .
+9. Synthroid 50 micrograms daily .
+10. Metformin 1 gram two times a day .
+11. Metoprolol 100 two times a day .
+12. Nifedipine XR 60 mg by mouth daily .
+More medicines are currently listed , however are not on the medication reconciliation list which was provided by the computer .
+Those medicines appear to be :
+13. Nortriptyline 25 every night at bedtime .
+14. Insulin coverage schedule .
+15. Benicar 40 mg a day .
+16. Prilosec 20 mg a day .
+17. OxyContin 20 mg every 12 hours .
+18. Protonix 40 ( she does not need two proton pump inhibitors , and we will attempt to continue the Protonix .)
+19. Prandin 1 mg three times a day AC .
+20. Requip 6 mg by mouth twice a day .
+21. Coumadin 3 mg a day .
+Prothrombin time is suggested to be obtained on Monday .
+22. Percocet one every four hours as needed .
+DIET
+General .
+ACTIVITY
+Is as per tolerated by PT / OT .
+PROGNOSIS
+Fair .
+REHABILITATION POTENTIAL
+Fair to good .
+HISTORY
+The patient presented as per the handwritten History and Physical noted elsewhere .
+This is a **AGE[in 60s]- year - old white female who was in the sleep lab and had noted chronic back problems due to her positioning due to the sleep study .
+She had intensive back pain and was transferred to the emergency room from where she was admitted for definitive evaluation and treatment .
+Analgesics were attempted .
+Neurosurgical consult were placed and labs were obtained .
+Coumadin is _______________ .
+Consultation was placed with Pulmonary Service due to full review of the patient 's obstructive sleep apnea evaluation and further treatment .
+Heparin was given , and she had some slight improvement .
+She was made aware of my impression that if she needs neurosurgical intervention that we would proceed - however , if this was not necessary , that plans would be arranged for discharge preferably to skilled nursing facility for ongoing pain control , physical therapy , and safety precautions .
+She was aware of all , was seen in the presence of her brother , and was agreeable to proceed as planned .
+LABORATORY / DIAGNOSTICS
+Labs revealed the following :
+INR 's were 1.8 , 1.7 , 1.6. SED rate was 34 and a C-reactive protein was 2.1 ( normal less than 0.8 ) .
+Hemoglobin was 13.3 with a white blood cell count of 7,900 , platelet count 321,000 .
+BMP showed sodium 130 , potassium 3.9 , chloride 104 , CO2 30 , BUN 14 , creatinine 0.7 .
+Glucoses were 128 , 194 , 198 , 241 , and 162 .
+MRI of the spine was reviewed and final decision was based on Neurosurgical interpretation .
+Situation was attempted to be discussed with Social Service last case management prior to discharge .
+PLAN
+The patient tolerated her hospital stay and will be discharged with final determination pending at this point in time .
+___________________
+**NAME[ZZZ M. YYY] , M.D.
+Dict :
+**DATE[Jul 02 2007] 16:25:06
+Tran :
+**DATE[Jul 02 2007] 17:32:13
+DRS/bh/373074/**ID-NUM/**ID-NUM
+R :
+**DATE[Jul 08 2007] 04:48:50/pc
+**CARBON-COPY

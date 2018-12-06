@@ -1,0 +1,53 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Nov 23 2007]
+Discharged :
+**DATE[Nov 24 2007]
+Dict :
+**NAME[ZZZ , YYY]
+Attend :
+**NAME[ZZZ , YYY]
+ADMITTING DIAGNOSES :
+1. Coronary artery disease .
+2. Hypertension .
+3. Hyperlipidemia .
+4. Prior coronary intervention .
+DISCHARGE DIAGNOSES :
+1. Coronary artery disease .
+2. Hypertension .
+3. Hyperlipidemia .
+4. Prior coronary intervention .
+PRINCIPAL PROCEDURE :
+Multilesional stent angioplasty .
+MEDICAL HISTORY :
+The patient is a **AGE[in 70s]- year - old , recently admitted to **INSTITUTION with unstable angina , was found to have a high - grade stenosis in left circumflex which was stented .
+The patient now returns for followup intervention of the right coronary .
+PROCEDURE :
+The patient was taken to the catheterization laboratory for interventional right coronary .
+A proximal 70% and a distal 90% stenosis were stented without difficulty .
+The patient was discharged the following day in stable condition .
+DISCHARGE MEDICATIONS :
+Include :
+1. Plavix 75 mg daily .
+2. Aspirin 81 mg daily .
+3. Zetia 10 mg daily .
+4. Synthroid 88 mcg daily .
+5. Lopressor 50 mg twice daily .
+DISPOSITION :
+The patient will follow up with Dr. **NAME[ZZZ] in 4 week 's time .
+______________________________
+**NAME[YYY M ZZZ] , MD
+HS Job # 922457 / 37776 /
+SHY # **ID-NUM
+D :
+**DATE[Nov 24 2007] 10:32
+T :
+**DATE[Nov 24 2007] 16:55
+**CARBON-COPY

@@ -1,0 +1,82 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA , BBB M]
+**ID-NUM
+**ID-NUM
+A6A/625
+SERVICE OF :
+**NAME[ZZZ]
+**NAME[YYY]
+DATE OF ADMISSION :
+**DATE[May 18 2007]
+DATE OF DISCHARGE :
+**DATE[May 25 2007]
+DISCHARGE DIAGNOSES :
+1. Chronic obstructive pulmonary disease exacerbation .
+2. Bronchitis .
+3. Pneumonia .
+4. Hypoxia .
+5. Psoriasis .
+6. Coronary ischemia .
+CONSULT :
+The patient was seen in consult by pulmonary Dr. **NAME[XXX] .
+HOSPITAL COURSE :
+The patient is a **AGE[in 40s]- year - old female who presented to the emergency room with a 3-day history of increasing shortness of breath , nonproductive cough , and chest congestion .
+The patient also feels she is having wheezing .
+The patient does state that she is a heavy smoker .
+PAST MEDICAL HISTORY :
+There is no past medical history .
+PHYSICAL EXAMINATION :
+Vital signs in the ER , temperature was 99.3 , pulse was 93 , respirations were 24 , blood pressure was 105/57 , and the patient was saturating on room air at 90% , and when placed on 2 L , O2 saturations were 94% .
+Lungs had end expiratory wheezing at the bases bilaterally .
+DIAGNOSTICS :
+White blood cells within normal limits at 7.9 .
+CMP was within normal limits .
+Troponin was negative .
+EKG shows tachycardia at 100 beats with occasional PVC s and T-wave inversions .
+Chest x-ray was negative .
+In the ER , the patient was given one dose of 125 mg of Solu-Medrol and nebulizer treatment .
+She did feel improvement with the treatment , and she was admitted to a telemetry bed .
+MEDICAL PROBLEMS :
+1. Exacerbation of chronic obstructive pulmonary disease .
+The patient was started on Solu-Medrol .
+She was seen in consult by pulmonology .
+Pulmonology 's impression with plan was the patient with bronchitis and COPD due to tobacco use .
+Chest x-ray is without infiltrates .
+The patient is to continue on Zithromax orally .
+She has no leukocytosis or temperature elevation .
+The sputum is nonpurulent and white in color , but we will send the sputum culture .
+The patient is hypoxic and requiring 2 L of O2 to remain her saturations between 91% and 92% .
+Bronchospasms , the patient with expiratory wheezing .
+Continue IV Solu-Medrol and DuoNebs .
+Tobacco use , nicotine patch was placed , and Chantix was discussed for possible outpatient use .
+The patient is with probable COPD and will need eventual outpatient pulmonary function test and O2 eval prior to discharge .
+Solu-Medrol was taken throughout the admission , and the patient was discharged on prednisone .
+2. Pneumonia .
+Initial chest x-ray did not show a pneumonia , but the chest x-ray of **DATE[May 23 2007] , showed a right upper lobe infiltrate and a questionable right lower lobe infiltrate .
+The patient was started on Avelox with improvement .
+The patient did have a home O2 eval prior to discharge and the patient did not qualify for home O2 .
+The patient was discharged to home in satisfactory condition .
+DISCHARGE MEDICATIONS :
+1. Nebulizers q.i.d.
+2. Advair Diskus one puff b.i.d.
+3. Avelox 400 mg q. day for 5 more days .
+4. Nicotine patch .
+5. Prednisone taper as directed .
+6. Spiriva two inhalations daily .
+The patient was to stay off work for 1 week .
+The patient was to follow up with Dr. **NAME[WWW] for pulmonary function studies and to follow up with Dr. **NAME[YYY] in 2 weeks .
+ADDENDUM :
+The patient did have a CT of the chest to rule out a PE , and it was negative on admission .
+DICTATED BY : Dr. **NAME[VVV UUU] .
+___________________
+**NAME[ZZZ YYY] , M.D.
+Dict :
+**DATE[Jun 01 2007] 17:08:43
+Tran :
+**DATE[Jun 02 2007] 01:17:33
+DS/dg/371610/**ID-NUM/**ID-NUM
+R :
+**DATE[Jun 02 2007] 01:51:19/dg
+**CARBON-COPY

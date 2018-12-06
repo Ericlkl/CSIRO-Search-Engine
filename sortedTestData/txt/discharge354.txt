@@ -1,0 +1,65 @@
+**INSTITUTION
+TRANSPLANT SURGERY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Apr 23 2007]
+DISCHARGE DATE :
+ADMISSION DIAGNOSIS ( ES ):
+ELECTIVE ADMISSION FOR RIGHT HEPATECTOMY LIVER DONATION .
+DISCHARGE DIAGNOSIS ( ES ) :
+STATUS POST RIGHT HEPATECTOMY LIVER DONATION ON **DATE[Apr 23 2007] .
+HISTORY OF PRESENT STAY :
+Ms. **NAME[AAA] is a **AGE[in 30s]- year - old female who underwent a work-up and was found to be an appropriate match for her father , who was in need of a liver transplant .
+After going through the complete preoperative work-up , she was then scheduled for the elective procedure , which took place on **DATE[Apr 23 2007] .
+On that day , she was taken to the Operating Room and underwent a right lobe hepatectomy .
+The procedure went well without any major complications .
+She did have slightly abnormal bile duct anatomy ; however , the surgery itself went well overall .
+Postoperatively , she was in the ICU for a short stay and then transferred to the regular Transplant Floor .
+Initially , her pain was managed by Dilaudid PCA , and eventually , she was switched over to p.o. Dilaudid .
+She began eating and having regular bowel movements , and she was also comfortable walking around on her own .
+She did not have any complications arise from the surgery such as infection or respiratory issues .
+Her incision is clean and dry .
+She has two JP drains still in place , and they are draining what appears to be bile - tinged fluid .
+She will be going home with these JP s in place , and they will be followed as an outpatient .
+She is being discharged to home today and will be following up in the **INSTITUTION in a few days .
+DISCHARGE MEDICATIONS :
+1. Protonix 40 mg p.o. q. day .
+2. Reglan 10 mg p.o. b.i.d.
+3. Colace 100 mg p.o. b.i.d.
+4. Cipro 500 mg p.o. q. day .
+5. Dilaudid 1 mg p.o. q.6 hours p.r.n. pain .
+DISCHARGE INSTRUCTIONS :
+The patient is being discharged to home .
+Discharge diagnosis is status post right hepatectomy liver donation , **DATE[Apr 23 2007] .
+Diet regular .
+Activity restrictions include do not lift greater than 10 pounds for six weeks .
+Do not drive for six weeks .
+You may shower but not bathe in a bath .
+She is to empty her JP drains as needed and record the output .
+She is to followup in the **INSTITUTION on Monday , **DATE[May 05 2007] , at 10:00 a.m. and **NAME[UUU] MD if temperature greater than 101.5 degrees Fahrenheit or an increase in abdominal pain .
+The attending physician discharging this patient is **NAME[TTT SSS] , M.D.
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[VVV M. XXX , WWW-M]
+BEO/ddd
+D :
+**DATE[Apr 30 2007] 11:22:51
+T :
+**DATE[Apr 30 2007] 12:22:44
+R :
+**DATE[Apr 30 2007] 12:22:44/ddd
+Job ID :
+367776/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , WWW-RRR M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[May 08 2007] 01:32:48 PM

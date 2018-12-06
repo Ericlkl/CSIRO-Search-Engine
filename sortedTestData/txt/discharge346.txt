@@ -1,0 +1,67 @@
+**INSTITUTION
+TRANSPLANT SURGERY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[XXX M ZZZ YYY]
+ADMISSION DATE :
+**DATE[May 12 2007]
+DISCHARGE DATE :
+**DATE[Jul 14 2007]
+DIAGNOSES :
+1. STATUS POST SMALL BOWEL TRANSPLANTATION .
+2. GASTROINTESTINAL BLEEDING .
+3. CHRONIC REJECTION .
+This is a **AGE[in 20s]- year - old female patient with history of Gardner syndrome , who underwent modified multivisceral transplantation on **DATE[Aug 5 2005] .
+The patient presented to **INSTITUTION complaining of dehydration and renal insufficiency .
+Her admission was complicated by recurrent episodes of GI bleeding during this admission .
+We finally took the patient to the OR on **DATE[Jun 06 2007] for bleeding control and performed resection of distal ileum and ileorectal anastomosis .
+Despite this procedure , her GI bleeding was not controlled .
+We took the patient back to the OR and performed near total enterectomy and creation of end jejunostomy on **DATE[Jun 23 2007] .
+The postoperative course was not eventful .
+On the day of discharge her vital signs were very stable and she was on TPN and IV avocet and caspofungin for Candidiasis from her JP drain .
+She is being sent home and will be seen at 7 West .
+She is to continue her antifungal treatment and complete her evaluation for retransplantation .
+DISCHARGE MEDICATIONS :
+1. TPN as ordered .
+2. Avocet 300 mg IV once a day .
+3. Tylenol 650 mg p.o.
+4. _______ 50 mg IV for avocet .
+5. Agrylin 2 mg p.o. t.i.d.
+6. Caspofungin 50 mg IV once a day .
+7. Clonidine patch 0.6 mg once a week .
+8. Cardizem 60 mg p.o. t.i.d.
+9. Fentanyl patch 75 mcg q.72h.
+10. Cytomel 1 gram p.o. t.i.d.
+11. Lopressor 100 mg p.o. t.i.d.
+12. Nystatin swish and swallow q.i.d. 5 mL .
+13. Protonix 40 mg p.o. b.i.d.
+14. Bactrim SS one tablet p.o. Monday / Wednesday / Friday .
+15. Prograf 3 mg sublingual b.i.d.
+16. Trazodone 150 mg p.o. at bedtime .
+17. Actigall 300 mg p.o. t.i.d.
+18. Tylenol 650 mg p.o. q.6h.
+19. Hydrocortisone 25 mg IV in the morning , 20 mg IV in the evening .
+20. Remeron 30 mg p.o. at bedtime .
+___________________________________
+**NAME[XXX M ZZZ YYY] , M.D.
+Dictator :
+**NAME[VVV WWW] , M.D.
+**INITIALS
+D :
+**DATE[Jul 16 2007] 19:40:32
+T :
+**DATE[Jul 16 2007] 19:54:50
+R :
+**DATE[Jul 16 2007] 19:54:50/drl
+Job ID :
+431233/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[WWW , UUU] ***
+Electronically Signed by **NAME[XXX CCC]
+**DATE[Jul 19 2007] 03:20:44 PM

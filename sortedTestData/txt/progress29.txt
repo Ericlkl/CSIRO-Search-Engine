@@ -1,0 +1,119 @@
+Progress **INSTITUTION
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 30s] years
+Sex :
+Male
+DOB :
+**DATE[Sep 24 1969]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Allergy profile :
+NKA
+Current medications reviewed
+Results Review
+General results
+Today 's results
+:
+ALLRESLTSECT
+**DATE[Jul 19 2007] 10:00 AM
+Temperature Conversion 36.9 Deg C
+Temperature 98.4 Deg F
+Temperature Site Oral
+Pulse 82 BPM
+Respiratory Rate 20
+Systolic BP 107 mmHg
+Diastolic BP 47 mmHg
+**DATE[Jul 19 2007] 6:15 AM
+Na 133 mEq / L Low
+K 4.1 mEq / L
+Cl 101 mEq / L
+CO2 28 mEq / L
+Anion Gap 4.0 Low
+BUN 7 mg / dL
+Cr 0.5 mg / dL Low
+Glucose 99 mg / dL
+Ca 7.7 mg / dL Low
+Ca ( adjusted ) 10.1 ( Modified )
+Ionized Calcium 1.13 mMol / L Low
+Mg 1.6 mg / dL Low
+Albumin 1.4 gm / dL Low
+Total Protein 6.3 gm / dL Low
+Bili , Total 3.8 mg / dL High
+Bili , Direct 2.0 mg / dL High
+ALT / SGPT 65 IntUnit / L
+AST / SGOT 167 IntUnit / L High
+Alk Phos 117 IntUnit / L
+WBC 10.5 X10E+09 / L
+RBC 2.90 X10E+12 / L Low
+Hgb 10.6 gm / dL Low
+Hct 30.5 % Low
+MCV 105.2 fL High
+MCH 36.5 pg High
+MCHC 34.7 gm / dL
+RDW 16.4 % High
+MPV 6.7 fL Low
+Platelets 162 X10E+09 / L
+Neutrophils 69 %
+Lymphs 20 %
+Monocytes 9 %
+Eosinophils 1 %
+Basophils 0 %
+ABS Neutrophils 7.2 X10E+09 / L
+ABS Lymphs 2.1 X10E+09 / L
+ABS Monocytes 1.0 X10E+09 / L
+Abs Eos , auto 0.1 X10E+09 / L
+ABS Basophils 0.0 X10E+09 / L
+Subjective
+Complaints abdominal swelling - much improved s/p paracenthesis / minimal leak of serous fliud overnight d/w pt at length regarding treatment and need for close follow up - he understands and is aggreeable however , he is not agreeable to Acute ETOH rehab as it has not helped in the past and hearing about other peoples ' problems only makes him anxious .
+He also is hesitant to go to out patient rehab as he may be called back to work .
+He feels he can quit etoh on his own because he knows he will otherwise die .
+I informed him that work is not an exuse as if he does not qiut etoh and go to all his appts and check his sugars regularly - he will not be alive to go to work .
+He still is against rehab .
+I told him we will set him up with rehab and it will be up to him .
+anxiety improved no CP , SOB
+Physical Examination
+General Exam
+Eye :
+sclera anicteric
+Abdomen : contour : generalized distention , soft ,
+bowel sounds : normal .
+Vital signs : normal
+Thyroid : normal
+Heart : normal
+Lungs : normal
+Skin : normal
+Extremities : normal
+Plan
+ACUTE ALCOHOLIC HEPATITIS ( ICD9 571.1 , Working , Diagnosis )
+Course
+Improving
+ALCOHOLIC LIVER DAMAGE , UNSPECIFIED ( ICD9 571.3 , Working , Diagnosis ) possibly Non - alcoholic liver ds as well Probable cirrhosis s/p 2.5 L removed via paracenthesis see Dr **NAME[VVV] detailed note on **DATE[Jul 17 06]
+pt denied inpt auth by his insurance company - dr to dr review req 'ed pt needs at least 1 - 2 days in pt at least
+PORTAL HYPERTENSION ( ICD9 572.3 , Working , Diagnosis )
+ASCITES ( ICD9 789.5 , Working , Diagnosis ) on spironalactone
+Blood coagulation disorder due to liver disease ( SNMCT **ID-NUM , Working , Diagnosis ) no evidence of bleeding follow PT/INR
+Alcohol abuse NOS ( ICD9 305.00 , Working , Diagnosis ) cont Thiamine , folic acid suppl
+Librium for DT proph
+Leukocytosis NOS ( ICD9 288.8 , Working , Diagnosis )
+Course
+Resolved hold IV abx per GI cult neg so far
+Dilutional hyponatremia ( SNMCT **ID-NUM , Working , Diagnosis ) improved with fluid restriction and low na diet
+Lone atrial fibrillation ( SNMCT **ID-NUM , Working , Diagnosis ) by history current NSR on Nadolol
+BENIGN ESSENTIAL HYPERTENSION ( ICD9 401.1 , Working , Diagnosis ) on ace
+Diabetes mellitus type 2 in obese ( SNMCT **ID-NUM , Working , Diagnosis ) on actos at home - hgba1c nl range glu low this am watch pt off prandin
+Consult Endocrine to follow glucose with initiation of prednisone for ETOH
+Liver Ds
+Professional Services
+Credentials and Title of Author **NAME[UUU] Signing this Document :
+DO , Attending Physician
+Perform by **NAME[XXX , WWW] L
+( on **DATE[Jul 19 2007] 11:34 )
+Sign by **NAME[XXX , WWW] L
+( on **DATE[Jul 19 2007] 11:34 )
+VERIFY by **NAME[XXX , WWW] L
+( on **DATE[Jul 19 2007] 11:34 )

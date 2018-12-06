@@ -1,0 +1,90 @@
+**INSTITUTION
+TRAUMA
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Dec 24 2007]
+TRANSFER DATE :
+**DATE[Dec 29 07]
+TRANSFERRED TO :
+**PLACE TCU
+TRANSFERRED TO CARE OF :
+ADMITTING DIAGNOSIS :
+FALL .
+DISCHARGE DIAGNOSIS :
+FALL .
+Ms. **NAME[AAA] , MR# **ID-NUM , is a **AGE[in 60s]- year - old female who fell and hit her right chest against a child 's wooden rocking horse .
+She came in as a level 2 trauma .
+She had no chest pain , neck pain .
+She did complain of some pain with deep inspiration .
+We did find rib fractures on right ribs 8 through 11 and grade 3/4 right lobe liver laceration which was around 10 x 6 x 7 cm .
+Her CT of her cervical , thoracic , lumbar , and sacral spine was negative so she was admitted to the ICU for monitoring of her liver laceration .
+Her H&amp ; H was monitored q. eight hours per protocol and it was stable .
+She had a repeat CT scan repeated approximately four days after the injury and this showed stable hepatic hematoma and no vascular injury .
+At the time of discharge , the patient was tolerating a regular diet .
+Pain was well controlled with p.o. pain meds .
+She was having some trouble with rehab secondary to pain so she will need to go to a transitional care unit so she is transferred to **PLACE TCU .
+She should participate there in physical and occupational therapy as deemed necessary .
+MEDICATIONS :
+1. Lamotrigine 100 mg p.o. b.i.d.
+2. Metoprolol 25 mg p.o. b.i.d.
+3. Benicar 40 mg p.o. q.a.m.
+4. Pantoprazole 40 mg p.o. q.a.m.
+5. Phenytoin 100 mg p.o. daily .
+6. Phenytoin 200 mg p.o. at bedtime .
+7. Zoloft 100 mg p.o. q.a.m.
+8. Tolterodine LA 4 mg p.o. at bedtime .
+MEDS P.R.N. :
+1. Zofran 4 mg p.o. q. six hours .
+2. Oxycodone 5 mg p.o. q. four hours .
+FOLLOWUP :
+She should followup with the **INSTITUTION in two weeks .
+She should also have an H&amp ; H checked in one week .
+This can be sent to the **INSTITUTION .
+You should call for any fevers greater than 100.4 , chills , night sweats , any increasing abdominal pain , distention , pain not controlled by p.o. pain meds , or if her repeat H&amp ; H has decreased substantially .
+TRANSFER DIAGNOSIS ( ES ) :
+Regular diet .
+She is weightbearing throughout all four extremities .
+Activity as tolerated , however no strenuous activity .
+Avoid straining with defecation .
+No pushing , pulling , or dragging anything greater than five pounds .
+No driving while on narcotics .
+No driving until followup .
+_______________________________
+**NAME[TTT M. SSS] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Dec 29 2007] 14:16:45
+T :
+**DATE[Dec 29 2007] 14:21:54
+R :
+**DATE[Dec 29 2007] 14:21:54/ksc
+Job ID :
+366538/**ID-NUM
+Cc:
+**PLACE TCU
+Fax **PHONE
+&lt;start header&gt;
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+ADMISSION DATE :
+**DATE[Dec 24 2007]
+TRANSFER DATE :
+**DATE[Dec 29 07]
+Page 3 of 3
+&lt;END HEADER&gt;
+*** Dictated By :
+-**NAME[XXX , RRR] ***
+Electronically Signed by **NAME[TTT SSS]
+**DATE[Jan 12 2008] 01:42:08 PM

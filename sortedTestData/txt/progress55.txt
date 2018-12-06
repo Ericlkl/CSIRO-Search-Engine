@@ -1,0 +1,149 @@
+Progress **INSTITUTION
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] R
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 70s] years
+Sex :
+Female
+DOB :
+**DATE[Aug 16 1930]
+Author :
+**NAME[XXX , WWW]
+Professional Services
+Credentials and Title of Author **NAME[VVV] Signing this Document :
+**NAME[UUU] :
+MD
+FY2 Resident
+Results Review
+General results
+Subjective
+R shoulder  , elbow pain geting better , Pt can lifts her R arms .
+Still confused , sounds a little bit improving .
+She thought she was on floor , feeling she is going to fall .
+And she said that is it beautiful ?
+I asked her what is beautiful ?
+She said the picture .
+THere is no picture .
+Physical Examination
+General Exam
+Vital signs :
+Afebrile , BP stable .
+Constitutional : hydration :
+clinically slightly dry .
+nutritional status : normal .
+Eye : bilateral :
+No redness , dno discharge .
+Heart : heart sounds :
+S1 : normal , S2 : normal .
+Lungs : bilateral : no crackles present , no wheezes present .
+Abdomen : bowel sounds : normal .
+Neuro :
+Mental Status .
+Plan
+UTI [ Urinary tract infection ] ( ICD9 599.0 , Working , Problem )
+Course
+Afever ,
+On bactrim BID Day 3 ,
+- Continue Bactrim DS BID , per Dr. **NAME[TTT] 's recommendation
+CONJUNCTIVITIS , UNSPECIFIED ( ICD9 372.30 , Working , Problem )
+Course
+Improving
+MRSA conjunctivitis , **DATE[Jan] attribute to chronic dry eyes ( eyelid problems and tear duct problem ) PT can close her eyes normally .
+- Gentamicin oniment q8 , per Dr. **NAME[TTT] 's recommendation
+- Consult
+Ophthlologist :
+Dr **NAME[SSS] , waiting for input .
+ALTERED MENTAL STATUS ( ICD9 780.97 , Working , Problem )
+Course
+See Delirium in below .
+Delirium NOS ( ICD9 780.09 , Working , Problem )
+Seems a bit improving .
+Dementia on baseline .
+1. Ct scan the head r/o ICH .
+2. ? related to UTI and conjunctivitis .
+The infection has been well controlled and improving .
+3. ETOH : according to her POA , she is not heavy drinker .
+4. Hypoxia :
+SaO2 has been stable overall 96 % /ra and hgb &gt; 10 .
+T/C study of sleep apnea .
+5. Medication :
+Need carefully to investigae her home meds to see if there any she has been taking but we did not give to her .
+cipro and Pepcid have been off 4 days .
+D/C Ambienm today
+6. Matebolic :
+LFTs Normal at this addmison .
+7. Others :
+TSH wnl , and B12 and Folic pending .
+Has BM daily .
+Stenosis of thoracic aorta ( SNMCT **ID-NUM , Working , Problem )
+Course
+- Check Echo :
+ONCLUSIONS :
+1. THE LEFT VENTRICLE IS DILATED WITH GLOBAL HYPOKINESIS WITH A RESIDUAL EJECTION FRACTION OF 25-30% .
+2. NORMAL RIGHT VENTRICULAR DIMENSION AND CONTRACTILITY .
+3. THE AORTIC VALVE APPEARS MILDLY SCLEROTIC HOWEVER , THE DOPPLER ASSESSMENT OF DEGREE OF AORTIC STENOSIS IS INACCURATE .
+4. STRUCTURALLY NORMAL MITRAL AND TRICUSPID VALVE .
+5. COMPARED TO A PRIOR STUDY OF **DATE[Sep 2006] , AT THAT TIME THE AORTIC VALVE AREA WAS 1.4 CM SQUARED WHICH IS LIKELY ACCURATE .
+THERE HAS BEEN A FURTHER REDUCTION IN SYSTOLIC FUNCTION .
+Pt may not be good candidate for Surgery .
+ATRIAL FIBRILLATION ( ICD9 427.31 , Working , Problem )
+Course
+On coumadin which being off for a while before this hospitalization ?
+Coumadin resumed 2 days ago , Coumadin reach therapuetic , D/C heparin SQ
+INR 3.6 today , Hold coumadin now .
+check INR daily .
+BENIGN ESSENTIAL HYPERTENSION ( ICD9 401.1 , Working , Problem )
+Course
+Stable
+BP is not optimal controlled .
+HR is blow 60 .
+recheck VS again .
+Pt home regimen as Lopressor and Lisinopril .
+- Continue lopressor and lisinoril
+DM II [Diabetes mellitus type II] ( ICD9 250.00 , Working , Problem )
+Course
+BS is not well controoled : beside Lantus 22 units daily , she also had 14 units covered by ISS .
+Reveiwed her BS level , it looks good in early morning , getting , higher in Evening .
+Would not to increase her lantus  .
+- SSI cover
+- Hold Metformin due to MS unstable and renal function not optimal .
+- check A1c :
+6.3 on **DATE[Sep 15 07]
+- Check microalbumin pending .
+- Consult skin care for heels sore .
+GI bleeding NOS ( ICD9 578.9 , Working , Problem )
+Course
+Stable
+H/O GI bleeding .
+Hgb stable .
+BP stable
+- Protonix 40 mg daily
+- check Stool occult : pending
+PAIN IN JOINT INVOLVING SHOULDER REGION ( ICD9 719.41 , Working , Problem )
+Calcified tendoniti ?
+Consult Dr. **NAME[RRR]
+Appreciate Ortho input : concerning R wrist synovitis / psudo gout .
+xray of R wrist final reading Pending .
+elevate R hand and celebrex 200 mg daily .
+per ortho .
+Quality Measures
+PT live alon at home has a male partner ? or POA .
+- SW consult for placement
+- PT / OT
+Quality Measures
+Disposition
+Talked to her POA yesterday .
+They lives together for 19 years .
+He agree to transfer her to heartlant NH for short term rehab .
+Then move back her home after her strong enough .
+Refuse long term NH placement .
+He said that I am 24 hours with her .
+We are OK .
+Perform by **NAME[XXX , WWW]
+( on **DATE[Sep 21 2007] 07:47 )
+Sign by **NAME[XXX , WWW]
+( on **DATE[Sep 21 2007] 07:47 )
+VERIFY by **NAME[XXX , WWW]
+( on **DATE[Sep 21 2007] 07:47 )

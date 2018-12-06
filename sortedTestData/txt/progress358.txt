@@ -1,0 +1,53 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Apr 30 07]
+I am seeing Mrs. **NAME[AAA] for critical care at the request of Dr. **NAME[YYY ZZZ] .
+I have examined the patient , reviewed her medication record and her labs , and made adjustments to her therapy .
+Mrs. **NAME[AAA] is a **AGE[in 60s]- year - old woman who had bilateral lung reduction surgery .
+Her course has been complicated by acute renal failure requiring continuous hemodialysis as well as respiratory failure .
+The patient has made some progress since the last time I saw her .
+Her fluid overload is diminished and she is having a mildly negative fluid balance daily with the hemodialysis which I will continue .
+Neurologically she appears to be alert and does not require adjustments to her medication on that account .
+Her lungs are clear and equal with soft breath sounds .
+Her respiratory rate is 21 and she is well saturated on 40% aerosol trach mask .
+The patient 's white blood cell count has fallen dramatically over the past three to four days .
+I noticed the absolute neutrophil count is 0.02 and so I have placed the patient on neutropenia precautions .
+I have added Neupogen to her regimen to try to help her recover from this as rapidly as possible .
+I have asked the Pharmacist to review her medications to see if any of them may be responsible for neutropenia .
+The only one that was identified is the lansoprazole which I have discontinued and have started Pepcid instead since that does not appear to cause neutropenia .
+There is another possibility that this could be due to infection .
+The patient is afebrile and does not appear to be septic , however I drew blood cultures never - the - less looking for that as a possible source of fall in her white blood cell count .
+The glucoses have been ranging between 79 and 206 due to cycled tube feeding .
+I am making no adjustments to her therapy .
+CRITICAL CARE TIME :
+The total time taken in the care of this critically - ill patient is **AGE[in 30s] minutes .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Apr 30 2007] 21:36:36
+T :
+**DATE[Apr 30 2007] 21:54:21
+R :
+**DATE[Apr 30 2007] 21:54:21/nlg
+Job ID :
+455143/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 09 2007] 02:47:05 PM

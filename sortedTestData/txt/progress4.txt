@@ -1,0 +1,60 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING **NAME[UUU : RRR]
+**NAME[TTT SSS]
+ADMISSION DATE :
+**DATE[Nov 19 2007]
+EVALUATION DATE :
+**DATE[Nov 22 07]
+I am managing this critically ill , **AGE[in 40s]- year - old male , status post repair of an SMA aneurysm , hospital course complicated by respiratory failure .
+I have seen and examined the patient , reviewed his laboratory , radiographic , and Emtek data , and discussed the management with the vascular surgeons and general surgeons .
+Problems and management are as follows :
+1. Status post repair of SMA aneurysm .
+He remains on prophylactic antibiotics with Cipro , Flagyl , and vancomycin .
+On examination today , his abdomen this morning was significantly more distended than it had been previously .
+He has tenderness in the bilateral lower quadrants , but no peritoneal signs .
+His lactate is less than 1. I have ordered q.6 hourly lactate and arterial blood gas checks today in light of his increasing abdominal pain .
+The differential diagnosis includes mesenteric ischemia , a mesenteric venous thrombosis , or possible reperfusion syndrome .
+Over the course of the day , we have also been measuring his intra - abdominal pressures on a q.2 hourly basis .
+Those started out higher today at 20 .
+This afternoon , his abdomen feels somewhat less distended than it did this morning and his abdominal pressures are down to 13 .
+We will continue to follow his lactates and arterial blood gases for the next 24 hours .
+I have left him n.p.o. in light of his abdominal distention .
+2. Respiratory failure .
+Chest x-ray shows the duo-tube coiled in his posterior pharynx .
+ET tube is in place , and he has left basilar atelectasis .
+On the vent , I have left him on assist control .
+His peak airway pressures have been adequate .
+He has a mild respiratory acidosis in addition to his metabolic acidosis , and I think this is due to fentanyl as he does not overbreathe the vent .
+I have decreased his minute ventilation slightly in order to start getting him to breathe over the vent but have not done any other vent weaning .
+3. ICU prophylaxis .
+I am cutting back his IV fluids today .
+His urine output has been adequate .
+He feels warm , dry , and well-perfused .
+He remains n.p.o. at this point .
+He has stress ulcer and DVT prophylaxis with a proton pump inhibitor and subcutaneous heparin .
+Total critical care time equals 40 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Nov 22 2007] 20:54:06
+T :
+**DATE[Nov 22 2007] 21:57:39
+R :
+**DATE[Nov 22 2007] 21:57:39/hms
+Job ID :
+357349 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , QQQ M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jan 19 2008] 02:55:02 PM

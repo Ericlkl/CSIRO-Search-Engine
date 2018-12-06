@@ -1,0 +1,46 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING **NAME[VVV :
+TTT M UUU]
+ADMISSION DATE :
+**DATE[May 25 2007]
+EVALUATION DATE :
+**DATE[May 29 07]
+I personally managed Mr. **NAME[AAA] in the ICU , a **AGE[in 60s]- year - old man with a history of stroke , brain edema , intracranial bleed , recent history of cardiac ischemia which is stable for the moment .
+The patient is now on 3% sodium chloride .
+His sodium has drifted up to 150 .
+The edema in his brain clinically has improved somewhat .
+He is more bright , follows simple commands , out of bed in a chair continuing to move along in his condition .
+We are stopping the 3% sodium chloride today and we should anticipate that his brain swelling will remain stable .
+It will be necessary to watch him closely however .
+Otherwise his laboratory parameters are otherwise unremarkable .
+He passes air reasonably well on both sides of his chest .
+Heart is regular rhythm .
+Abdomen is soft .
+He puts out adequate amounts of urine .
+We are continuing to watch him expectantly and supportively .
+Critical care time 30 minutes .
+___________________________________
+**NAME[XXX M. YYY] , M.D.
+Dictator :
+**NAME[XXX M. YYY] , M.D.
+**INITIALS
+D :
+**DATE[May 29 2007] 19:49:12
+T :
+**DATE[May 30 2007] 00:15:26
+R :
+**DATE[May 30 2007] 00:15:26/kll
+Job ID :
+367127/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[YYY , SSS M]. ***
+Electronically Signed by **NAME[XXX YYY]
+**DATE[Jul 01 2007] 01:54:21 AM

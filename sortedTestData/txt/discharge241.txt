@@ -1,0 +1,54 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Jan 24 2008]
+Discharged :
+**DATE[Jan 27 2008]
+Dict :
+**NAME[ZZZ , YYY]
+Attend :
+**NAME[ZZZ , YYY]
+DISCHARGE DIAGNOSES :
+1. Occipital stroke .
+2. Seizure disorder .
+3. Coronary artery disease .
+4. Chronic renal failure .
+5. Hypertension .
+PATIENT PROFILE :
+Mr. **NAME[AAA] is a pleasant , somewhat frail **AGE[in 80s]- year - old gentleman who is new to my practice .
+Before his admission , he was seen twice in my office .
+His wife , **NAME[XXX] , is well - known to me .
+Mr. **NAME[AAA] was seen in the emergency room after he had noted a problem with his ambulation and with a visual field defect .
+He had a CT scan done which showed an ischemic occipital stroke .
+Dr. **NAME[WWW] , who knows the patient well from previous contact for a seizure disorder , was consulted .
+An MRI could not be done since the patient has a pacemaker .
+He was given aspirin as an anticoagulant .
+OT and PT were consulted .
+Initially , he was a bit confused , but this improved .
+He is frail , and somewhat deconditioned , and therefore it was felt that he could benefit from a short - term rehabilitation stay , but both the patient and his wife decided to try to have the services at home .
+An echocardiogram was done as per Dr. **NAME[VVV] , who is the patient 's attending cardiologist , who gave me a telephone report that his ejection fraction was somewhat depressed , but it did not show a major change from before .
+Carotid Dopplers were done which showed minimal occlusion .
+His lab work showed chronic renal failure and anemia which I noted when the patient came for the first time to my office earlier this month .
+This apparently was chronic , with a BUN of 33 , creatinine of 1.9 and a hemoglobin of 10.4 .
+An ultrasound of the kidneys was therefore obtained as well as a consult from nephrology in order to assess whether the patient will be a good candidate for Epogen .
+This would certainly improve his general weakness .
+The patient 's troponin was minimally elevated , and it was not felt that this was due to any cardiac event .
+There were no further complications noted , and the patient was discharged home in improved condition .
+He needs to follow up with Dr. **NAME[WWW] as directed , and with myself in a couple of weeks .
+Dr. **NAME[VVV] will continue to see him .
+He is to follow up with the renal service as directed .
+______________________________
+**NAME[YYY ZZZ] , MD
+HS Job # 157048 / 41855 /
+SHY # **ID-NUM
+D :
+**DATE[Jan 30 2008] 13:23
+T :
+**DATE[Feb 01 2008] 05:54
+**CARBON-COPY

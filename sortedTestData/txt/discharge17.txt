@@ -1,0 +1,39 @@
+**INSTITUTION
+NEUROSURGERY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT #
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY XXX ZZZ]
+ADMISSION DATE :
+**DATE[Oct 19 2007]
+DISCHARGE DATE :
+**DATE[Oct 26 2007]
+HISTORY :
+The patient is a **AGE[in 30s]- year-old female with a history of LP shunt by Dr. **NAME[SSS] with revision in **DATE[Jul 2007] admitted to the ED with headaches and possible shunt failure .
+The patient was admitted to Dr. **NAME[ZZZ] ' service at 8D .
+Ophthalmology saw papilledema .
+Shunt series shows that it is intact ; however , she did have hydrocephalus .
+She was kept on the service pending LP cultures and then repeat VP shunt was done .
+She was discharged to home on postoperative day 1 shunt revision .
+She denied headache .
+Her vision was clear , and her gait was normal .
+She had a slight headache , which was well controlled with oral pain medication .
+Vicodin was prescribed .
+She is to follow up in the clinic with Dr. **NAME[ZZZ] as directed and is encouraged to call with any questions or concerns such as fevers , headaches , vision changes , or other problems .
+___________________________________
+**NAME[YYY XXX ZZZ]
+Dictator : **NAME[VVV WWW] , M.D.
+CF/rec
+D : **DATE[Nov 10 2007] 12:46:32
+T : **DATE[Nov 11 2007] 01:33:01
+R : **DATE[Nov 11 2007] 01:33:01/rec
+Job ID :
+383396 /**ID-NUM
+Cc:
+*** Dictated By : -**NAME[WWW , RRR] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Nov 19 2007] 07:41:18 AM

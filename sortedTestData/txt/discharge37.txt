@@ -1,0 +1,100 @@
+**INSTITUTION
+GENERAL MEDICINE
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 12 2007]
+TRANSFER DATE :
+**DATE[Nov 18 07]
+**INSTITUTION and Clinic
+TRANSFERRED TO CARE OF :
+DISPOSITION :
+**INSTITUTION and Clinic .
+CONDITION ON TRANSFER :
+Stable .
+CONSULTANTS :
+Psychiatry .
+TRANSFER DIAGNOSES :
+1. HOSPITAL-ACQUIRED PNEUMONIA .
+2. CHRONIC OBSTRUCTIVE PULMONARY DISEASE .
+3. CEREBROVASCULAR ACCIDENTS IN THE PAST .
+4. **INSTITUTION AND CLINIC .
+5. ATRIAL FIBRILLATION ON COUMADIN .
+6. PULMONARY EDEMA .
+REASON FOR ADMISSION :
+This is an **AGE[in 80s]- year-old female with a past medical history of atrial fibrillation , COPD , and major depressive disorder who was , initially , admitted to **INSTITUTION for depression treatment ; however , she was transferred to **INSTITUTION and then **INSTITUTION to the MICU Service on **DATE[Nov 12 2007] in respiratory distress .
+The patient had originally been admitted to **INSTITUTION on **DATE[Oct 20 2007] for worsening confusion without any organic causes , as was described per note .
+She was receiving ECT treatment on **DATE[Nov 11 2007] followed by progressive shortness of breath , which caused her to go into respiratory distress and was transferred to the Medical ICU , and upon admission , x-ray showed a right mid-lung pneumonia .
+During her hospitalization , the patient also had a cardiac work-up , which was negative for troponins .
+EKG showed no acute changes .
+HOSPITAL COURSE :
+The patient was transferred to a Medical floor after a stable condition .
+She was , initially , on four-to-five liters of oxygen , which was titrated down , and she was started on Zosyn and vancomycin for hospital-acquired pneumonia and was also on DuoNebs for her COPD .
+The patient did well .
+Sputum cultures returned from the a tracheal aspiration with abundant epithelial cells and a contamination .
+Sputum culture on **DATE[Nov 12 2007] showed moderate white cells , gram-positive cocci in pairs , and a few gram-positive rods .
+The cultures did not grow anything , except for rare Streptococcus viridans .
+We decided to continue treatment with Zosyn and then discontinued the vancomycin for seven days .
+The patient was ready to be discharged back to **INSTITUTION ; however , on the day of **DATE[Nov 18 2007] , she developed respiratory distress due to pulmonary edema .
+She was transferred to the MICU and was returned back to the General Medicine Service the next day .
+During the MICU stay overnight , the patient was only diuresed with Lasix , but upon return to the General Medicine Service , we continued to diurese her with Lasix .
+The patient is now doing well without any complications .
+We have decided not to continue with the antibiotics given that the chest x-ray is now clear for any consolidation .
+She continues to have pulmonary congestion , which will require some time to clear up .
+Otherwise , she will receive DuoNeb treatments for her COPD .
+Also , Mucinex will help with clearing up the congestion at 600 mg twice a day .
+Cardiovascular .
+She is in atrial fibrillation .
+We have restarted her Coumadin .
+She receives 3 mg of Coumadin on Monday , Tuesday , Wednesday , Thursday , Friday , and Saturday , and 1.5 mg of Coumadin on Sunday .
+For rate control , we have added Cardizem CR constant release , which is 120 mg once a day .
+She is already on sotalol , which will also benefit with rate control .
+TRANSFER INSTRUCTIONS :
+1. Disposition - The patient is being discharged to **INSTITUTION .
+2. Code Status - DNR/DNI and is a chemical code , only .
+I had a lengthy discussion with the family .
+They do not want to put their mother through severe medical treatment .
+3. Consultations - A PT/OT consult would be most beneficial for the patient while in **INSTITUTION .
+4. Laboratories - Check PT/INR to adjust the Coumadin level .
+Would maintain INR around 2.5 .
+5. Diet - Would assess the patient with feeding .
+The patient is on a regular diet at this moment .
+6. Activity - Ad lib .
+ALLERGIES :
+1. PREDNISONE .
+2. PENICILLIN .
+TRANSFER MEDICATIONS :
+1. Sotalol 40 mg p.o. three times a day .
+2. Pepcid 20 mg p.o. q. day .
+3. Coumadin 3 mg p.o. Monday , Tuesday , Wednesday , Thursday , Friday , and Saturday .
+4. Coumadin 1.5 mg p.o. on Sunday .
+5. Mucinex 600 mg p.o. twice a day .
+6. Zyprexa 5 mg p.o. q. day .
+7. DuoNebs q. four hours while awake .
+8. Cardizem CD ( constant-release form ) 120 mg p.o. q. day .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Nov 22 2007] 15:22:06
+T :
+**DATE[Nov 22 2007] 15:35:42
+R :
+**DATE[Nov 22 2007] 15:35:42/kmk
+Job ID :
+356793 /**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX , TTT] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Nov 26 2007] 02:57:50 PM

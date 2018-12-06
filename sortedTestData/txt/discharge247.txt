@@ -1,0 +1,91 @@
+**INSTITUTION
+TRAUMA
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Mar 07 2007]
+DISCHARGE DATE :
+**DATE[Mar 13 2007]
+ADMITTING DIAGNOSIS :
+Motor vehicle crash .
+DISCHARGE DIAGNOSIS :
+Motor vehicle crash .
+REASON FOR ADMISSION :
+The patient , medical record # **ID-NUM , is a **AGE[in 70s]- year - old female who was in a motor vehicle crash with questionable loss of consciousness .
+She was complaining of left eye injury and some sternal tenderness .
+She has had a past medical history of laryngeal cancer status post trach , IVDs , and COPD .
+She was hemodynamically stable in the Trauma bay .
+CT of her chest , abdomen , and pelvis was negative .
+CT of the thoracic and lumbosacral spine showed she was negative for acute traumatic changes , did show degenerative joint disease .
+The CT of her C-spine showed no acute fractures .
+The CT of her head did show a dislocated left lens and some anterolisthesis T1 to T2 .
+Studies were otherwise negative .
+Ophthalmology saw the patient for dislocated lens on the left .
+There was also a small right orbital floor fracture with no evidence of entrapment .
+Their final recommendation was to push on strict hyphema precautions such as eye shield at all times , bedrest , head of bed up 30 degrees , no heavy lifting , bending , or other strenuous activities .
+The patient did develop some shortness of breath on **DATE[Mar 6 2007] , which persisted despite trach suctioning .
+She also had mild elevation in her troponins at that time .
+Cardiology did perform a cath which showed a 3 - vessel disease with 40% stenosis of the left circumflex , right coronary artery calcified with 70% stenosis , and an estimated EF of 35% to 40% .
+The patient would need a CABG at some point in the future .
+However , the patient is not interesting in having the surgery at this time .
+Therefore , she would follow up with Cardiology as an outpatient for further CABG planning .
+On **DATE[Mar 13 2007] , the patient was deemed stable for discharge to home and was discharged to home in stable condition with the diagnoses of left orbital floor fracture , left lens dislocation , multivessel heart disease .
+FOLLOWUP :
+She should followup with the **INSTITUTION in 2 weeks .
+She is given the phone number to call to make that appointment .
+She can follow up with Cardiology as needed .
+She is given the phone number for them .
+She should follow up with the **INSTITUTION as soon as possible after discharge definitely within few days .
+She is given the phone number to call and make that appointment , and she should follow up with Dr. **NAME[TTT] of Cardiac Surgery next week .
+She was also given a number for that appointment .
+DIET :
+She should resume a diabetic diet .
+ACTIVITY :
+She is discharged home on strict hyphema precautions which includes bedrest ; limited activity ; no lifting , pushing , or pulling anything greater than 5 pounds ; bending at the knees not at the waist ; elevation of head of the bed 30 degrees ; and keep plastic shield over her left eye at all times .
+Do not press the eye as it prevents her from knowing if her vision has changed .
+She would also have no stairs , no driving until seen for followup , no work until followup .
+She can bathe as she desires .
+DISCHARGE MEDICATIONS :
+She was discharged home on ,
+1. Singulair 10 mg at bedtime .
+2. Zetia 10 mg at bedtime .
+3. Metformin 500 mg p.o. b.i.d.
+4. Prednisone 5 mg p.o. q. day .
+5. Theophylline 200 mg p.o. q. day .
+6. Wellbutrin 100 mg p.o. b.i.d.
+7. Mucomyst 2 mL by nebulizer twice daily .
+8. Colace as needed .
+9. DuoNebs 2 nebs twice daily .
+10. Aspirin 325 mg by mouth daily .
+11. Erythromycin ointment to both eyes 4 times a day .
+12. Pred Forte 1% 1 drop 4 times a day , left eye .
+13. Homatropine 2% 1 drop 3 times a day , left eye .
+14. Alphagan 1 drop 3 times a day , left eye .
+15. Zocor 20 mg p.o. q. day .
+If she should have any further chest pain , shortness of breath , or difficulty breathing , she should call 911 immediately .
+Also , if she has any changes in vision , blurry vision , or double vision , she should call us immediately and call 911 if it seemed emergent .
+Please note that I did not participate in the care of this patient , but I am just dictating the discharge summary for medical record completion .
+___________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 13 2007] 09:46:51
+T :
+**DATE[Mar 14 2007] 00:10:30
+R :
+**DATE[Mar 17 2007] 06:36:48/rhk
+Job ID :
+345145/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , SSS] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Apr 12 2007] 01:53:10 PM

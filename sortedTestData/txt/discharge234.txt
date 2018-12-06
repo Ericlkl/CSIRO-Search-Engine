@@ -1,0 +1,107 @@
+**INSTITUTION
+GENERAL MEDICINE
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[TTT M SSS]
+ADMISSION DATE :
+**DATE[Mar 12 2007]
+TRANSFER DATE :
+**DATE[Mar 16 07]
+**INSTITUTION
+TRANSFERRED TO CARE OF :
+DISPOSITION :
+After discussion with the patient and her daughter , it was decided to transfer the patient to a skilled nursing facility .
+TRANSFER DIAGNOSIS :
+ABDOMINAL AORTIC ANEURYSM .
+LABORATORY , RADIOGRAPHIC , AND OTHER DIAGNOSTIC STUDY FINDINGS :
+The patient had the following study performed during this admission :
+1. A CT scan of the abdomen and pelvis was performed on **DATE[Mar 13 2007] which showed no periaortic hematoma , but marked interval increase in the size of a large juxtarenal abdominal aortic aneurysm which was now 7.6 cm .
+Severe emphysema and bibasilar fibrosis was seen , and diverticulosis and left lateral base diverticulum was also seen .
+Also , it was commented that the rapid growth of the aneurysm was a significant finding in and of itself .
+The previous size of the aneurysm was 5 x 4.7 cm .
+Consults obtained :
+1. Home oxygen evaluation consult .
+2. Home care consult .
+3. Physical Therapy consult was obtained .
+**INSTITUTION COURSE :
+The patient is an **AGE[in 80s]- year - old woman with a history of abdominal aortic aneurysm , which in **DATE[Sep 2005] was 5 x 4.7 cm in size , and a history of COPD , transitional cell carcinoma of the bladder , status post resection , enteral gastritis , previous hypothyroidism , history of hypercalcemia , a history of pulmonary embolism which she developed postoperatively , and osteoporosis , who presented with complaints of weakness , fatigue , decreased appetite , internally not feeling well for two weeks prior to admission .
+She also had some lightheadedness .
+She complained of chronic abdominal pain which was localized to the midline and lower part of the abdomen .
+The patient denied any radiation of the pain , but this pain was associated with nausea and vomiting .
+The patient also complained of constipation .
+She denied fevers or chills .
+She also stated that she had been feeling somewhat short of breath and had noticed increased sputum production .
+The patient continues to smoke .
+The patient denied headache , vision changes , palpitation , dysuria , or hematuria .
+The patient does not use oxygen at home .
+The patient denied hematochezia or melena .
+She also complained of some dyspnea on exertion .
+With regard to the patient 's abdominal pain , a CT scan of the abdomen was obtained which showed an enlarging aneurysm which was now about 7 cm .
+This was thought to be contributing to her abdominal pain .
+Also , she had chronic constipation , and she was placed on a bowel regimen , and with this , she had several bowel movements ; however , this did not improve her abdominal pain .
+Also , during her hospital stay , the patient had an episode of hypotension .
+On the morning of **DATE[Mar 13] , her pressures dropped down into the 70s and 60s systolic ; however , she maintained good mentation .
+Also , the following morning , it was noted that her hemoglobin had dropped down from 13.9 to 10.9 .
+Her hemoglobin thereafter stabilized .
+The patient did not have any melena or blood per rectum .
+There was no evidence of GI bleeding .
+It was felt that patient might have had a leak from her AAA , which possibly had sealed off , and this would certainly explain her hypotension , abdominal pain , and drop in her hemoglobin .
+However , the CT scan of the abdomen did not show any periaortic hematoma .
+The patient 's constipation was treated with a bowel regimen consisting of Colace and Senna .
+With this regimen , she had bowel movements .
+She was also given a one - time dose of MiraLax which improved her constipation .
+With regard to the patient 's pulmonary symptoms , she had noticed increased cough with increased sputum production .
+Her chest x-ray did not show an infiltrate .
+She was treated for a COPD exacerbation with DuoNebs and a five - day course of azithromycin which she completed on the day of discharge .
+The patient also has a history of gastroesophageal reflux disease .
+She was placed on Protonix .
+She also has a history of hypothyroidism .
+She was continued on her home dose of Synthroid , which is 88 mcg per day .
+For prophylaxis , she received heparin subQ and SCD s .
+For GI prophylaxis , she received Protonix .
+TRANSFER INSTRUCTIONS :
+1. ALLERGIES :
+NO KNOWN ALLERGIES .
+2. Code Status :
+The patient is DNR / DNI .
+She did not wish to have any surgical interventions for her abdominal aortic aneurysm .
+She also refused to have blood transfusions if needed .
+However , the issue of blood transfusion can be readdressed if her hemoglobin at a later point is found to be at a much lower level .
+3. The patient 's discharge medications are as follows :
+(a) Detrol LA 4 mg p.o. daily .
+(b) Protonix 40 mg p.o. daily .
+(c) Synthroid 88 mcg p.o. daily .
+(d) Trazodone 50 mg p.o. q.h.s.
+(e) Claritin 10 mg p.o. daily .
+(f) Senna two tablets p.o. daily .
+(g) Colace 100 mg p.o. b.i.d.
+(h) Heparin 5000 units subQ q. eight hours .
+(i) Nicotine gum p.r.n.
+(j) Zofran 4 mg IV p.r.n.
+(k) Oxycodone 5 mg p.o. q. eight hours p.r.n.
+4. The patient is to follow up with her primary care physician , Dr. **NAME[UUU VVV] .
+An appointment was made for her on **DATE[Mar 30 2007] at 08:30 a.m.
+___________________________________
+**NAME[TTT M SSS] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 16 2007] 17:20:13
+T :
+**DATE[Mar 16 2007] 17:28:41
+R :
+**DATE[Mar 16 2007] 17:28:41/pam
+Job ID :
+348898/**ID-NUM
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX , RRR] ***
+Electronically Signed by **NAME[TTT SSS]
+**DATE[Mar 23 2007] 03:12:24 PM

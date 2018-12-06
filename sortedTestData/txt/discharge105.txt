@@ -1,0 +1,85 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+____________________________________________________________
+**NAME[AAA , BBB M]
+**ID-NUM
+**ID-NUM
+A5B/1
+CORRECTED REPORT - DATE
+SERVICE OF :
+**NAME[ZZZ YYY XXX]
+DATE OF ADMISSION :
+**DATE[Oct 17 2007]
+DATE OF DISCHARGE :
+**DATE[Oct 19 2007]
+ADMISSION DIAGNOSIS :
+Clostridium difficile diarrhea infection .
+DISCHARGE DIAGNOSIS :
+Clostridium difficile diarrhea infection .
+SERVICE :
+Family health clinic service .
+RESIDENTS :
+1. **NAME[VVV WWW] , D.O.
+2. **NAME[SSS RRR] , D.O.
+CONSULTS :
+Nephrology , Dr. **NAME[QQQ] .
+PROCEDURE :
+Hemodialysis on **DATE[Oct 19 2007] .
+HISTORY :
+The patient presented with 3 to 4 days worth of diarrhea .
+She is a **AGE[in 30s]- year - old white female with a history of diabetes and end-stage renal disease , dialysis dependent on Mondays , Wednesdays , Fridays , and Saturdays , who comes in with a 3 - to 4 - day history of diarrhea .
+The patient was seen at **INSTITUTION ER about 2 days prior to this admission and left AMA when she was told that she will be admitted .
+The patient asked to come back as C. diff culture was positive .
+The patient was recently admitted to **INSTITUTION for CHF .
+The patient at the time of admission was not giving much history .
+ALLERGIES :
+ASPIRIN .
+PAST MEDICAL HISTORY :
+Congestive heart failure , diabetes , hypertension , end-stage renal disease , dialysis dependent , depression , malnutrition , adherence / compliance difficulty , decreased albumin , dyslipidemia , psychiatric issues , GERD , and hypokalemia .
+MEDICATIONS :
+Lantus , Neurontin , Effexor , Nicomide , loratadine as stated , Nexium , Lupron , Lopid , Lipitor , sodium bicarbonate , Renal Caps , Cardizem , and Humalog sliding scale .
+PERSONAL HISTORY :
+She denies smoking and alcohol .
+On the day of discharge , the patient is denying any abdominal pain , diarrhea resolving , denies nausea or vomiting , tolerating diet .
+PHYSICAL EXAMINATION :
+Afebrile .
+Vital signs are stable .
+GENERAL :
+Teary eye , crying .
+Awake , alert , and oriented .
+CV :
+S1 and S2 heard .
+No murmurs auscultated .
+Lungs :
+Clear to auscultation bilaterally .
+No wheezes auscultated .
+Abdomen :
+Soft , nontender , and nondistended .
+Normal bowel sounds .
+Extremities :
+No clubbing .
+No cyanosis .
+No edema .
+No calf tenderness .
+COURSE :
+She received dialysis today on **DATE[Oct 19 2007] .
+DISCHARGE CONDITION :
+Stable .
+DISPOSITION :
+Discharged to home .
+DISCHARGE MEDICATIONS :
+Continue home medications and Flagyl 500 mg 1 tablet p.o. q.i.d. for 10 days , dispensed #40 .
+INSTRUCTIONS :
+1. Follow up for hemodialysis tomorrow .
+2. Follow up with **INSTITUTION .
+___________________
+**NAME[VVV WWW] , D.O.
+Dict :
+**DATE[Oct 19 2007] 14:11:43
+Tran :
+**DATE[Oct 19 2007] 19:10:31
+AD/an/353412/**ID-NUM/**ID-NUM
+R :
+**DATE[Oct 25 2007] 05:34:08/pc
+**CARBON-COPY

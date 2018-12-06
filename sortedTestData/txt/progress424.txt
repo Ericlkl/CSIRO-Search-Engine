@@ -1,0 +1,82 @@
+Progress **INSTITUTION
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 70s] years
+Sex :
+Male
+DOB :
+**DATE[Apr 27 1927]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Allergy / reaction profile ( all ):
+NKA
+Current Medications : medication administration orders ( selected )
+Dextrose 5% with 0.45%
+Sodium Chloride + 20 mEq
+Potassium Chloride 1000 mL , 1000 mL , IV , Routine , **DATE[Mar 16 07] 4:51:00 , 100 mL / hr , Administer Over : 10 HR
+morphine 2 mg , 2 mg , Dispsyr , IV , Q2H , PRN , For Pain , Severe ( 7-10 ) , Routine , **DATE[Mar 16 07] 4:56:00
+Problem list
+No problem items selected or recorded .
+Results Review
+General results
+Today 's results :
+ALLRESLTSECT
+**DATE[Mar 17 2007] 6:10 AM
+Na 136 mEq / L
+K 4.2 mEq / L
+Cl 105 mEq / L
+CO2 24 mEq / L
+BUN 15 mg / dL
+Cr 1.1 mg / dL
+Glucose 115 mg / dL High
+Lipase 144 Unit ( s )/ L
+WBC 10.9 X10E+09 / L High
+Hgb 12.8 gm / dL Low
+Hct 37.6 % Low
+Platelets 142 X10E+09 / L Low
+**DATE[Mar 17 2007] 6:00 AM
+Temperature Conversion
+37.1 DegC
+Pulse
+72 BPM
+Respiratory Rate
+20
+Systolic BP
+102 mmHg
+Diastolic BP
+60 mmHg
+Subjective
+Complaints
+No new complaints .
+No c/o Fever .
+No c/o Abdominal Pain .
+Physical Examination
+General Exam
+Abdomen : surface : normal , contour : not distended , soft ,
+bowel sounds : normal , no tenderness .
+Vital signs : normal
+Constitutional : normal
+Eye : normal
+Ear : normal
+Heart : normal
+Lungs : normal
+Skin : normal
+Plan
+ACUTE CHOLECYSTITIS ( ICD9 575.0 , Working , Problem )
+Pt now on zosyn day two .
+NPO .
+Will hold off on surgery for another day or two .
+Continues to be afebrile .
+Morphine for pain prn .
+Professional Services
+Credentials and Title of Author **NAME[VVV] Signing this Document : MD , Family Practice Intern
+Perform by **NAME[XXX , WWW M]
+( on **DATE[Mar 17 2007] 09:43 )
+Sign by **NAME[XXX , WWW M]
+( on **DATE[Mar 17 2007] 09:43 )
+VERIFY by **NAME[XXX , WWW M]
+( on **DATE[Mar 17 2007] 09:43 )

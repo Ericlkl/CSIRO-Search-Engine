@@ -1,0 +1,15 @@
+The patient was examined on rounds with housestaff .
+I have reviewed the patient data and films .
+Refer to the history and physical by Dr. **NAME[XXX] .
+I have reviewed her findings and agree with her plan .
+Impression :
+**AGE[in 40s] year old male with severe emphysema and acute respiratory failure requiring mechanical ventilation .
+1. Resp failure :
+I have changed his vent settings to allow fuller exhalation and promote ventilator dyssynchrony -- he has has marked airflow limitation .
+we will proceed with a spontaneous breathing trial and extubation tomorrow -- he will most likely need BIPAP as a bridge to sustained spontaneous breathing .
+2. COPD exacerbation -- on solumedrol , azithromycin , xopenex
+3. narcotic dependence -- on fentanyl gtt .
+Critical care time spent exclusive of teaching and procedures = 45 Minutes
+**NAME[YYY ZZZ] , MD
+Perform by **NAME[ZZZ , YYY M]
+( on **DATE[Jul 09 2007] 17:55 )

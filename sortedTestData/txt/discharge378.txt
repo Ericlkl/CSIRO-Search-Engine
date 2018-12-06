@@ -1,0 +1,42 @@
+**INSTITUTION
+Plastic Surgery
+Discharge Summary
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT# :
+**ID-NUM
+ATTENDING :
+**NAME[M YYY ZZZ]
+ADMISSION DATE :
+**DATE[Jan 22 2008] 20:41:00
+DISCHARGE DATE :
+**DATE[Jan 24 2008]
+The patient is a **AGE[in 40s]- year - old female status post laparoscopic gastric bypass with a 250 - pound weight loss .
+She was initially seen in our office and underwent a lower body lift .
+She has been evaluated for her second - stage procedure .
+She had consented to a brachioplasty and medial thigh lift .
+Her perioperative course was uneventful .
+The patient was hemodynamically stable with excellent urine output at 400 cc in the last 8 hours , good p.o. intake , and ambulated without any difficulty .
+Of note , her H and H postop on day #1 and #2 were 6.5 and 19.5 .
+This was rechecked .
+This was not _________ given the platelets and white count were normal .
+Given her slightly elevated tachycardia and decreased H and H , she was transfused 2 units without any consequence .
+She was discharged in stable condition and instructed to follow up in our clinic on Tuesday .
+___________________________________
+**NAME[M YYY ZZZ]
+DICTATED BY :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Jan 24 2008] 09:37:30
+T :
+**DATE[Jan 25 2008] 00:08:03
+R :
+**DATE[Jan 25 2008] 00:08:03/fk
+Job ID :
+359446/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , VVV] ***
+Electronically Signed by **NAME[M. YYY ZZZ]
+**DATE[Feb 22 2008] 06:02:43 PM

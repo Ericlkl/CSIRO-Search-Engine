@@ -1,0 +1,45 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Aug 14 2007]
+EVALUATION DATE :
+**DATE[Aug 15 07]
+I have been requested by the trauma team to take care of this gentleman who is status post surgery for incarcerated hernia .
+I am managing this patient 's respiratory failure .
+On my examination today , he opens his eyes to painful stimuli and does not follow commands on a consistent basis .
+Examination of the heart reveals S1 and S2 present .
+The lungs reveal diminished breath sounds at both bases .
+The abdomen is softer and nontender .
+With regards to my plan today , I wanted to wean him off the vent .
+However , on placing him on CPAP trials multiple times , the patient became apneic despite stopping all his sedation .
+My plan is to , hence , leave him on a lower rate on assist control and see if he will breathe spontaneously as he wakes up .
+My goal is to try to extubate him later today .
+I have continued his stress ulcer prophylaxis and DVT prophylaxis .
+I have replaced his electrolytes appropriately , including his K and magnesium .
+This is a vent management note for **DATE[Aug 15 2007] .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Aug 15 2007] 15:58:01
+T :
+**DATE[Aug 15 2007] 17:58:39
+R :
+**DATE[Aug 15 2007] 17:58:39/hms
+Job ID :
+347371/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Aug 22 2007] 03:55:38 PM

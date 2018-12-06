@@ -1,0 +1,47 @@
+HISTORY OF PRESENT ILLNESS :
+The patient is an **AGE[in 80s]- year - old female with advanced dementia who came to the emergency room as instructed by her PCP .
+The patient had recently been admitted with left lower leg cellulitis .
+She went home after her discharge and due to her dementia with paranoia , she did not take her antibiotics .
+Her leg has worsened and she came back to the emergency room for evaluation .
+She had actually called Dr. **NAME[ZZZ] 2 nights prior to when she actually came in and was advised to go to the ER , but she did not come until the day of admission .
+HOSPITAL COURSE :
+By diagnoses :
+1. Left leg cellulitis .
+The patient was restarted on her clindamycin and Avelox and was given her antibiotics intravenously .
+On admission , the patient was afebrile .
+Her white blood cell count was 6.5 and all other labs were essentially normal .
+She did develop a focal swelling in her left lower leg , and we were concerned about an abscess .
+Dr. **NAME[VVV] was consulted .
+The patient got CT of her left lower extremity which showed crescentic - shaped fluid density collection along the lateral superficial aspect of the upper portion of the left lower leg without demonstrable air bubble .
+This probably represents noninfected fluid collection , accompanying soft tissue cellulitis is demonstrable .
+No evidence of intramuscular or osseous infection involvement .
+Dr. **NAME[VVV] did not feel that any surgical drainage of this fluid collection was necessary .
+The patient continued to improve and daughter was arranged placement into a personal care home prior to discharge .
+2. Dementia .
+The patient 's dementia is advanced .
+She did not show any delirium or improvement during this course .
+Of note , the patient 's blood cultures remained negative throughout admission as well .
+All other labs are true , correct , and present on the chart .
+3. Depression .
+The patient 's mood was depressed and with her longstanding dementia , psychiatry was consulted .
+They recommended placement and to increase her Aricept to 10 mg a day which was done .
+MEDICATIONS AT DISCHARGE :
+1. Cleocin 300 mg every 8 hours for 7 days .
+2. Plavix 75 mg daily .
+3. Aricept 10 mg daily .
+4. Hydrochlorothiazide 25 mg daily .
+5. Levaquin 500 mg daily for 7 days .
+6. Synthroid 25 mg daily .
+7. Accupril 20 mg daily .
+8. Florastor 250 mg t.i.d.
+9. Zocor 20 mg nightly .
+DISPOSITION :
+The patient was discharged to **INSTITUTION via wheelchair , and she will be instructed to follow up with Dr. **NAME[ZZZ] in 2 weeks .
+______________________________
+**NAME[WWW XXX] , M.D.
+HS Job # 211046 / 39512 /
+# **ID-NUM
+D :
+**DATE[Mar 15 2008] 08:40
+T :
+**DATE[Mar 15 2008] 09:40

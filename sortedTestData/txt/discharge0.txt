@@ -1,0 +1,66 @@
+INSTITUTION
+NEUROSURGERY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME [ AAA , BBB M ]
+ACCOUNT #
+ID - NUM
+ROOM
+ATTENDING PHYSICIAN :
+**NAME [YYY XXX ZZZ]
+ADMISSION DATE :
+**DATE [Aug 29 2007]
+DISCHARGE DATE :
+**DATE [Sep 01 2007]
+PRINCIPAL DIAGNOSES :
+POST LAMINECTOMY SYNDROME , STATUS POST FAILED TRIAL OF INTRATHECAL OPIOID PUMP .
+REASON FOR ADMISSION :
+This is a AGE[in 40s]- year-old female with signs and symptoms of post laminectomy syndrome .
+It was felt that a trial of an implanted intrathecal opioid pump might be of benefit to the patient .
+She entered the hospital and began a trial of a morphine pump on DATE[Aug 29 07] .
+HOSPITAL COURSE :
+The patient remained alert and oriented , afebrile with stable vitals during her stay .
+However , she experienced significant nausea and vomiting with very little relief in her pre-existing pain during the morphine trial .
+As a result , the intrathecal medication was changed from morphine to Dilaudid .
+By postop day number 2 , her nausea had cleared and she was tolerating p.o. intake .
+However , despite large increases in the intrathecal administration rate , she received essentially no relief of her pretrial pain .
+She also complained of a severe positional headache on postop day number 1 .
+This was treated with IV fluids and flat bed rest , and it resolved on its own prior to discharge .
+The patient 's insertion site was clean , dry and intact .
+Her motor exam and sensation to light touch appear to remain intact throughout her stay .
+The patient noted that she had been prescribed fentanyl patches in the past .
+However , she had syncopal episodes and apparent convulsions while using these .
+As a result , this medication could not be considered as an option when the patient was not receiving adequate relief from the Dilaudid trial .
+Finally , on postop day number 3 , secondary to failure of pain relief using either morphine or Dilaudid , and because of an inability to use fentanyl secondary to prior historical problems with that medication , it was elected to end the trial .
+The catheter was pulled without complications , and the catheter insertion site was closed with a single pursestring stitch .
+The patient was medically safe for discharge home on postop day number 3 .
+DISCHARGE INSTRUCTIONS :
+ACTIVITY :
+1. The patient may have activity as tolerated .
+2. She may not drive motor vehicles if taking narcotics .
+3. She may remove her dressing and begin showering on Friday , **DATE[Sep 02 07] .
+However , she should avoid tub baths , Jacuzzis , or soaking her incision for 2 weeks after surgery .
+DISCHARGE MEDICATIONS :
+1. MS Contin 15 mg 1 p.o. t.i.d.
+2. Vicodin 5/500 one to 2 p.o. q.4-6 hours p.r.n. maximum 8 per day #90 no refills .
+3. Senokot-S 1-2 p.o. nightly while on narcotics .
+FOLLOWUP :
+1. She may have her suture removed by her local doctor in 7-10 days .
+2. She should follow up with Dr. **NAME[ZZZ] in 2-4 weeks .
+Call **PHONE to schedule appointment .
+The patient was advised to notify her physician 's office or 911 if she experiences changes in orientation , balance , speech or coordination ; swelling of the tongue , throat , difficulty with breathing or seizures .
+Additionally , she is to notify her surgeon 's office if she experiences incisional redness , swelling or drainage ; fever greater than 100.4 degrees Fahrenheit with or without night sweats or chills ; persistent headache or increased incisional pain unrelieved by prescription medication and rest ; new problems or changes in status , especially if not present before surgery , including worsening of pain shooting down the arms or legs , new numbness or weakness or changes in bowel or bladder function .
+She is given a copy of the preprinted discharge instructions , which she indicated that she understood .
+**NAME[YYY XXX ZZZ] , M.D.
+Dictator :
+**NAME[UUU WWW , VVV-M]
+**INITIALS
+D : **DATE[Sep 01 2007] 15:10:15
+T : **DATE[Sep 01 2007] 17:56:03
+R : **DATE[Sep 02 2007] 10:24:35/kt
+Job ID :
+371372/**ID-NUM
+*** Dictated By :
+-**NAME[WWW , VVV-RRR] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Sep 05 2007] 10:03:10 AM

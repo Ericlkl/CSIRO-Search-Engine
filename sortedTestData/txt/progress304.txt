@@ -1,0 +1,47 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Feb 31 07]
+This patient was seen and examined for run of V-tach .
+The patient supposedly had a tachycardic rhythm and complained of chest pain and had desaturations in the 70s on 10/5 of BiPAP .
+The patient is a **AGE[in 60s]- year - old white female postop day three status post bilateral lung reduction surgery for COPD with resistant air leaks bilaterally , respiratory insufficiency , laryngeal injury with tear in the carina and also in the left mainstem secondary to double lumen tube , who has progressively had renal insufficiency , however , does not wish to be intubated and with saturations of 88% has a mild respiratory acidosis .
+The patient had a run of what appeared to be V-tach ; 4 grams of magnesium were hung .
+K + was checked and was found to be 4.1 .
+The patient was given magnesium and the patient overall hemodynamically improved .
+The patient is now wishing intubation and understood that she would die without breathing tube as necessary .
+The patient has stabilized with an increased FiO2 up to 12 liters .
+The patient had improved saturations and improved ABG from 7.26 , 59 , 68 , 25 , to 7.29 , 53 , 63 , saturations of 88-89 .
+The patient was awake and had a right radial A-line placed for ABG testing .
+The patient will continue to be observed on BiPAP 10/5 and most likely will need reintubation for her respiratory insufficiency , respiratory failure at some point in the next 24 hours .
+In the meantime , the patient currently is stable .
+The patient will be need to continue to be observed .
+The patient has had a decrease in ectopy as her magnesium was hung .
+Total critical care time was 45 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 01 2007] 06:13:26
+T :
+**DATE[Mar 01 2007] 06:39:32
+R :
+**DATE[Mar 01 2007] 06:39:32/crl
+Job ID :
+370488/**ID-NUM
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 10 2007] 07:25:42 AM

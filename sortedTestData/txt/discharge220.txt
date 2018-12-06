@@ -1,0 +1,117 @@
+**INSTITUTION
+CARDIOLOGY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Feb 04 2007]
+DISCHARGE DATE :
+**DATE[Feb 21 2007]
+TENTATIVE DISCHARGE SUMMARY
+DISCHARGE DIAGNOSES :
+1. Endstage nonischemic cardiomyopathy with an ejection fraction of 10% to 15% on home milrinone as destination therapy .
+2. Renal insufficiency .
+3. Hypothyroidism .
+4. Diabetes mellitus .
+5. Psoriasis .
+6. Depression .
+7. History of BiV ICD Guidant in **DATE[Aug 2006] .
+REASON FOR ADMISSION :
+The patient is a **AGE[in 50s]- year - old white female with a past medical history of nonischemic cardiomyopathy , status post BiV ICD ; diabetes mellitus ; and history of medication noncompliance who was admitted on **DATE[Feb
+4 2007] , with progressive increase in ascites , shortness of breath , orthopnea , PND , and lower extremity edema .
+She was seen in the **INSTITUTION and was found to have a 25 - pound weight gain and was admitted for IV diuresis .
+CONSULTATIONS THIS ADMISSION :
+Included :
+1. Endocrinology .
+2. Dermatology .
+In Dermatology , the patient was seen by Dr. **NAME[TTT] .
+3. Palliative Care .
+4. Psychiatry .
+LABORATORY DIAGNOSTIC TESTS :
+On **DATE[Feb 19 2007] , the patient 's sodium 141 , potassium 4.7 , chloride 100 , CO2 32 , BUN 55 , and creatinine 1.5 .
+Creatinine peaked at this admission at 2.4 .
+The patient 's magnesium was 1.9 .
+On **DATE[Feb 9 2007] , ALT 26 , AST 25 , triglycerides 59 , cholesterol 90 , LDL 44 , and HDL 37 .
+H and H were 10.9 and 32.9 on **DATE[Feb 19 2007] .
+TSH was 19.725 , T4 7.1 , and T3 uptake 1.17 .
+Chest x-ray on **DATE[Feb 19 2007] , showed cardiomegaly , small right pleural effusion , and no definite interval change .
+Abdominal x-ray on **DATE[Feb 16 2007] , showed moderate to large amount of colonic stool without proximal obstruction .
+No large amount of ascites .
+Hemoglobin A1c was 7 .
+HOSPITAL COURSE :
+1. Nonischemic cardiomyopathy with an EF of 10% to 15% .
+The patient was admitted with CHF exacerbation with symptoms of increased shortness of breath , increased abdominal girth , and edema .
+The patient was initially diuresed with IV Lasix and Zaroxolyn .
+She had a good response with the diuretics ; however , her creatinine began to bump up .
+The patient was then placed on IV milrinone on **DATE[Feb 9 2007] , with improvement of urine output .
+The patient was continued on milrinone and the IV diuretics .
+The milrinone was weaned off on **DATE[Feb 13 2007] , to **DATE[Feb 14 2007] .
+The patient soon had another rise in her creatinine and had an increase in symptoms .
+Milrinone was restarted on **DATE[Feb 17 2007] .
+Discussion occurred regarding transplant evaluation and LVAD .
+The patient refused these treatments .
+She initially had refused home milrinone as a palliative measure ; however , given improvements in symptoms on milrinone , the patient has agreed at this time to go home with hospice with milrinone as a palliative measure .
+The patient 's Toprol and lisinopril were discontinued .
+The Toprol due to the starting of the milrinone and the ACE inhibitor secondary to the increase in creatinine .
+The patient is also currently off Lasix .
+We will need to consider restarting this at the time of discharge for symptom management .
+Palliative Care has assisted throughout the admission with discharge planning and plans for home hospice .
+The patient does have a BiV ICD .
+There was a discussion with the family , patient , and physicians , and it was decided that the ICD will be turned off prior to discharge .
+The patient has a right brachial PICC line which is infusing the milrinone currently at 0.25 microgram per kilogram per minute .
+2. Renal insufficiency .
+The patient 's creatinine peaked at 2.4 on diuretics and off the milrinone .
+The patient 's creatinine at the time of dictation was 1.5 .
+Her ACE inhibitor and diuretics are currently on hold .
+3. Hypothyroidism .
+The patient 's TSH was noted to be elevated at 19 ; however , she did report noncompliance with medications at home .
+Endocrinology evaluated in the hospital and recommended Synthroid be restarted at 25 mcg daily and increased to 50 mcg per day in 3 weeks with a repeat TSH in 10 weeks .
+4. Diabetes mellitus .
+Hemoglobin A1c 7 .
+Endocrinology was consulted due to an episode of hypoglycemia .
+Given the patient 's plans for palliative care , it was decided that the patient will no longer have Accu-Cheks performed and will not be on any oral hypoglycemic medications .
+The patient was given dietary instructions by Endocrinology .
+5. Psoriasis .
+The patient noted to have flare of psoriasis during admission .
+Dermatology was consulted .
+Seen by Dr. **NAME[TTT] .
+The patient was initiated on a regimen of creams .
+She is to continue Dovonex ointment 0.005% b.i.d. to all affected areas .
+She is to continue clobetasol 0.05% ointment 2 times a day to affected areas until **DATE[Feb 23 2007] , and is to avoid the face and skin fold with that .
+This ointment is only to be reserved for flares , and she is also on DesOwen cream b.i.d. x 2 weeks to affected areas on the face .
+Again , this will be discontinued on **DATE[Feb 23 2007] .
+She can follow up with the **INSTITUTION , **PHONE if needed .
+The patient has had significant improvement in psoriasis with the ointments .
+6. Depression .
+The patient was seen by Palliative Care as well as Psychiatry .
+Her Effexor was discontinued and Wellbutrin was added .
+The patient 's affect is appropriate .
+7. History of BIV ICD Guidant .
+The patient to have defibrillator turned off prior to discharge .
+PLAN :
+The current plan is for the patient to have home hospice with VITAS and IV milrinone continuous infusion as a palliative measure .
+Discharge planning continues .
+There will be an addendum to this dictation on the day of discharge .
+___________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW XXX] , C.R.N.P.
+GH/rec
+D :
+**DATE[Feb 19 2007] 14:06:02
+T :
+**DATE[Feb 19 2007] 22:56:22
+R :
+**DATE[Feb 19 2007] 22:56:22/rec
+Job ID :
+353386/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , SSS] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Feb 31 2007] 05:03:08 PM

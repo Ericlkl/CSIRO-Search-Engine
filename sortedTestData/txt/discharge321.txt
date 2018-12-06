@@ -1,0 +1,45 @@
+**INSTITUTION
+OTORHINOLARYNGOLOGY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[TTT M. SSS] , M.D.
+ADMISSION DATE :
+**DATE[Aug 13 2007]
+DISCHARGE DATE :
+**DATE[Aug 18 2007]
+The patient was admitted on **DATE[Aug 13 2007] , for a left facial abscess .
+Soon after admission , she was placed on Unasyn IV .
+She was taken to the operating room on **DATE[Aug 16 2007] , for an I and D of a left facial cystic lesion as well as a left maxillary antrotomy .
+She was continued on antibiotics with Unasyn .
+She had no postoperative complications .
+The night prior to discharge , the evening of **DATE[Aug 17 2007] , the patient developed left shoulder pain .
+She did not have any EKG changes , and her troponins were negative .
+She also developed diarrhea the morning of her discharge , and her antibiotics were discontinued at that point .
+She was discharged on **DATE[Aug 18 2007] , to home .
+She was discharged home to resume her regular home medications as well as medications including Roxicet for pain , metronidazole
+500 mg p.o. t.i.d. for 7 days as well as Peridex swish and spit t.i.d. for 7 days .
+She was instructed to followup with Dr. **NAME[SSS] in 1 to 2 weeks and to call **PHONE to make an appointment .
+She was instructed to call the clinic or return to the emergency department for any signs of fevers , bleeding , chills , swelling , redness of the area as well as if her diarrhea did not resolve .
+________________________________
+**NAME[TTT M. SSS] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Aug 18 2007] 13:03:22
+T :
+**DATE[Aug 19 2007] 00:56:51
+R :
+**DATE[Aug 19 2007] 00:56:51/ptl
+Job ID :
+351502/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , RRR] ***
+Electronically Signed by **NAME[TTT SSS]
+**DATE[Sep 01 2007] 03:15:06 PM

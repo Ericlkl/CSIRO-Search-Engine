@@ -1,0 +1,69 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+Discharged :
+**DATE[Jul 22 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+PRINCIPAL DIAGNOSES :
+Myocardial infarction status post stent and bacteremia .
+SECONDARY DIAGNOSIS :
+Hypertension .
+LIST OF CONSULTANTS :
+1. **NAME[UUU TTT] , MD
+2. Dr. **NAME[SSS] .
+PRINCIPAL PROCEDURES AND TESTS :
+The patient had an echocardiogram which showed an EF of 55% , dilated left ventricle with preserved systolic function , and segmental wall motion abnormalities as well as mitral annular calcification and aortic sclerosis with mild AR .
+The patient had a second echo during heart attack , and it showed no change .
+The patient had a cardiac catheterization which showed complex plaque in left proximal LAD which was successfully stented with 3.5 x 23 - mm stent and required Plavix for 1 year .
+The patient had an anomalous left circumflex with no disease .
+Right coronary was free of disease and was dominant , and there was elevated left ventricular end - diastolic pressure .
+The patient had chest x-ray which showed some cephalization , bilateral pleural effusions similar to previous exams .
+The patient had an abdominal ultrasound which was in normal .
+Right upper quadrant ultrasound small right pleural effusion was seen .
+DISCHARGE MEDICATIONS :
+Include
+1. Clopidogrel 75 mg p.o. q. day .
+2. Atenolol 50 mg p.o. q.day.
+3. Tylenol p.r.n. pain .
+4. Mylanta p.r.n. dyspepsia .
+5. Aspirin 81 mg p.o. q.day.
+6. Lipitor 20 mg p.o. q.p.m.
+7. Nitrostat 0.4 mg sublingual q.5 minutes p.r.n. chest pain .
+8. Prilosec as needed .
+9. Ciprofloxacin 500 mg 1 day p.o. b.i.d. x 10 days .
+HOSPITAL COURSE :
+Mr. **NAME[AAA] is a **AGE[in 50s]- year - old African American male with past medical history of recently diagnosed hypertension who presented to the
+ED which he complained of throat pain and dyspnea on exertion .
+He was found to have an elevated troponin as well as EKG evidence of a myocardial infarction , was admitted to low level monitor floor .
+His troponin peaked at 13 , and a Cardiology consult with Dr. **NAME[TTT] was obtained .
+The patient did have a cardiac catheterization , and the results are as above .
+He had 1 stent deployed and is to continue on the aspirin and his Plavix , and atenolol and Lipitor per Cardiology .
+The patient 's hospital course was complicated by fever and also gram - negative bacteremia which initially delayed his catheterization .
+He was treated with ceftriaxone and received 1 dose of gentamicin .
+His culture eventually grew out Ralstonia pickettii .
+ID consult with Dr. **NAME[SSS] was obtained .
+When the culture grew out , it was decided that he could be kept on ciprofloxacin 500 mg p.o. b.i.d. x 10 days and follow up in their office .
+They also recommended an abdominal CT , which the patient will obtain as an outpatient with p.o. and IV contrast .
+An HIV test was also obtained at this admission and is pending at the time of this dictation .
+The patient is discharged to home in stable condition .
+She should follow up with his primary care provider in 1-2 weeks , Infectious Disease in 7 to 10 days , and Cardiology in 1 month .
+The patient has a job where he drives and carries a lot of heavy objects .
+He should return to work in 4 weeks .
+______________________________
+**NAME[WWW VVV XXX]
+HS Job # 874883 / 33103 /
+SHY # **ID-NUM
+D :
+**DATE[Jul 22 2007] 12:44
+T :
+**DATE[Jul 22 2007] 15:50
+**CARBON-COPY

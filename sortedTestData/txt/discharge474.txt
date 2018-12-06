@@ -1,0 +1,52 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Aug 16 2007]
+Discharged :
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+ADMISSION DIAGNOSES :
+1. Unstable angina .
+2. Coronary artery disease .
+3. Mild dementia .
+4. Benign prostatic hypertrophy .
+DISCHARGE DIAGNOSES :
+1. Unstable angina .
+2. Coronary artery disease .
+3. Mild dementia .
+4. Benign prostatic hypertrophy .
+PRINCIPAL PROCEDURE :
+Stent angioplasty .
+MEDICAL HISTORY :
+The patient is a **AGE[in 70s]- year - old who presented with unstable angina .
+He was taken to the catheterization laboratory which demonstrated a high - grade stenosis of the proximal left anterior descending .
+No significant disease of the left circumflex and right coronary arteries .
+The patient underwent primary stenting without complication .
+The patient was discharged the following day in stable condition .
+DISCHARGE MEDICATIONS :
+1. Avodart 1 daily .
+2. Aricept 10 mg at bedtime .
+3. One aspirin 81 mg daily .
+4. Namenda 10 mg twice daily .
+5. Lopressor 25 mg twice daily .
+6. Dutasteride 0.5 mg daily .
+7. Plavix 75 mg daily .
+DISPOSITION :
+The patient wil follow up with Dr. **NAME[ZZZ] in 4 weeks ' time .
+______________________________
+**NAME[WWW M XXX] , MD
+HS Job # 771975 / 42037 / 15333
+SHY # **ID-NUM
+D :
+**DATE[Aug 17 2007] 11:17
+T :
+**DATE[Aug 17 2007] 13:08
+**CARBON-COPY

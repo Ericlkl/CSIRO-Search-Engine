@@ -1,0 +1,52 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[VVV M WWW]
+ADMISSION DATE :
+**DATE[May 25 2007]
+EVALUATION DATE :
+**DATE[Jun 04 07]
+This is a **AGE[in 60s]- year - old male with CAD , CHF , CVA , atrial fibrillation , LV dysfunction , and CHF status post CVA , CPA , and clot evacuation .
+ASSESSMENT AND PLAN :
+1. Hypertension .
+Controlled without headaches or nosebleeds .
+2. CHF .
+Improved by clinical exam and chest x-ray .
+3. Leukocytosis .
+No low - grade fever .
+White count 11,000 .
+No laboratory workup .
+4. Anemia .
+H and H improved .
+Hemodynamically stable .
+5. Hypokalemia .
+Improved with replacement therapy .
+6. Hyponatremia .
+Borderline at 135 .
+7. Hyperglycemia , controlled without new complication .
+8. Status post pacer , defibrillator placement .
+Monitor for arrhythmias , bradycardia controlled .
+___________________________________
+**NAME[XXX M. YYY] , M.D.
+Dictator :
+**NAME[XXX M. YYY] , M.D.
+**INITIALS
+D :
+**DATE[Jun 04 2007] 17:03:59
+T :
+**DATE[Jun 04 2007] 22:21:29
+R :
+**DATE[Jun 07 2007] 03:54:26/rhk
+Job ID :
+374904/**ID-NUM
+Cc:
+*** Dictated By :
+042870-**NAME[YYY , CCC M]. ***
+Electronically Signed by **NAME[XXX YYY]
+**DATE[Jun 28 2007] 01:56:26 PM

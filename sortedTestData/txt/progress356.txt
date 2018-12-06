@@ -1,0 +1,57 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Apr 28 07]
+I am currently seeing this **AGE[in 50s]- year - old patient with a prolonged ICU course and status postop bilateral lung reduction surgery .
+The remainder of her respiratory insufficiency , renal failure , volume overload , electrolyte abnormality hypophosphatemia and neutropenia .
+I examined her , reviewed her laboratory data , chart data and chest x-ray .
+She hemodynamically has remained hemodynamically stable for the most part .
+She has tolerated volume removal anywhere from a 100 to 150 mL off and hour .
+She is in a sinus rhythm with a heart rate in the 80s .
+She is clinically warm and well - perfused .
+From a respiratory standpoint , she continues off the vent since **DATE[Apr 23 07] .
+She is doing well from this standpoint with 40% trach mask .
+Saturations were 97 to 100% .
+From a renal electrolyte standpoint , her clearance has _______ CVVHDF .
+As previously mentioned , we were removing 100 to 150 mL off an hour .
+Her phosphate was 2.1 , which I did supplement .
+Otherwise , the other concern is that the patient is neutropenic .
+ANC is 750 .
+The only thing I can see that would cause neutropenia in her drug profile was the Flagyl , so as she has had no C diff. I did discontinue this and did not feel obligated to switch her over to vancomycin as she has had no history of C. diff.
+I did put her on Culturelle .
+I did give her a dose of Neupogen and we will follow her white count in the morning .
+Otherwise , she is on enteral nutrition support , which she is tolerating .
+Her hemoglobin is stable .
+There is no evidence of bleeding .
+She is on DVT and GI prophylaxis .
+Otherwise , continue her current supportive care and management .
+CRITICAL CARE TIME IS 32 MINUTES .
+___________________________________
+**NAME[WWW VVV XXX] , M.D.
+Dictator :
+**NAME[WWW VVV XXX] , M.D.
+**INITIALS
+D :
+**DATE[Apr 28 2007] 18:15:52
+T :
+**DATE[Apr 28 2007] 18:33:37
+R :
+**DATE[Apr 28 2007] 18:33:37/drl
+Job ID :
+451234/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , SSS VVV] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 10 2007] 06:16:04 PM

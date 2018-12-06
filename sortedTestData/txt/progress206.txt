@@ -1,0 +1,63 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M. ZZZ] , M.D.
+ADMISSION DATE :
+**DATE[Feb 12 2007]
+EVALUATION DATE :
+**DATE[Mar 16 07]
+I am managing this critically ill **AGE[in 60s]- year - old female who is status post sternal debridement for mediastinitis , status post CABG surgery .
+Her hospital course has been complicated by respiratory failure , renal failure and fluid - overload .
+I am seeing her for management of these issues .
+I have seen and examined the patient and reviewed her laboratory , radiographic and Emtek data and discussed the management with the plastic surgeons .
+Problems and management are as follows :
+1. Respiratory failure .
+Chest x-ray shows her bilateral pigtails in good position .
+There remains a small left - sided effusion and subsegmental basilar atelectasis .
+On the vent , I have her on assist - control .
+Peak airway pressures are 30 with a tidal - volume of 500 .
+This morning I switched her to 10 - cm water pressure support and she has been able to pool spontaneous tidal - volumes of around 500 .
+I have switched her trach - mask trial this afternoon .
+She looked somewhat tired later in the afternoon .
+I suspect that she will need to rest back on the ventilator this evening .
+I have pulled her left pigtail as the output has been less than 150 mL for the last 24 hours .
+2. Mediastinitis .
+She is in the middle of a six - week course of cefepime .
+White blood cell count is down to 15,000 today .
+I have ordered a repeat vancomycin level for the morning in order to re - dose her if it is less than 20 .
+3. Renal failure .
+BUN and creatinine continue to increase and are at 97 and 3.5 today .
+Potassium is up to 5.3 .
+I have given her an empiric trial of diuretics in order to optimize her fluid status .
+I have also started her on some Kayexalate to help manage her potassium .
+We are watching closely , but despite our best efforts and the Nephrology consultation , her renal function continues to deteriorate over the course of the last three to four days .
+She maybe heading towards intermittent hemodialysis .
+4. ICU prophylaxis .
+We have ordered an albumin , pre - albumin and C-reactive protein to assess her nutritional status .
+She is on tube feeds .
+She has stress ulcer and DVT prophylaxis .
+Total critical care time = 40 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 16 2007] 21:53:18
+T :
+**DATE[Mar 16 2007] 22:11:14
+R :
+**DATE[Mar 16 2007] 22:11:14/ncm
+Job ID :
+392081/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 03 2007] 09:49:02 AM

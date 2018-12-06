@@ -1,0 +1,51 @@
+HISTORY OF PRESENT ILLNESS :
+The patient is an **AGE[in 80s]- year - old female who has been admitted to the hospital recently with endocarditis .
+She has been residing at **PLACE getting daily vancomycin intravenously for treatment of this endocarditis .
+The patient was found at **PLACE last night with altered mental status and acute shortness of breath .
+The patient was brought to the emergency room and found to have a right lower lobe pulmonary embolism .
+HOSPITAL COURSE BY DIAGNOSIS :
+1. Pulmonary embolism .
+Patient , as previously mentioned , was brought to the ER with altered mental status and acute shortness of breath .
+A CT was obtained which showed evidence of pulmonary emboli in the right lower lobe arterial branches as well as a left lower lobe mass .
+Peripheral Doppler was done which showed evidence of a DVT .
+The patient was originally on Coumadin , however , her INR on admission was 1.1 .
+The patient was given a full dose of Lovenox in the ER and this was maintained .
+She was also reloaded with Coumadin .
+It is unclear as to why the patient 's INR was so low .
+At the time of discharge , the patient 's INR was 1.98 .
+She was maintained on Lovenox until her INR was therapeutic .
+2. Endocarditis .
+The patient completed her 6 - week course of IV vancomycin during her admission .
+Echocardiogram was admitted on **DATE[Sep 15 2007] , which showed normal left ventricular cavity size and normal left ventricular systolic function , heavy mitral annular calcification .
+Small echodensity in the posterior mitral valve leaflet suspicious for vegetation ; however , could simply be calcification and this has decreased in size from the previous study .
+There is only associated mild mitral regurgitation and previously that was severe .
+Aortic sclerosis without significant aortic stenosis .
+Small hemodynamically insignificant pericardial effusion .
+Blood cultures were done as well on **DATE[Sep 14 2007] , and these were negative x 2 .
+DISPOSITION :
+Patient was doing well in physical therapy prior to discharge .
+She was able to discharged home .
+She is to followup with Dr. **NAME[ZZZ] in 2 weeks .
+She will have a PT / INR drawn stat on **DATE[Sep 19 2007] .
+We will send home care out to monitor her respiratory status .
+DISCHARGE MEDICATIONS :
+1. Aspirin 81 mg daily .
+2. Capoten 25 mg b.i.d.
+3. Aricept 10 mg daily .
+4. Lasix 20 mg daily .
+5. Synthroid 125 mcg daily .
+6. Lopressor 50 mg b.i.d.
+7. Protonix 40 mg daily .
+8. K-Dur 10 mEq daily .
+9. Zoloft 50 mg daily .
+10. Coumadin 5 mg today and tomorrow .
+Stat INR will be drawn on **DATE[Sep 19 2007] .
+11. Starlix 60 mg t.i.d.
+______________________________
+**NAME[WWW XXX] , M.D.
+HS Job # 134740 / 35959 /
+# **ID-NUM
+D :
+**DATE[Nov 12 2007] 09:10
+T :
+**DATE[Nov 12 2007] 13:58

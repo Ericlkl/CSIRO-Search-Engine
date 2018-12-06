@@ -1,0 +1,86 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[May 30 2007]
+Discharged :
+**DATE[Jun 08 2007]
+Dict :
+**NAME[YYY , XXX]
+Attend :
+**NAME[ZZZ , BBB]
+DISCHARGE DIAGNOSIS :
+Endocarditis .
+SECONDARY DIAGNOSES :
+1. Severe mitral regurgitation .
+2. Monoclonal gammopathy of undetermined significance .
+3. Atrial fibrillation , new onset .
+4. Anemia , myelodysplastic syndrome .
+5. Abdominal aortic aneurysm , 3.5 cm .
+6. Ascending aortic aneurysm , 4.9 cm .
+7. Diverticulosis .
+8. A 6 - to 7 - mm cystic lesion in the pancreatic head .
+HOSPITAL COURSE :
+The patient is an **AGE[in 80s]- year-old white male who was initially admitted to **INSTITUTION on **DATE[May 28 2007] , secondary to inability to get out of the bathtub with progressive ambulatory dysfunction , getting progressively weak for the past few weeks .
+Workup at **INSTITUTION revealed coagulase - negative staphylococci bacteremia .
+The patient was diagnosed with endocarditis and was transferred to **INSTITUTION for insurance reasons .
+The patient was followed by Dr. **NAME[WWW] of Cardiology , and an echocardiogram was repeated on **DATE[May 31 2007] , which revealed dilated left ventricular chamber with low normal - to - mild left ventricular systolic dysfunction , severe mitral regurgitation with posterior leaflet prolapse , mild pulmonary hypertension , and possible vegetation on the mitral valve .
+The patient was seen in consultation with Infectious Disease , Dr. **NAME[VVV] 's group , and was advised 6 - week course of IV vancomycin .
+The patient was also seen in the consultation with GI , Dr. **NAME[UUU] , secondary to history of recent weight loss and anemia .
+He had a colonoscopy done one week prior to admission which revealed extensive diverticulosis , and upper endoscopy was done on **DATE[Jun 2 2007] , which was unremarkable .
+The patient was started on low - dose ACE inhibitor by Cardiology secondary to severe mitral regurgitation .
+He was seen in consultation with Hematology / Oncology , Dr. **NAME[TTT] and Dr. **NAME[SSS] 's group , and he had a workup for anemia and also initial pancytopenia which improved during the hospital course .
+He had a CT scan of the abdomen , chest , and pelvis to rule out occult malignancy .
+There was no evidence for malignancy , but incidental findings were ascending aortic aneurysm measuring 4.9 cm in size with cardiomegaly and also a 3.5 - cm fusiform abdominal aortic aneurysm and mild splenomegaly .
+There was also a unilocular 6.7 - cm cystic lesion in the pancreatic head which according to Radiology may represent a small cystic pancreatic neoplasm .
+Followup CT scan in approximately 6 months ' time was recommended .
+CA19-9 was also checked by Hematology , and the levels are still pending at the time of discharge .
+The patient had extensive workup including urine and serum protein electrophoresis and bone marrow biopsy which was consistent with MGUS .
+The patient also had a bone scan which did not reveal any lytic lesions .
+Because of progressive weakness , the patient was seen in consultation with Neurology .
+An extensive workup including CPK and aldolase were done which were all unremarkable .
+MRI of the lumbar spine done at **INSTITUTION revealed multilevel DJD .
+An MRI of the brain was done on **DATE[May 31 2007] , and a repeat one was done on **DATE[Jun 2 2007] , which was unremarkable .
+MRI of the C-spine showed multilevel degenerative changes most marked at C4 - C5 level with moderate narrowing of the spinal canal .
+The patient had positive rheumatoid factor and hence was seen in consultation with Rheumatology and workup was negative for rheumatoid arthritis .
+However , the patient had positive ANA titers elevated at 1280 with a nucleolar pattern , and Rheumatology suggested a repeat ANA titers in 3 months , and if persistently elevated to call Rheumatology with results and followup .
+The patient was started on Aranesp for his anemia with improvement in his hemoglobin .
+It was recommended by Hematology to discontinue ferrous sulfate secondary to adequate iron stores .
+Hospital course was complicated by new onset atrial fibrillation noted on **DATE[Jun 7 2007] .
+The patient was followed by Dr. **NAME[WWW] .
+Atrial fibrillation was noted with controlled ventricular response .
+It was recommended that the patient be placed on baby aspirin per Cardiology , and no need for anticoagulation currently per Cardiology .
+The patient was stabilized and discharged to home on **DATE[Jun 8 2007] .
+Condition at the time of discharge was fair .
+Discussed in detail with the patient 's daughter on the phone .
+Home health to follow up .
+The patient to follow up with his PCP , Dr. **NAME[ZZZ] , in one week .
+The patient to follow up with Cardiology , Dr. **NAME[WWW] , and also Hematology / Oncology as an outpatient .
+Also followup CT scan of the abdomen to follow up on the pancreatic cystic in 6 weeks .
+Also follow up on the CA19-9 levels .
+The patient is to follow up as an outpatient regarding his abdominal and ascending aortic aneurysm .
+To follow up CT scans as an outpatient .
+To follow up with Cardiovascular as an outpatient .
+DISCHARGE MEDICATIONS :
+Included :
+1. Aspirin 81 mg q. day .
+2. Vitamin B12 250 mcg q. day .
+3. Aranesp 200 mcg subcutaneously every Monday .
+4. Vasotec 2.5 mg q. day .
+5. Protonix 40 mg q. day .
+6. Vancomycin 1 g IV q. 24h. x 6 weeks till **DATE[Jul 14 2007] .
+Prescription given for labs , CBC , and BUN and creatinine weekly while on vancomycin .
+Also to follow vancomycin levels and call PCP with results .
+To follow up ANA titers in 3 months and call Rheumatology if the results are persistently elevated .
+______________________________
+**NAME[XXX YYY] , MD
+HS Job # 359628 / 33110 /
+SHY # **ID-NUM
+D :**DATE[Jun 08 2007] 11:59
+T :**DATE[Jun 11 2007] 00:07
+**CARBON-COPY

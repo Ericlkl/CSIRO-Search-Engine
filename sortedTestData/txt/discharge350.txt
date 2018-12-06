@@ -1,0 +1,61 @@
+FINAL DIAGNOSES :
+1. Acute exacerbation of chronic obstructive pulmonary disease .
+2. Acute sinusitis , chronic obstructive pulmonary disease .
+3. Diabetes .
+4. Hypertension .
+4. History on chronic atrial fibrillation , rate controlled .
+CHIEF COMPLAINT/HISTORY OF PRESENT ILLNESS :
+This is an **AGE[in 80s]- year - old well - nourished white female , who for the past four or five days has been experiencing cough , cold , congestion , difficulty breathing and wheezing .
+She has a history of asthma , chronic obstructive pulmonary disease , atrial fibrillation and diabetes .
+She has had problems with this in the past .
+We treated her last week as she did not want to be hospitalized for the home nebulizer .
+She has been on her Singulair and appropriate antibiotics .
+She comes in today really not much better , coughing , wheezing , shortness of breath with exertion and having some difficulty having to sit up last night .
+She lives with her daughter , also at home with her husband who is disabled .
+She had been doing well until just this past week or so .
+She has had admissions for chronic obstructive pulmonary disease exacerbations in the past .
+Pulse oximetry at rest was 89 % .
+It was felt at this point that she was not improving with conservative treatment and would need more aggressive therapy and with her comorbid problems the only way this could be achieved without causing any more problems would be in the hospital where she could be monitored , watch her blood sugars , start her on appropriate treatments .
+She was somewhat reluctant , but did comply and will be admitted with acute chronic obstructive pulmonary disease exacerbation , history of atrial fibrillation and diabetes mellitus .
+The plan will be IV steroids , watching her blood sugar , starting on hand - held nebulizers , appropriate oxygen treatment , chest x-ray to rule out a pneumonia .
+IMAGING STUDIES :
+X-ray of the chest showed no evidence of acute pneumonia .
+There were some mild findings of CHF , some fibrosis , and COPD , and a sinus x-ray showed some sphenoid sinus thickening and ethmoid sinus thickening indicating sinusitis .
+LABORATORY SUMMARY :
+Blood sugars were elevated because of steroids and treated with insulin coverage .
+She had a normal white count , 12.2 hemoglobin , 36 hematocrit , with normal differential .
+BUN and creatinine were 39 and 1.0 .
+Electrolytes were essentially within normal limits .
+Her BNP after some IV fluids and steroids was slightly up at 556 , and her magnesium was low at 1.6 treated to 2.2 .
+HOSPITAL COURSE :
+She was given Lasix , diuresed , had no significant shortness of breath related to any CHF .
+Blood pressures were in the 140 's/ 70 's , cardiac rate was in 70 's and atrial fibrillation and her temperatures were normal .
+She was started on IV steroids , handheld nebulizers , Mucinex , appropriate chest physiotherapy , her outpatient medications , and nasal O2 was used p.r.n.
+She continually improved and was able to produce sputum , was less short of breath , no wheezing .
+Steroids were weaned .
+Telemetry was pretty much atrial fibrillation , rates were controlled .
+She was started on Ceftin .
+She was ambulating , tolerated this well .
+She had some problems with constipation and was started with milk of magnesia and Dulcolax .
+She had no further need for acute care , so on the **DATE[Jul 10 2007] , it was felt that she could be discharged to care at home .
+She lives with her daughter who is her primary caretaker .
+She has a nebulizer at home , and is capable of self - care .
+DISCHARGE INSTRUCTIONS :
+If any problems would develop , they would call or present back to the emergency room .
+We would see her in the office in approximately a week .
+Any and all abnormal laboratories of any clinical significance will be followed up in the outpatient setting .
+No need for social service intervention .
+MEDICATIONS :
+The medications as per her medication sheet were reconciled , discussed with the patient with prednisone 30 mg daily and slow reduction at home .
+Will continue Ceftin 250 mg b.i.d. , continue her home nebulizers .
+No need for home oxygen .
+PROGNOSIS :
+Overall her prognosis is good .
+_________________________
+**NAME[YYY M. ZZZ] , D.O.
+D :
+**DATE[Jul 10 2007]/ 7:11 A
+T :
+**DATE[Jul 23 2007] 12:14 A edt
+#**ACCESSION-NUMBER[1]/**ID-NUM e-Dictate/IHM224
+**CARBON-COPY

@@ -1,0 +1,46 @@
+**INSTITUTION
+GENERAL MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Apr 17 2007]
+DISCHARGE DATE :
+**DATE[Apr 18 2007]
+The patient was admitted with after being found at the base of the stairs by her daughter .
+Apparently since she has been on Ambien 3 weeks ago , she has been having excessive confusion .
+Last night , she does not remember how she ended up in that position .
+She does not recall any trauma , however , she did have bruise around her head .
+She denied chest pain , nausea , vomiting , headaches , shortness of breath , lower extremity swelling , or palpitations .
+Workup done for that " syncopal episode " included serial troponins , EKG , transthoracic echocardiogram , and lower extremity Dopplers which were not revealing any abnormality .
+Her EKG has nonspecific changes which was compared to EKGs obtained from her primary care physician 's office , Dr. **NAME[XXX] , done 2 months ago which were unchanged .
+It is believed that the Ambien did cause the " possible sleepwalking " and the syncope .
+The patient 's other medical problems include a bone marrow hypoproliferative disease , diabetes , chronic constipation , and history of atrial flutter .
+She is going to be discharged on her home medications except Ambien which is going to be deleted from her medication list .
+Additional medications include metformin , Avandia , TriCor , Lipitor , metoprolol , Procrit , magnesium oxide , hydroxyurea , Coumadin , and anagrelide .
+She is going to see Dr. **NAME[XXX] and follow up with her hematologist for her bone marrow disease .
+___________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+DHI/s
+D :
+**DATE[Apr 18 2007] 15:13:27
+T :
+**DATE[Apr 18 2007] 23:09:04
+R :
+**DATE[Apr 18 2007] 23:09:04/s
+Job ID :
+351834/**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[ZZZ , VVV M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Apr 27 2007] 12:09:31 PM

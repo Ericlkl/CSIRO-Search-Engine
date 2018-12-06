@@ -1,0 +1,84 @@
+**INSTITUTION
+GENERAL MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jul 29 2007]
+DISCHARGE DATE :
+**DATE[Aug 01 2007]
+HOSPITAL COURSE :
+Mr. **NAME[AAA] is a **AGE[in 50s]- year - old male with a past medical history significant for alcohol abuse .
+He came to the emergency room on **DATE[Jul 29 2007] , reporting that he had been on a drinking binge for the prior few weeks .
+His intake of alcohol was approximately one - half to 1 liter of hard liquor per day .
+On the day of presentation in the emergency room he reported drinking a half liter of rum prior to being evaluated .
+He indicated that he wanted to go under detoxification at this time .
+He has had prior detoxification admissions to **INSTITUTION .
+The patient did admit to some depression and said he was drinking heavily over the past 2 weeks to try and hurt himself , but he was not currently endorsing any suicidal ideation and did not have a plan while in the emergency room .
+He denied any __________ but does have a history of opiate abuse in the past as well .
+He was evaluated in the emergency room and had an EKG done which showed a sinus rhythm with a ventricular rate of 105 .
+There were no acute ST-T wave changes and no ectopic beats .
+Blood work was sent , and he was given IV hydration and benzodiazepines for prevention of withdrawal .
+His blood work came back showing a sodium of 134 , potassium 3.8 , chloride 88 , CO2 of 13 , BUN 36 , creatinine 1.7 , glucose 94 , calcium 9.1 , magnesium 1.6 , phosphorus 4.8 .
+Troponin less than 0.1 .
+WBC 's 11.1 , hemoglobin 17.9 , hematocrit 52.4 , MCV 89.7 , neutrophils 78% , lymphs 12 .
+Alcohol level 122 .
+Tricyclic antidepressants - no detectable amount .
+Acetomorphine level - no detectable amount .
+Urine drug screen was positive for benzos and propoxyphene .
+EKG , as stated before , showed initially a sinus rhythm of 104 .
+However , while in the emergency room , he was noted on the monitor to have episodes of atrial fibrillation during which his heart rate would go into the 130 's and 140 's .
+He then would convert back to 80 beats per minute sinus .
+The episodes were brief , and there was no hemodynamic instability at that time .
+He was given 5 mg of IV Lopressor as treatment for the atrial fibrillation .
+He was then admitted to the stepdown unit for further evaluation .
+DIAGNOSES ON ADMISSION :
+1. ALCOHOL INTOXICATION .
+2. ALCOHOL ABUSE .
+3. PAROXYSMAL ATRIAL FIBRILLATION .
+On the inpatient unit there were no acute coronary events .
+He was treated with the Ativan taper , maintained on telemetry , and his electrolytes were replaced as necessary .
+He was seen by the Psychiatric Consult Service who felt that he would do well with an outpatient partial hospitalization program , and he is scheduled for an initial appointment on **DATE[Aug 2 2007] .
+DISCHARGE ORDERS :
+Discharge to home .
+DIET :
+Regular .
+ACTIVITY :
+As tolerated .
+He is to avoid hazardous machinery and driving while under the influence of the Ativan .
+FOLLOWUP :
+He is to follow up with Dr. **NAME[VVV] at **INSTITUTION in clinic on **DATE[Aug 2 2007] .
+He should follow up with his primary care physician as soon as possible .
+DISCHARGE MEDICATIONS :
+1. Thiamine 100 mg daily .
+2. Folate 1 mg daily .
+3. Celexa 60 mg daily .
+4. Ativan taper 1 mg p.o. q. 6 hours times 4 days , then 0.5 mg p.o. q. 6 hours times 4 days , then 0.5 mg p.o. q. 8 hours times 3 days , then 0.5 mg p.o. q. 12 hours times 2 days , then stop .
+5. Seroquel 100 mg tablets , 1 tablet in the morning and 2 tablets in the evening .
+___________________________________
+**NAME[WWW XXX] , UUU] , M.S.N. , B.C.
+___________________________________
+**NAME[YYY M ZZZ] , M.D.
+Dictator :
+**NAME[WWW XXX] , UUU] , M.S.N. , B.C.
+AL/sh
+D :
+**DATE[Aug 01 2007] 13:43:20
+T :
+**DATE[Aug 01 2007] 17:08:35
+R :
+**DATE[Aug 01 2007] 17:08:35/sh
+Job ID :
+371218/**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX] , UUU] , M.S.N. , B.C.-Anita ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Aug 05 2007] 11:34:22 AM

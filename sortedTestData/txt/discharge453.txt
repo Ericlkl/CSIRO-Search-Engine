@@ -1,0 +1,60 @@
+**INSTITUTION
+TRANSPLANT SURGERY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[XXX M ZZZ YYY]
+ADMISSION DATE :
+**DATE[Mar 19 2007]
+DISCHARGE DATE :
+DISCHARGE DIAGNOSIS ( ES ) :
+1. STATUS POST MULTIVISCERAL TRANSPLANTATION .
+2. ACUTE CELLULAR REJECTION .
+REASON FOR ADMISSION :
+This is a **AGE[in 20s]- year - old female patient with history of pseudoobstruction who underwent multivisceral transplantation in the past .
+The patient presented to **INSTITUTION complaining of nausea , vomiting , and diarrhea .
+We performed emergency ileoscopic biopsy , which showed some inflammatory change with low - grade apoptosis .
+Her symptoms were improved with hydration and p.o. antibiotics .
+We performed followup ileoscopic and enteroscopic biopsy for the ___________ finding of previous biopsy , which showed evidence of moderate acute cellular rejection .
+We started OKT3 for 7 cycles and performed a followup biopsy on **DATE[Apr 02 2007] .
+The biopsy showed no evidence of rejection .
+The patient is being discharged home and will be seen at **INSTITUTION on **DATE[Apr 05 2007] for close observation .
+DISCHARGE MEDICATIONS :
+1. Prograf 5 mg p.o. b.i.d.
+2. Actigall 300 mg p.o. t.i.d.
+3. Bactrim 1 tablet p.o. Monday , Wednesday , and Friday .
+4. _________ 1 gram p.o. t.i.d.
+5. Protonix 40 mg p.o. b.i.d.
+6. Magnesium gluconate 1 gram p.o. t.i.d.
+7. Sodium bicarbonate _______ mg p.o. t.i.d.
+8. Topamax 25 mg p.o. daily .
+9. Zinc sulfate 220 mg p.o. b.i.d.
+10. Nystatin swish and swallow 5 mL p.o. q.i.d.
+11. ________ 100 mg p.o. at bedtime .
+12. Vitamin B6 50 mg p.o. daily .
+13. Prednisone 10 mg p.o. b.i.d.
+14. Neomycin 500 mg p.o. q. 8 hours .
+15. Coumadin 2 mg p.o. at bedtime .
+16. Percocet 1-2 tabs p.o. q. 6 hours as needed .
+___________________________________
+**NAME[XXX M ZZZ YYY] , M.D.
+Dictator :
+**NAME[VVV WWW] , M.D.
+**INITIALS
+D :
+**DATE[Apr 03 2007] 16:16:00
+T :
+**DATE[Apr 03 2007] 17:48:47
+R :
+**DATE[Apr 04 2007] 10:07:10/clo
+Job ID :
+374124/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[WWW , SSS] ***
+Electronically Signed by **NAME[XXX CCC]
+**DATE[Apr 12 2007] 02:46:08 PM

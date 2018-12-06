@@ -1,0 +1,44 @@
+FINAL DISCHARGE DIAGNOSES :
+Include :
+1. Right leg deep vein thrombosis .
+2. End-stage renal disease , on hemodialysis .
+3. History of multiple dialysis access failure .
+4. Motor vehicle accident in 1981 .
+5. Hypertension .
+6. Anemia .
+7. Pancreatitis .
+8. Status post right hip replacement surgery .
+DISCHARGE MEDICATIONS :
+Include :
+1. Acetaminophen 650 mg q.4 h. p.r.n.
+2. Os-Cal 125/250 2 times a day with meals .
+3. Vasotec 5 mg daily .
+4. Procrit 10,000 units with dialysis as needed .
+5. Eucerin cream .
+6. Nephrocaps one capsule daily .
+7. Coumadin 5 mg daily .
+PERTINENT CONSULTS :
+Pertinent consults were :
+1. Dr. **NAME[UUU] .
+2. Dr. **NAME[TTT] .
+3. Dr. **NAME[SSS] .
+HOSPITAL COURSE :
+The patient is a **AGE[in 40s]- year-old African American male who was admitted from the emergency department on account of fever and chills with vomiting .
+The patient has end-stage renal disease , on hemodialysis , and he has dialysis with a new Tesio catheter just placed in his chest about 2 months ago .
+An assessment of sepsis was made at that time .
+The patient was started on IV antibiotics , however , blood cultures were negative .
+Doppler of the lower limbs were done , and the patient was found to have right leg deep vein thrombosis .
+The patient was started on Coumadin and heparin .
+He was discharged .
+On discharge , his PT was 1.99 .
+The patient is to follow up at hemodialysis to check his PT .
+He is being discharged home on 5 mg of Coumadin , and Dr. **NAME[UUU] will adjust the Coumadin based on his INR values .
+The patient is to continue to have dialysis on Mondays , Wednesdays , and Fridays , and to follow up in the outpatient clinic in one week .
+______________________________
+**NAME[WWW VVV XXX] , M.D.
+HS Job # 806633 / 41129 / 29982
+# **ID-NUM
+D :
+**DATE[Aug 18 2007] 15:23
+T :
+**DATE[Aug 20 2007] 23:57

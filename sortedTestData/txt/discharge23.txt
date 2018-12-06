@@ -1,0 +1,65 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Mar 24 2007]
+Discharged :
+**DATE[Mar 30 2007]
+Dict :
+**NAME[ZZZ , YYY]
+Attend :
+**NAME[ZZZ , YYY]
+DISCHARGE DIAGNOSES :
+1. Left lung pneumonia .
+2. Left lung parapneumonic pleural effusion .
+3. Compression fracture of the left wrist a month ago .
+4. Osteoporosis .
+5. Severe osteoarthritis of both shoulders .
+6. Peripheral vascular disease of the legs .
+7. History of transient ischemic attacks and cerebrovascular accident .
+8. History of aplastic anemia .
+This **AGE[90+]- year-old woman presented with one week of left-sided chest discomfort .
+She had been at the nursing home where she went to after a stay at **INSTITUTION for fracture of the left wrist .
+A chest x-ray showed a infiltrate .
+She was started on Avelox .
+However , a week later , the chest discomfort became worse and chest x-ray showed large left pleural effusion .
+She was admitted to **INSTITUTION .
+She was seen by Dr. **NAME[XXX WWW] and pulmonary team .
+She underwent thoracocentesis and serosanguinous fluid was obtained .
+The pathology was negative for malignant cells .
+CT scan showed no mass in the lung .
+Repeat chest x-ray showed no re-accumulation of fluid .
+The patient continued to have some discomfort on her left chest but her breathing was stable .
+She had no other medical problems at this time .
+Her heart remained regular .
+Her blood pressure was stable .
+Laboratory studies showed a chronic anemia with a hemoglobin which was stable at 11 .
+Cardiogram shows a normal sinus rhythm with left ventricular hypertrophy .
+Her recent laboratory studies showed normal electrolytes , hemoglobin of 12 , BUN 15 , and creatinine 1.0 .
+Her discharge medications are as follows :
+1. Actonel 35 mg p.o. once weekly .
+2. Percocet 5/325 q.6 h. p.r.n.
+3. Lotrel 5/20 once daily .
+4. Os-Cal with vitamin D three times a day .
+5. Plavix 75 mg once daily .
+6. Aranesp 100 mcg subcutaneous weekly .
+7. Colace 100 mg by mouth b.i.d.
+8. Heparin subcutaneous 5000 units q.8 h .
+9. Milk of magnesia 30 mL daily p.r.n.
+10. Avelox 40 mg daily .
+We will continue this for another 4 days .
+We will repeat a chest x-ray again in 1 week , and she will be transferred to **INSTITUTION Nursing and **INSTITUTION where she will be followed by myself .
+She is to have a regular diet and physical therapy .
+She has had a pneumonia vaccine already last year and she had a flu vaccine this year in **DATE[Jan 2007] .
+______________________________
+**NAME[YYY M ZZZ] , MD
+HS Job # 163548 / 38374 /
+SHY # **ID-NUM
+D :**DATE[Mar 30 2007] 16:29
+T :**DATE[Apr 01 2007] 10:01
+**CARBON-COPY

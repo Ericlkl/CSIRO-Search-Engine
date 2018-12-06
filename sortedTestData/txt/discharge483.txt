@@ -1,0 +1,130 @@
+**INSTITUTION
+GERIATRIC MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Feb 03 2007]
+DISCHARGE DATE :
+**DATE[Feb 19 2007]
+DISCHARGE DIAGNOSIS ( ES ):
+PRIMARY DIAGNOSIS ( ES ) :
+Restrictive lung disease with CO2 retention .
+SECONDARY DIAGNOSIS ( ES ) :
+1. Severe rheumatoid arthritis from chronic prednisone .
+2. Osteoporosis .
+3. Diastolic dysfunction .
+4. Hypertension .
+5. Pulmonary hypertension .
+6. Hyperlipidemia .
+7. Diabetes mellitus .
+8. History of lower GI bleed .
+9. History of rectal prolapse .
+10. History of vaginal prolapse .
+11. Adrenal insufficiency .
+12. Peptic ulcer disease .
+13. Status post right hip and right knee arthroplasty .
+14. History of anxiety with panic attacks .
+15. History of gallstone pancreatitis .
+16. Status post right ankle fusion .
+17. History of palpitation with paroxysmal atrial tachycardia .
+LABORATORY , RADIOGRAPHIC , AND OTHER DIAGNOSTIC STUDY FINDINGS :
+1. Portable chest x-ray on **DATE[Feb 13 2007] , showed moderate bilateral portal effusion .
+2. Elbow film on **DATE[Feb 14 2007] , showed endstage erosive arthropathy of the wrist with enormous erosions and defamation of the distal humerus .
+3. Ultrasound of the abdomen on **DATE[Feb 4 2007] , showed cholelithiasis with no acute cholecystitis .
+4. CT of the head in **DATE[Feb 3 2007] , showed questionable acute infarct in the right basal ganglia region .
+5. CT of the abdomen and pelvis on **DATE[Feb 3 2007] , showed infrarenal fusiform abdominal aortic aneurysm measuring 5 cm x 5 cm extending to the aortic bifurcation .
+**INSTITUTION ADMISSION :
+The patient was admitted on **DATE[Feb 3 2007] , for increased lethargy and mental status changes .
+HOSPITAL COURSE :
+The patient was admitted for increased lethargy and mental status changes .
+She had been living at her home in **PLACE by herself with 24 x 7 living care .
+She was originally admitted to a regular floor , but however on the second day of admission while in Radiology , a condition C was called for unresponsiveness .
+Blood gas at that time found the patient to have a pH of 7.01 and a PaCO2 of 83 .
+The patient was thought to be retaining CO2 due to restrictive lung disease .
+The patient does have advanced directives with DNR / DNI order .
+She does not desire procedures or surgery .
+However , she was transferred to the medical intensive care unit for aggressive therapy with BiPAP to which she slowly responded .
+She was gradually weaned from 24 x 7 BiPAP to BiPAP just at night .
+Also , at the time of admission , the patient was found to have an acute gallstone pancreatitis with amylase and lipase both greater than 1000 .
+She was placed on vancomycin , Flagyl , and Zosyn for a 3 - day course for suspicions of her cholangitis although this was stopped at 3 days .
+She remained afebrile .
+She improved slowly with BiPAP until the night of **DATE[Feb 17 2007] .
+The patient was transferred to a regular floor bed in the Geriatrics Team .
+She was stable on BiPAP at settings of 10/6 for 8 hours at night .
+During this hospitalization , the patient did continue to have her anxiety .
+She at home was taking Xanax 4 times a day .
+It was felt that taking these high levels of Xanax was possibly contributing to the patient 's mental status changes .
+However on the floor , the patient felt that as she could not receive her Xanax , she would suffer an acute panic attack and became highly agitated .
+After consultation , it was decided to place the patient on home regimen of Xanax with the expectation the patient will attempt to reduce her Xanax use as an outpatient when she is in environment which she is more comfortable .
+At this time , the patient feels that being in the hospital which is a strange environment for her is too disheveled for her decrease her Xanax dose .
+The patient was without mental status changes on her home Xanax regimen .
+Also during this hospitalization , the patient was incidentally found to have a 5 - cm abdominal aortic aneurysm on CT exam .
+The patient declines surgery and will follow up for further treatments as indicated .
+The patient was also noted to have a right basal ganglia infarct on CT scan .
+Neurology consultation was obtained which did recommend several studies including checking TSH , B12 , and folate levels .
+These are all within normal limits as was as the hemoglobin A1c which was found to be 5.3 .
+Neurology did recommend obtaining an MRI of the brain .
+However , the patient does have metal in her right hip and knee from previous arthroplasty and she declines the MRI due to extreme claustrophobia .
+As the patient became stable on her BiPAP regimen , there was some thought to obtaining a baseline arterial blood gas for comparison to future values .
+However , the patient is concerned that drawing arterial blood gas is difficult from her radial arteries due to bony protrusions as a consequence of rheumatoid arthritis .
+She refused any attempts to try radial arterial blood gas and declined attempts to try femoral arterial blood gas .
+The patient was in normal sinus rhythm throughout this admission as evidenced by several EKG s .
+She does not have a history of atrial fibrillation .
+She does have history of paroxysmal atrial tachycardia .
+The patient was transferred to skilled nursing facility in good condition .
+She declined to be placed on aspirin for stroke prevention due to concerns over her previous history of GI bleeding .
+She is very concerned over the combination of taking Celebrex for her rheumatoid arthritis pain which has brought her great relief of this pain in addition to aspirin .
+The patient was encouraged to begin aspirin for stroke prevention and counseled as to the risk of continued stroke .
+However , the patient declined to begin this medication at this time .
+She was transferred to the skilled nursing facility in good condition .
+DISCHARGE MEDICATIONS :
+1. Alprazolam 0.125 mg p.o. t.i.d.
+2. Alprazolam 0.125 mg p.o. q.6 hours p.r.n. anxiety .
+3. Alprazolam 0.25 mg p.o. nightly .
+4. Celebrex 200 mg p.o. daily .
+5. Colace 100 mg p.o. b.i.d.
+6. Senna 2 tablets p.o. nightly .
+7. Singulair 10 mg p.o. q.a.m.
+8. Atrovent 2.5 mL inhalation aerosolized q.i.d. p.r.n. shortness of breath .
+9. Prednisone 2 mg p.o. daily .
+10. Tylenol 650 mg p.o. q.6 hours p.r.n. pain .
+11. Verapamil 80 mg p.o. q.8 hours .
+12. Anusol topical 1 application per rectum b.i.d. for rectal prolapse .
+13. Protonix 40 mg p.o. daily .
+14. Tramadol 100 mg q.6 hours p.r.n.
+15. Sodium chloride nasal spray 1 spray q.i.d. p.r.n. nasal congestion .
+DISCHARGE INSTRUCTIONS :
+DIET :
+Soft diet .
+DISPOSITION :
+To skilled nursing facility .
+CONDITION :
+Stable .
+ACTIVITY :
+As tolerated .
+FOLLOWUP :
+The patient will contact her primary care physician to schedule a followup appointment once she leaves her skilled nursing facility .
+___________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Feb 19 2007] 18:05:00
+T :
+**DATE[Feb 20 2007] 02:50:26
+R :
+**DATE[Feb 20 2007] 02:50:26/vm
+Job ID :
+353840/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Feb 25 2007] 11:27:23 AM

@@ -1,0 +1,51 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 18 2007]
+EVALUATION DATE :
+**DATE[Nov 25 07]
+I personally interviewed and examined the patient on **DATE[Nov 25 2007] .
+I discussed the case with Dr. **NAME[VVV UUU] .
+Please consider my note to be linked to his note .
+The patient feels a little better today .
+His temperature maximized yesterday a little less than 100 .
+He has not had any dysuria , but he has a Foley in place __________ his urine is slightly pink .
+He denies any cough , chest pain , abdominal pain , nausea or vomiting .
+On physical examination today , his temperature was 99.4 .
+Lungs were clear to auscultation and percussion .
+Heart , regular rhythm .
+Abdomen was soft and nontender .
+I personally reviewed the CT scan done yesterday , which to my eye shows less inflammatory changes around the right kidney with no evidence of a fluid collection .
+The study was officially read as showing similar findings to the scan of **DATE[Nov 18 2007] , with right kidney pyelonephritis and urethritis but no fluid accumulation .
+There is a thickening of the bladder wall on CT scan .
+This patient is doing better .
+His INR remains therapeutic .
+He continues on therapy for his Candida in his urinary tract .
+We will await the results of the cultures done yesterday which we will be available later today .
+He may be only discharged home pending results of those cultures and his temperature curb during the course of the day .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+**INITIALS
+D :
+**DATE[Nov 25 2007] 09:21:17
+T :
+**DATE[Nov 25 2007] 13:09:51
+R :
+**DATE[Nov 25 2007] 13:09:51/rr
+Job ID :
+361069/**ID-NUM
+Cc:
+*** Dictated By :
+028200-Painter , M.D.-Thomas D. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Nov 26 2007] 09:05:48 AM

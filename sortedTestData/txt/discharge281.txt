@@ -1,0 +1,53 @@
+PERTINENT CONSULT :
+Dr. **NAME[UUU] .
+DISCHARGE DIAGNOSES :
+1. Acute respiratory failure .
+2. Upper respiratory tract infection .
+PERTINENT SECONDARIES :
+1. Chronic obstructive pulmonary disease ( not confirmed with pulmonary function test ) .
+2. Congestive heart failure , ejection fraction of 45% to 50% .
+3. Coronary artery disease , status post bypass surgery .
+4. Parkinson 's disease , status post subthalamic stimulators .
+5. History of Clostridium difficile .
+6. History of aspiration pneumonia .
+7. Status post pacemaker insertion .
+8. History of prostate cancer .
+9. History of corneal burns and secondary blindness .
+Procedure done while this admission includes spiral CT .
+**INSTITUTION STAY :
+The patient is a **AGE[in 70s]- year - old Caucasian male resident of **INSTITUTION who was admitted 2 days ago on account of episodes of acute respiratory distress and desaturation .
+The patient while in the ED was markedly clinically stable , although , he had cough which was productive of yellow sputum .
+The patient was then started on antibiotics as a case of hospital - acquired pneumonia .
+Also , had spiral CT done to rule out pulmonary embolism and CT was negative .
+The patient during the course of stay sustained good clinical improvement , and after 48 hours of observation , temperature remained afebrile and WBC was not elevated .
+The patient felt also much better .
+He was considered due to be discharged back to **NAME[TTT SSS] .
+The patient is to continue therapy for dysphagia once he returns back to **NAME[TTT SSS] .
+For now , he is to have activity as tolerated , to follow up with his primary care physician and also to continue Pulmocare until he is certified okay to start taking by mouth .
+He is also to continue having oxygen by nasal cannula at 2 L .
+DISCHARGE MEDICATIONS :
+1. Acetaminophen 650 mg daily .
+2. Combivent four times daily .
+3. Amantadine 100 mg daily .
+4. Aspirin 81 mg daily .
+5. Dulcolax suppository 10 mg daily .
+6. Lovenox 40 mg daily .
+7. Haldol 0.5 mg daily .
+8. Protonix 40 mg daily .
+9. Sinemet __________ four tablets daily .
+10. Milk of magnesia as needed .
+11. Lopressor 25 mg twice daily .
+12. Motrin p.r.n.
+13. Potassium chloride 20 __________ daily .
+14. Prednisolone 1% suspension daily .
+15. Regular insulin sliding scale .
+16. Theravite 5 mL daily
+17. Ambien 10 mg daily .
+______________________________
+**NAME[WWW VVV XXX] , M.D.
+HS Job # 674867 / 39516 / 21410
+# **ID-NUM
+D :
+**DATE[Feb 12 2007] 11:55
+T :
+**DATE[Feb 14 2007] 02:21

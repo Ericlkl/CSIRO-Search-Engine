@@ -1,0 +1,166 @@
+**INSTITUTION
+GENERAL MEDICINE
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jan 16 2008]
+TRANSFER DATE :
+**DATE[Jan 21 08]
+TRANSFERRED TO :
+TRANSFERRED TO CARE OF :
+ADMITTING DIAGNOSIS ( ES ) :
+METHICILLIN - RESISTANT STAPHALOCOCCUS AUREUS SEPTICEMIA .
+TRANSFER DIAGNOSIS ( ES ) :
+METHICILLIN - RESISTANT STAPHALOCOCCUS AUREUS SEPTICEMIA .
+CONSULTS :
+Infectious Disease .
+PROCEDURE :
+Transesophageal ecchocardiogram .
+HISTORY OF PRESENT ILLNESS :
+The patient is a **AGE[in 50s]- year - old male with history of CAD , CHF , an AICD placement , sinal node dysfunction , schizophrenia , depression , COPD and diabetes , transferred on **DATE[Jan 19 2008] from the **INSTITUTION in order to have a transesophageal ecchocardiogram under intubation .
+The patient had presented originally to an outside hospital , **INSTITUTION , in the end of **DATE[Nov 2007] , for syncope , he was having fever , chills , etc .
+He was diagnosed with methicillin - resistant Staphalococcus aureus urosepsis and subsequently treated with 14 days of vancomycin .
+On **DATE[Dec 22 2007] he was transferred to the **INSTITUTION for further management .
+At that time he was still culture positive for methicillin - resistant Staphalococcus aureus .
+He was maintained on vancomycin although peaks and troughs were not readily available and unsure whether he was therapeutically treated .
+He did have some complications including episodes of hypotension and was febrile , but was stabilized .
+Somewhere around **DATE[Nov 05] or **DATE[Nov 05 2007] he was culture negative and was transferred to Aspinwall for continued therapy but was re - transferred back the same day as the patient was not stable .
+He again had methicillin - resistant Staphalococcus aureus positive blood cultures on **DATE[Nov 07] , **DATE[Nov 08] , **DATE[Nov 12] , **DATE[Nov 13] and **DATE[Nov 15 2007] , and was started on the addition of Synercid on **DATE[Jan 12 2008] until **DATE[Jan 17 2008] and then transferred to the MICU at **INSTITUTION .
+He needed a transesophageal ecchocardiogram and it was thought that he would need , given his psychiatric condition , thought that he would need intubation .
+The patient did not need intubation .
+He had a transesophageal ecchocardiogram which was normal .
+Infectious Disease was consulted .
+He was transferred off the floor given that he was stable and put on telemetry on a regular floor .
+He remained afebrile .
+He had one culture drawn which was out of his arterial line IJ which had been placed on **DATE[Jan 08 2008] and that was positive for methicillin - resistant Staphalococcus aureus but his peripheral sticks were all negative on **DATE[Jan 19 2008] .
+He was started on vancomycin , gentamycin and rifampin with the goals of vancomycin being 20 to 25 levels and gentamycin peak being 2 and trough being 1 .
+He was afebrile and all other blood cultures were negative .
+On **DATE[Jan 21 2008] the VA called and requested the patient be transferred back , which is what is happening right now .
+The patient is at baseline , not very communicative .
+I have spoken with his family several times and they feel that this is his baseline when he is sick .
+When he is not ill he tends to be more talkative , he can walk around the house , etc .
+Here in the hospital here he has been on restraints and strict bed rest because he is well responsive , not very communicative ; he also has some baseline tardive dyskinesia from all of his multiple medications .
+For the rest of the hospital course , please see Hospital Course by Systems .
+IMAGING :
+The patient only had an transesophageal ecchocardiogram .
+It showed mildly dilated left ventricle and moderately decreased systolic function , the ejection fraction was 30 to 35% , he had mild pulmonic regurgitation and atherosclerosis of the aortic arch but no evidence of endocarditis .
+LABORATORY DATA :
+The patient 's electrolytes were within normal limits .
+His creatinine was 1.3 to 1.5 , which seems to be about his baseline .
+His blood sugars were 127 to 325 on just a sliding scale insulin .
+His white count on admission was 15.1 ; on the day of transfer was 14.1 with 70% polys , 16% lymphs and 13% monos .
+HOSPITAL COURSE BY SYSTEMS :
+1. I.D.
+Infectious Disease was consulted .
+The feelings are several .
+The patient has several foreign bodies , an AICD , recent stent placement and the lens that is in his eye .
+I.D. felt that the stents and the eye lens were very unlikely to be seeded .
+They did feel that the leads of his AICD could be infected .
+Electrophysiology was consulted .
+I.D. and Electrophysiology came to the conclusion that if he was adequately treated for four weeks and still had positive cultures that he would need his AICD removed , so that would be in **DATE[Feb] .
+Until that point , Infectious Disease felt that he was probably inadequately treated on vancomycin given his troughs of lower than 15 .
+The feeling is that we will maintain him on " gent ," " vanc " and rifampin for the next month and keep drawing blood cultures every so often to make sure that he is still negative .
+If he is negative after a month they can discontinue treatment .
+If he is still having positive cultures in a month he will have to have his AICD removed .
+Currently he is on vancomycin 1,500 mg IV q.24 and gentamycin 70 mg IV q.12 and rifampin 300 mg p.o. b.i.d.
+His most recent vancomycin trough was 21 .
+We have no recent peaks .
+His recent gentamycin trough was 1.2 and peak was 2.9 , which are both in good ranges .
+As I said , all of his blood cultures have been negative except the one on **DATE[Jan 16 2008] which was drawn from his ART line .
+He needs that ART line drained .
+We were going to have a PICC put in given that his blood cultures have been negative for four days today but we are transferring him , so at the VA he will need a PICC line placed and his IJ removed .
+Will leave the IJ in as peripheral access is not an option .
+We had the IV team come three times and they could not get a line in him , so it will need to be central .
+I think that the PICC is the best option .
+The patient remains afebrile .
+2. Cardiovascular .
+Blood pressure has been high .
+The patient is on hydralazine .
+He cannot have an ACE inhibitor because he has bumped his creatinine on an ACE inhibitor and he cannot have a beta blocker because of sinus node dysfunction , so if another agent needs to be added we would have to discuss that with the team .
+He was on Lasix which I have been holding because of his increased creatinine .
+He does not seem to be fluid overloaded at this point .
+His hemoglobin has been trending downward .
+He is Hemoccult negative .
+We have not seen any obvious signs of bleeding .
+It is possible that he is getting bone marrow suppression from the multiple antibiotic regimen and this will need to be followed .
+Hemoglobin was 9.1 and then 8 and now today it is around 7 .
+3. Pulmonary .
+COPD .
+The patient is on duo - nebs .
+His saturations are stable .
+He is on CPAP at night .
+4. Renal .
+The patient has a bump in his creatinine .
+When he was put on ACE inhibitor it went from 2.5 to 10 .
+It is now resolving .
+It has stayed at about 1.3 to 1.5 .
+His Foley was recently changed on admission on **DATE[Jan 16 2008] and his urine culture was negative , so he no longer has methicillin - resistant Staphalococcus aureus in his urine .
+5. GI .
+The patient 's glucose has been controlled with Lispro , sliding scale and NPH 12 units subcu b.i.d.
+He is on a soft diet and Senna and Colace for a bowel regimen .
+6. Psychiatry .
+This seems to be the patient 's baseline when he is ill .
+When he is not ill it seems that he speaks and walks around , etc .
+Will continue his Seroquel and Zoloft .
+He has Ativan p.r.n. for agitation although that has not been used while he was in here .
+The patient has been tried on Haldol during the MICU without success , so in the event of agitation Ativan is recommended .
+DISPOSITION :
+The patient is being transferred in an hour to the VA .
+He is to continue his current regimen of antibiotics for four weeks .
+His gentamycin will need to be watched closely with is renal failure and maintaining a low peak of around 2 rather than the recommended peaks .
+It could be considered with Infectious Disease that maybe the gentamycin could be stopped because he probably has adequate coverage with his vancomycin and rifampin .
+This can be discussed with the new team .
+If anyone has any questions about the patient 's care while he was in **INSTITUTION , he can page the **INSTITUTION paging system .
+My pager number is ***PHONE .
+TRANSFER MEDICATIONS :
+1. The patient is on duo - nebs 3 mL aerosolized q. six hours .
+2. Aspirin 81 mg p.o. q. day .
+3. Carvedilol 6.25 mg p.o. b.i.d.
+4. Clonazepam 0.5 mg p.o. b.i.d.
+5. Clonidine 0.1 mg p.o. b.i.d.
+6. Plavix 75 mg p.o. q. day .
+7. Colace 100 mg p.o. b.i.d.
+8. Famotidine 20 mg p.o. b.i.d.
+9. Neurontin 300 mg p.o. b.i.d.
+10. Gentamycin 70 mg IV q.12 .
+11. Hydralazine 10 mg p.o. q. six .
+12. Hydrocortisone 12.5 mg IV q.12 .
+13. NPH 12 units subcu b.i.d.
+14. Lispro sliding scale .
+15. Lisinopril 10 mg p.o. q. day .
+16. Niacin 500 mg p.o. q. day .
+17. Nitroglycerin as needed .
+18. Seroquel 25 mg p.o. b.i.d.
+19. Rifampin 300 mg p.o. b.i.d.
+20. Senna two tablets p.o. at bedtime .
+21. Zoloft 100 mg p.o. q. day .
+22. Zocor 40 mg p.o. at hour of sleep .
+23. Flomax 0.4 mg p.o. at hour of sleep
+24. Vancomycin 1,500 mg IV q.24 hours .
+__________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+AS/lek
+D :
+**DATE[Jan 21 2008] 12:18:42
+T :
+**DATE[Jan 21 2008] 12:23:09
+R :
+**DATE[Jan 21 2008] 13:23:51/kmk
+Job ID :
+355255/**ID-NUM
+Cc :
+Faxed to Unit 10S
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[RRR] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Feb 02 2008] 01:20:40 PM

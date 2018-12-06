@@ -1,0 +1,25 @@
+R1 cross cover
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] R
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 40s] years
+Sex :
+Female
+DOB :
+**DATE[Jan 29 59]
+Author :
+**NAME[XXX , WWW M]
+Impression and Plan
+Called re : pt febrile to 102 F and with n/v .
+No U/a or Cx performed , pt had not been febrile to date .
+Ordered U/a , UrCx and Blood Cx x 2 .
+Zofran prn for nausea .
+Tylenol for fever .
+Perform by **NAME[XXX , WWW] K
+( on **DATE[Jun 31 2007] 21:19 )
+Sign by **NAME[XXX , WWW] K
+( on **DATE[Jun 31 2007] 21:19 )
+VERIFY by **NAME[XXX , WWW] K
+( on **DATE[Jun 31 2007] 21:19 )

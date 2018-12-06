@@ -1,0 +1,121 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA , BBB M]
+**ID-NUM
+**ID-NUM
+A6B/655
+SERVICE OF :
+**NAME[ZZZ YYY XXX] , M.D.
+DATE OF ADMISSION :
+**DATE[Aug 23 2007]
+DATE OF DISCHARGE :
+**DATE[Aug 27 2007]
+ADMISSION DIAGNOSIS :
+Coagulopathy .
+DISCHARGE DIAGNOSES :
+1. Coagulopathy .
+2. Atrial fibrillation with supraventricular tachycardia .
+3. Rib fracture and noncardiac chest pain .
+4. Anemia .
+5. Adrenal insufficiency .
+6. Right leg skin tear .
+7. End - stage renal disease , hemodialysis dependent .
+CONSULTS :
+1. **NAME[UUU TTT SSS] , MD - Renal .
+2. **NAME[RRR M. QQQ] , MD - Cardiology .
+3. **NAME[PPP M. OOO] , MD - Physical Medicine and Rehab .
+PROCEDURES :
+The patient did receive dialysis during her admission .
+ADMISSION HISTORY AND PHYSICAL :
+Please see dictated version on the chart .
+HOSPITAL COURSE :
+The patient is an **AGE[in 80s]- year - old woman who was admitted and received the following care :
+1. Coagulopathy .
+The patient was noted as an outpatient to have an INR of greater than 14 .
+She was admitted with some uncontrolled minor bleeding .
+She received vitamin K , and her INR normalized .
+Subsequently , she was restarted on her Coumadin .
+At the time of discharge , her INR was only 0.9 .
+She will be given Coumadin 5 mg daily until her INR increases , until that time , she will need to have daily INR and have her Coumadin dosage adjusted accordingly .
+These instructions were included on her discharge .
+Please note that the bleeding was controlled during her admission .
+2. Atrial fibrillation with supraventricular tachycardia .
+The patient was placed on telemetry .
+She was seen by cardiology .
+She initially was started on amiodarone , and she converted to sinus rhythm .
+The patient 's amiodarone was discontinued , and her weight and blood pressure controlled with metoprolol .
+This will be continued as an outpatient .
+3. Rib fracture / noncardiac chest pain .
+The patient was placed on a Lidoderm patch as well as OxyContin .
+Her pain management was done in consultation with Dr. **NAME[OOO] and the physical medicine rehab group .
+4. Anemia .
+The patient was noted to have a coagulopathy with some uncontrolled minor bleeding .
+Her hemoglobin on **DATE[Aug 26 2007] was 10.5 .
+This can be rechecked as an outpatient , but it has been fairly stable .
+5. Adrenal insufficiency .
+This was stable .
+The patient was taking her outpatient dose of hydrocortisone .
+6. Left leg skin tear .
+The patient received dressing changes .
+This will be continued as an outpatient .
+7. URI with bronchospasm .
+The patient had received a chest x-ray on the morning of **DATE[Aug 27 2007] .
+The official reading is not available at the time of this dictation .
+The patient was not febrile .
+She had no increase in her white count and was not felt to have pneumonia ; therefore , her antibiotics were stopped .
+If she develops symptoms consistent with pneumonia or positive chest x-ray findings , she will be restarted on antibiotics .
+8. End - stage renal disease .
+The patient received dialysis during her admission .
+Her last dialysis was on **DATE[Aug 27 2007] .
+She will need to continue on dialysis as an outpatient .
+DISPOSITION :
+This patient is discharged to **INSTITUTION .
+DISCHARGE MEDICATIONS :
+1. Albumin with dialysis .
+2. Triple Antibiotic ointment topically to the left calfskin tear with Telfa dressing .
+3. Xenaderm 1 application topically b.i.d. to the left foot abrasion b.i.d.
+4. Calcium carbonate 1000 mg daily .
+5. Robitussin DM 15 mL q.4 hours p.r.n.
+6. Sween cream apply daily to dry skin on heels and feet bilaterally .
+7. Epoetin alfa 5000 units with dialysis .
+8. Folic acid 1 mg daily .
+9. Neurontin 300 mg daily .
+10. Solu-Cortef 20 mg b.i.d.
+11. Xopenex 0.60 mg t.i.d. p.r.n.
+12. Synthroid 100 mcg daily .
+13. Lidoderm 5% patch apply topically daily remove patch after 12 hours .
+14. Lopressor 12.5 mg b.i.d.
+15. Nephrocaps 1 tablet daily .
+16. Multivitamin 1 daily .
+17. Normal saline flushes p.r.n.
+18. Oxycodone 2.5 mg q.4 hours p.r.n.
+19. Breakthrough pain OxyContin 10 mg q.12 hours .
+20. Protonix 40 mg daily .
+21. Zoloft 50 mg daily .
+22. Coumadin 5 mg daily .
+DISCHARGE INSTRUCTIONS :
+The patient receives dialysis q . Tuesday , Thursday , and Saturday .
+Please arrange at the **INSTITUTION .
+Check INR daily and adjust Coumadin dosing .
+Check CBC and BMP in 1 week .
+The patient is also to receive PT / OT .
+DIET :
+A 2 g sodium diet .
+PHYSICAL ACTIVITY :
+Ambulate with assistance only .
+FOLLOWUP :
+Followup is with Dr. **NAME[NNN] .
+She will call for **PHONE to arrange for followup .
+Post was completed and is on the chart .
+THE PATIENT HAS NOTED THAT IN CASE OF A CARDIAC ARREST SHE DOES NOT WANT RESUSCITATION .
+___________________
+**NAME[VVV CCC WWW] , M.D.
+Dict :
+**DATE[Aug 27 2007] 12:02:19
+Tran :
+**DATE[Aug 27 2007] 12:20:10
+RBH/as/364367/**ID-NUM/**ID-NUM
+R :
+**DATE[Aug 27 2007] 12:20:10/as
+**CARBON-COPY

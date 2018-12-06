@@ -1,0 +1,50 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Feb 05 2007]
+EVALUATION DATE :
+**DATE[Feb 09 07]
+Mr. **NAME[AAA] is a **AGE[in 40s]- year - old male status post motor vehicle crash who underwent exploratory laparotomy and repair of a mesenteric vessel laceration .
+He has progressed well over the course of the last 24 hours and remains on six liters nasal cannula with oxygen saturations of 100 % .
+Chest x-ray shows some mildly low volumes today and breath sounds are somewhat diminished in the bases .
+His cough is strong without significant wheeze or rhonchi .
+Will continue to wean his FiO2 as tolerated and get him out of bed to a chair today , encouraging incentive spirometry and PEP to maintain lung recruitment .
+Extremities were warm and adequately perfused .
+He does have some left upper extremity swelling and an upper extremity duplex is pending this morning .
+He remains in a sinus rhythm in the 90s with mean arterial pressures of 80 to 100 .
+He is afebrile with a white count of 16.6 but does not appear to be actively infected at this time .
+Hemoglobin is acceptable this morning at 9.3 .
+Electrolytes were reviewed and replaced per protocol .
+Urinary output has been acceptable with a BUN of 8 and a creatinine of 0.7 .
+I will continue sliding scale insulin coverage to maintain euglycemic control and maintain NPO status at this time .
+Abdomen is soft and appropriately tender .
+His pain is acceptable with PCA .
+I will continue a CIWA protocol for alcohol withdrawal , prophylactic Lovenox , Protonix , and head of the bed elevation .
+Mr. **NAME[AAA] has progressed well over the course of the last 24 hours and is a suitable candidate to transfer to a step down unit today .
+CPT 99232 .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Feb 09 2007] 23:14:51
+T :
+**DATE[Feb 09 2007] 23:52:40
+R :
+**DATE[Feb 09 2007] 23:52:40/caa
+Job ID :
+339781/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , VVV M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Feb 17 2007] 09:55:00 AM

@@ -1,0 +1,79 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Mar 20 07]
+Mrs. **NAME[AAA] is a **AGE[in 60s]- year - old woman status post lung volume reduction surgery .
+She continues to require critical care for management of her respiratory failure , adrenal insufficiency , fluid overload , renal failure , malnutrition , and hyperglycemia .
+ASSESSMENT AND PLAN :
+1. Pulmonary .
+Respiratory failure .
+Status post lung volume reduction surgery .
+I am continuing to manage Mrs. **NAME[AAA] on assist control ventilation rate of 10 , tidal volume 600 , 40% FiO2 , and 7.5 of PEEP .
+Chest x-ray shows bilateral effusions .
+I will continue to wean her FiO2 and PEEP as tolerated to maintain oxygen saturations at greater than 92% and attempt trach mask trial if possible later today .
+2. Cardiovascular .
+Extremities are warm and adequately perfused .
+She is in a sinus rhythm with mean arterial pressures in the 80s .
+She is not requiring inotropic or pressor support at this time .
+3. Fluid , electrolytes , and nutrition .
+Sodium 131 , potassium 5.0 , and magnesium 2.0 .
+I have changed her maintenance IV to D5 normal saline at 75 mL / hour .
+4. Infectious disease .
+Afebrile this morning with a white count of 8.7 .
+She does not appear to be actively infected at this time , and cultures have been negative to date .
+5. Renal .
+Net positive in overall fluid balance with a declining urinary output .
+BUN today is 38 with a creatinine of 2.9 .
+Her renal failure appears to be progressing at this time .
+I have had a long discussion with both Mrs. **NAME[AAA] and her family in regards to the likely need for dialysis .
+I suspect that the etiology of her renal failure is ATN , likely secondary to a hypotensive episode , which I am attributing at this time to adrenal insufficiency .
+I think that given Mrs. **NAME[AAA] 's marginal respiratory status , she will be difficult to manage on intermittent hemodialysis , as even modest fluid overload will likely significantly impair her already borderline respiratory status .
+Mrs. **NAME[AAA] has been relatively adamant today , in that she does not wish dialysis .
+There is no urgent indication for it at this time , and I have asked that her and her family discuss it in depth .
+6. Endocrine .
+Hyperglycemia .
+I will continue sliding scale insulin coverage and NPH insulin to maintain euglycemic control .
+I am continuing her baseline dose of prednisone and have supplemented her with hydrocortisone for adrenal insufficiency .
+I am continuing Aranesp due to her renal insufficiency and failure .
+7. Hematology .
+Hemoglobin this morning is 8.6 , likely dilutional with a platelet count of 203 and an INR of 2.4 .
+She has been receiving Coumadin due to her lower extremity DVT .
+I will discuss the timing of pigtail catheter placement with the Thoracic Service .
+8. GI .
+Abdomen is soft and benign .
+She has been tolerating Replete at 60 mL / hour .
+Given her quite marginal renal function , I have switched her to Nepro today and equal caloric rate .
+9. Neuro .
+Awake , alert , moves all extremities , and does not have a focal neurologic deficit .
+10. Prophylaxis .
+I will continue Coumadin , Protonix , and head - of - the - bed elevation .
+CRITICAL CARE TIME EQUALS 32 MINUTES .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 21 2007] 01:49:26
+T :
+**DATE[Mar 21 2007] 04:42:39
+R :
+**DATE[Mar 21 2007] 04:42:39/cme
+Job ID :
+396985/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 04 2007] 07:44:45 PM

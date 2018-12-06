@@ -1,0 +1,66 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Feb 29 07]
+I have been requested by Dr. **NAME[ZZZ] to take care of this patient admitted to the ICU .
+I am managing this patient 's respiratory failure , hyperglycemia , hypertension , and infectious disease .
+The patient is status post lung reduction surgery from today .
+Intraoperatively the patient 's course has been complicated by two tracheal tears - one in the trachea about 5 cm above the carina and the second one in the left main bronchus probably related to the double - lumen endotracheal tube in the Operating Room .
+The patient was left intubated since she was severely acidotic coming out of the Operating Room .
+On arrival to the ICU , the patient 's first blood gas revealed a pH of 7.16 , pCO2 in the 80s , and pO2 in the 188 range on 50% FiO2 and 5 of PEEP .
+On my examination initially , all four chest tubes were on water - seal .
+She did have some subcutaneous air on the left side that was starting to get transmitted to the right side , too .
+Her x-ray showed a loculated left upper lobe pneumothorax .
+A chest tube was in position although it was not on suction .
+After talking to the Surgical team , I placed a left - sided chest tube to 10 cm of suction .
+The right - sided chest tubes are still on water - seal at the present time .
+The right side chest tube has some air leak .
+The left side air leak has actually gotten better .
+A repeat x-ray shows decrease in the left - sided pneumothorax .
+I initially tried to ventilate this patient with CPAP 5 and pressure support of 15 .
+Despite having minute volumes of around 5 liters , the patient 's pCO2 was not getting better .
+Her PA s consistently remained the same .
+I subsequently initiated 2 liters of transrectal gas insufflation through the mini tracheostomy tube and subsequent to which appear to have gotten better .
+Her pCO2 is down to 67 .
+I will continue the current treatment modalities .
+I have , hence , left her intubated because of her severe acidosis .
+The endotracheal tube is distal to the tracheal tear but proximal , obviously , to the left main bronchial tear .
+I have continued her on Lopressor for hypertension and Unasyn for antibiotic prophylaxis .
+Her sugars have been in the 300 range .
+I have , hence , initiated insulin infusion for tight glycemic control .
+I have given her p.r.n. fentanyl for pain .
+I have in the meanwhile continued her on prednisone and theophylline .
+She is on 100 mg of hydrocortisone for stress - dose steroids which is probably causing her hyperglycemia .
+Her potassium is 5.5 which I think is probably related to the acidosis .
+I will continue to follow it .
+She currently has no EKG manifestations .
+The total critical care time I provided on this patient is **AGE[in 30s] minutes .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Feb 29 2007] 21:20:40
+T :
+**DATE[Feb 30 2007] 03:30:36
+R :
+**DATE[Feb 30 2007] 03:30:36/tmc
+Job ID :
+367223/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT] ***
+Electronically Signed by **NAME[SSS RRR]
+**DATE[May 06 2007] 12:43:33 PM

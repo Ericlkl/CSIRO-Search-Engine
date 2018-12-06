@@ -1,0 +1,49 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Apr 20 2007]
+Discharged :
+**DATE[Apr 24 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+DISCHARGE DIAGNOSES :
+1. Angina .
+2. Coronary artery disease .
+3. Recent coronary bypass grafting .
+4. Atrial fibrillation .
+5. Dialysis dependent renal failure .
+6. Clostridium difficile colitis .
+DISCHARGE MEDICATIONS :
+1. Amiodarone 200 mg q.day .
+2. Aspirin 81 mg q.day .
+3. Plavix 75 mg q.day .
+4. Aricept 10 mg nightly .
+5. Prozac 10 mg q.day .
+6. Neurontin 300 mg nightly .
+7. Synthroid 37.5 mcg p.o. q.day .
+8. Metoprolol 25 mg b.i.d.
+9. Metronidazole 500 mg t.i.d.
+10. Nitroglycerin patch 0.2 mg per hour .
+11. Protonix 40 mg q.day .
+**INSTITUTION COURSE :
+This patient is an **AGE[in 80s]- year - old female transferred from nursing home with chest pain .
+While she was in the emergency room , she had an episode of paroxysmal atrial fibrillation which spontaneously converted to sinus rhythm .
+There were T wave inversions suggestive of ischemia and with the addition of nitroglycerin patch , she had no further chest pain .
+While she was here , she had dialysis without any difficulties and was discharged to the nursing home with instructions to follow up with her family physician in 2 weeks and Dr. **NAME[ZZZ] in 1 month .
+______________________________
+**NAME[WWW M XXX] , MD
+HS Job # 275536 / 37260 /
+SHY # **ID-NUM
+D :
+**DATE[May 05 2007] 08:28
+T :
+**DATE[May 05 2007] 08:41
+**CARBON-COPY

@@ -1,0 +1,21 @@
+This is a patient of Dr. **NAME[ZZZ] who was admitted for an elective endovascular graft stenting for an abdominal aortic aneurysm .
+DIAGNOSIS :
+Abdominal aortic aneurysm , status post endovascular graft .
+SECONDARY DIAGNOSES :
+1. Hypertension .
+2. Hypothyroidism .
+COURSE IN THE ICU :
+The patient was admitted for an endovascular stenting of the infrarenal abdominal aortic aneurysm , following which she was sent to the ICU for observation .
+The patient 's course in the ICU has been without any acute events .
+The patient 's pulses were being monitored , and everything was normal .
+The patient has been hemodynamically stable , and the pain has been controlled .
+As the patient is hemodynamically stable , it was elected to transfer the patient to a regular floor , where she will be followed by the respective teams .
+Kindly refer to the transfer medication list for the transfer medications .
+______________________________
+**NAME[WWW XXX] , M.D.
+HS Job # 922581 / 35282 /
+# **ID-NUM
+D :
+**DATE[Nov 24 2007] 10:38
+T :
+**DATE[Nov 24 2007] 12:03

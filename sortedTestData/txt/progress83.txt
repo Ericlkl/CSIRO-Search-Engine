@@ -1,0 +1,60 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING **NAME[VVV :
+ZZZ M YYY]
+ADMISSION DATE :
+**DATE[Apr 29 2007]
+EVALUATION DATE :
+**DATE[Jul 07 07]
+The patient is without any complaints today .
+Plans to go to OR on Monday for evaluation of wounds by General Surgery .
+No fever , no chills , chest pain , shortness of breath .
+No nausea , no vomiting .
+In general , lying down in bed comfortably .
+Vital signs are reviewed , mostly stable .
+Neurologically , alert and oriented , in no acute distress .
+Cardiovascular , regular rate and rhythm .
+No murmurs appreciated .
+Lungs :
+Clear to auscultation bilaterally .
+IMPRESSION AND PLAN :
+1. Decubitus ulcers for OR on Monday to evaluate the ulcers .
+NPO post midnight before 9 with IV fluids .
+Continue wound care , MVI , zinc , and antibiotics .
+2. History of CMV colitis , asymptomatic .
+Await PCR .
+No antiretroviral for now .
+Consider re-scope in 2 weeks .
+Await further ID recommendations .
+Hold off on planning colostomy for evaluation .
+Her cultures do not seem to be growing too much , but she is being continued on ciprofloxacin .
+The PCR results are still pending .
+We are waiting for that to decide whether she will need antiretroviral agents or not , and the colostomy is going to be held off still the wound is being evaluated completely .
+We would continue the antibiotics for now for that .
+So check an ESR .
+3. Anemia , likely chronic disease .
+Continue to monitor for now .
+4. Malnutrition .
+Aggressive nutritional support __________ nutrition .
+5. Continue heparin for lupus anticoagulant and SLE .
+We will change to Coumadin once we know the plan of further surgical issues .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Jul 07 2007] 14:08:20
+T :
+**DATE[Jul 09 2007] 00:34:14
+R :
+**DATE[Jul 09 2007] 00:34:14/rr
+Job ID :
+467233 /**ID-NUM
+Cc:

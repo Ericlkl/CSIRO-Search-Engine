@@ -1,0 +1,59 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Mar 24 2007]
+EVALUATION DATE :
+**DATE[Mar 28 07]
+I was asked to see this **AGE[in 70s]- year - old gentleman transferred from 7D to the CTICU for further management secondary to hypoxic respiratory insufficiency .
+I examined him and reviewed his laboratory data , chart data , and chest x-ray .
+The patient is a **AGE[in 70s]- year - old gentleman with a history of cardiomyopathy and alcohol abuse who presents to an outside hospital with right - sided empyema .
+He was transferred here on **DATE[Mar 26 2007] and underwent drainage on **DATE[Mar 27 2007] .
+Culture at the outside hospital grew Staphylococcus aureus and Enterococcus and had been treated with vancomycin .
+He was taken to the OR on **DATE[Mar 27 2007] and underwent chest tube placement on the right side and bronchoscopy .
+Over the course of the last 24 hours , his A-a gradient had increasing work of breathing now on 2 liter Oxymizer with known metabolic and lactic acidosis .
+Though hemodynamically , blood pressure was fine .
+On examination , clinically , he did feel cool peripherally .
+Otherwise looked ill upon initial evaluation .
+Laboratory data revealed a metabolic and lactic acidosis and increased A-a gradient .
+My concern at that point in time was probable sepsis .
+In light of this , he was cultured .
+Blood pressure actually was reasonable .
+It did subsequently become better controlled on his own .
+Initial blood pressure is 102 and mean is now down to the 70s .
+I gently hydrated the patient , as well , and started him on empiric antibiotics after culturing him with vancomycin and cefepime .
+I wanted to insure he had adequate coverage with MRSA and Enterococcus at this point in time .
+His culture from the OR chest tube drainage from the right pleural space was negative .
+So , the course of the night , his metabolic and lactic acidosis did resolve .
+Clinically , he looked much better , making good urine throughout the course of the night .
+In light of this , I thought that his perfusion was actually adequate .
+I think it is probably reasonable to go ahead and get an echocardiogram just to get a baseline evaluation of his heart function , especially in light that he has a history of cardiomyopathy .
+Otherwise , will follow cultures and continue his antibiotics .
+Continue his current supportive care and management .
+CRITICAL CARE TIME EQUALS 32 MINUTES .
+THIS IS EXCLUDING ALL PROCEDURES .
+___________________________________
+**NAME[WWW VVV XXX] , M.D.
+Dictator :
+**NAME[WWW VVV XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 29 2007] 10:20:22
+T :
+**DATE[Mar 29 2007] 10:25:02
+R :
+**DATE[Mar 29 2007] 14:17:59/lmm
+Job ID :
+366085/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT VVV] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Apr 21 2007] 11:26:51 PM

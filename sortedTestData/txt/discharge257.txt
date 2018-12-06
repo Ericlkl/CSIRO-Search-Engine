@@ -1,0 +1,87 @@
+**INSTITUTION
+Transfer Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Feb 20 2007]
+Discharged :
+Dict :
+**NAME[ZZZ , YYY]
+Attend :
+**NAME[ZZZ , YYY]
+Mrs. **NAME[BBB M. AAA] is a **AGE[in 60s]- year - old who arrives by STAT Medivac Triage from the intensive care unit at the **INSTITUTION in the setting of hypotension , atrial flutter and concern regarding acute ischemic syndrome .
+Mrs. **NAME[AAA] carries a background history of atrial dysrhythmias .
+She has required cardioversion in the past in a setting of what appears to have been atrial flutter .
+She underwent a stress test on **DATE[May 7 2005] and at that time was found to have small - two - moderate scarring in the proximal - to - mid inferior periinfarct ischemia .
+Still , the ejection fraction was 65% .
+She was currently admitted to the **INSTITUTION in the context of hypokalemia , apparent volume contraction , and weakness .
+During the hospital stay , she was talking on the telephone and may well have aspirated .
+The patient was found in her room slumped down with the phone off the hook .
+An atrial dysrhythmia was evident .
+The initial thought was that the patient had an acute ischemic syndrome and was intubated .
+She was subsequently referred here .
+Sinus rhythm was reestablished and there were no hyperacute changes .
+Troponin was only modestly positive .
+PAST MEDICAL HISTORY :
+The patient carries a history of recurrent SVT .
+She has apparently been cardioverted in the past in that context .
+The patient carries a history of schizo - affective disorder .
+She carries a history of cholecystectomy .
+She underwent hip repair for a fracture .
+She carries a history of chronic obstructive pulmonary disease .
+HABITS AND ADDICTIONS :
+The patient is an active and committed tobacco addict .
+ALLERGIES :
+The patient carries a history of allergic reaction to SULFA and MOLD .
+HOME MEDICATIONS :
+1. Aspirin 81 mg p.o. q.am.
+2. Ativan 0.5 mg p.o. daily .
+3. Prozac 30 mg p.o. q.bedtime .
+4. Toprol XL 50 mg p.o. q.day .
+5. Synthroid 0.1 mg p.o. q.day .
+6. Depakote 250 mg p.o. b.i.d. and 500 mg in the evening .
+7. Prilosec .
+8. Singulair 10 mg p.o. q.day .
+9. Haldol 7 mg p.o. q.day .
+10. Celebrex .
+11. Vicodin 5/500 mg p.o. q.pm.
+PHYSICAL EXAMINATION :
+On exam , the patient is intubated and sedated .
+Her heart rate is in the 110 range and the rhythm appears to be atrial flutter with variable conduction .
+There are crepitant rales at both bases .
+There is scattered rhonchi more on the right than on the left .
+The apical impulse is discrete , tapping and nonsustained .
+The patient has normal first and a physiological good second heart sound .
+There is a hyperdynamic outflow tract murmur .
+Neck veins are flat .
+There are no carotid bruits .
+The lower extremities are warm to the touch .
+IMPRESSION AND PLAN :
+Problem #1 :
+Atrial flutter .
+The patient has been systemically anticoagulated and is now on amiodarone .
+We will back off on the pressors ( beginning with alpha - agonists ) in an effort to enhance the likelihood of medical conversion to sinus rhythm .
+The chest film demonstrates haziness in the right base and we need to watch over the next few days that she does not develop a frank infiltrate in that territory .
+Even ARDS here is of concern .
+On the other hand , it would appear that she might well be a candidate for extubation over the upcoming days .
+The patient will need a transthoracic echocardiogram interrogation .
+The likelihood is that left ventricular functions are normal .
+The patient will ultimately need some form of risk stratification but that is a bit of a down the road consideration .
+Today , heart goals will be to :
+A. Diminish the pressor therapy .
+B. Volume replete .
+C. Ask the renal service of Dr. **NAME[XXX] to see regarding the interesting occurrence , here , of metabolic acidosis and assistance in excluding R renin , T tubular , A acidosis .
+There is also the provocative thought , here , of Conn 's syndrome in the setting of the earnest hypokalemia evident .
+______________________________
+**NAME[YYY ZZZ] , MD
+HS Job # 861714 / 41736 / 33413
+SHY # **ID-NUM
+D :
+**DATE[Feb 21 2007] 16:28
+T :
+**DATE[Feb 21 2007] 18:04
+**CARBON-COPY

@@ -1,0 +1,100 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Feb 10 2007]
+Discharged :
+**DATE[Feb 11 2007]
+Dict :
+**NAME[YYY , XXX]
+Attend :
+**NAME[ZZZ , BBB]
+DISCHARGE DIAGNOSES :
+1. Arteriosclerotic heart disease .
+2. Status post heart catheterization and percutaneous coronary intervention of saphenous vein graft to the obtuse marginal distal anastomosis on **DATE[Feb 10 2007] .
+3. History of coronary artery bypass graft x 3 in 1995 consisting of saphenous vein graft to the ramus intermedius , saphenous vein graft to the obtuse marginal , and left internal mammary artery to the left anterior descending artery .
+4. History of arrhythmia including atrial fibrillation and ventricular tachycardia .
+5. History of biventricular pacer with automatic implantable cardioverter - defibrillator placement .
+6. Hyperlipidemia .
+7. Chronic renal insufficiency .
+8. Hypertension .
+9. Chronic obstructive pulmonary disease with a history of chronic bronchitis and cough .
+10. History of carotid stenosis requiring left endarterectomy .
+11. Abdominal aortic aneurysm .
+12. Arthritis .
+13. History of cataract extraction .
+PROCEDURES :
+On **DATE[Feb 10 2007] , the patient underwent right and left heart catheterization which showed the following findings :
+His RA was 12 **PLACE , PA was 80/25 with a mean of 46 , PA wedge pressure was 8 mmHg .
+Left ventricular end - diastolic pressure was about 12 .
+There was no aortic valve gradient noted .
+Left ventriculogram was not done to limit contrast .
+Coronary anatomy showed the left coronary occluded at the left main .
+The right coronary artery was dominant with a 90% to 95% distal stenosis which sends collaterals to the distal circumflex .
+The saphenous vein graft to the ramus intermedius had 30% proximal stenosis .
+The saphenous vein graft to the obtuse marginal had an 80% to 90% distal anastomotic stenosis .
+The left internal mammary artery to the left anterior descending was widely patent .
+Percutaneous coronary intervention with stenting of the saphenous vein graft to the obtuse marginal distal anastomosis with 2.75 x 12 - mm Taxus drug - eluting stent with 0% residual .
+HOSPITAL COURSE :
+Mr. **NAME[AAA] is a **AGE[in 70s]- year - old pleasant gentleman who has a history of arteriosclerotic heart disease .
+He underwent CABG x 3 in **STREET-ADDRESS **INSTITUTION .
+He also suffers from multiple risk factors including hyperlipidemia , hypertension , history of tobacco abuse , and positive family history .
+He apparently underwent nuclear stress test that was read as abnormal , so he was referred for heart catheterization for further coronary evaluation .
+The patient was admitted on **DATE[Feb 10 2007] .
+On admission , his renal function showed a creatinine of 1.9 .
+He was started on Mucomyst 600 mg b.i.d. and pretreated with sodium bicarbonate prior to the procedure .
+That afternoon , he then underwent right and left heart catheterization , saphenous vein graft angio along with LIMA angiography , and stenting of the SVG to the OM-1 via the right femoral artery .
+The following coronary findings were noted :
+The right coronary was dominant with a 90% to 95% distal stenosis .
+SVG to the RI had 30% proximal stenosis .
+SVG to the OM had 80% to 90% distal anastomotic stenosis .
+The LIMA to the LAD was widely patent .
+The left coronary was occluded at the left main .
+Dr. **NAME[ZZZ] performed percutaneous coronary intervention with stenting of the SVG to the OM distal anastomosis with a 2.75 x 12 - mm Taxus drug - eluting stent with excellent results .
+There was 0% residual .
+The patient did not have any complications .
+He continued on IV bicarbonate and Mucomyst postoperatively and was observed overnight .
+That evening , he did have some minimal oozing from his right groin area which did not persist throughout the evening .
+This morning , he is stable .
+He denies any chest pain , pressure , shortness of breath , dizziness , or lightheadedness .
+There has been no active bleeding from his groin .
+He is up ambulating independently .
+His lab work today shows a BUN of 21 , creatinine of 1.5 , hemoglobin of 13.5 , hematocrit of 40 , CPK - MB is mildly elevated at 11.8 , probably secondary due to distal embolization from the stent .
+He is stable for discharge .
+DISCHARGE MEDICATIONS :
+1. Tylenol 650 p.r.n.
+2. Combivent inhaler 2 puffs t.i.d.
+3. Amiodarone 100 mg daily .
+4. Aspirin 325 daily .
+5. Lipitor 20 mg daily .
+6. Plavix 75 mg daily .
+A prescription has been written for this .
+7. Synthroid 100 mcg daily .
+8. Lasix 10 mg daily .
+LABORATORY DATA PRIOR TO DISCHARGE :
+Sodium 139 , potassium 4.1 , chloride 98 , CO2 of 33 , BUN 21 , creatinine 1.5 , CPK-MB 11.8 , hemoglobin 13.5 , and hematocrit 40.5 .
+DISPOSITION :
+Mr. **NAME[AAA] is status post heart catheterization and percutaneous coronary intervention yesterday .
+He remains hemodynamically stable .
+He is ready for discharge .
+He has been instructed no heavy lifting or driving for 2 days .
+He is allowed to take a shower tomorrow .
+I have given him a prescription for CBC with platelets and BMP .
+This is to be completed next week to assess his blood levels and kidney function .
+If those are stable , he is going to be scheduled for a repeat outpatient heart catheterization with planned percutaneous coronary intervention to the right coronary artery .
+I have also given him a prescription for Plavix .
+He is to continue all of his usual medications as listed above .
+______________________________
+**NAME[XXX YYY] , PA
+HS Job # 646957 / 34458 / 32553
+SHY # **ID-NUM
+D :
+**DATE[Feb 11 2007] 10:41
+T :
+**DATE[Feb 11 2007] 11:30
+**CARBON-COPY

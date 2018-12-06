@@ -1,0 +1,75 @@
+**INSTITUTION
+Transfer Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Feb 20 2007]
+Discharged :
+**DATE[Mar 17 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+HOSPITAL CONSULTANTS :
+1. Pulmonary Critical Care , Dr. **NAME[VVV] .
+2. Neurology , Dr. **NAME[UUU] .
+3. GI , Dr. **NAME[TTT SSS] for PEG placement .
+4. Psychiatry , Dr. **NAME[RRR QQQ] for schizoaffective disorder .
+HOSPITAL COURSE :
+Ms. **NAME[AAA] is a **AGE[in 60s]- year - old woman transferred from **INSTITUTION for respiratory failure .
+She has a longstanding history of presumed coronary artery disease .
+A stress test done in 2005 , she was noted to have a small to moderate area of scarring around the proximal and mid inferior wall with peri - infarct ischemia .
+This has not been pursued in the past with an ejection fraction of 65% .
+She also carries a diagnosis of hypertension , hypothyroidism , osteoporosis , and anoxic encephalopathy which occurred 4 years ago , chronic obstructive pulmonary disease , anemia , SVT , schizoaffective disorder , and a cholecystectomy .
+While at **INSTITUTION , she was admitted there with weakness and a low potassium along with dehydration .
+On the evening of **DATE[Feb 20 2007] , while drinking , she aspirated and developed respiratory distress with saturation to 88% on 15 L of nonrebreather mask .
+She was electively intubated for respiratory failure and transferred to ICU .
+EKG done at that time showed a heart rate in 130 to 150 range , atrial flutter versus SVT with an intraventricular conduction delays and possible ST elevations in the inferior leads .
+She was found to have a slightly elevated troponin .
+She was started on heparin and Levophed for decreased blood pressure .
+She needed to be cardioverted , she was cardioverted with adenosine x 1 , Lopressor 5 mg IV x 1 and DC shock 100 joules x 2 prior to her arrival here .
+Upon arrival here to **INSTITUTION , she was intubated , sedated , and minimally responsive .
+Over the ensuing days , the patient 's neurology status was in question .
+She was seen in consultation by Dr. **NAME[UUU] of Neurology Service .
+Although her EEG showed a poor prognosis , the patient did eventually wake and was appropriately responsive .
+She has remained on the ventilator while here .
+She has developed pneumonia and a fungemia and has been on Cipro and Flagyl .
+She eventually received the trach prior to discharge .
+She does not tolerate CPAP trials well , and at the time of discharge , she is currently on the ventilator , assist control of 10 , PEEP of 5 , 450 tidal volume , 40% O2 .
+She has also received a PEG tube and is receiving Traumacal 35 mL an hour at the time of discharge .
+While in the hospital , she has had multiple episodes of atrial fibrillation for which she has been on amiodarone .
+Her amiodarone was decreased to 200 q. day the day prior to transfer .
+LABORATORIES :
+On the day prior to transfer included a sodium 134 , potassium 4.6 , chloride 110 , CO2 of 22 , BUN 11 , and creatinine 0.6 .
+FINAL DISCHARGE DIAGNOSES :
+Include :
+1. Respiratory failure secondary to aspiration pneumonia and fungemia .
+She will need to remain on Cipro and Flagyl for a total of 2 weeks .
+2. Cardiovascular .
+She has had an elevated troponin , and this may be due to her presentation of atrial fibrillation and subsequent direct current cardioversion .
+While here in the hospital , echocardiogram has showed normal left ventricular function .
+Should once recovered and off any ventilatory support , the patient should undergo a repeat cardiac evaluation to include stress testing and / or possible heart catheterization .
+As far as her arrhythmia standpoint , she has had bouts of atrial fibrillation mostly related to continuous positive airway pressure trials .
+In the event that she continues these at the transfer facility , we would recommend rate control with Cardizem .
+She should remain on amiodarone 200 mg daily .
+3. Schizoaffective disorder .
+She has been followed here by the Psychiatric Service .
+They are recommending that she remain on valproic acid at her current dose .
+We will continue Haldol 2 mg q. 8 h .
+The patient takes Haldol at baseline for her history of psychosis .
+This was not used for agitation management .
+Once discharged from select specialty , the patient will need to be followed up by her primary care physician in 2 weeks and by Dr. **NAME[PPP OOO] of the Cardiology Service in **PLACE , Pennsylvania in 2 weeks .
+For the specific instructions , we will follow on her discharge medication transfer sheet .
+______________________________
+**NAME[WWW XXX] , PA-C
+HS Job # 537729 / 41478 /
+SHY # **ID-NUM
+D :
+**DATE[Mar 16 2007] 12:58
+T :
+**DATE[Mar 16 2007] 18:06
+**CARBON-COPY

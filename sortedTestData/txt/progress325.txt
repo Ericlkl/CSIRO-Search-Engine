@@ -1,0 +1,46 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Mar 24 07]
+I am seeing this critically patient for continued management of multiple medical problems , including respiratory failure and acute renal failure .
+I have seen and examined this patient .
+I have reviewed the chest x-ray and laboratory data , and I have discussed the patient 's care with the SICU team and the Thoracic Surgery service .
+Mrs. **NAME[AAA] is afebrile this morning .
+Blood pressure is running systolic anywhere from the low 100s to mid 100s over 50 to 60 .
+She is in about even fluid balance now on a torsemide infusion at 10 mg per hour .
+BUN and creatinine are still coming up slowly and are 81 and 4.1 this morning .
+She continues to be somewhat volume overloaded ; however , although we are struggling between fluid removal and maintaining her volume status where it is in order to try to facilitate renal recovery .
+Her chest x-ray is unchanged .
+She is still not tolerating CPAP trials from an oxygenation standpoint , and requires anywhere from 40 to 50% on assist control with 5 of PEEP .
+I am continuing the diuretics for now .
+She is likely to require dialysis soon .
+T = 35 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 24 2007] 12:19:05
+T :
+**DATE[Mar 24 2007] 15:28:05
+R :
+**DATE[Mar 24 2007] 15:28:05/lmp
+Job ID :
+401929/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 09 2007] 04:49:46 PM

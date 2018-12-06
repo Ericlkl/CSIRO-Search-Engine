@@ -1,0 +1,148 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] S
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 70s] years
+Sex :
+Male
+DOB :
+**DATE[Apr 17 1930]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Summary of Hospitalization :
+This **AGE[in 70s] year old married , white male with h/o CAD , s/p angioplasty and duodenal ulcer presented to ED after syncopal episode after diarrhea BM .
+Past Medical History :
+CAD s/p angioplasty and stent LAD in **DATE[Jul 2004]
+s/p revascularization angioplasty stent LAD in 2005 - **INSTITUTION
+HTN
+Hyperlipidemia
+Renal Cell CA , s/p RIGHT nephrectomy
+DM - diet controlled
+GERD
+Duodenal ulcer
+GOUT
+L4-5 diskectomy in 1968
+Other Information :
+Pt 's Cardiologist , Dr. **NAME[VVV UUU] .
+Subjective / Events Overnight :
+Chart and labs reviewed .
+Patient seen at bedside .
+Pt. with persistent intense itching on upper part of back with no relief from Benadryl .
+Also with continued LBP .
+Denies abd. pain .
+Vital signs
+**DATE[May 17 2007] 4:00:00 AM .
+BP : systolic 128 , diastolic 64 .
+Pulse : 70 beats per min .
+Resp : 18 breaths / min .
+Temp : 37.1 degrees Celsius .
+Physical Exam
+General Appearance :
+Elderly male lying in bed in mild distress secondary to pruritus on back .
+Cardiovascular :
+S1 , S2 , no gallop , irregular .
+Respiratory :
+CTA .
+Gastrointestinal :
++ BS , soft , **INITIALS .
+Skin :
+Large erythematous , raised area on superior part of back .
+Otherwise no rashes or lesions .
+Neurological :
+Alert , oriented x 3 .
+Extremities : no e/c/c in BLE .
+Current medications reviewed
+General Results
+Today 's results :
+ALLRESLTSECT
+**DATE[May 19 2007] 4:00 AM
+WBC 7.0 X10E+09 / L
+RBC 2.75 X10E+12 / L Low
+Hgb 8.7 gm / dL Low
+Hct 25.1 % Low
+MCV 91.3 fL
+MCH 31.8 pg
+MCHC 34.8 gm / dL
+RDW 15.0 %
+MPV 9.5 fL
+Platelets 133 X10E+09 / L Low
+Neutrophils 71 %
+Lymphs 14 %
+Monocytes 11 %
+Eosinophils 4 %
+Basophils 0 %
+ABS Neutrophils 5.00 X10E+09 / L
+ABS Lymphs 1.00 X10E+09 / L
+ABS Monocytes 0.70 X10E+09 / L
+ABS Eosinophils 0.30 X10E+09 / L
+ABS Basophils 0.00 X10E+09 / L
+Type of Differential
+Automated Differential
+Other Studies :
+TTE 1/17 :
+01) Technically difficult study .
+02) Small left ventricular cavity size with mildly hypokinetic apical anterior wall and apical septum and mildly decreased systolic function .
+03) Paradoxical septal motion consistent with post - operative septal motion .
+04) Thickened aortic valve .
+05) Mild tricuspid regurgitation .
+06) Mild pulmonic regurgitation .
+07) Moderate left atrial enlargement .
+08) Microbubble contrast bolus injection with Definity was perfomed for left ventricular opacification .
+Impression and Plan
+Impression
+**AGE[in 70s] yo male admitted after syncopal episode found to have ulcerated duodenal lipoma , s/p endoscopic ligation .
+Plan
+1. GI - H/O duodenal ulcer .
+Prevacid stopped 2-3 weeks ago by pt.
+Heme + stool in ED .
+EGD **DATE[May 16 07]:
+POSTOPERATIVE DIAGNOSIS :
+1) Normal esophagus
+2) Normal stomach
+3) 2 cm submucosal mass with clean based ulcer
+4) Small hiatal hernia
+EUS to further evaluate the duodenal mass revealed a duodenal lipoma .
+GI surgery , Dr. **NAME[TTT SSS] ( 13519 ) , consulted .
+Endoscopic removal / banding preferred by pt.
+On 1/18 pt. underwent endoscopic therapy by ligating with an endo - loop to allow strangulation and auto - amputation of the lipoma .
+The lipoma should auto - amputate secondary to ischemic necrosis with time .
+Will plan for repeat EGD in 2 months .
+Continue ice chips and sips of water until seen by GI this AM - continue IVF s.
+Will continue IV Protonix and switch to PO upon d/c .
+2. Heme - H/H 8.7/25.1 after transfusion 3 units PRBC s.
+No active bleeding noted .
+Will continue to follow on daily basis .
+Will give dose of Ferrilicet prior to d/c .
+3. CV - CAD , s/p angioplasty , HTN , Hyperlipidemia .
+Troponins negative x 3 .
+Pt had PVC s throughout night on 1/17 .
+Cardiology consulted - pt 's cardiologist is Dr. **NAME[VVV UUU] - input appreciated .
+Cleared for abd surgery .
+EF 40-45% .
+See attached TTE report .
+HD stable .
+4. MS - H/O spinal stenosis .
+Pt. s/p fall during syncopal episode .
+X-rays negative for fracture .
+Pt. was receiving morphine 2mg Q 2h prn for back pain .
+Pt. developed intense itching on back with a large erythematous raised patch on the superior back .
+Pt. given Benadryl PO as well as IV with no relief in symptoms .
+H/O urinary retention in past ; pt. s/p TURP .
+Will give Atarax and IV Solumedrol today .
+Can start Medrol dose pack when cleared by GI .
+Pt. with increased back pain since fall prior to admission .
+Ortho c/s - appreciate input .
+Recommended PT and anti - inflammatories .
+Also Medrol Dose Pack for relief of pain exacerbation .
+5. Renal - H/O Renal Cell CA , s/p RIGHT nephrectomy .
+Baseline Cr. 1.5 - Cr. stable .
+Will follow .
+6. Disp - D/C to home when medically stable .
+Professional Services
+Credentials and Title of Author **NAME[RRR] Signing this Document : PA-C
+Perform by **NAME[XXX , WWW M] ( on **DATE[May 19 2007] 09:13 )
+Sign by **NAME[XXX , WWW M] ( on **DATE[May 19 2007] 09:13 )
+VERIFY by **NAME[XXX , WWW M] ( on **DATE[May 19 2007] 09:13 )

@@ -1,0 +1,40 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+Discharged :
+**DATE[Aug 04 2007]
+Dict :
+**NAME[ZZZ , YYY]
+Attend :
+**NAME[ZZZ , YYY]
+The patient admitted for elective intervention of the LAD .
+He was found to have widely patent stents in the right coronary which were stented recently .
+He had a 95% to 99% proximal and ostial diagonal lesion involving the takeoff .
+This also was noted to originate in the area of diffuse 50% to 60% proximal and mid LAD disease .
+Because of the bifurcation nature of the lesion , we had to stent the diagonal artery and the LAD , and kissing balloons were used .
+A 2.5 x 28 Cypher stent and 2.5 x 13 Cypher stent were placed into the diagonal .
+We also placed a 3.0 x 28 Cypher stent in the LAD .
+There was no residual stenosis with excellent angiographic result .
+DISCHARGE MEDICATIONS :
+His discharge medications are same as admitted on , and he will need to stay on the Plavix , a long term .
+FINAL DIAGNOSES :
+1. Coronary artery disease .
+2. Unstable angina .
+3. Hyperlipidemia .
+4. Diabetes .
+5. Coronary stenting .
+______________________________
+**NAME[YYY M ZZZ] , MD
+HS Job # 485187 / 38373 / 36207
+SHY # **ID-NUM
+D :
+**DATE[Aug 04 2007] 08:23
+T :
+**DATE[Aug 04 2007] 12:59
+**CARBON-COPY

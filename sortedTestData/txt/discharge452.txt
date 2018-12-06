@@ -1,0 +1,67 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Feb 10 2007]
+Discharged :
+**DATE[Feb 12 2007]
+Dict :
+**NAME[YYY , XXX]
+Attend :
+**NAME[ZZZ , BBB]
+Addendum
+Mr. **NAME[AAA] is status post heart catheterization and percutaneous coronary intervention of his saphenous vein graft to the obtuse marginal branch .
+This was done by Dr. **NAME[ZZZ] on **DATE[Feb 10 2007] .
+He was observed overnight and was stable for discharge the morning of **DATE[Feb 11 2007] .
+He was getting ready for discharge when he desaturated into the 70s on room air .
+He was immediately put on 5 L of oxygen , and his saturations came up to the 90s .
+His discharge was cancelled .
+Dr. **NAME[WWW VVV] from pulmonary service was consulted , and the patient was put on a higher dose of Lasix 20 mg daily .
+The patient was seen by Dr. **NAME[UUU TTT] .
+A V/Q scan was done which was read as intermediate probability for pulmonary emboli ; however , it was decided by Dr. **NAME[ZZZ] and Dr. **NAME[TTT] that the likelihood of the suspicion of PE was not very high .
+Therefore , IV heparin was not initiated .
+He also had lower extremity Dopplers which were negative for any DVT .
+A high - resolution CT imaging of the chest confirms the presence of interstitial lung disease with a characteristic UIP pattern likely representing IPF .
+There is extensive interstitial lung disease with pulmonary fibrosis , honeycombing , and traction bronchio - atelectasis in a predominantly subpleural and peripheral distribution with greatest involvement in the lower lobes .
+There were no CT findings to indicate active alveolitis .
+It showed cardiac enlargement with multiple small lymph nodes none of which were abnormally enlarged , often present with IPF .
+There was no evidence of pulmonary nodule or mass .
+The patient was also ordered pulmonary function studies ; however , they were not done .
+These can be done as an outpatient in the next week or two .
+He will need to have his PA pressures reassessed in about 4 weeks .
+As per Dr. **NAME[TTT] 's note , the first goal is to treat the hypoxia .
+Home O2 has been ordered and arranged .
+The patient 's Combivent inhalers are going to be discontinued .
+He is going to start on Spiriva once a day .
+His amiodarone was also discontinued by Dr. **NAME[TTT] with a likelihood of long - term toxicity .
+Again , the patient is stable for discharge this evening .
+He is to have BUN and CBC with platelets drawn next week .
+If those are within normal limits , we will schedule him for a repeat heart catheterization and stenting of his right coronary artery at the end of next week or two .
+He has to get pulmonary function studies done as an outpatient , continue on the list of medications that will be given at the end of the dictation , and then followup with Dr. **NAME[UUU TTT] with pulmonary after his repeat heart catheterization .
+DISCHARGE MEDICATIONS :
+Now have been adjusted .
+1. Tylenol 650 mg p.r.n.
+2. Spiriva 1 puff daily ( his Combivent inhaler was discontinued ) .
+3. Aspirin 325 daily .
+4. Lipitor 20 mg daily .
+5. Plavix 75 mg daily .
+6. Lasix 20 mg daily .
+7. Synthroid 100 mcg daily ( the patient 's amiodarone has been discontinued as well ) .
+DISPOSITION :
+The patient is going to be discharged home this evening .
+Home oxygen has been arranged .
+I spoke with Dr. **NAME[TTT] and Dr. **NAME[ZZZ] who agreed to discharge him today .
+______________________________
+**NAME[XXX YYY] , PA
+HS Job # 682168 / 41509 / 35066
+SHY # **ID-NUM
+D :
+**DATE[Feb 12 2007] 15:28
+T :
+**DATE[Feb 13 2007] 19:01
+**CARBON-COPY

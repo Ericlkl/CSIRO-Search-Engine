@@ -1,0 +1,47 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M. ZZZ] , M.D.
+ADMISSION DATE :
+**DATE[Feb 12 2007]
+EVALUATION DATE :
+**DATE[Apr 02 07]
+Ventilator management note .
+I am managing this **AGE[in 60s]- year - old female with respiratory and renal failure after a sternectomy for mediastinitis .
+Ms. **NAME[CCC] is awake and alert this morning .
+Yesterday she was able to go for about 6 hours on a pressure support of 15 .
+I have rested overnight on assist control .
+The peak airway pressures are in the mid 20s , gas exchange is good at 40% FIO2 , and 5 of PEEP , minute ventilation is 8 to 10 liters .
+The chest x-ray shows stable bilateral effusions with no significant change .
+This morning I placed her on a pressure support of 10 and she has done well through most of the day .
+I will plan to rest her back on assist control this evening and drop her pressure support again tomorrow .
+In terms of her mediastinitis , she is continuing a course of Cefepime and Vancomycin .
+Clinically she is improving .
+I have increased her ACE inhibitor today for some better blood pressure control .
+She is adequately beta blocked on the current dose of Carvedilol , with heart rates in the 60s to 70s .
+I have ordered a repeat thyroid functions test in light of relatively elevated TSH level , which I am not sure is correct .
+I have also increased her scheduled insulin for better glycemic control .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Apr 02 2007] 18:33:22
+T :
+**DATE[Apr 02 2007] 19:14:23
+R :
+**DATE[Apr 02 2007] 19:14:23/drl
+Job ID :
+411369/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 03 2007] 09:49:16 AM

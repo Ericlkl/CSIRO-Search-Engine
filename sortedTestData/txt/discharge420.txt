@@ -1,0 +1,55 @@
+**INSTITUTION
+GENERAL MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Aug 04 2007]
+DISCHARGE DATE :
+**DATE[Aug 06 2007]
+**INSTITUTION accompanied by husband .
+DISCHARGE DIAGNOSIS :
+Chest pain , resolved .
+CONDITION ON DISCHARGE :
+Stable .
+HOSPITAL COURSE :
+The patient is a **AGE[in 50s]- year - old female who is status post gastric bypass x 1 year and had done quite well up until recently when she was complaining of some pressure sensation in the lower part of her anterior chest radiating to her right shoulder .
+She reported that it occurred at rest , and she could not think of a trigger for that .
+She called her doctor and was advised to come to the emergency room for further evaluation .
+In the emergency room , she had an evaluation , which included an EKG that showed no changes consistent with acute ischemia , chest that revealed a hyperinflated chest with no evidence of pulmonary infiltrate , and troponins which were negative .
+A cardiology consult was done when she came to the unit , and she subsequently had a stress test which was normal .
+Her troponin level has remained negative , and she did well during her hospitalization without any acute event .
+She will be discharged today to home per Dr. **NAME[ZZZ] and will follow up with him in 1 week .
+DISCHARGE DIET :
+Low salt and low fat .
+DISCHARGE ACTIVITY :
+As tolerated .
+DISCHARGE MEDICATIONS :
+1. Aspirin 81 mg a daily .
+2. Accolate 20 mg twice daily .
+Follow up with Dr. **NAME[ZZZ] in 1 to 2 weeks .
+___________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW XXX] , VVV] , M.S.N. , B.C.
+AL/ss
+D :
+**DATE[Aug 06 2007] 13:16:56
+T :
+**DATE[Aug 06 2007] 14:50:24
+R :
+**DATE[Aug 06 2007] 14:50:24/ss
+Job ID :
+335105/**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX] , VVV] , M.S.N. , B.C.-Anita ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Aug 11 2007] 02:14:43 PM

@@ -1,0 +1,56 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Mar 07 07]
+I have been requested by Dr. **NAME[ZZZ] to take care of this patient admitted to the ICU .
+I am managing this patient 's respiratory failure , hypotension , ileus , and hyperglycemia .
+I have examined this patient , reviewed the data in the medical records , and looked at the most recent x-ray films .
+This patient 's care has been provided under my direct supervision .
+On my examination today , the patient is awake , alert , oriented , warm , and well perfused .
+Yesterday she did trach mask for a few hours .
+This morning she was on trach mask from 4:30 till about 8:30 and then tired out .
+The patient had partial right upper lobe collapse .
+I have essentially bronched the patient and opened the right lung with which I hoped that oxygenation and ventilation would get better .
+She also dropped her pressure a couple of times for which I gave her a fluid bolus .
+She seems to be doing better now .
+I have her on IV hydrocortisone for stress dose steroids .
+She has an ileus .
+I have made sure the position of the feeding tube looks good .
+I have placed an NG in to decompress her belly .
+I will leave her on Reglan .
+If her nausea is better , I will reconsider starting her tube feeds tomorrow .
+For now I have her on IV fluids .
+She also is on low volume insulin infusion .
+I have continued her stress ulcer prophylaxis and stopped her antibiotics .
+Her hemoglobin is stable .
+She does not have any evidence of bleeding .
+THE TOTAL CRITICAL TIME I HAVE PROVIDED ON THIS PATIENT IS **AGE[in 30s] MINUTES .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 07 2007] 21:34:36
+T :
+**DATE[Mar 07 2007] 21:47:39
+R :
+**DATE[Mar 07 2007] 21:47:39/klf
+Job ID :
+379640/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT] ***
+Electronically Signed by **NAME[SSS RRR]
+**DATE[May 06 2007] 12:43:51 PM

@@ -1,0 +1,62 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY XXX ZZZ]
+ADMISSION DATE :
+**DATE[Jul 27 2007]
+EVALUATION DATE :
+**DATE[Jul 28 07]
+An **AGE[in 80s]- year - old female .
+Overnight events reviewed .
+Medications and laboratories reviewed .
+Condition stable at **INSTITUTION 7G .
+ASSESSMENT :
+1. Lumbar disk L4-L5 , lumbar microdiskectomy .
+Wound CDI .
+No radiculopathy or myelopathy .
+Bowel and bladder function stable .
+2. Hypertension .
+Blood pressure controlled .
+No neurovascular / cardiovascular decompensation .
+3. Coronary artery disease , CABG .
+Sinus rhythm .
+S1 , S2 normal .
+No audible S3 or S4 gallops .
+Flow murmur is stable .
+MR murmur is stable .
+No cardiovascular decompensation .
+4. Hypercholesterolemia , asymptomatic .
+No abdominal pain , pancreatitis , myopathy , or hepatitis .
+5. GERD .
+Asymptomatic .
+No nausea , vomiting , or GI bleed .
+6. Diverticular disease , asymptomatic .
+Abdomen is soft and nontender .
+7. Goiter .
+Nodule , tracheal deviation .
+Clinically stable .
+No respiratory distress .
+___________________________________
+**NAME[VVV M. WWW] , M.D.
+Dictator :
+**NAME[VVV M. WWW] , M.D.
+**INITIALS
+D :
+**DATE[Jul 28 2007] 09:36:37
+T :
+**DATE[Jul 28 2007] 23:51:45
+R :
+**DATE[Jul 28 2007] 23:51:45/va
+Job ID :
+365114/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[WWW , UUU M]. ***
+Electronically Signed by **NAME[VVV WWW]
+**DATE[Aug 08 2007] 08:18:04 PM

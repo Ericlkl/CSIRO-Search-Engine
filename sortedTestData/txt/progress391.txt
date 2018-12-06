@@ -1,0 +1,50 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY XXX ZZZ]
+ADMISSION DATE :
+**DATE[Aug 05 2007]
+EVALUATION DATE :
+**DATE[Aug 09 07]
+I have been requested by Dr. **NAME[ZZZ] to take care of this patient admitted to the ICU .
+He is a **AGE[in 50s]- year - old gentleman who is status post CABG times four .
+His intraoperative was unremarkable .
+His TEE showed good ejection fraction .
+He has a slightly anterior airway requiring Bougie for intubation .
+This morning on my examination , he was on 0.025 of epinephrine infusion with a cardiac index of more than 3 .
+I have hence decided to wean the epinephrine off .
+I initiated small dose p.o. Norvasc and weaned the IV Nitroglycerin off also .
+I weaned him down to 40% FIO2 and 5 of PEEP .
+His oxygenation and ventilation seem to be adequate .
+He has increasing left - sided pleural effusion and had a drop in his hemoglobin today .
+I hence repeated his x-ray and his hematocrit to rule out bleeding .
+He does not have any further bleeding .
+I have hence extubated him .
+My plan is to start him on Lopressor , Lasix , and aspirin later this afternoon based on his pressures .
+I have continued his insulin infusion for glycemic control .
+His chest films ______ effusions , and I have continued his stress ulcer prophylaxis .
+Total critical care time I have provided on this patient is **AGE[in 30s] minutes .
+___________________________________
+**NAME[VVV WWW] , M.D.
+Dictator :
+**NAME[VVV WWW] , M.D.
+RV/tm
+D :
+**DATE[Aug 09 2007] 17:37:54
+T :
+**DATE[Aug 09 2007] 18:51:34
+R :
+**DATE[Aug 09 2007] 18:51:34/tm
+Job ID :
+339439/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[WWW , SSS] ***
+Electronically Signed by **NAME[VVV WWW]
+**DATE[Aug 22 2007] 03:52:50 PM

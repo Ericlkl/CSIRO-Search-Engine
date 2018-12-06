@@ -1,0 +1,63 @@
+FINAL DIAGNOSES :
+1. Status post fall .
+2. Multiple sclerosis .
+3. Maladjustment .
+SECONDARY DIAGNOSES :
+1. Hypothyroidism .
+2. Bipolar .
+3. Acute renal failure .
+4. Incontinence .
+5. Hypokalemia .
+6. Shoulder ecchymosis .
+7. Leg cellulitis .
+PROCEDURES PERFORMED :
+1. CT of the head .
+2. MRI of the shoulder .
+HOSPITAL COURSE :
+The patient is a **AGE[in 60s]- year - old female who has recently been discharged from the hospital on Friday and came back on Sunday with a history of multiple falls , status post rehab .
+She lives by herself and was ambulating with a walker .
+She had a fall on Saturday , and the nurse found her on the floor .
+She came to the emergency room , but she did not want to stay .
+On Sunday , she had another fall , and she called 911 , who brought her to the emergency room .
+She was complaining of pain in the left lower leg and no other concerns , per the patient .
+During her stay in the hospital , she was doing fine .
+Social Services was consulted for placement of the patient , and she was convinced that she needed to go to a place because she cannot take care of herself .
+She was discharged to go to **PLACE .
+Regarding her left leg swelling , she was treated as cellulitis with Unasyn 3 g IV q. 12h. , and her leg was improving .
+She had a venous Doppler x 2 before on the first admission , and it was negative .
+An MRI of the leg shows a hematoma .
+Ortho was consulted , who did not think that at that time she needed any evacuation or any surgical procedure to be done .
+She can follow up with conservative treatment .
+Her acute renal failure , hyperkalemia , and hypercalcemia improved during her stay .
+Her creatinine was 1.1 on discharge .
+On the day of discharge , her sodium was 136 , potassium 3.5 , creatinine 0.6 , and BUN was 9 .
+Her glucose was 81 .
+For her multiple sclerosis , she did not have any flare - up , and she is not on any medication .
+We advised that the patient during her stay in **PLACE that Neurology will come so she can be put on a disease modifying agent or anything .
+Regarding her bipolar , she was on Depakote , and she was very stable and did not complain of anything .
+During her stay in the hospital , she started to complain of left shoulder ecchymosis and pain .
+X-ray shows a possible partial rotator cuff tear .
+An MRI of the shoulder was done and showed an effusion and subcutaneous edema with a massive cuff tear .
+Dr. **NAME[VVV] was consulted , and he advised that the patient can follow up as an outpatient for either considering either an injection or possible surgery and would not do the surgery during this admission .
+Upon discharge from the hospital , she is to follow up in the orthopedic clinic in two to four weeks .
+The patient was discharged in stable condition , going to **PLACE .
+DISCHARGE MEDICATIONS :
+1. Tylenol 650 every 6 hours p.r.n.
+2. Aspirin 81 mg daily .
+3. Depakote 250 mg twice daily .
+4. Synthroid 75 mcg daily .
+5. Nystatin powder twice daily .
+DISCHARGE INSTRUCTIONS :
+She went to **PLACE in stable condition .
+Regarding her physician followup , Neurology needs to evaluate her MS for disease modifying and Orthopedics with Dr. **NAME[VVV] in two to three weeks for her left rotator cuff tear .
+Post - discharge services :
+PT and OT for MS and multiple falls .
+______________________________
+**NAME[WWW M XXX] , M.D.
+HS Job # 401653 / 35282 /
+# **ID-NUM
+D :
+**DATE[Apr 09 2007] 20:46
+T :
+**DATE[Apr 10 2007] 08:58
+**INSTITUTION

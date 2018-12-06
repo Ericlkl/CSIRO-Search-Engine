@@ -1,0 +1,74 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Aug 08 2007]
+Discharged :
+**DATE[Aug 15 2007]
+Dict :
+**NAME[ZZZ , YYY]
+Attend :
+**NAME[ZZZ , YYY]
+The case was discussed with Pulmonary .
+The case will be discussed with his wife .
+His home phone number is **PHONE .
+She works at **NAME[XXX] , her number there is **PHONE .
+His discharge medications are going to include :
+1. Aspirin 81 mg daily .
+2. Lipitor 20 mg daily .
+3. Zithromax 500 mg q. day x 3 days .
+4. Zyrtec 10 mg daily .
+5. Plavix 75 mg daily .
+6. Advair 50/500 one puff b.i.d.
+7. Hycodan syrup for cough .
+8. Atrovent aerosolized q.i.d.
+9. Avapro 150 mg daily .
+10. Xopenex 1.25 aerosolized q.i.d.
+11. Toprol-XL 25 mg daily .
+12. Nasonex one squirt b.i.d.
+13. Singulair 10 mg daily .
+14. Flomax 0.4 mg daily .
+15. Spiriva 18 mcg one puff daily .
+DISCHARGE DIAGNOSES :
+Include :
+1. Chronic obstructive pulmonary disease .
+2. Bronchitis .
+3. Lower respiratory tract infection .
+4. Suspected bilateral bronchopneumonia .
+5. Coronary artery disease .
+6. Benign prostatic hypertrophy .
+7. Chronic pain .
+8. Anxiety .
+9. History of coronary artery bypass graft status post stress test .
+10. Chronic renal insufficiency .
+11. A suspected cavernous hemangioma .
+LABORATORY DATA :
+His discharge day labs include :
+Sodium 141 , potassium 4.5 , chloride 101 , CO2 of 32 , anion gap 8 , BUN 23 , creatinine 1.4 , glucose 84 , calcium 9.2 , ALT 36 , AST 23 , and CPK 58 .
+WBC 11.5 three to four days ago , hemoglobin 13.6 , hematocrit 39.9 , and platelets 267 .
+The sputum culture showed heavy Haemophilus influenzae , beta - lactamase negative .
+The blood culture showed no growth in 6 days .
+His repeat x-ray done 2 days ago showed small areas of bibasilar airspace opacity representing atelectasis and / or pneumonia , unchanged from the recent CT scan .
+He did have a CT of the chest on **DATE[Aug 9 2007] , and that showed mild multifocal consolidation superimposed upon severe emphysema , likely secondary to bronchopneumonia , no change in the punctate nodule in the posterior basal right lobe , a suspected cavernous hemangioma .
+He was seen by Dr. **NAME[WWW] , and Dr. **NAME[WWW] will be following that as an outpatient .
+The patient had a stress test that showed normal size left ventricle with mild paradoxical septal motion , but preserved function elsewhere with calculated ejection fraction of 51 .
+Myocardial perfusion image is considered within normal limits , artifactual defect in the anterior wall .
+He was seen by Dr. **NAME[VVV UUU] and cardiology group , and they followed him .
+Per Dr. **NAME[WWW] , cavernous hemangioma followup can be done as an outpatient .
+The patient will be calling me on my cellphone if he needs any kind of prescriptions .
+He is being discharged to home .
+He uses home oxygen already .
+______________________________
+**NAME[YYY ZZZ] , MD
+HS Job # 720966 / 37776 / 5281
+SHY # **ID-NUM
+D :
+**DATE[Aug 15 2007] 10:31
+T :
+**DATE[Aug 15 2007] 15:26
+**CARBON-COPY

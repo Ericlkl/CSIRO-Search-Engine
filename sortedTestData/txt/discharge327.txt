@@ -1,0 +1,71 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Oct 22 2007]
+Discharged :
+**DATE[Oct 23 2007]
+Dict :
+**NAME[ZZZ , YYY]
+Attend :
+**NAME[ZZZ , YYY]
+DISCHARGE DIAGNOSES :
+1. Coronary artery disease status post stenting of the circumflex .
+This patient has mild plaquing throughout the remainder of his coronary artery with no high - grade disease .
+2. Chronic atrial fibrillation .
+This patient is not a Coumadin candidate because of past bleeding .
+3. History of a defibrillator .
+4. History of chronic chest pain that was probably felt to be noncardiac .
+5. Hypertension .
+6. Hyperlipidemia .
+7. Arthritis .
+8. History of remote neurologic event in the brain in the 80s .
+Mr. **NAME[AAA] is a **AGE[90+]- year - old gentleman who has been having recurrent chest pain .
+He had chest pain also with adenosine infusion and a very mildly abnormal nuclear scan .
+He was taken to the cath lab because he is a pretty good **AGE[90+]- year - old , in extremely good shape and is quite active , and is still driving .
+We felt that if we can help him relieve his pain , this would be a necessary exercise .
+We did find a circumflex lesion on a intravascular ultrasound .
+It was critical and we did open it .
+This patient tolerated the procedure well .
+We put a non - drug - eluting stent in place because we did not want to commit this man for long - term Plavix .
+The stent is a very large one , pushing up to 4 mm in size .
+This patient 's postangioplasty course was uneventful .
+He did have an episode of pain that we feel is noncardiac .
+It was relieved partially with Mylanta .
+I think that a lot of this patient 's symptoms are probably noncardiac now that we have been able to observe him in the hospital .
+I did double his Protonix to 40 b.i.d.
+We have left him alone .
+He will probably need to be on Plavix for about a month just because of his non - drug - eluting stent , although , we probably will have to stop it long term .
+Again , this patient is not taking Coumadin for his atrial fibrillation because of past bleeding episodes .
+This patient had his defibrillator recently checked in my office .
+He is clinically stable , and he is going to go home today .
+He understands that should he have any chest pain , shortness of breath , or other medical problems , he should call immediately .
+CONDITION :
+Condition at the time of discharge is stable .
+DISCHARGE MEDICATIONS :
+1. Aspirin q. day .
+2. Plavix 75 a day .
+3. Prednisone 2.5 every other day .
+4. Protonix 40 b.i.d.
+5. Amaryl 1 mg a day .
+6. Pravastatin 40 a day .
+7. K-Dur 20 b.i.d.
+8. Imdur 30 a day .
+9. Magnesium oxide 400 b.i.d.
+10. Lanoxin 0.125 a day .
+11. Lasix 40 b.i.d.
+12. Albuterol and Atrovent inhalers , and Flovent inhaler .
+______________________________
+**NAME[YYY M ZZZ] , MD
+HS Job # 892810 / 41509 / 32010
+SHY # **ID-NUM
+D :
+**DATE[Oct 23 2007] 06:10
+T :
+**DATE[Oct 23 2007] 17:52
+**CARBON-COPY

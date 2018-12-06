@@ -1,0 +1,49 @@
+PRIMARY CARE PHYSICIAN :
+**NAME[YYY M ZZZ] , M.D.
+CONSULTS ON THE PATIENT :
+1. By **NAME[VVV UUU] , M.D. , for right stump revision surgery .
+2. By **NAME[YYY M CCC] , M.D. , for wound infection .
+FINAL DIAGNOSES AND REASON FOR ADMISSION :
+1. Metabolic acidosis .
+2. Hyponatremia .
+3. Ascites on CT scan .
+SECONDARY DIAGNOSES :
+1. Severe peripheral vascular disease .
+2. Status post right above - knee amputation .
+3. Status post bilateral carotid endarterectomy .
+4. Neuropathic pain .
+PROCEDURES DONE ON THE PATIENT :
+Right above - knee amputation , revision surgery .
+HOSPITAL COURSE :
+The patient was seen because of abdominal pain in the hospital , had minimal ascites on the CT scan .
+The patient improved without any medication for abdominal pain .
+The patient also underwent above - knee amputation on the right side , revision surgery because she had fever and leukocytosis and her bone was exposed , so Dr. **NAME[VVV UUU] wanted to do the stump revision .
+The patient subsequently also was found to have MRSA infection of the wound stem and was started on vancomycin , and a consult was placed to Dr. **NAME[CCC] who wants to continue the patient on vancomycin for 7 more days after the discharge .
+The patient tolerated the procedure well , and currently , she does not have any complaints .
+Her laboratories are normal during discharge .
+DISCHARGE SUMMARY :
+The patient is being discharged on :
+1. Tylenol 650 mg tablet q.4 h. p.r.n. by mouth .
+2. Xanax 1 mg at bedtime by mouth .
+3. Vitamin C 250 mg tablet twice a day by mouth .
+4. Lipitor 10 mg tablet at bedtime by mouth .
+5. Neurontin 300 mg three times a day by mouth .
+6. Motrin 400 mg q.4 h. p.r.n. by mouth .
+7. Mag-Ox 400 twice a day by mouth .
+8. Mobic 15 mg daily by mouth .
+9. Therapeutic M daily by mouth .
+10. Nicoderm transdermal daily .
+11. Protonix 40 mg daily by mouth .
+12. Paxil 20 mg daily by mouth .
+13. Vancocin 750 g daily for 7 days .
+14. The patient is not started on Plavix .
+She is to currently follow Dr. **NAME[ZZZ] in 2 weeks .
+She is being discharged home on a regular diet with homecare for IV medication for 7 days , and she has to get CBC and BMP in 2 weeks on **DATE[Sep 23 2007] .
+______________________________
+**NAME[WWW XXX] , M.D.
+HS Job # 364107 / 41121 /
+# **ID-NUM
+D :
+**DATE[Sep 08 2007] 14:18
+T :
+**DATE[Sep 08 2007] 22:31

@@ -1,0 +1,44 @@
+**INSTITUTION
+CARDIOTHORACIC SURGERY
+DEATH SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[ZZZ]
+**NAME[YYY]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+DATE OF DEATH :
+**DATE[May 01 07]
+DIAGNOSIS :
+BILATERAL SEVERE BOLUS EMPHYSEMA , STATUS POST BILATERAL LUNG VOLUME REDUCTION SURGERY .
+PROCEDURES PERFORMED :
+On **DATE[Feb 29 07] , the patient underwent flexible bronchoscopy , bilateral lung volume reduction surgery and lysis of adhesions in the left and right pleural space in addition of insertion of mini tracheostomy tube .
+On **DATE[Mar 01 07] , the patient underwent a percutaneous tracheostomy .
+On **DATE[Mar 14 07] , the patient underwent a flexible bronchoscopy at the bedside .
+On **DATE[Mar 26 07] , the patient underwent a flexible bronchoscopy , percutaneous endoscopic gastrostomy tube placement and tracheostomy change .
+On **DATE[Mar 20 07] , the patient underwent a flexible bronchoscopy at the bedside in the ICU .
+On **DATE[Apr 15 2007] , the patient underwent tracheal dilation and tracheostomy exchange for a #6 Shiley tracheostomy at the bedside .
+BRIEF HISTORY AND PHYSICAL :
+This patient is a **AGE[in 60s]- year - old female who was seen in the office in Dr. **NAME[YYY] back in **DATE[Feb] of 2006 for initial workup for bilateral lung volume reduction surgery , as she had severe bilateral emphysema .
+The patient underwent the 3 phases of the lung volume reduction surgery program and was deemed a candidate by her pulmonary function test and after discussion at the multidisciplinary lung volume reduction surgery meeting .
+The patient came to the hospital on **DATE[Feb 29 07] and underwent the above named procedures .
+The patient , however , had a complicated postoperative course DICTATION ENDS HERE .
+___________________________________
+**NAME[ZZZ]
+**NAME[YYY] , M.D.
+Dictator :
+**NAME[VVV XXX] , PA-C
+JS/lg
+D :
+**DATE[May 04 2007] 12:05:01
+T :
+**DATE[May 04 2007] 22:35:44
+R :
+**DATE[May 04 2007] 22:35:44/lg
+Job ID :
+461883/**ID-NUM
+Cc:

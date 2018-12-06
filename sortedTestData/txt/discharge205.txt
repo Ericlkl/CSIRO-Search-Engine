@@ -1,0 +1,64 @@
+An **AGE[in 80s]- year - old white female .
+FINAL DIAGNOSES / REASON FOR ADMISSION :
+1. Enterococcal urinary tract infection / urosepsis .
+2. Advanced dementia .
+3. Fecal impaction .
+OTHER PERTINENT SECONDARY DIAGNOSES :
+1. Type 2 diabetes mellitus .
+2. History of upper GI bleed .
+3. History of urinary retention .
+4. History of hypertension .
+5. History of coronary artery disease .
+6. History of arthritis .
+PROCEDURES PERFORMED :
+1. CT scan of the head .
+2. Flat plate of the abdomen .
+HOSPITAL COURSE :
+The patient is an **AGE[in 80s]- year - old white female , resident of **INSTITUTION Pavilion , who was admitted to the hospital for acute delirium .
+The patient was found to have enterococcal UTI and was treated with IV Unasyn .
+She has advanced dementia , very minimally responsive most of the time .
+She also had fecal impaction , tap water enemas were given which were effective .
+The patient has been somnolent most of the time and is not eating at all now .
+The patient 's status was discussed with the family , with Dr. **NAME[VVV] .
+Family decided to take the patient back to **INSTITUTION Pavilion on hospice .
+The CT scan of the head was also done , it was negative for any acute changes .
+The patient has been discharged back to **INSTITUTION Pavilion .
+List of medications are as follows :
+1. Tylenol 650 mg p.o. every 4 hours p.r.n.
+2. Atenolol 50 mg p.o. once daily .
+3. Blood glucose monitoring .
+4. Colace 100 mg at bedtime once daily .
+5. Senokot once every other day by mouth .
+6. Aricept 10 mg p.o. at bedtime .
+7. Imdur 30 mg p.o. once daily .
+8. Lactinex three times a day by mouth for 5 days .
+9. Lamictal 50 mg tablet p.o. b.i.d.
+10. Lisinopril 10 mg p.o. once daily .
+11. Ativan 0.5 mg twice a day as needed by mouth .
+12. Milk of magnesia daily as needed by mouth .
+13. Namenda 5 mg twice a day by mouth .
+14. Glucophage 500 mg twice a day by mouth .
+15. Protonix 40 mg daily by mouth .
+16. Seroquel 25 mg tablet daily by mouth .
+17. Avandia 4 mg daily by mouth , resume when the patient starts eating .
+18. Senna 2 tablets every other day by mouth .
+19. Fleet enemas as needed rectally .
+20. Sorbitol 30 mL liquid at bedtime p.r.n. by mouth .
+21. Theragenerix daily by mouth .
+22. __________ 90 mL liquid twice a day orally .
+23. Augmentin 500 mg p.o. b.i.d. for 5 days .
+Discharged back to **INSTITUTION Pavilion on hospice .
+DIET :
+Dysphagia II with nectars , assistance with feeding .
+PHYSICIAN FOLLOWUP :
+**NAME[CCC M. ZZZ] UUU]. , M.D.
+POSTDISCHARGE SERVICES :
+Hospice .
+______________________________
+**NAME[WWW XXX] , M.D.
+HS Job # 873878 / 39517 / 12667
+# **ID-NUM
+D :
+**DATE[Nov 22 2007] 12:12
+T :
+**DATE[Nov 24 2007] 00:00

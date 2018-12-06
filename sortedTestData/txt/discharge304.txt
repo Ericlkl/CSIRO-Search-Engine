@@ -1,0 +1,57 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA , BBB M]
+**ID-NUM
+**ID-NUM
+A4B/443
+SERVICE OF :
+**NAME[ZZZ M YYY]
+DATE OF ADMISSION :
+**DATE[Sep 30 2007]
+DATE OF DISCHARGE :
+**DATE[Oct 03 2007]
+PROVISIONAL ADMITTING DIAGNOSIS :
+Degenerative joint disease of the left knee .
+HISTORY :
+This is a **AGE[in 50s]- year - old female with left knee pain .
+She has tried conservative treatment but to no avail .
+After review of studies and exam , it was decided she be scheduled for left total knee replacement .
+LABORATORY DATA :
+The patient was typed and crossed for O positive blood .
+Remainder of the labs is in Cerner .
+**INSTITUTION STAY :
+The patient was taken to the OR on **DATE[Sep 30 2007] , where a left total knee replacement was performed by Dr. **NAME[YYY] .
+The patient tolerated the procedure well .
+Postoperative vitals were stable , and the patient was medically followed by Dr. **NAME[VVV UUU] .
+The patient was started to physical therapy for progressive ambulation and exercises .
+She tolerated this well .
+She was maintained on Fragmin for DVT prophylaxis .
+She did well through the hospital stay and arrangements were made for discharge to home which was done on **DATE[Oct 3 2007] with the patient in good and improved condition .
+INSTRUCTIONS UPON DISCHARGE :
+Included activities of weightbearing as tolerated and continue the exercise program at home .
+Diet is regular .
+MEDICATIONS :
+Included Fragmin 5000 units subcutaneously daily for 3 more days and switch to aspirin 325 mg daily for 2 weeks , Nexium 40 mg daily , Paxil 30 mg daily , and quinapril 40 mg daily .
+She would return to see Dr. **NAME[YYY] in 2 to 3 weeks for followup or call us with increased pain , numbness , or other problems .
+DIAGNOSES UPON DISCHARGE :
+1. Degenerative joint disease of the left knee .
+2. Hypertension .
+3. Sleep apnea .
+4. Gastroesophageal reflux disease .
+5. Anxiety .
+6. Allergic rhinitis .
+PRINCIPAL PROCEDURE :
+Left total knee replacement on **DATE[Sep 30 2007] , by Dr. **NAME[YYY] .
+Medical care by Dr. **NAME[VVV UUU] , M.D.
+DICTATED BY : **NAME[TTT SSS] , PA-C
+___________________
+**NAME[ZZZ M. YYY] , M.D.
+Dict :
+**DATE[Oct 15 2007] 12:17:28
+Tran :
+**DATE[Oct 15 2007] 13:21:48
+**INITIALS
+R :
+**DATE[Oct 15 2007] 13:21:48/aj
+**CARBON-COPY

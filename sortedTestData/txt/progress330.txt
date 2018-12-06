@@ -1,0 +1,48 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Apr 01 07]
+I am seeing this critically ill patient for continued management of multiple medical problems including respiratory failure , acute renal failure , and hyperglycemia .
+I have seen and examined this patient .
+I have reviewed the chest x-ray and laboratory data , and I have discussed the patient 's care with the SICU team and the Thoracic Surgery service .
+Mrs. **NAME[AAA] is continuing to improve slowly .
+She is on assist control 40% FIO2 and 5 of PEEP now with peak inspiratory pressures in the 20-25 range .
+She is on 400 ml tidal volume .
+She is starting CPAP trials today and will see how these go .
+She has not been able to tolerate weaning trials as yet , but we have removed significant amounts of fluid on dialysis over the last few days .
+She continues to require hydrocortisone for blood pressure , developing hypotension when we wean this , and it is clear that she would not tolerate increased volume removal on intermittent hemodialysis .
+I have spoken to nephrology , and we have decided to switch to CVVH for additional fluid removal .
+She is afebrile .
+Her white blood cell count is 10 .
+Her left lower extremity is edematous and red but does not appear to show cellulitis .
+Glucoses are up , partly related to the increase in hydrocortisone .
+I have increased her sliding scale and started her on NPH insulin today .
+T = 40 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Apr 01 2007] 11:57:37
+T :
+**DATE[Apr 01 2007] 12:12:12
+R :
+**DATE[Apr 01 2007] 12:12:12/plb
+Job ID :
+408867/**ID-NUM
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 09 2007] 04:49:52 PM

@@ -1,0 +1,99 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Oct 21 2007]
+Discharged :
+**DATE[Oct 25 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+DISCHARGE DIAGNOSES :
+1. Anxiety disorder with posttraumatic stress disorder .
+2. Polysubstance abuse .
+3. History of depression with previous hospitalization .
+4. History of spontaneous abortion .
+5. Pseudoseizures .
+6. Gallstones .
+7. Mild anemia with mild thrombocytopenia .
+8. Mild elevation of liver function tests , etiology unclear .
+The patient was evaluated by Gastroenterology and Hematology .
+9. Pregnancy , 5 months .
+HISTORY OF PRESENT ILLNESS :
+The patient was recently hospitalized at **INSTITUTION with seizures disorder .
+We had obtained the detailed neurological and psychiatric evaluation and had normal EEG s here .
+Therefore , the patient was transferred and underwent video EEG monitoring at **INSTITUTION for 48 hours .
+When she did have seizure - like episodes ; however , EEG remained negative throughout the episode .
+Therefore , it was concluded that the patient suffered from pseudoseizures , was discharged to home with scheduled weaning numerous medications that she had been on .
+The patient returned to emergency room on **DATE[Oct 21 2007] , stating having recurrent episodes of seizures .
+She had apparently few episodes witnessed in the emergency room , admitted for reevaluation .
+PAST MEDICAL HISTORY :
+As stated above .
+PHYSICAL EXAMINATION :
+As in the HPI .
+LABORATORY DATA :
+The hemoglobin fluctuating between 9.4 to 10.4 with normal indices .
+Platelets between 126 and 136 on discharge .
+Hepatitis surface antigen negative .
+Hepatitis C antibody is negative .
+Hepatitis C surface antibody is positive .
+PCR pending .
+Low albumins at 2.8 and proteins low at 2.4 .
+Normal bilirubin .
+SGPT 108 , SGOT 36 , alkaline phosphatase 115 , and GGTP 25 .
+Potassium 3.9 , sodium 137 , BUN 8 , creatinine 0.6 , and glucose 78 .
+WBC 6.7 , H and H 13 and 36 .
+B12 level 500 , CRP 117 .
+Normal iron level .
+Abdominal sonogram reveals gallstones , normal liver .
+HOSPITAL COURSE :
+The patient was admitted to **INSTITUTION with diagnosis of recurrent seizures with well documented pseudoseizures on previous admission .
+The patient was seen again by neurologist Dr. **NAME[VVV] and psychiatrist Dr. **NAME[UUU] for reevaluation and felt that the patient does suffer from anxiety episodes and does have psychological seizures .
+Interestingly , while the patient was hospitalized , had not had recurring episodes .
+She had been successfully weaned off her numerous medications and maintained on her Xanax 2 mg three times a day , methadone 70 mg daily , and prenatal vitamins .
+The patient was approached numerous times regarding narcotic effect on fetus of different medications including Xanax .
+The patient indeed was evaluated and interviewed by involving psychiatrist Dr. **NAME[UUU] to approach the patient regarding her dependence and offered the patient detox treatment in view of no potential harm to the fetus of the medication .
+The patient was at the same time assessed as being cognitively intact and fully capable of making her decisions .
+With that , the patient had declined the offered option .
+Regarding anemia , the patient was seen by Hematology who performed workup .
+Final recommendations are pending at the time of this dictation .
+We request Hematology to make final recommendation and schedule follow up visit for this patient .
+Neurologically , she remains stable .
+The patient was seen by Dr. **NAME[VVV] whom the patient will follow up on an outpatient basis .
+Gallstones and mild LFT elevation , GI Dr. **NAME[TTT] had seen the patient who felt that we are not dealing with HELLP syndrome at this point .
+The seizures occurs in latent pregnancy .
+However , I made a phone call to Dr. **NAME[SSS] following obstetrician to make him aware of abnormal testing , so this will be followed up very closely .
+The patient was found to have low proteins and albumin level , discussed with her and her fiance in detail the importance of appropriate nutrition .
+Finally , we made a numerous contacts to **INSTITUTION where the patient had been followed by therapist and had several sessions with Dr. **NAME[RRR] .
+We made numerous attempts to treating , psychiatrist , social worker to schedule a followup appointment with the psychiatrist at the facility , Dr. **NAME[QQQ] .
+This has been scheduled for **DATE[Nov 21 2007] , with possibility of the patient being seen sooner if they have any cancellation .
+On case physician , Dr. **NAME[UUU] , felt that at this point , we need to continue to prescribe the patient Xanax 2 mg three times a day to avoid withdrawal symptoms until her full psychiatric care has been assumed by psychiatrist at **NAME[PPP OOO] .
+At this point , the patient is being discharged to home .
+Instructed to follow up her PCP , Dr. **NAME[ZZZ] in 1 week ; psychiatrist , Dr. **NAME[QQQ] on **DATE[Nov 21 2007] , or sooner ; obstetrician , Dr. **NAME[NNN] on **DATE[Nov 15 2007]; neurologist , Dr. **NAME[VVV]; and hematologist , Dr. **NAME[MMM] and his partner Dr. **NAME[LLL] .
+MEDICATIONS ON DISCHARGE :
+1. Xanax 2 mg three times a day .
+2. Methadone 70 mg daily .
+The patient is to continue to follow up with methadone clinic .
+3. Folic acid 1 mg daily .
+4. Materna 1 tablet daily .
+5. Since last admission , the patient had been weaned off ( _______________ ) Neurontin , Prozac , Seroquel , and trazodone .
+These medications were not resumed during this hospitalization .
+CONDITION ON DISCHARGE :
+Stable .
+PROGNOSIS :
+Rather poor in view of history of very poor followup with medical care .
+______________________________
+**NAME[WWW XXX] , MD
+HS Job # 957276 / 37776 / 32235
+SHY # **ID-NUM
+D :
+**DATE[Oct 25 2007] 14:43
+T :
+**DATE[Oct 28 2007] 01:14
+**CARBON-COPY

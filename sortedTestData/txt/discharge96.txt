@@ -1,0 +1,115 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+Discharged :
+**DATE[Sep 03 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+FINAL DIAGNOSES :
+1. Coronary artery disease .
+2. Acute myocardial infarction .
+3. Complete heart block , status post recent permanent pacemaker implant at **INSTITUTION .
+4. Thrombocytopenia , questionable etiology .
+5. Exacerbation of chronic obstructive pulmonary disease .
+6. Non - insulin - dependent diabetes mellitus .
+7. History of ALLERGY TO PENICILLIN AND CHROMIUM SUTURES .
+8. History of congestive heart failure .
+9. History of skin carcinoma , status post excision of lesion .
+10. Moderate mitral regurgitation .
+DISCHARGE MEDICATIONS :
+1. Tylenol 650 mg q.4 h. p.r.n.
+2. Ecotrin 81 mg daily .
+3. Lipitor 10 mg q.p.m.
+4. Plavix 75 mg daily .
+5. Advair 1 puff b.i.d.
+6. Lopressor 25 mg b.i.d.
+7. Nicotine patch 21 mg q.24 h. topically .
+8. Nitrostat 0.4 mg sublingual p.r.n. for chest pain .
+9. Prednisone per tapering schedule .
+10. Spiriva 1 puff daily .
+11. Trazodone 75 mg at bedtime .
+12. Micronase 2.5 mg daily .
+13. Nitro-Dur patch 0.2 mg / h daily , remove nightly .
+DIET :
+Prudent heart , no concentrated sweets .
+ACTIVITY :
+The patient is permitted to walk on level surfaces weather permitting , he may climb stairs one time a day .
+He is not to lift more than 5 pounds .
+He is not to engage in strenuous activity .
+He is not to drive until he is seen in the office for clearance by Cardiology .
+**INSTITUTION .
+FOLLOWUP :
+The patient is to follow up with Dr. **NAME[YYY ZZZ] .
+He is to call Dr. **NAME[VVV] .
+An outpatient bone marrow biopsy is to be scheduled .
+PROCEDURES :
+1. Cardiac catheterization .
+2. Right coronary artery stent angioplany .
+3. Pulmonary function studies .
+CONSULTANTS :
+1. **NAME[UUU M TTT] , MD , infectious disease .
+2. **NAME[CCC M VVV] , MD , hematology / oncology .
+3. **NAME[SSS RRR] , MD , pulmonology .
+BRIEF CLINICAL HISTORY :
+This is an **AGE[in 80s]- year - old male who initially presented for evaluation at **INSTITUTION where he was complaining of dizziness that had been going on for approximately 1 month .
+He is a patient of Dr. **NAME[QQQ PPP] and carries a history of congestive heart failure that has been treated medically , also has had removal of a skin cancer from around the left eye .
+His medications included aspirin , nitrates , and diuretics , also included in his list was Vasotec .
+At **INSTITUTION , he was found to be in complete heart block with evidence for congestive heart failure and a non - Q - wave myocardial infarction .
+He had an emergent dual - chamber permanent pacemaker implanted .
+He was treated with diuretics and stabilized with a plan for him to undergo cardiac catheterization .
+The patient was brought to **INSTITUTION to undergo that procedure .
+PHYSICAL EXAMINATION :
+Refer to H and P .
+HOSPITAL COURSE :
+The patient was taken to the cardiac catheterization laboratory by Dr. **NAME[YYY ZZZ] on **DATE[Aug 30 2007] , and the cardiac catheterization findings are as documented .
+1. Left main was normal .
+2. LAD and his left circumflex had no significant lesions .
+3. RCA was large and dominant with a proximal 80% stenosis .
+4. LVEF was 55% .
+There was evidence for moderate mitral regurgitation .
+Intervention included stent dilatation of the RCA that was successful .
+Postprocedure , the patient had no complications .
+The patient 's platelet count was noted to be 56,000 and his white cell count was elevated to 15,000 .
+He was to be seen in consultation by Infectious Disease as well as Hematology specialist , and given the patient 's history of being a chronic smoker and followed in the past by Dr. **NAME[RRR] , pulmonology was also consulted .
+The patient was treated by Pulmonology for exacerbation of chronic obstructive pulmonary disease and bronchitis .
+Full PFTs were ordered .
+MDIs and steroids were managed by Dr. **NAME[RRR] .
+Infectious disease specialty attributed the elevated white cell count to be secondary to steroid therapy .
+The patient will continue on a tapering dose of prednisone as an outpatient .
+His blood sugars were also elevated requiring the addition of Micronase 2.5 mg daily .
+Regarding thrombocytopenia , it was considered to be multifactorial .
+This included drugs i.e. , aspirin , Plavix , and possibly Vasotec .
+Aspirin and Plavix were ultimately permitted to be resumed by Hematology with close followup of platelet count .
+Vasotec was discontinued .
+A bone marrow biopsy is planned after discharge through hematology service .
+The patient remained stable otherwise and was considered to be stable for discharge to home .
+His pacer site was clean and dry .
+He will follow up as indicated above .
+PERTINENT LABORATORY DATA :
+Cardiac catheterization and intervention were already mentioned .
+Pulmonary function studies , physician interpretation based on the FEV1/FVC , there was a mild obstructive defect .
+Lung volumes were within normal limits .
+There was a mild decrease in diffusion capacity .
+The reduced diffuse capacity suggested anatomic emphysema .
+FVC change by 29% .
+This is interpreted as a good response to bronchodilator .
+His blood pressure was 120/54 , and he was afebrile .
+Lungs had few expiratory wheezes .
+Further laboratory data and results , please refer to the hospital chart .
+______________________________
+**NAME[WWW XXX] , RN
+HS Job # 437924 / 37776 /
+SHY # **ID-NUM
+D :
+**DATE[Sep 12 2007] 12:44
+T :
+**DATE[Sep 13 2007] 19:40
+**CARBON-COPY

@@ -1,0 +1,44 @@
+**INSTITUTION
+GASTROENTEROLOGY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Oct 28 2007]
+DISCHARGE DATE :
+**DATE[Nov 09 2007]
+This is a **AGE[in 60s]- year - old male with a sessile polyp approximately 60-68 cm from the anal verge .
+I am told the colonoscopy has been judged as unsuitable for colonoscopic removal .
+The patient therefore was taken to the Operating Room on **DATE[Nov 1 2007] by Dr. **NAME[ZZZ] , which underwent laparoscopic resection of the splenic flexure of the colon including the polyp under general anesthesia .
+The patient tolerated the procedure with no complications .
+The patient has a history of mechanical valve replacement so after surgery , the patient was started on a heparin drip and the home dose of Coumadin 5 mg Monday through Thursday and then 2.5 mg on Friday through Sunday .
+According to the patient , the patient 's INR at home is 2 .
+The patient was ambulating , passing flatus and tolerating regular diet .
+He remained afebrile during hospitalization and his hemoglobin and hematocrit remained stable at 8.1 and 24 on date of discharge .
+Postoperative was 8.4 and 24 .
+The patient discharged had INR of 2 .
+The patient was prescribed Coumadin for home and Protonix p.o.
+The patient is to follow - up with PCP in 2 days for PT , INR and PTT check up .
+___________________________________
+**NAME[YYY M ZZZ] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Nov 11 2007] 09:49:08
+T :
+**DATE[Nov 11 2007] 15:02:02
+R :
+**DATE[Nov 12 2007] 06:45:21/jb
+Job ID :
+384033/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , VVV] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Dec 01 2007] 11:30:07 AM

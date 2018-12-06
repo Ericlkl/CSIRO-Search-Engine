@@ -1,0 +1,22 @@
+The patient is status post a traumatic contusion of his brain .
+He was admitted because of a grand mal seizure that was the first event .
+He was seen in consultation by the neurology service of Dr. **NAME[XXX] .
+He underwent an MRI of the brain and underwent an EEG .
+No further corrective factors were found .
+The patient was counseled about his inability to drive because of the development of this new seizure episode , and he realized that perfectly well .
+He was discharged home with :
+1. Dilantin 100 mg 3 times a day .
+2. Cozaar 100 mg once a day .
+3. Celexa 10 mg once a day .
+4. Topamax 50 mg twice a day .
+He is to follow in the office in two weeks ' time .
+IMPRESSION :
+Seizure disorder , new onset .
+______________________________
+**NAME[YYY M ZZZ] , M.D.
+HS Job # 467882 / 35282 /
+# **ID-NUM
+D :
+**DATE[Aug 13 2007] 14:31
+T :
+**DATE[Aug 14 2007] 08:27

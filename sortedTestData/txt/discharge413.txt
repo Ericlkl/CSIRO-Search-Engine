@@ -1,0 +1,139 @@
+**INSTITUTION
+GENERAL MEDICINE
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Oct 04 2007]
+TRANSFER DATE :
+**DATE[Oct 17 07]
+TRANSFERRED TO :
+TRANSFERRED TO CARE OF :
+DISPOSITION :
+**INSTITUTION , skilled nursing facility .
+TRANSFER DIAGNOSIS ( ES ) :
+ENCEPHALOPATHY , RESOLVED .
+HOSPITAL COURSE :
+Ms. **NAME[AAA] is a **AGE[in 40s]- year - old African - American female , who was admitted on **DATE[Oct 04 2007] with symptoms of headache , elevated blood pressure and acute mental status changes .
+She has a known history of HIV and was in the **INSTITUTION in **PLACE Ohio and at that time noted to have visual loss .
+She was empirically treated for toxoplasmosis and herpes simplex virus encephalopathy .
+Her clinical course was complicated by seizure activity and thus she was transferred to **PLACE , to **INSTITUTION for further management of these symptoms .
+It was determined that she had posterior reversible encephalopathy syndrome .
+She was admitted to the intensive care unit for further treatment .
+She was maintained on her antiviral regimen while in the hospital and was also on seizure prophylaxis with Dilantin .
+Infectious Disease was consulted to help manage with the encephalopathy and she had a course of antibiotic therapy , which has now been completed .
+Her symptoms progressively improved over the next 7 to 10 days and she was transferred to the Medicine Service on **DATE[Oct 12 2007] .
+PAST MEDICAL HISTORY :
+Significant for HIV , sepsis , hypertension , seizure disorder , Pneumocystis , sarcoidosis , coronary artery disease with a history of MI , staphylococcus bacteremia , chronic renal failure on hemodialysis three times a week , hypertension , delirium and blindness consistent with PRES syndrome , which has now resolved .
+Once on the Medicine Service she remained on a 5D unit where there were no acute events .
+She continued to have her hemodialysis three times a week .
+We did note that she had a hyponatremia , which we were treated with correction dialysis as well as a fluid restriction .
+She did well while hospitalized and feels that she is ready to return to her home .
+She is requesting a skilled nursing facility for further condition and we do agree that she needs that before she is able to live independently .
+She does have a **AGE[in teens]- year - old daughter , who she takes care of on her own .
+She plans on going to a skilled nursing facility that is owned by a family member because she knows that she will get good care while there .
+PROBLEMS BEING ADDRESSED :
+1. Encephalopathy :
+She has completed her course of antibiotics and is stable .
+Her blood pressure is in better control and her vision has returned .
+She will continue to need optimal blood pressure control .
+2. HIV :
+We continued her antiviral therapy and she is stable at this time .
+She will follow up with her HIV physician back home .
+3. Neurology , seizure disorder :
+She has no reported seizure activity while on the medicine unit and she will continue on her Dilantin .
+4. Cardiology :
+She has coronary artery disease with a history of MI and hypertension , which is stable .
+The goal is for optimal BP control .
+5. Renal :
+Chronic renal failure on hemodialysis , which she will continue .
+She is on a free water restriction secondary to hyponatremia and she is cooperative with that .
+6. Hematology :
+She does have an anemia .
+Iron studies are pending .
+She was transfused times one on **DATE[Oct 16 2007] and her current hemoglobin is 8.9 .
+Dialysis is managing the iron therapy , for which she will need long - term iron treatment while home .
+She is on the Epogen , which will continue three times a week while at dialysis .
+DISPOSITION :
+She will need to be placed in a skilled nursing facility temporarily until she regains her conditioning and those arrangements have been made .
+She is see by her attending physician on the morning of **DATE[Oct 17 07] and is determined to be stable for discharge .
+TRANSFER INSTRUCTIONS :
+1. Diagnosis :
+Encephalopathy resolved .
+2. Allergies :
+Demerol , codeine and morphine .
+3. Isolation precautions for vancomycin resistance enterococcus .
+4. Vital Signs b.i.d.
+5. Activity as tolerated .
+6. Assist with ambulate and transfer as needed .
+7. Power - of - attorney is **NAME[RRR] Orange , phone - **PHONE .
+8. Bladder care per facility protocol .
+9. Bowel regime per facility protocol .
+10. Venous access is a hemodialysis catheter , which is taken care of at her hemodialysis site .
+11. Diet :
+Renal diet with a one liter fluid restriction secondary to hyponatremia .
+12. Wound care location buttocks .
+XenoDerm to coccyx and gluteal fold times seven days .
+13. Respiratory care :
+DuoNeb q.4h. p.r.n.
+14. Consults :
+Physical Therapy and Occupational Therapy for evaluation and treatment as per their recommendations .
+15. Follow up with the **INSTITUTION three times a week .
+The patient has already arranged that .
+16. Follow up with the primary care physician in one to two weeks after discharge from the skilled nursing facility .
+17. Blood glucose monitoring per facility protocol .
+18. Laboratories : electrolytes , BUN , creatinine , magnesium , phosphorus , calcium every Monday and Thursday .
+DISCHARGE MEDICATIONS :
+1. Atazanavir 300 mg p.o. daily for HIV .
+2. Azithromycin 1200 mg p.o. weekly , due on **DATE[Oct 20 2007] as suppression therapy .
+3. PhosLo two tablets p.o. t.i.d. with meals , phosphate binder .
+4. Epogen 10,000 units at hemodialysis three times a week for anemia .
+5. Fluconazole 100 mg p.o. daily prophylaxis .
+6. Lamivudine 50 mg p.o. daily for HIV .
+7. Metoprolol 100 mg p.o. b.i.d. for hypertension .
+8. Flagyl 500 mg p.o. q.8h. through **DATE[Oct 26 2007] for Clostridium difficile prophylaxis .
+To be discontinued on **DATE[Oct 27 2007] .
+9. Dilantin ER 200 mg p.o. b.i.d. for seizure disorder .
+10. Ritonavir 100 mg p.o. daily for HIV .
+11. Tenofovir 300 mg p.o. q. Tuesday for HIV .
+12. Pentamidine 300 mg inhaled once monthly , due on **DATE[Nov 13 2007] .
+On the day of discharge , her blood pressure was 145/80 , heart rate 81 , respirations 18 , weight 65.5 kilograms .
+General Appearance :
+This is an adult female in no acute distress .
+Cardiovascular :
+Heart rate 72 on exam , regular rate and rhythm with a 2/6 systolic ejection murmur at the left sternal border .
+Respiratory :
+Lungs are clear to auscultation with no adventitious sounds .
+GI :
+Soft , nontender , bowel sounds present times four .
+Neuro :
+She is awake , alert and oriented times three .
+Vision has returned .
+Extremities are without edema .
+CONDITION ON TRANSFER :
+Stable .
+___________________________________
+**NAME[YYY M ZZZ] , M.D.
+Dictator :
+**NAME[WWW XXX] , QQQ] , M.S.N. , B.C.
+AL/drl
+D :
+**DATE[Oct 17 2007] 15:18:56
+T :
+**DATE[Oct 17 2007] 15:23:23
+R :
+**DATE[Oct 17 2007] 15:23:23/drl
+Job ID :
+350207/**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX] , QQQ] , M.S.N. , B.C.-Anita ***
+Electronically Signed by **NAME[PPP OOO] for **NAME[YYY ZZZ] **DATE[Oct 19 2007] 03:49:24
+PM

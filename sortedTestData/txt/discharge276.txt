@@ -1,0 +1,44 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Jul 05 2007]
+Discharged :
+**DATE[Jul 12 2007]
+Dict :
+**NAME[WWW , VVV]
+Attend :
+**NAME[ZZZ , YYY]
+HISTORY OF PRESENT ILLNESS :
+The patient is a **AGE[in 70s]- year - old male who presented with a painless jaundice and underwent an endoscopic ultrasound procedure , which ultimately demonstrated a T3 , N1 , M0 adenocarcinoma of the pancreas .
+The patient elected to undergo a surgical intervention for this .
+HOSPITAL COURSE :
+The patient was taken to the OR on **DATE[Jul 5 2007] , with the intention of resecting his tumor .
+However , unfortunately , the patient was noted to have a locally advanced tumor with metastasis to the liver .
+The patient , therefore , instead underwent an exploratory laparotomy , choledochojejunostomy , and gastrojejunostomy .
+The patient tolerated the procedure well and was successfully extubated in the OR .
+The patient then had a routine and uncomplicated postop course .
+The patient had a return of his bowel function by postoperative day #5 and was started on a diet , which he tolerated well .
+His diet was slowly advanced .
+The patient was ambulatory in the floor with adequate pain control and oral medication and was tolerating a regular diet well and was ready for discharge on **DATE[Jul 12 2007] .
+DISCHARGE INSTRUCTIONS :
+The patient is to follow up with Dr. **NAME[ZZZ] in 2 weeks .
+The patient is to continue all his home medications .
+MEDICATIONS UPON DISCHARGE :
+1. Metoprolol 25 mg p.o. b.i.d.
+2. Protonix 40 mg p.o. daily .
+3. Vicodin 1 to 2 tablets p.o. q.4 h. p.r.n.
+______________________________
+**NAME[VVV UUU WWW]
+HS Job # 680909 / 38636 / 34320
+SHY # **ID-NUM
+D :
+**DATE[Jul 12 2007] 14:54
+T :
+**DATE[Jul 13 2007] 17:06
+**CARBON-COPY

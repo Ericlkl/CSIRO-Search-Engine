@@ -1,0 +1,54 @@
+FINAL DIAGNOSES :
+1. Subacute bacterial endocarditis .
+2. Acute renal failure .
+3. Chronic kidney disease .
+4. Diabetes mellitus .
+SECONDARY DIAGNOSES :
+1. Hypothyroidism .
+2. Hypertension .
+3. Hyperlipidemia .
+4. Congestive heart failure .
+5. Third - degree atrioventricular block , status post pacemaker insertion .
+OPERATIONS AND PROCEDURES :
+Operations and procedures done during this admission includes :
+1. Dialysis .
+2. Insertion of femoral Uldall catheter .
+PERTINENT CONSULTS :
+1. **NAME[VVV UUU] , M.D. from nephrology in view of acute renal failure / chronic kidney disease .
+2. Dr. **NAME[TTT] from infections disease in view of bacterial endocarditis .
+3. **NAME[SSS M. RRR] , M.D. from cardiology .
+**INSTITUTION :
+The patient was transferred from the TCU where she was noted to have worsening of her renal function .
+The patient was being treated for Clostridium difficile colitis at that time .
+It was also noted that the patient 's white count was elevated .
+The patient was transferred to the ICU for initiation of dialysis .
+Upon admission in the ICU , a Uldall catheter was placed and dialysis was started .
+The next day , the patient 's BUN and creatinine began improving following the initiation of dialysis .
+Also , a transesophageal echocardiography was done by Dr. **NAME[SSS M. RRR] which showed mitral valve vegetations and also the blood cultures grew MRSA in 4 out of the 4 bottles .
+The patient was started on vancomycin for the treatment of MRSA .
+Dr. **NAME[TTT] from Infectious Disease was following over the case .
+It was later decided to add rifampin to be antibiotic regimen as there was a foreign body , that is , the pacemaker .
+The patient showed considerable improvement following the initiation of dialysis and antibiotics .
+In view of this , it was decided to transfer the patient to the LTAC facility for continuation of care .
+The patient is being discharged on the following medications :
+1. Procrit 20,000 units subcutaneously every Tuesdays and Saturdays .
+2. Flagyl 500 mg orally every 8 hours .
+3. Fioricet 250 mg orally every 12 hours .
+4. Humalog 75/25 , 45 units subcutaneously in the morning and Humalog 75/25 , 25 units in the evening .
+5. Synthroid 25 mcg orally daily .
+6. DuoNeb breathing treatment every 6 hours as required for bronchoconstriction .
+7. Vicodin orally every 4 hours one tablet as required for pain .
+8. Rifampin 300 mg orally every 8 hours .
+9. Vancomycin the dosage will be ordered based on the vancomycin trough level are done either prior to or after dialysis .
+The patient is being discharged on a regular course of diet and will be in isolation for Clostridium difficile colitis .
+She also grew MRSA in her blood .
+The patient 's activities is as tolerated , and she will be followed by the respective teams at the LTAC facility .
+There are no more outstanding issues on this patient in this admission .
+______________________________
+**NAME[WWW XXX] , M.D.
+HS Job # 164188 / 38459 /
+# **ID-NUM
+D :
+**DATE[Aug 30 2007] 16:51
+T :
+**DATE[Sep 01 2007] 02:34

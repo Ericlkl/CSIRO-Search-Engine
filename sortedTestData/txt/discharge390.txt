@@ -1,0 +1,69 @@
+**INSTITUTION
+General Internal Medicine
+Discharge Summary
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+ATTENDING :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Jul 30 2007] 09:42:00
+DISCHARGE DATE :
+**DATE[Aug 01 2007]
+DISCHARGE DIAGNOSES :
+1. Lower GI bleed secondary to recurrent bleeding from radiation proctitis .
+2. Remote history of prostate cancer status post radiation therapy .
+3. Coronary artery disease with history of bypass surgery .
+4. Chronic atrial fibrillation .
+5. Recent onset of noninsulin - dependent diabetes .
+6. Hypertension .
+7. Renal insufficiency .
+MEDICATIONS AT THE TIME OF DISCHARGE :
+Same as on admission except he has been instructed to take Colace consistently twice a day .
+Medications include :
+1. Allopurinol 100 mg p.o. q. day .
+2. Norvasc 5 mg q. day .
+3. Clonidine 0.2 mg t.i.d.
+4. Aranesp 100 mcg subcutaneous q. week or as instructed .
+5. Colace 100 mg b.i.d.
+6. Iron sulfate 300 mg p.o. q. day .
+7. Folic acid 1 mg p.o. q. day .
+8. Anusol p.r.n.
+9. Isosorbide 120 mg p.o. q.a.m.
+10. Metoprolol 50 mg p.o. b.i.d.
+11. Protonix 40 mg p.o. q. day .
+DISPOSITION :
+The patient 's hemoglobin is good today and will be discharged to home with instructions to follow up in the office in one month .
+Check hemoglobin concentration once a week for next 3 weeks .
+He has been instructed to hold aspirin and Coumadin .
+HOSPITAL COURSE :
+The patient was admitted through the ER because of gross bleeding per rectum .
+He was otherwise asymptomatic with this .
+The patient was found to have hemoglobin concentration initially of 10.1 and then down to 9.3 .
+This remained stable for the next 48 hours .
+He had a sigmoidoscopy done by Dr. **NAME[VVV] who found that there was evidence of previous bleeding from the radiation proctitis site .
+However , there was no active bleeding at this time .
+The patient was told to maintain doses on iron supplements and folate .
+The patient was encouraged to continue taking the Colace twice a day in order to keep his stool soft .
+The patient is already scheduled for repeat sigmoidoscopy with plan for further treatment .
+_____________________________________
+**NAME[YYY]
+**NAME[ZZZ]
+DICTATED BY :
+**NAME[WWW XXX] , M.D.
+JU/s
+D :
+**DATE[Aug 01 2007] 11:55:26
+T :
+**DATE[Aug 01 2007] 23:27:22
+R :
+**DATE[Aug 01 2007] 23:27:22/s
+Job ID :
+370990/**ID-NUM
+CC:
+*** Dictated By :
+000349-**NAME[XXX , CCC] ***
+Electronically Signed by **NAME[YYY ZZZ] for **NAME[WWW XXX] **DATE[Aug 02 2007]
+01:59:48 PM

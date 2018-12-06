@@ -1,0 +1,111 @@
+**INSTITUTION
+GERIATRIC MEDICINE
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Mar 08 2007]
+TRANSFER DATE :
+**DATE[Mar 11 07]
+TRANSFERRED TO :
+Heritage , **INSTITUTION to Dr. **NAME[ZZZ] and Dr. **NAME[QQQ]
+TRANSFERRED TO CARE OF :
+DISCHARGE DIAGNOSIS :
+LUMBAR COMPRESSION FRACTURE .
+The patient is a **AGE[90+]- year - old female with history of osteoporosis , hypothyroidism , depression , who presented to the ED complaining of low back pain for two days .
+HISTORY OF PRESENT ILLNESS :
+The patient has a history of osteoporosis and history of multiple compression fractures in the past .
+The patient had a history of compression fracture in **DATE[Apr 2006] .
+She also had a T5 fracture in **DATE[Jul 2004] .
+The patient is a pleasant , Italian speaking , female .
+She does not speak much English .
+She presented to the ED complaining of low back pain for two days .
+She was also complaining of abdominal tenderness .
+In the ED , the patient had CT of her abdomen and spine , which showed new L2 compression fracture .
+Also noted was a partial compression fracture of L3 .
+The patient was also noted to have central intrahepatic and extrahepatic biliary ductal dilatation , which was unchanged from her previous scans .
+The patient also had evidence of stones in her common bile duct extending to the level of the ampulla , which were again unchanged .
+She also had evidence of diffuse sigmoid diverticulosis without diverticulitis .
+So the patient was admitted to the Geriatric Inpatient Service .
+PAST MEDICAL HISTORY :
+1. Osteoporosis with history of multiple compression fractures in **DATE[Apr 2006] and T5 fracture in **DATE[Jul 2004] .
+2. Hypothyroidism .
+3. Diverticulitis .
+4. Anxiety .
+5. Depression .
+6. Peptic ulcer disease .
+7. Status post cholecystectomy with persistent common bile duct gallstones .
+8. Status post appendectomy .
+9. Hiatal hernia .
+10. Left femoral fracture .
+11. Basal cell carcinoma of right chin in 1998 .
+HOSPITAL COURSE :
+1. Lumbar compression fracture :
+As mentioned in the HPI , the patient was complaining of low back pain .
+Imaging studies were done which included a CT scan .
+The CT scan showed new L2 compression fracture and a partial compression fracture of L3 .
+The patient was seen by the Orthopedic Service .
+There was no surgical intervention needed per Orthopedics .
+The patient was admitted to the Geriatric Service for pain control .
+During her stay in the hospital , the pain was controlled with morphine IV and Percocet .
+The patient 's pain was well - controlled with these medications .
+We continued to treat her osteoporosis with alendronate 70 mg q week .
+The patient was also on calcium and vitamin D supplementation .
+She was also receiving calcitonin during her stay in the hospital .
+The patient was also seen by Physical Therapy .
+According to Orthopedics , the patient can undergo physical therapy as tolerated .
+The patient was kept on fall precautions .
+2. Depression :
+Because of her history of depression , she was kept on Celexa .
+3. Hypothyroidism :
+For hypothyroidism , the patient was continued on Synthroid .
+4. Prophylaxis :
+For prophylaxis , the patient received Pepcid and heparin subcutaneous during her stay in the hospital .
+DISCHARGE CONDITION :
+Good .
+ALLERGIES :
+NO KNOWN DRUG ALLERGIES .
+DISCHARGE INSTRUCTIONS :
+1. Vital Signs per facility protocol .
+2. Activity level as tolerated .
+3. Bladder care , per facility protocol .
+4. Bowel regimen , per facility protocol .
+5. Consult Physical Therapy and Occupational Therapy .
+DISCHARGE MEDICATIONS :
+1. Alendronate 70 mg p.o. q. Thursday .
+2. Aspirin 81 mg p.o. q. day .
+3. Calcitonin 200 units one spray q. day .
+4. Calcium plus vitamin D 1.2 grams p.o. b.i.d.
+5. Celexa 40 mg p.o. q. day .
+6. Colace 100 mg p.o. b.i.d.
+7. Gabapentin 100 mg p.o. t.i.d.
+8. Synthroid 100 mcg p.o. q. day .
+9. Multivitamin one tablet p.o. q. day .
+10. Pepcid 20 mg p.o. q. day .
+11. Senna two tablets p.o. at bedtime .
+12. Heparin 5000 units subcutaneous q.8h.
+13. Percocet 5/325 p.o. q.6h. p.r.n.
+14. Morphine 2 mg IV q.2h. p.r.n.
+___________________________________
+**NAME[YYY M ZZZ] , M.D.
+Dictator :
+**NAME[WWW VVV XXX] , M.D.
+RHO/drl
+D :
+**DATE[Mar 11 2007] 15:41:47
+T :
+**DATE[Mar 11 2007] 15:51:15
+R :
+**DATE[Mar 11 2007] 15:51:15/drl
+Job ID :
+342594/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , PPP VVV] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Mar 16 2007] 10:47:56 AM

@@ -1,0 +1,80 @@
+**INSTITUTION
+NEUROSURGERY
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[M ZZZ YYY]
+TRANSFERRED DATE :
+**DATE[Jan 29 08]
+TRANSFERRED TO :
+TRANSFERRED TO CARE OF :
+ADMISSION DIAGNOSIS:
+Recurrent right frontotemporal GBM .
+TRANSFER DIAGNOSIS ( ES ) :
+Recurrent right frontotemporal GBM .
+PROCEDURES :
+None .
+**INSTITUTION COURSE :
+**NAME[BBB AAA] is a **AGE[in 50s]- year - old male with a history of a right frontal GBM status post resection who presents back with worsening left - sided hemiparesis .
+He was admitted to the hospital and started on high - dose steroids which resulted in a minor , if any , improvement in his symptoms .
+Neuro - oncology was consulted to evaluate the patient and felt that he may benefit from one additional round of chemotherapy .
+He remained in the hospital for four days without any new issues .
+He will be transferred to Indiana Rehabilitation today .
+TRANSFER INSTRUCTIONS :
+ALLERGIES :
+HE HAS NO KNOWN DRUG ALLERGIES .
+DIET :
+Regular .
+ACTIVITY :
+Out of bed with assistance .
+Routine vital signs and check Is and Os , and bilateral lower extremity SCD s .
+He is to have Accu-Cheks q. six hours with low - dose insulin sliding scale as coverage .
+Follow - up :
+Dr. **NAME[YYY] of Neurosurgery in two to three months .
+Call **PHONE for an appointment .
+This should be with an MRI .
+He is to follow-up with Dr. **NAME[TTT] of **NAME[SSS] as he has been instructed .
+He reports that he will be starting chemotherapy this week with Dr. **NAME[RRR] in Indiana and he should follow-up as he was instructed .
+He is to have PT and OT per the rehab facility .
+TRANSFER MEDICATIONS :
+1. Decadron 6 mg p.o. q. 6 hours .
+This should be weaned by 2 mg total dose every three days .
+2. ________ dose at 4 mg p.o. three times a day .
+3. Colace 100 mg p.o. b.i.d.
+4. Senna two tablets at bedtime .
+5. Protonix 40 mg p.o. once a day .
+6. Tylenol 650 mg PR q. four hours as needed .
+7. Trileptal 300 mg p.o. b.i.d.
+8. Celexa 40 mg p.o. once a day .
+9. Sodium chloride tablets 2 grams p.o. b.i.d. which is for hyponatremia that was noted when he was admitted here .
+This can be weaned as tolerated .
+10. Subcutaneous heparin 5000 units b.i.d.
+___________________________________
+**NAME[M ZZZ YYY , CCC]
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Jan 29 2008] 06:53:40
+T :
+**DATE[Jan 29 2008] 06:59:24
+R :
+**DATE[Jan 29 2008] 06:59:24/jas
+Job ID :
+365820/**ID-NUM
+Cc:
+&lt;start header&gt;
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+ADMISSION DATE :
+**DATE[Jan 25 2008]
+TRANSFER DATE :
+**DATE[Jan 29 08]
+Page 3 of 3
+&lt;END HEADER&gt;

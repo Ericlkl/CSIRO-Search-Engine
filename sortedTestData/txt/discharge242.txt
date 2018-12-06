@@ -1,0 +1,49 @@
+**INSTITUTION
+OTORHINOLARYNGOLOGY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jul 18 2007]
+DISCHARGE DATE :
+DATE OF SERVICE :
+**DATE[Jul 20 2007] .
+The patient is a **AGE[in 40s]- year - old male with a history of malignant melanoma of the nasopharynx who was admitted to the hospital from surgery .
+He underwent a left medial maxillectomy on **DATE[Jul 17 2007] .
+He had no events postoperatively .
+On postoperative day #1 , he was eating and had no bleeding .
+He had Merocel packing placed bilaterally that was removed on postoperative day #1 .
+His pain was controlled adequately and on postoperative day #2 was able to discharged in stable condition .
+He was seen by Behavioral Medicine because of an adjustment disorder with depressed mood associated with his new diagnosis of malignant melanoma .
+He was given information and he had a follow up with Behavioral Medicine .
+He was discharged home on postoperative day #2 in stable condition .
+DISCHARGE INSTRUCTIONS :
+His discharge instructions include followup with Dr. **NAME[ZZZ] in 10 days .
+He should call or come to the ER if he has any breathing pain or swelling of the incision .
+He should have no strenuous activity , no heavy lifting , and he should keep his incision dry .
+He may shower but should have no bathing for 1 week .
+DISCHARGE MEDICATIONS :
+Include bacitracin to the incision b.i.d. and Vicodin 1 to 2 tablets p.o. q.4-6 hours p.r.n.
+________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Jul 20 2007] 07:53:41
+T :
+**DATE[Jul 20 2007] 08:17:22
+R :
+**DATE[Jul 20 2007] 08:17:22/vm
+Job ID :
+354210/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Jul 29 2007] 03:22:18 PM

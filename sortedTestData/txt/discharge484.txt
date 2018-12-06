@@ -1,0 +1,104 @@
+Medicine D/C Summary
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] S
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 30s] years
+Sex :
+Female
+DOB :
+**DATE[Nov 28 1973]
+Author :
+**NAME[WWW , VVV]
+Discharge Information
+Discharge Date :
+**DATE[May 2 2007]
+Attending Physician :
+**NAME[ZZZ , YYY M XXX]
+Discharge Diagnosis ( es ):
+Diagnosis #1 : bronchitis .
+Diagnosis #2 : asthma .
+Diagnosis #3 : graves ' disease .
+Diagnosis #4 : DM2 .
+Diagnosis #5 : HTN .
+Procedures and Tests During this Admission
+X-Ray :
+X-Ray results :
+WNL .
+Patient Status
+**AGE[in 30s] yo lady admitted with Hx of 1 week of cough and 3 days of SOB wheezing and yellow sputum production ; CXR negative , was treated with short course of azithromycin and prednisone , reponded well to treatment .
+DM was covered with insulin sliding scale. upon d/c her discharg regular regiment of glipizyde and insuline 70/30 was resumed , pt. was advised to check her CBG tid and discuss further treatment with Dr. **NAME[UUU].
+she has Hx of Graves dis. and s/p ablation , her TSH is still low and fT4 is elevated she will forllow up with her endocrinologist .
+the HTN was treated with metoprolol , she might benefit from ACE inhibitor however this decision will be deferred to th PCP .
+Health Status
+General Results
+Most recent results :
+All :
+ALLRESLTSECT .
+**DATE[May 2 2007] 9:00 AM
+SpO2 98
+**DATE[May 2 2007] 8:15 AM
+Na 138 mEq / L
+K 3.7 mEq / L
+Cl 107 mEq / L
+CO2 21.0 mEq / L Low
+Anion Gap 10.0
+BUN 20 mg / dL High
+Cr 0.8 mg / dL
+Glucose 229 mg / dL High
+Ca 8.6 mg / dL
+WBC 8.6 X10E+09 / L
+RBC 5.11 X10E+12 / L High
+Hgb 13.0 gm / dL
+Hct 38.9 %
+MCV 76.2 fL Low
+MCH 25.4 pg Low
+MCHC 33.3 gm / dL
+RDW 15.2 %
+MPV 8.5 fL
+Platelets 163 X10E+09 / L
+Neutrophils - Auto 67.2 %
+Lymphocytes - Auto 26.0 %
+Monocytes - Auto 6.6 %
+Eosinophils - Auto 0.0 % Low
+Basophils - Auto 0.2 %
+ABS Neutrophils - Auto 5.8 X10E+09 / L
+ABS Lymphs - Auto 2.3 X1OE+09 / L
+ABS Monocytes - Auto 0.6 X1OE+09 / L
+ABS Eosinophils - Auto 0.0 X1OE+09 / L
+ABS Basophils - Auto 0.0 X1OE+09 / L
+Discharge Plan
+Disposition
+Patient discharged to home .
+Patient Instructions
+Patient Condition
+Good
+Physical Activity
+No restrictions
+Dietary Restrictions
+Diabetic diet
+Follow Up Instructions
+Dr. **NAME[UUU] within 1 week
+Discharge Medications
+Discharge Medications :
+azithromycin 250 mg po daily 3 days
+glipizide 15 mg po daily
+humulin 70/30 20 u am 10 u pm
+metoprolol 25 mg po bid
+albuterol 2 puffs qid prn
+prednisone 30 mg for 2 days , 20 mg for 2 days , 10 mg for 2 days then d/c accuchecks tid
+Professional Services
+Credentials and Title of Author **NAME[TTT] Signing this Document :
+MD , Medical Resident
+Addendum by **NAME[WWW , VVV] on **DATE[May 02 2007] 11:08 AM pt. was also given as per endo recs tapazol 10 mg po daily and novolog insuline SS with 3 units fro Glu &gt ; 200 and 4 units with Glu &gt ; 250
+Perform by **NAME[WWW , VVV]
+( on **DATE[May 02 2007] 10:43 )
+Sign by **NAME[WWW , VVV]
+( on **DATE[May 02 2007] 10:43 )
+VERIFY by **NAME[WWW , VVV]
+( on **DATE[May 02 2007] 10:43 )
+Modify by **NAME[WWW , VVV]
+( on **DATE[May 02 2007] 11:08 )
+Sign by **NAME[WWW , VVV]
+( on **DATE[May 02 2007] 11:08 )

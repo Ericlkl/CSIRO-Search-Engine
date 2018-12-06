@@ -1,0 +1,123 @@
+**INSTITUTION
+Family Practice
+Discharge Summary
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT# :
+**ID-NUM
+ATTENDING :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Mar 03 2007] 15:48:00
+DISCHARGE DATE :
+**DATE[Mar 14 2007]
+DIAGNOSES :
+1. Closed fracture of the distal end of the radius .
+2. Disease of the tricuspid and mitral valve .
+3. Syncope and collapse .
+4. Encephalopathy .
+5. Phlebitis and thrombophlebitis .
+6. Cardiac arrhythmia .
+7. Orthostatic hypotension .
+8. Occlusion and stenosis of the carotid artery .
+9. Cardiomegaly .
+10. Premature beats .
+11. Chronic pulmonary heart disease .
+12. Hypothyroidism .
+13. Palpitations .
+14. Osteoarthrosis .
+15. Arthropathy .
+16. Personal history of venous thrombosis .
+17. Acquired absence of genital organs .
+18. History of noncompliance with medical treatment .
+19. History of malignancy of the breast .
+20. Fall .
+PROCEDURES :
+1. Closed reduction of fracture with internal fixation of the radius on **DATE[Mar 8 2007] .
+2. Application of cast on **DATE[Mar 4 2007] .
+MEDICATIONS AT DISCHARGE :
+1. Florinef 0.1 mg daily .
+2. Synthroid 25 mcg daily .
+3. Celebrex 200 mg daily .
+4. Baby aspirin 81 mg daily .
+REASON FOR ADMISSION :
+This is an **AGE[in 80s]- year - old female who came to the emergency room because of a history of fall and loss of consciousness .
+This patient claims that one week prior to admission , she was walking down the street going to a plaza when she felt lightheaded and lost her balance .
+She regained consciousness quickly .
+She claims that she fell on her hands to keep from getting hurt .
+She denied any chest pain , weakness , or seizures .
+She claims that she has been having these episodes of lightheadedness for several months .
+In the Emergency Department , she had a left wrist Colles fracture .
+The CAT scan of the head was negative .
+Cardiogram was within normal limits .
+She does have a history of hypothyroidism , sciatica , arthritis , left breast cancer 25 years ago , and questionable history of pulmonary embolism .
+She has been on Synthroid and Celebrex .
+She was alert and oriented .
+She was admitted with a syncopal episode to rule out cardiac arrhythmia versus seizures along with a left wrist Colles fracture secondary to a fall .
+LABORATORY DATA :
+Initial electrolytes , BUN , creatinine were normal .
+Hemoglobin and hematocrit 13.9 and 41.6 .
+White count 7100 .
+Pro time and INR 10.9 and 0.9 .
+Troponin levels were negative as were CPK s and MB s .
+Cortisol level at discharge 7.4 .
+BUN and creatinine at discharge 14 and 0.7 .
+Echocardiogram :
+Difficult study .
+Ejection fraction 50% to 55% .
+Mild mitral and tricuspid insufficiency .
+Mild pulmonary hypertension but no pericardial effusion .
+EEG :
+Mildly abnormal indicating diffuse cortical dysfunction compatible with encephalopathy .
+Cardiogram :
+Normal sinus rhythm .
+Exercise stress test :
+No evidence of myocardial ischemia .
+Holter monitor :
+Minimal atrial and ventricular irritability .
+The patient was admitted with a syncopal episode .
+Initially , a neurological evaluation was requested to Dr. **NAME[VVV] .
+He reviewed both EEG as well as CAT scan which were normal .
+He also recommended orthostatic blood pressures .
+There was a change in blood pressures .
+She was placed on Florinef and TED hose .
+No new neurological deficits were found .
+From a cardiac standpoint , Dr. **NAME[UUU] was also asked to see the patient in consult .
+Troponin levels and cardiograms were unremarkable .
+The patient then had a stress test along with Holter monitor and echocardiogram , all of which were negative .
+It was also felt by Dr. **NAME[UUU] that the patient did have orthostatic changes in blood pressure .
+Because of her Colles fracture of the left wrist , an orthopedic evaluation was also requested at this time to Dr. **NAME[TTT] .
+X-ray showed a fractured distal radius of the left wrist .
+On **DATE[Mar 4 2007] , the patient was agreeable to having a short - arm cast applied at the bedside and on **DATE[Mar 8 2007] , underwent an open reduction and internal fixation of the left wrist .
+She did tolerate the procedure well .
+Followup x-rays were done postoperatively .
+The patient was given Vicodin for pain along with aspirin .
+She continued to do well .
+Telemetry was then discontinued from a cardiac standpoint .
+She had no further syncopal episodes .
+No seizures were noted , and from the standpoint of orthostatic hypotension , she will continue with Florinef for another week and be followed closely in the office for close monitoring of blood pressure .
+She had no chest pain or shortness of breath and was felt to be medically stable for discharge .
+She will follow a healthy heart , low - cholesterol diet .
+Her PCP , Dr. **NAME[ZZZ] will see her within 1 to 2 weeks and Dr. **NAME[SSS] within 2 weeks .
+She is not to lift anything over 10 pounds .
+She will see Dr. **NAME[TTT] in 1 month .
+If she does experience any chest pain or shortness of breath or is unable to move the digits of her left hand , she is to notify Dr. **NAME[TTT] .
+She understood all instructions .
+___________________________________
+**NAME[YYY M ZZZ]
+DICTATED BY :
+**NAME[WWW XXX] , R.N.
+SC/rec
+D :
+**DATE[Mar 17 2007] 17:29:43
+T :
+**DATE[Mar 18 2007] 02:00:20
+R :
+**DATE[Mar 18 2007] 02:00:20/rec
+Job ID :
+350459/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , RRR] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Mar 24 2007] 09:59:56 AM

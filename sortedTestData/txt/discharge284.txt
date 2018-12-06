@@ -1,0 +1,48 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M. ZZZ] , M.D.
+ADMISSION DATE :
+**DATE[Feb 12 2007]
+TRANSFER DATE :
+**DATE[Apr 28 07]
+TRANSFERRED TO :
+TRANSFERRED TO CARE OF :
+DISPOSITION :
+REASON FOR ADMISSION :
+**NAME[BBB AAA] is a **AGE[in 60s] - year - old woman with a history of coronary artery disease , status post coronary artery bypass grafting **DATE[Nov 11 2006] , diabetes , hypertension , hypothyroidism .
+She has had chronic difficulty weaning from the vent .
+She has also had ventilator ..... END OF DICTATION ...
+LABORATORY / RADIOGRAPHIC FINDINGS :
+MEDICATIONS :
+ADVERSE DRUG REACTION ( S ) :
+HOSPITAL COURSE :
+TRANSFER INSTRUCTIONS :
+CONDITION ON TRANSFER :
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+In the office of **NAME[TTT M. SSS] , M.D.
+**NAME[RRR] Family Endowed Professor of **NAME[CCC]
+Chief , The Heart , Lung and **INSTITUTION
+Dictator :
+**NAME[WWW XXX] , M.D.
+CF/lmp
+D :
+**DATE[Apr 28 2007] 13:20:22
+T :
+**DATE[Apr 28 2007] 13:29:00
+R :
+**DATE[Apr 28 2007] 13:29:00/lmp
+Job ID :
+450591/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , QQQ] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Apr 30 2007] 08:13:32 AM

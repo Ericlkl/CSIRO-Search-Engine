@@ -1,0 +1,33 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA , BBB]
+**ID-NUM
+**ID-NUM
+A5A/509
+SERVICE OF :
+**NAME[ZZZ M YYY]
+DATE OF ADMISSION :
+**DATE[Mar 21 2007]
+DATE OF DISCHARGE :
+**DATE[Mar 31 2007]
+The history and physical are as previously in the chart .
+Briefly , the patient was admitted one day prior to his operation with a diagnosis of advanced local rectal cancer with evident liver metastases .
+The patient had functional status with an impending obstruction .
+He was counseled prior to coming to the hospital about the pros and cons of operative intervention and he chose operative intervention after considering those issues .
+He underwent a laparoscopic low anterior colorectal resection on **DATE[Mar 22 2007] and made for the most part an uneventful recovery .
+He did however have urinary retention and is now taking Flomax and voiding spontaneously and he had a subclinical peri - anastomotic leak , which manifest only by crepitants in the anterior abdominal wall .
+The patient was eating , moving his bowels , afebrile with normal white count , a platelet count that was returning to normal , passing flatus , and in no pain .
+Nonetheless , a CT scan was obtained and there was a localized pocket of air near the anastomosis and a very trace amount of contrast .
+A percutaneous presacral drain was placed which will be left in place and covered by antibiotics for 10 days while the patient is convalescing at **INSTITUTION .
+He will be taking Flomax 0.4 mg p.o. q. day , Protonix 20 mg p.o. q. day , and his usual Lasix 20 mg p.o. q. day and multivitamins .
+___________________
+**NAME[ZZZ M. YYY] , M.D.
+Dict :
+**DATE[Mar 31 2007] 15:02:18
+Tran :
+**DATE[Apr 01 2007] 00:05:13
+**INITIALS
+R :
+**DATE[Apr 01 2007] 00:05:13/pn
+**CARBON-COPY

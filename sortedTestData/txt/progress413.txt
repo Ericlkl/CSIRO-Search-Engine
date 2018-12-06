@@ -1,0 +1,49 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[VVV M WWW]
+ADMISSION DATE :
+**DATE[May 25 2007]
+EVALUATION DATE :
+**DATE[Jun 01 07]
+I personally managed Mr **NAME[AAA] in the ICU , a **AGE[in 60s]- year - old man with a history of stroke , lethargy , somnolence , brain edema and aspiration pneumonitis .
+The patient is clearly deteriorating in his ventilation function this morning .
+He has coarse rattly respirations .
+His chest x-ray continues to show bilateral infiltrate , quite compatible with aspiration .
+He does not appear to have an adequate reflux , so I think he is continuously aspirating .
+At this point I think it will be necessary to protect his airway by reintubating him and also I think a tracheostomy is in his best interest as this will allow us to get good pulmonary toilet and also avoid further aspiration .
+I have discussed this with the neurology team .
+The patient was given adequate amounts of anesthesia and intubated by the critical care fellow under my direct supervision .
+The intubation was successful without any complications .
+There were good breath sounds on both sides .
+C02 positive .
+Vital signs and oxygen saturation remain stable .
+The endotracheal tube is taped in place at 23 cm and chest x-ray was ordered .
+There was a large amount of secretions suctioned out following intubation .
+We will discuss with the family the potential for bedside percutaneous tracheostomy tomorrow , otherwise we have held off on his PEG for a fever and we will continue to culture him now and see if this presents any aspect of pneumonia .
+Otherwise his overall condition remains about the same and he will be now for improved pulmonary toilet and bedside tracheostomy tomorrow .
+Critical care time is minutes .
+___________________________________
+**NAME[XXX M. YYY] , M.D.
+Dictator :
+**NAME[XXX M. YYY] , M.D.
+**INITIALS
+D :
+**DATE[Jun 01 2007] 12:25:15
+T :
+**DATE[Jun 01 2007] 12:34:52
+R :
+**DATE[Jun 01 2007] 12:34:52/vls
+Job ID :
+371046/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[YYY , UUU M]. ***
+Electronically Signed by **NAME[XXX YYY]
+**DATE[Jul 01 2007] 01:54:35 AM

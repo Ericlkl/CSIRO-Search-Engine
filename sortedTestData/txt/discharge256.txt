@@ -1,0 +1,72 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[May 17 2007]
+Discharged :
+**DATE[May 20 2007]
+Dict :
+**NAME[WWW VVV WWW , UUU]
+Attend :
+**NAME[ZZZ , YYY]
+CONSULTANTS :
+1. Infectious Disease , **NAME[YYY M CCC] , MD
+2. Orthopedics , Mark **NAME[M TTT] , MD
+PRINCIPAL PROCEDURES :
+MRI of the right lower extremity , showed a dorsal ulcer at the second toe distal interphalangeal joint with osteomyelitis of the distal phalanx and modest inflammation of the middle phalanx suggesting early osteomyelitis .
+DISCHARGE MEDICATIONS :
+1. Vancomycin 750 mg q. day. for 6 weeks .
+2. Ciprofloxacin 250 mg q.12 h. for 6 weeks .
+3. Flagyl 500 mg p.o. t.i.d. for 6 weeks .
+4. Atenolol 150 mg b.i.d.
+5. Clonidine 0.3 mg patch q. week .
+6. Vytorin **DATE[Feb 21] one tablet q. day .
+7. Prandin 1 mg t.i.d. before meals .
+8. Lantus 34 units nightly .
+9. Enalapril 20 mg b.i.d.
+10. Plavix 75 mg q. day .
+11. Lasix 40 mg q. day .
+12. Imdur 60 mg q.a.m.
+13. Protonix 40 mg q. day .
+14. Aspirin 81 mg q. day .
+HOSPITAL COURSE :
+The patient is a **AGE[in 70s]- year - old woman with an extensive history including osteomyelitis of the left first toe last year which involved 6 weeks of Levaquin therapy followed by 2 months of vancomycin , started on Flagyl therapy after Levaquin appeared not to be effective .
+She presents with 4 days of second toe pain , swelling , and ulceration , though her outpatient record does show that she had some erythema and swelling in the same toe in **DATE[Apr 2007] .
+She has had some difficulty walking due to the pain and ulceration .
+She was started empirically on vancomycin , Cipro , and Flagyl while here .
+X-ray of the right foot was performed which did not show any osteomyelitis , so we did an MRI which did show osteomyelitis of the DIP joint .
+At that point , we continued the patient on vancomycin , Cipro , and Flagyl .
+She got a PICC line in order to prepare for outpatient IV antibiotic treatment .
+Dr. **NAME[CCC] was consulted and agreed with our plan and will follow the patient in 1 to 2 weeks .
+Dr. **NAME[SSS TTT] was consulted .
+He felt that this patient may require amputation at the DIP joint because of severe ulceration and osteomyelitis .
+The patient was unwilling to go ahead with amputation .
+In the near future , she wanted to see whether the antibiotics would treat her toe infection and prevent her from losing that toe .
+She will follow up with Dr. **NAME[TTT] as an outpatient in 2 to 4 weeks to reconsider amputation depending on progress of the infection .
+DISCHARGE DISPOSITION :
+To home with home care for IV antibiotic treatment .
+Follow up with Dr. **NAME[RRR] in 1 to 2 weeks .
+Follow up with Dr. **NAME[TTT] in 2 to 4 weeks .
+Follow up with Dr. **NAME[CCC] in 1 to 2 weeks .
+______________________________
+**NAME[UUU WWW VVV WWW]
+HS Job # 124992 / 37776 / 32954
+SHY # **ID-NUM
+D :
+**DATE[May 29 2007] 10:42
+T :
+**DATE[May 31 2007] 02:48
+*** Transcribed On :
+**ID-NUM ***
+*** Dictated By :
+^**NAME[WWW VVV WWW^UUU] ***
+*** Clinical Date
+:
+**ID-NUM ***
+Electronically Signed by **NAME[QQQ PPP]
+**DATE[Jun 05 2007] 03:12:53 PM

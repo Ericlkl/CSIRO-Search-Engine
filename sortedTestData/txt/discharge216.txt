@@ -1,0 +1,39 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Nov 23 2007]
+Discharged :
+**DATE[Nov 29 2007]
+Dict :
+**NAME[ZZZ , YYY]
+Attend :
+**NAME[ZZZ , YYY]
+SERVICE :
+Oncologic Surgery .
+NURSING UNIT :
+6 - West .
+HOSPITAL COURSE :
+Ms. **NAME[AAA] is a **AGE[in 20s]- year - old woman who was admitted to the hospital for the management of a large pilonidal abscess .
+The patient was first seen in the emergency department where a drainage was attempted .
+The drainage was incomplete as a result of severe pain .
+The patient was taken to the operating room and underwent incision and drainage under general endotracheal anesthesia .
+She was treated for several days with intravenous antibiotics due to associated fever and a high white count , both of which resolved .
+The patient 's discharge was significantly delayed by severe pain associated with dressing changes requiring intravenous narcotics .
+At the time of discharge , her wound is being managed with Aquacel .
+Her pain is managed with oxycodone .
+She will return for a wound check in about a week and a half .
+______________________________
+**NAME[YYY ZZZ] , MD
+HS Job # 151798 / 41427 / 32010
+SHY # **ID-NUM
+D :
+**DATE[Nov 30 2007] 10:42
+T :
+**DATE[Dec 01 2007] 04:31
+**CARBON-COPY

@@ -1,0 +1,58 @@
+**INSTITUTION
+CARDIOLOGY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY XXX ZZZ]
+ADMISSION DATE :
+**DATE[Mar 21 2007]
+DISCHARGE DATE :
+PRINCIPAL DIAGNOSIS ( ES ) :
+ICD shock secondary to atrial tachyarrhythmia .
+REASON FOR ADMISSION / HISTORY OF PRESENT ILLNESS :
+This patient has a history of presumed alcoholic cardiomyopathy and had sustained a cardiac arrest at the age of **AGE[in 30s] .
+He initially received an abdominal ICD , which was placed in **PLACE , Ohio .
+This system was upgraded to a transvenous system in 2001 .
+He had been on sotalol 160 mg in the morning and 80 mg in the evening and this dose regimen was increased to 160 mg b.i.d. in **DATE[Feb 2007] .
+His rhythm has been rather stable on this dose regimen until this presentation when he experienced an ICD shock and presented to an outside hospital and they transferred here to **INSTITUTION for definitive care .
+HOSPITAL COURSE :
+The patient remained in a sinus rhythm throughout his hospital stay .
+We resumed his sotalol to 160 mg b.i.d. , this temporarily was placed on hold upon his admission , and added Verapamil - SR 240 mg daily .
+On this dose regimen , his rhythm continued to be stable and maintained a sinus mechanism throughout his hospital stay .
+His vital signs were stable at the time of discharge , blood pressure at 90/4 .
+His physical exam was unremarkable and he was discharged to home in stable condition .
+Lab work showed a sodium of 140 , potassium 4.5 , chloride 106 , CO2 total 26 , BUN 17 , creatinine 0.9 , magnesium 1.6 , WBC 8.3 , hematocrit 42.7 , hemoglobin 14.6 , and platelet 260 .
+Last echocardiogram was performed at **INSTITUTION on **DATE[Feb 20 2007] , which showed normal biventricular dimension and contractility with a left ventricular ejection fraction of 55% .
+He had normal valvular structures with normal Doppler as well .
+MEDICATIONS :
+His medications upon discharge :
+1. Vasotec 2.5 mg daily .
+2. Ecotrin 325 mg daily .
+3. Sotalol 160 mg b.i.d.
+4. Verapamil - SR 240 mg daily .
+He will be seen by Dr. **NAME[SSS RRR] at the **INSTITUTION on **DATE[Apr 28 2007] .
+He will follow locally with his primary care physician , Dr. **NAME[QQQ PPP] , whom he will see in 1 to 2 weeks .
+___________________________________
+**DATE[Mar] **NAME[OOO] , M.D.
+Dictator :
+**NAME[VVV M. WWW] , C.R.N.P.
+**INITIALS
+D :
+**DATE[Mar 23 2007] 10:10:34
+T :
+**DATE[Mar 23 2007] 12:49:03
+R :
+**DATE[Mar 23 2007] 12:49:03/nks
+Job ID :
+357873/**ID-NUM
+CC:
+**NAME[SSS RRR] , M.D.
+**NAME[QQQ M. PPP] , M.D.
+*** Dictated By :
+-**NAME[WWW , NNN M]. ***
+Electronically Signed by **DATE[Mar] **NAME[OOO]
+**DATE[Mar 29 2007] 01:57:58 PM

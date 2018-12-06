@@ -1,0 +1,69 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[UUU M VVV]
+ADMISSION DATE :
+**DATE[Feb 03 2007]
+EVALUATION DATE :
+**DATE[Feb 04 07]
+As the resource intensivist of **INSTITUTION Hospital , I was called up at approximately 07:46 p.m. to a Condition C in the Radiology Department .
+Condition C was called after patient was found unresponsive .
+On my arrival to the Radiology Department , the patient was on a gurney .
+She was lethargic , however , arousable .
+Her heart rate was 60 per minute in sinus mechanism .
+Her blood pressure was 130/80 mmHg .
+Her saturation was 98% on 2 liters of nasal cannula .
+She was having labored respirations , with a respiratory rate of about 30 to 33 per minute .
+She was shifting very small tidal volumes , had very poor air entry bilaterally .
+Apparently , the patient has end - stage rheumatoid arthritis and was admitted in the early hours of this morning for suspected gallstone pancreatitis .
+She has other comorbidities including severe anxiety / panic attacks , hypertension , restrictive lung disease , kyphoscoliosis , as well as infrarenal abdominal aortic aneurysm , history of osteoporosis .
+She was admitted with increasing altered mental status and lethargy and was thought to have sepsis , as well as respiratory failure .
+I placed the patient on nonrebreather face mask .
+I also checked her blood glucose ; it was 113 .
+Arterial blood gases were done at that time in the Radiology Department and revealed a pH of 7.01 , PC02 of 183 , P02 117 , bicarbonate of 44 , saturation 95 , suggesting severe , acute - on - chronic respiratory acidosis .
+Her lactate was 1 .
+Her H&amp ; H were 12.2 and 37 .
+The patient had severe rheumatoid arthritis with several joints that were crippled and crumbly .
+She was very frail .
+I asked her about the possibility of intubation and mechanical ventilation ; she refused this .
+Therefore , I transported her to Medical Intensive Care Unit .
+I placed a right femoral central venous catheter , as well as a right arterial catheter to monitor hemodynamics , as well as to administer fluids and antibiotics .
+I sent off blood cultures and started her on vancomycin , as well as cefepime .
+Her blood count today revealed a white cell count of 15.9 with a bandemia .
+She had a very slightly elevated amylase and lipase .
+The CT scan that was done yesterday in the evening revealed possible acute basal ganglia infarct .
+CT of the abdomen revealed infrarenal 5.2 cm x 5 cm aortic aneurysm extending up to the bifurcation .
+She also had bilateral lower lobe and right middle lobe atelectasis .
+In view of severe respiratory insufficiency , I placed the patient on a BiPAP of 15 and 5 .
+She was able to shift tidal volumes of about 500 mL with a respiratory rate of 30 .
+I had a detailed discussion with her nephew , Mr. **NAME[CCC] , who was the patient 's durable Power of Attorney and updated the situation and the entire sequence of events .
+He showed me the patient 's Living Will , as well as suggested that patient is not a candidate for mechanical ventilation or cardiopulmonary resuscitation in the event of cardiopulmonary arrest .
+I discussed other possibilities such as defibrillation , tube feeding , dialysis , and the nephew agreed that the patient should not be a candidate for any further intervention apart from giving noninvasive respiratory support , antibiotics , fluids , and that she is also not a candidate for vasopressor therapy .
+If her condition improves in the next few days , then he agreed to start her on tube feeds .
+Therefore , I continued the patient on noninvasive ventilation with frequent monitoring of arterial blood gases .
+I administered a 500 mL Hextend bolus for her hypotension and started her on antibiotics for sepsis .
+The entire sequence of events was discussed by me with Dr. **NAME[TTT SSS] , who is the A service attending for this patient , as well as with the MICU team .
+The total critical care time spent with this patient , exclusive of procedures , including discussing end - of - life issues with the family is 62 minutes .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Feb 04 2007] 21:13:50
+T :
+**DATE[Feb 04 2007] 21:17:31
+R :
+**DATE[Feb 04 2007] 21:17:31/pam
+Job ID :
+332894/**ID-NUM
+*** Dictated By :
+-**NAME[XXX , RRR] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Mar 03 2007] 05:37:51 AM

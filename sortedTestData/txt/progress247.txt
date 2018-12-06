@@ -1,0 +1,67 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Jun 06 2007]
+EVALUATION DATE :
+**DATE[Jun 08 07]
+Ms. **NAME[AAA] is a **AGE[in 50s]- year - old female with a history of diabetes who presents to the ICU , status post an isolated pancreas transplant .
+The patient did well intraoperatively and came to the Intensive Care Unit extubated on nasal cannula .
+I have seen and examined the patient with regards to her medical condition including postoperative management and pain control .
+I have reviewed her medical record including Emtek data , laboratory data , and chest x-ray .
+ASSESSMENT AND PLAN :
+1. Neurologic .
+The patient is awake and alert and oriented times three and in no acute distress .
+2. Cardiac .
+The patient is in normal sinus rhythm .
+Her blood pressure and heart rate are well controlled .
+3. Respiratory .
+The patient is extubated on 4 liters nasal cannula satting 97 to 98% .
+Her breath sounds are diminished at the bases but , otherwise , clear to auscultation .
+Her chest x-ray shows minimal bibasilar atelectasis .
+We will continue pulmonary toilet on this patient .
+4. GI / nutrition .
+The patient is NPO with an NG in place currently due to her surgery .
+We will continue this until the patient 's NG is removed per the primary service .
+She is on Protonix for GI prophylaxis .
+Her abdomen is soft , minimally distended , and mildly tender .
+5. Renal .
+The patient was a diabetic , however , does not have end - stage renal disease .
+She is making good urine , approximately anywhere from 100 to 175 mL every two hours .
+We will continue to monitor this closely .
+Her electrolytes show a potassium of 3.5 and a magnesium of 1.3 .
+Her BUN is 22 , and creatinine is 0.9 .
+6. Pain control .
+The patient is having minimal pain and is on a Dilaudid PCA .
+Her pain is mostly when she moves .
+We will continue to reassess this .
+7. Endocrine .
+The patient is status post pancreas transplant for diabetes , and her allograft shows good functions with Accu-Cheks ranging from 83 to a high of 179 when she came out of the operating room .
+Her most recent one was 116 .
+Her immunosuppression will be managed by the primary team. total critical care time 30 minutes
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Jun 08 2007] 16:24:00
+T :
+**DATE[Jun 09 2007] 07:03:00
+R :
+**DATE[Jun 09 2007] 07:03:00/ecr
+Job ID :
+337487/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , VVV M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jun 19 2007] 12:57:10 PM

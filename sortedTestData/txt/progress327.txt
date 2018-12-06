@@ -1,0 +1,80 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Mar 26 07]
+Date of service is **DATE[Mar 26 2007] .
+Mrs. **NAME[AAA] is a **AGE[in 60s]- year - old woman status post lung volume - reduction surgery .
+She continues to require critical care for management of her respiratory failure , acute renal failure , adrenal insufficiency , DVT , and hyperglycemia .
+ASSESSMENT AND PLAN :
+1. Pulmonary .
+Respiratory failure .
+I am currently managing Mrs. **NAME[AAA] on assist - control ventilation rate of 14 , tidal volume 400 , 70% FiO2 and 5 of
+PEEP .
+Chest x-ray continues to show pulmonary edema and appears slightly worse over the course of the last 24 hours .
+I will continue to wean her FiO2 as tolerated to maintain and oxygen saturation of greater than 92% and suspect she will not be able to tolerate weaning trials until her fluid balance is overall net negative .
+2. Cardiovascular .
+Extremities are warm and adequately perfused .
+She is in sinus rhythm in the 90s with mean pressures in the 60s to 70s .
+3. Infectious Disease .
+Afebrile with a white count of 5.0 .
+There has been some erythema to the left lower extremity site of previous arterial line .
+I have discontinued the A-line and obtain blood cultures today .
+I will start empiric Zosyn until cultures are finalized .
+4. Fluids , electrolytes and nutrition .
+Sodium 134 , potassium 4.0 and magnesium 2.3 .
+Replace electrolytes per protocol , and I started PhosLo .
+5. Renal . 
+Net positive in her overall fluid balance .
+Urinary output is declining despite a torsemide drip .
+I have discontinued her torsemide drip .
+BUN today is 99 with a creatinine of 4.6 .
+I will place a hemodialysis catheter and have discussed starting intermittent hemodialysis with the Renal Service within the next 24 hours .
+6. Hematology .
+Hemoglobin this morning was 7.1 .
+She did respond appropriately to one unit of packed cell transfusion with a hemoglobin of 8.7 .
+Heparin drip is on hold .
+She does have a history of lower extremity DVT .
+She will have an IVC filter placed today .
+There is no evidence of GI bleeding at this time .
+If her H&amp ; H remains stable over the next 24 hours , I will resume her heparin infusion .
+7. GI .
+Abdomen is soft and benign .
+I will maintain NPO status at this time for PEG tube placement today .
+8. Endocrine .
+Hyperglycemia .
+I will continue sliding scale insulin coverage to maintain euglycemic control , and darbepoetin due to her renal failure .
+I am continuing her baseline dose of prednisone and will resume hydrocortisone at 50 mg q. 8h .
+9. Pain .
+I will continue a Dilaudid PCA .
+10. Prophylaxis .
+I will continue Prevacid , **PLACE filter and head of the bed elevation .
+Critical Care time = 32 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+HNM/rms
+D :
+**DATE[Mar 27 2007] 00:50:04
+T :
+**DATE[Mar 27 2007] 07:23:02
+R :
+**DATE[Mar 27 2007] 07:23:02/rms
+Job ID :
+404872/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 04 2007] 07:44:53 PM

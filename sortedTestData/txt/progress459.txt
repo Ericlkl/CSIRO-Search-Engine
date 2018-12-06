@@ -1,0 +1,151 @@
+POD #2 s/p Colon Resection , ARF
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB M]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 60s] years
+Sex :
+Female
+DOB :
+**DATE[Feb 10 1941]
+Author :
+**NAME[VVV , UUU]
+Professional Services
+Credentials and Title of Author **NAME[TTT] Signing this Document : **NAME[SSS] : MD
+FY2 Resident
+Health Status
+Allergy / reaction profile :
+NKA
+Current Medications : medication administration orders ( selected )
+Sodium Chloride 0.9% 1000 mL , 1,000 mL , IV , Routine , **DATE[Mar 04 07] 8:14:00 , 100 mL / hr , Administer Over : 10 HR , Special Instructions : Bolus
+Dextrose 5% with 0.9% NaCl 1000 mL , 1000 mL , IV , Routine , **DATE[Mar 03 07] 20:15:00 , 100 mL / hr , Administer Over : 10 HR
+metoprolol ( Lopressor ) ( METOPROLOL TART 1 MG / ML 5 ML AMPULE ) , 5 mg , Amp , IV , Q6H , Routine , **DATE[Mar 03 07] 8:00:00
+hydromorphone ( Dilaudid ) ( HYDROMORPHONE 1 MG / ML SYRINGE 1 ML ) , 1 mg , Dispsyr , IV , Q4H , PRN , For Pain , Severe ( 7-10 ) , Routine , **DATE[Mar 03 07] 1:14:00
+clonidine ( clonidine 0.2 mg / 24 hr transdermal film , extended release ) ( CLONIDINE HCL 0.2 MG PATCH ) , 1 Patch , Film , extended release , TransDermal , Weekly , STAT , **DATE[Mar 02 07] 7:31:00 , Special Instructions : Change patch every 7 days .
+atorvastatin ( Lipitor ) ( ATORVASTATIN 20 MG TABLET ) , 20 mg , Tab , By Mouth , At Bedtime , Routine , **DATE[Feb 31 07] 22:00:00
+atenolol ( ATENOLOL 25 MG TABLET ) , 25 mg , Tab , By Mouth , Daily , Routine , **DATE[Feb 31 07] 10:13:00
+escitalopram ( Lexapro ) ( ESCITALOPRAM 10 MG TAB ) , 10 mg , Tab , By Mouth , Daily , Routine , **DATE[Feb 31 07] 9:15:00
+pantoprazole ( Protonix IV 40 mg intravenous powder for injection ) ( PANTOPRAZOLE ) , 40 mg , IV , Q24H , Routine , **DATE[Feb 31 07] 0:00:00
+Problem list
+All Problems
+DIABETES MELLITUS ( ICD-9-CM 250 )
+HYPERTENSION ( ICD-9-CM 997.91 )
+CAD [ Coronary artery disease ] ( ICD-9-CM 414.0 )
+Arthritis NOS ( ICD-9-CM 716.9 )
+TIA [ Transient ischemic attack ] ( ICD-9-CM 435.9 )
+OBSTRUCTIVE SLEEP APNEA ( ICD-9-CM 327.23 )
+Hypercholesterolemia ( ICD-9-CM 272.0 )
+DEPRESSIVE DISORDER , NOT ELSEWHERE CLASSIFIED ( ICD-9-CM 311 )
+Insertion of permanent pacemaker , initial or replacement , type of device not specified ( ICD-9-CM 37.80 )
+Hearing loss NOS ( ICD-9-CM 389.9 )
+Results Review
+General results
+Subjective
+**AGE[in 60s] y/o F , with multiple medical problems , please see the above , including c-section X 2 , c/o 2 weeks of constipation , abd floating , admitted here for LBO s/p Ex. Lap , Sigmoid Colectomy with End Colostomy ( POD #2 )
+Overnight pt. states that she is thristy .
+She has not had a drink in a very long time and was not drinking or tolerating PO even prior to when she came in .
+States that he belly feels well though .
+She otherwise has no complaints .
+Physical Examination
+General Exam
+Vital signs :
+Lowest BP has been 85/54 ( ranging between 93/53-111/55 )
+HR has been in the 80s
+Please see the above
+Constitutional : appearance : alert , older than stated age , dry mucosa , responding appropriately
+Heart : rhythm : irregularly irregular , heart sounds : S1 : normal , S2 : normal , no extra heart sounds , no murmurs .
+Arterial Pulses : dorsalis pedis pulse : weak b/l
+Lungs : bilateral : diminished , but audible into bases , no adventitious sounds no crackles present , no rhonchi present , no wheezes present .
+Abdomen : surface : mild distension with midline surgical scar with associated staples , CDI contour : generalized distention ,
+bowel sounds : diminished ,
+Colostomy pink stoma with brown stool drainage .
+not rigid .
+Psychiatric :
+Mood and affect : normal .
+Pt. Blood Glucose b/t 167-212
+Plan
+SBO - Small bowel obstruction ( SNMCT **ID-NUM , Working , Problem )
+LBO s/p Ex. Lap , Sigmoid Colectomy with End Colostomy ( POD #2 )
+- Pt. 's pain has improved and stoma appears to be functioning well ; await Surgery input from today
+- Final path .
+report pending but intial was negative for Cancer ; However , elevated Ca-125 to 117 .
+Non - specific .
+Given that pt. has known cirrohosis with Portal HTN , that is the likely etiology for the elevation .
+Nevertheless final path pending .
+From Up TO Date Article about " Screening for Ovarian Ca "
+However , the specificity of CA 125 is limited .
+CA 125 is also increased in patients with other malignancies , including endometrial , breast , lung , and pancreatic cancer , as well as in a variety of benign conditions , such as endometriosis , uterine leiomyoma , cirrhosis with or without ascites , and pelvic inflammatory disease .
+The presence of pleural or peritoneal fluid or disease involvement , whatever the cause , also increases CA 125 levels .
+Furthermore , CA 125 levels are elevated in approximately 1 percent of healthy women , and they fluctuate during the menstrual cycle .
+ACUTE RENAL FAILURE ( ICD9 584 , Working , Problem )
+Pt. with progressively increasing BUN / Cr from 11/0.5 to 14/1.2 to 21/2.1 today
+- Given only one dose of Lasix 40 mg IV , however failed to diurese with that
+- UO has only been 20 cc per hour despirte being 2850 cc postive for the last 24 hours and 9268 cc since admission
+- appears clinically dry however and urine very dark
+- sent urine lytes ( UA , Creatine , Sodium , Osm ) because it is unclear to me whether this is prerenal vs. ATN vs. RTA
+- Pt. does not appear fluid overloaded ( no resp. comprimise , no sig. edema ) but on Lasix 40 mg BID as outpt. so she may rely on lasix to mobilize fluid , also she may be third spacing given extent of surgery
+- follow up on lytes and CARDS recs. , low threshold to c/s
+RENAL DIARRHEA ( ICD9 787.91 , Working , Problem )
+- one epidsode prior to this admission
+- intial C. Diff negative
+- Despite WBC elevation ( post - op ) given stool quality and symptoms , this seem less likely , but could repeat C Diff if index of suspicion remains elevated
+HTN [ Hypertension ] ( ICD9 401.9 , Working , Problem )
+BP has been ranging on the lower end ( 85/54 to 111/55 )
+- presently on Clonidine 0.2 mg qweek as well as Lopressor 5 mg IV q 6 ( CARDS preop recommendations )
+- prior to admission pt. on no meds explicitly for BP control as far as I can see from her Med Rec .
+- Pt. also took Lasix 40 mg BID as outpt .
+- Given tenous nature of BP would consider a lower dose of the clonidine patch
+ATRIAL FIBRILLATION AND FLUTTER ( ICD9 427.3 , Working , Problem )
+Pt. has been in atrial fibrillation with Pacemaker
+- Rate has been in the 80s with Lopressor ( IV 5 q6 )
+- Prior to admission on Sotalol ( D/C 'd by Cards )
+- Pt. to take Atenolo 25 mg Daily when able to take PO ( per CARDS )
+- Also was on Lasix 40 mg BID prior to admission ( unclear reasons why ) but ECHO does not indicate systolic dysfunction ( EF 61% ) but reather biatrial enlargement
+- pt. anticoagulated ( secondary to prothrombotic state ) with coumadin with INR present 2.7
+DM [ Diabetes mellitus ] ( ICD9 250.0 , Working , Problem )
+- relatively poor control with Blood Glucoses being 167-212
+- presently on D5NS with Low Sliding Scale Insulin q 6 hours
+- change to moderate dose Sliding Scale
+- hold Metformin , although with HgBA1c of 6.8 with this as outpt .
+( consider Lantus )
+Depressive disorder NOS ( ICD9 296.00 , Working , Problem )
+I am assuming pt. with slightly more complicated diagnosis than just Depressive Disorder given that she was on Lexapro , Aricept and Namenda as outpt .
+- will cont. Lexapro , but hold Namenda and Aricept fot now given that they are unlikely to make a difference acutely
+- appears to reasonably oriented and in good spirits
+CHRONIC LIVER DISEASE AND CIRRHOSIS ( ICD9 571 , Working , Problem )
+- not active , but will check LFT s to assess serum Albumin and Protein with regards to RF , HTN
+- if to tx. Portal HTN and regular HTN could consider non - specific
+Beta - Blocker such as Propanolol
+COPD [ Chronic obstructive pulmonary disease ] ( ICD9 496 , Working , Problem )
+No active pulmonary issues , but consider changing PRN Duonebs to Atrovent alone to prevent Tachycardia with Afib
+Disposition
+With Low BP and UO being tenous consider keeping in IMCU until stabilized
+Addendum by **NAME[XXX , WWW M] on **DATE[Mar 04 2007] 3:05 PM
+Patient was seen and examined with the Resident .
+History and physical exam were reviewed .
+I agree with physical findings .
+I agree with assessment and plan as written .
+FHC Attending pt seen , chart reviewed discussed with staff appreciate surgery f/u pt with more pain and distention today thirsty confused no jaundice , petechia bbs irreg 90 's no rub more distended abd , diffusely tender , some ecchymoses at wound site
+SCD boots on , no cords labs reviewed elevated cr , wbc 29.6 , hct 37 , INR increased to 2.7
+1. s/p POD #2 , colostomy
+2. hx cirrhosis , ascites , portal HTN
+3. renal insufficiency , acute concern about impending hepatorenal
+4. elevated wbc post op - ? peritonitis / SBP
+5. confusion - multifactorial
+6. coagulopathy - worsening post op
+7. hyperglycemia concern about hepatorenal check LFT 's , DIC panel , follow cbc , bmp , coags will consult renal Dr. **NAME[RRR] , and ID Dr. **NAME[QQQ] add zosyn for coverage
+? needs paracentesis d/c lipitor , lexapro continue PPI vitamin K
+SCD boots
+SSI
+**NAME[XXX]
+Perform by **NAME[VVV , UUU]
+( on **DATE[Mar 04 2007] 09:22 )
+Sign by **NAME[VVV , UUU]
+( on **DATE[Mar 04 2007] 09:22 )
+VERIFY by **NAME[VVV , UUU]
+( on **DATE[Mar 04 2007] 09:22 )
+Modify by **NAME[XXX , WWW] K
+( on **DATE[Mar 04 2007] 15:05 )
+Sign by **NAME[XXX , WWW] K
+( on **DATE[Mar 04 2007] 15:05 )

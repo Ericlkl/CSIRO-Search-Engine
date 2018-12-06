@@ -1,0 +1,79 @@
+**INSTITUTION
+TRANSPLANT SURGERY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+RON
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Jul 08 2007]
+DISCHARGE DATE :
+**DATE[Jul 11 2007]
+This is a **AGE[in 50s]- year - old female who was admitted on **DATE[Jul 8 2007] , and discharged on **DATE[Jul 11 2007] .
+She is status post cadaveric renal transplant done in 1992 **DATE[Jul 2006] , end - stage renal disease secondary to hypertension and diabetes .
+She was admitted for complaints of dehydration , elevation in her creatinine , elevated up to 4.2 from a baseline of 2.5 to
+3.0 .
+She was also complaining of some nausea , vomiting .
+She was admitted and labs were checked .
+A chest x-ray was obtained to rule out pneumonia and showed no pulmonary edema .
+No pleural effusions and no infiltrates .
+Urinalysis and urine culture was obtained .
+The urine culture showed up as contaminations only .
+An ultrasound of her renal allograft was obtained on **DATE[Jul 9 2007] , and showed no gross hydronephrosis , no perinephric fluid collection .
+There is a nondiagnostic Doppler study , and she obtained a renal biopsy on **DATE[Jul 10 2007] , which showed glomerular hyalinosis with global glomerular sclerosis , borderline to no evidence of ACR __________ determined that the patient 's kidney has pretty much saline , and at some point she will need to be relisted for a kidney transplant .
+She will need to begin the prescreening transplant process as she tolerates although her doctors would like her to make every attempt possible to lose some weight before she is put on the list for a transplant .
+She was given some IV fluids and taken off her Zaroxolyn on admission and her creatinine did improve throughout her stay .
+Right from a creatinine of 5.1 on admission with IV fluids , it fell to 3.1 on the day of discharge ; still this is slightly elevated from her baseline .
+She did complain of some constipation throughout her stay .
+She was given Fleet Enema and Dulcolax pill , which helped .
+While she was in the hospital , we did get a 12 - lead EKG , hepatitis panel and __________ prescreening for dialysis .
+She will follow up with her home nephrologist __________ when she will need to initiate dialysis , and the patient 's nausea , vomiting resolved with IV fluids and supportive therapy .
+She began tolerating regular diet and was making adequate urine output .
+She remained afebrile throughout her stay .
+She was having bowel movements at the time of discharge .
+She was seen by Dr. **NAME[UUU] on the day of discharge and deemed stable for home .
+She was discharged to home and instructed to follow up with the **INSTITUTION as scheduled and to begin discussing starting her pretransplant workup .
+She was also instructed to follow up with her nephrologist as scheduled to evaluate when she will need to start dialysis .
+She was instructed to have her labs drawn once a week at home and fax the results to her coordinator .
+She was to do q.a.c. and nightly blood checks for sliding scale coverage .
+She was instructed to contact her doctor if she has any problems with temperature greater than 101 degrees Fahrenheit , any nausea , vomiting , or diarrhea leading to dehydration , any problems with weight gain , shortness of breath , or decrease in urine output .
+DISCHARGE MEDICATIONS :
+1. Prograf 7 mg p.o. b.i.d.
+2. Sulfa 500 mg p.o. b.i.d.
+3. Hydralazine 50 mg p.o. b.i.d.
+4. Allopurinol 100 mg p.o. q. day .
+5. Bactrim single strength 1 tablet p.o. q. Monday , Wednesday , Friday .
+6. Protonix 40 mg p.o. q. day .
+7. Aspirin 81 mg p.o. q. day .
+8. Colace 100 mg p.o. b.i.d.
+9. Procardia XL 60 mg p.o. q. day .
+10. Zocor 10 mg p.o. nightly .
+11. Bacitracin ointment topically b.i.d.
+12. NPH 14 units subcutaneous at breakfast and bedtime .
+13. Regular Humulin 6 units subcutaneous with meals and at bedtime .
+14. Regular insulin low - dose sliding scale q.a.c.
+15. Sodium bicarbonate 650 mg p.o. b.i.d.
+For any other questions or concerns concerning this patient 's hospital stay , please consult the chart .
+___________________________________
+RON
+**NAME[ZZZ]
+Dictator :
+**NAME[VVV XXX , WWW]
+KF/ss
+D :
+**DATE[Jul 11 2007] 12:54:41
+T :
+**DATE[Jul 12 2007] 01:19:59
+R :
+**DATE[Jul 12 2007] 01:19:59/ss
+Job ID :
+342209/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , WWW-VVV] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Jul 12 2007] 08:18:16 PM

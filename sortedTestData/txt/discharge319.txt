@@ -1,0 +1,46 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[May 23 2007]
+Discharged :
+**DATE[May 27 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+DISCHARGE DIAGNOSIS :
+Status post left total knee arthroplasty .
+HOSPITAL COURSE :
+The patient is a **AGE[in 60s]- year - old female patient of Dr. **NAME[ZZZ] who has left knee DJD .
+She was brought in on the day of admission surgery unit at **INSTITUTION for an elective left total knee arthroplasty on the left side .
+She tolerated the procedure well and was transferred to the regular nursing floor postoperatively .
+On post operative day #2 , she indicated to the nurses that she had had an episode where her vision went blurry for several minutes but then returned to baseline .
+She states that she has had several of these episodes in the past and had been told that they were TIA s .
+Medicine consult was obtained and completed several testing modalities including CT of the head .
+It was determined that no further workups was necessary for this incident .
+Otherwise , the patient did extremely well postoperatively .
+She was ambulatory with physical therapy on postoperative day #2 .
+She was afebrile .
+Vital signs remained stable throughout her hospitalization .
+FOLLOWUP INSTRUCTIONS :
+The patient should follow up Dr. **NAME[ZZZ] in 2 weeks .
+She should continue weightbearing as tolerated and physical therapy until followup .
+She should continue taking her Arixtra for DVT prophylaxis which was begun in the hospital .
+If she develops any increasing pain , redness , swelling or other problems with her left lower extremity , she should contact
+Dr. **NAME[ZZZ] immediately .
+She should resume her home medications .
+______________________________
+**NAME[WWW XXX , CCC]
+HS Job # 123571 / 41427 / 16547
+SHY # **ID-NUM
+D :
+**DATE[May 29 2007] 08:28
+T :
+**DATE[May 30 2007] 06:31
+**CARBON-COPY

@@ -1,0 +1,55 @@
+**INSTITUTION :
+1. Biliary dyskinesia .
+2. Mild antral gastritis .
+OTHER PERTINENT SECONDARY DIAGNOSES :
+1. Hypertension .
+2. Benign prostatic hypertrophy .
+CONSULTATIONS :
+Consults placed were to :
+1. Dr. **NAME[VVV] , surgery .
+2. Dr. **NAME[UUU] , GI .
+PROCEDURES :
+Procedures performed were :
+1. EGD .
+2. HIDA scan with CCK stimulation .
+3. Ultrasonogram of the abdomen .
+4. CT scan of the abdomen .
+5. MRI of the brain .
+HOSPITAL COURSE :
+The patient is a **AGE[in 60s]- year - old white male who came in with a chief complaint of abdominal pain in the right upper quadrant for about 2 months .
+His pain was getting worse after eating so the patient was admitted .
+Dr. **NAME[VVV] , surgeon was consulted .
+He had a HIDA scan done with CCK simulation which was suggestive of biliary dyskinesia .
+The patient is to follow up with Dr. **NAME[TTT] as an outpatient to schedule for surgery .
+The patient also had an ultrasound of the abdomen done which was negative for any gallstone or any changes in the wall of the gallbladder .
+CT scan of the abdomen was also done which was essentially normal except it showed malrotated kidney .
+The patient is to follow up with Dr. **NAME[TTT] for the surgery as an outpatient to get an elective surgery .
+The patient also had an EGD done which showed mild antral gastritis and no peptic ulcer disease .
+The patient is being discharged home .
+MEDICATIONS :
+The list of medications are as follows :
+1. Avodart 0.5 mg capsule oral at bedtime .
+2. Benicar 20 mg tablet oral daily .
+3. Prilosec 20 mg capsule oral daily .
+4. Flomax 0.4 mg capsule oral at bedtime .
+5. Ultram 50 mg tablet every 4 to 6 hours p.r.n.
+DIET :
+Low sodium .
+ACTIVITY :
+As tolerated .
+DISCHARGED :
+To home .
+PHYSICIAN FOLLOWUP :
+**NAME[CCC M. ZZZ] SSS]. , M.D. and **NAME[DDD TTT] , M.D. both scheduled for surgery on **DATE[Feb 24 2007] .
+SPECIAL DISCHARGE INSTRUCTIONS :
+Discussed with Dr. **NAME[ZZZ , YYY] Jr. , when to resume his aspirin as the aspirin was held .
+The patient also had an MRI of the brain done which showed no acute intracranial abnormality .
+He is being worked up for Parkinson disease as an outpatient by Dr. **NAME[ZZZ] .
+______________________________
+**NAME[WWW XXX] , M.D.
+HS Job # 710667 / 41125 /
+# **ID-NUM
+D :
+**DATE[Feb 14 2007] 14:25
+T :
+**DATE[Feb 15 2007] 23:32

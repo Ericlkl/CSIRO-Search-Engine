@@ -1,0 +1,52 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Mar 27 2007]
+EVALUATION DATE :
+**DATE[Mar 29 07]
+I have been requested by the Vascular team to take care of this patient admitted to the ICU .
+I am managing this patient 's rhabdomyolysis , hypertension and infectious disease .
+I have examined this patient , reviewed the data in the medical records .
+On my examination today , the patient is awake , alert and oriented , warm , well perfused .
+He denies any distress .
+Examination of the heart reveals S1 , S2 present .
+Lungs reveal diminished breath sounds at both bases .
+Abdomen is soft and nontender .
+ASSESSMENT AND PLAN :
+I have this patient on normal saline at 250 cc an hour .
+He is making good urine now .
+His BUN and creatinine is okay .
+I will continue the hydration on this patient .
+I also have him on Lopressor 5 q. 4 .
+His blood pressure seems to be well controlled .
+He is on Ancef , a perioperative antibiotic prophylaxis and IV heparin for his vascular cleft .
+His CPK is coming down to 53,000 .
+I have replaced his electrolytes appropriately .
+The patient might need to go to the operating room for further procedures of ___________ .
+The total critical time I provided on this patient is **AGE[in 30s] minutes .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+RV/pap
+D :
+**DATE[Mar 29 2007] 14:15:32
+T :
+**DATE[Mar 29 2007] 14:24:13
+R :
+**DATE[Mar 29 2007] 14:24:13/pap
+Job ID :
+366545/**ID-NUM
+*** Dictated By :
+-**NAME[XXX , TTT] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Apr 12 2007] 01:49:11 PM

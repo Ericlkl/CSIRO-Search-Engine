@@ -1,0 +1,65 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Dec 31 2007]
+Discharged :
+**DATE[Jan 06 2008]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+PRINCIPAL DIAGNOSES :
+1. Multiple lumbar compression fractures secondary to multiple myeloma .
+2. Anemia secondary to multiple myeloma .
+3. Anemia secondary to multiple myeloma .
+4. Hypercalcemia secondary to multiple myeloma .
+5. Renal insufficiency due to multiple myeloma .
+CONSULTANTS :
+1. Dr. **NAME[VVV] .
+2. Dr. **NAME[UUU] .
+3. Family Practice Teaching Service .
+HOSPITAL PRESENTATION :
+Mr. **NAME[AAA] is a **AGE[in 50s]- year - old who had been having persisting low back pain and found to have hypercalcemia , anemia and renal insufficiency .
+This gentleman was admitted to the teaching service and seen in consultation by Dr. **NAME[VVV] and laboratory studies suggested that there might be a possibility of underlying multiple myeloma .
+The patient was seen by Dr. **NAME[UUU] , who recommended bone marrow biopsy which was performed .
+The patient was placed on intravenous fluids and his potassium level dropped nicely .
+Hemoglobin remained stable , but low , and the patient was placed on Aranesp .
+His neuro imaging did not suggest that he would be a candidate for any surgery nor vertebroplasties .
+Fortunately , his pain diminished significantly during his hospital stay and he required very little analgesia .
+At the time of discharge , he was comfortable and he was on steroids along with his Aranesp .
+Dr. **NAME[UUU] will see him in the outpatient setting over the next several months and prepare him for stem cell transplantation .
+The radiation oncology folks saw him and did not feel he was a candidate due to his absence of cord involvement and his fairly pain free state at this point .
+Mr. **NAME[AAA] was discharged in improved condition on the following medications :
+1. Aranesp 400 mcg subcutaneously every Thursday .
+2. Prednisone as directed by Dr. **NAME[UUU] .
+He has analgesia at home .
+PHYSICAL ACTIVITY :
+He is not to work during his convalescence and treatment for multiple myeloma .
+He is to avoid driving , avoid lifting .
+DIET :
+His diet is lowfat and low cholesterol .
+FOLLOW UP :
+Follow up with Dr. **NAME[ZZZ] in the outpatient setting .
+Arrangements will need to be made for his Aranesp therapy and this will take place through the **INSTITUTION .
+Ongoing monitoring of his renal status and calcium will be undertaken by the oncologist .
+He will see Dr. **NAME[ZZZ] in approximately 1 month .
+He knows to call us if he has any increasing pain , any fevers or chills .
+The discharge calcium was in the normal range .
+His creatinine was at 2.2 , his hemoglobin at 8.1 .
+At the time of this discharge , Dr. **NAME[UUU] was considering transfusing him .
+It was felt at this point his inpatient hospitalization had been maximized but it is understood that with his condition he may need to be readmitted in the future .
+______________________________
+**NAME[WWW XXX] , MD
+HS Job # 329873 / 41736 /
+SHY # **ID-NUM
+D :
+**DATE[Jan 07 2008] 09:33
+T :
+**DATE[Jan 07 2008] 10:04
+**CARBON-COPY

@@ -1,0 +1,57 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING **NAME[UUU : RRR]
+**NAME[TTT SSS]
+ADMISSION DATE :
+**DATE[Nov 19 2007]
+EVALUATION DATE :
+**DATE[Nov 20 07]
+I am managing this critically - ill **AGE[in 40s]- year - old male who is postop day one from a superior mesenteric artery false aneurysm repair .
+Intraoperative course complicated by some blood loss with the concern for mesenteric ischemia .
+He was transferred to the Intensive Care Unit intubated , sedated and mechanically ventilated .
+I am seeing him for management of these issues .
+I have seen and examined the patient .
+Reviewed his laboratory , radiographic and Emtek data , and discussed the management with the Vascular Surgeons and the General Surgeons .
+The problems and the management are as follows ;
+1. Respiratory failure .
+Chest x-ray shows his endotracheal tube in good position .
+The pulmonary artery catheter appears to be adequate position as well .
+Currently on the vent .
+I have got him on assist control .
+His peak airway pressures are 28 with a tidal volume of 550 .
+Gas exchange is good at 40% FIO2 and 5 of PEEP .
+Minute ventilation is adequate .
+I have made on changes in his vent as he is going back to the operating room .
+2. SMA repair .
+He will need to go back to the operating room for a second look today for evaluation of viability .
+I have given him a 6 pool of platelets empirically for a platelet count of 79 as well as 6 pool of cryo participate for a slightly decreased fibrinogen level .
+He remains on antibiotics with ciprofloxacin , Flagyl and vancomycin empirically .
+3. ICU prophylaxis .
+He is on a Proton pump inhibitor and he is currently NPO .
+He has SCDs for DVT prophylaxis and his suprapubic catheter is draining adequate amounts of urine .
+CRITICAL CARE TIME :
+The total critical care time equals 40 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Nov 20 2007] 16:15:31
+T :
+**DATE[Nov 20 2007] 16:48:21
+R :
+**DATE[Nov 20 2007] 16:48:21/nlg
+Job ID :
+354713 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , QQQ M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jan 19 2008] 02:54:58 PM

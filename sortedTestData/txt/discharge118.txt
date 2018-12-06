@@ -1,0 +1,78 @@
+**INSTITUTION
+General Internal Medicine
+Discharge Summary
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+ATTENDING :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jun 26 2007] 23:42:00
+DISCHARGE DATE :
+**DATE[Jul 04 2007]
+DISCHARGE DIAGNOSES :
+1. Syncope , likely vasovagal .
+2. Hypertension , uncontrolled .
+3. Bradyarrhythmia .
+4. Anemia of chronic disease .
+5. Coronary artery disease .
+6. Chronic obstructive pulmonary disease .
+7. Hypoalbuminemia .
+8. Moderate to severe Alzheimer dementia .
+9. Gastroesophageal reflux disease .
+10. History of gastrointestinal bleeding .
+11. Transient ischemic attack .
+12. Hypothyroidism .
+13. Severe generalized deconditioning .
+14. Ambulatory dysfunction .
+DISCHARGE MEDICATIONS :
+1. Potassium 20 mEq p.o. daily .
+2. Senokot 2 tablets at bedtime .
+3. Lexapro 10 mg daily .
+4. Synthroid 150 mcg daily .
+5. Lisinopril 20 mg daily .
+6. Magnesium oxide has been discontinued today .
+7. Namenda 10 mg in the morning and 5 mg in the evening .
+8. Protonix 40 mg p.o. daily .
+9. Norvasc 10 mg daily .
+10. Caltrate 600 + D p.o. b.i.d.
+11. Depakote 750 p.o. at bedtime .
+12. Colace 100 p.o. b.i.d.
+13. Aricept 10 mg daily .
+**INSTITUTION COURSE :
+The patient is an elderly white female , **AGE[in 80s]- year - old , admitted through the Emergency Room with recurrent episodes of syncope .
+The patient had a negative cardiac workup .
+The patient with moderate to severe dementia , treated with medical management , seen by Neurology and Cardiology Services and TIA Services .
+The patient received blood transfusion .
+At the present time , denies any chest pain , shortness of breath , nausea , vomiting , or diarrhea .
+No melena .
+No hematemesis .
+Appetite is good .
+Ambulating well .
+No further episodes of seizures or syncope noted .
+The patient is being discharged home with **INSTITUTION Physical Therapy , fall precautions , and skin care .
+Diet is 2 - g sodium diet as tolerated .
+Discussed with the patient and the patient 's daughter and nursing staff .
+I had written down the patient 's all prescriptions .
+Discharge day management time is 35 minutes .
+Please refer to the patient 's chart at **INSTITUTION for further details of the patient 's hospital course and testing results .
+The patient 's family does not want the patient to go the nursing facility .
+_____________________________________
+**NAME[YYY M ZZZ]
+DICTATED BY :
+**NAME[YYY M. ZZZ] , M.D.
+**INITIALS
+D :
+**DATE[Jul 04 2007] 13:14:09
+T :
+**DATE[Jul 06 2007] 01:02:12
+R :
+**DATE[Jul 06 2007] 01:02:12/fk
+Job ID :
+374667 /**ID-NUM
+CC:
+*** Dictated By :
+010581-**NAME[ZZZ , CCC M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Jul 15 2007] 10:29:30 AM

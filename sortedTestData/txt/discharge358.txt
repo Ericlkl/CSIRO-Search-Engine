@@ -1,0 +1,48 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Mar 23 2007]
+Discharged :
+**DATE[Mar 26 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+ADMISSION DIAGNOSIS :
+Nausea and abdominal pain post Nissen .
+DISCHARGE DIAGNOSIS :
+Nausea and abdominal pain post Nissen .
+This **AGE[in 30s]- year - old woman underwent an uncomplicated Nissen fundoplication for gastroesophageal reflux disease on **DATE[Mar 18 2007] , by Dr. **NAME[ZZZ] .
+She was discharged home on postoperative day #2 .
+Following discharge , she developed some mid back pain and also had some nausea for 2 to 3 days prior to admission .
+She did not have any vomiting .
+She also states that when she drank , she got quite bloated and then would have diarrhea .
+This is predominantly related to food .
+She denied any dysuria , fevers or chills , or respiratory symptoms .
+She was assessed in the emergency department .
+During the admission , a repeat upper GI was done , this showed no evidence of a leak or holdup of the contrast .
+Duplex Doppler was also done to rule out PE as her heart rate has been increased .
+It was felt that this was likely just due to her previous increased heart rate .
+She was seen by Dr. **NAME[VVV] and started on Cardizem 120 mg while in hospital .
+She will see him as an outpatient if required .
+During the course of her stay , her nausea decreased , and she was able to tolerate clear fluids without any problems .
+Because of the diarrhea , Clostridium difficile toxin was sent and which was not back at the time of discharge .
+Otherwise , at the time of discharge , everything was well .
+She is to stay on some clear fluids and slowly advance to full fluids as tolerated .
+The full fluids she has tried while in the hospital did give her a bit of nausea .
+She is aware to follow up in her previously booked clinic appointment with Dr. **NAME[ZZZ] and to call if any concerns develop .
+______________________________
+**NAME[WWW XXX]
+HS Job # 974198 / 41478 /
+SHY # **ID-NUM
+D :
+**DATE[Mar 26 2007] 10:19
+T :
+**DATE[Mar 28 2007] 13:18
+**CARBON-COPY

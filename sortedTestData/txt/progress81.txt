@@ -1,0 +1,66 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING **NAME[WWW :
+YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Apr 29 2007]
+EVALUATION DATE :
+**DATE[May 04 07]
+I personally interviewed and examined the patient .
+The care plan was discussed with the resident team .
+Please consider this note linked to the resident note .
+The patient has had an uneventful night .
+She is feeling relatively well this morning .
+Her affect is brighter , and she states she would be agreeable to having the Foley catheter discontinued and using a bedside commode .
+The Foley catheter was placed initially to better evaluate her volume status , but ultimately because of discomfort with urination , it was kept in place because of her vaginal wounds .
+PHYSICAL EXAMINATION :
+She is afebrile .
+Blood pressure is 140/69 , heart rate 98 , and temperature is 37.2 .
+General :
+She has a brighter affect , smiles today for the first time that I have seen .
+Her lungs are clear to auscultation .
+Heart sounds regular rate and rhythm .
+Skin is unchanged .
+Labs are detailed in the resident note and are reviewed by me in their entirety and are notable for her being guaiac - positive with a white count that is up to 13.6 today from 8.4 yesterday with 79% neutrophils .
+ASSESSMENT AND PLAN :
+1. ID .
+Wound culture has not yet been reported .
+She was placed on Augmentin 250 t.i.d. on the third .
+Her white count is slightly elevated ; today , she remains afebrile .
+I will continue to monitor .
+Clinically , she is much improved .
+2. Hypertension .
+This does appear to be persisting .
+It could be secondary to her steroids however .
+We will not treat at this point .
+3. Lupus .
+On Plaquenil .
+Following CBC and steroids .
+4. GU .
+Discontinue Foley , get bedside commode .
+5. Disposition .
+Yet to hear if the patient is walking , and we need to assess this to better judge what would be the best discharge plan for her .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+KEH/ss
+D :
+**DATE[May 04 2007] 18:44:56
+T :
+**DATE[May 04 2007] 22:13:44
+R :
+**DATE[May 04 2007] 22:13:44/ss
+Job ID :
+374979 /**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[ZZZ , TTT M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[May 21 2007] 10:46:50 PM

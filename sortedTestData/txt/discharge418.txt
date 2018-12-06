@@ -1,0 +1,57 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+____________________________________________________________
+**NAME[AAA , BBB M]
+**ID-NUM
+**ID-NUM
+A5B/1
+SERVICE OF :
+**NAME[ZZZ M YYY]
+DATE OF ADMISSION :
+**DATE[Jul 07 2007]
+DATE OF DISCHARGE :
+**DATE[Jul 10 2007]
+ADMITTING DIAGNOSIS :
+Aphasia .
+FINAL DIAGNOSES :
+1. Transient ischemic attack .
+2. Meningiomas of the brain .
+3. Chronic obstructive pulmonary disease .
+4. Hypertension .
+CONSULTATION :
+1. Dr. **NAME[XXX] of neurology .
+2. Dr. **NAME[WWW] of neurosurgery .
+HISTORY :
+This is the first recent **INSTITUTION admission for this **AGE[in 60s]- year - old female who noted the onset of an expressive , nonfluent aphasia on the day of admission .
+The patient also has severe end - stage COPD .
+HOSPITAL COURSE :
+The patient was admitted .
+She had some expressive aphasia which lasted several days .
+She had an MRI which showed no significant change , previous 2 meningiomas , one of which is impinging upon the brain stem , the other of which is in the left temporal region .
+She had an EEG which also demonstrated some slowing but no focal spiking .
+Both Dr. **NAME[XXX] and Dr. **NAME[WWW] of neurosurgery felt that the symptoms were more likely related to a TIA or RIND .
+The patient declined surgical intervention for her meningiomas .
+Given her medical condition with severe COPD , consultants thought that this is a reasonable decision .
+The patient 's neurologic status gradually improved to baseline .
+She has basically a bed - to - chair existence because of her severe COPD , but she was able to return to baseline .
+The patient was discharged in stable condition .
+She will be sent home on the same medicines with which she came to the hospital which include the following :
+1. Aspirin 325 mg daily ( This actually was increased from 81 mg daily ) .
+2. Ativan 1 mg t.i.d. p.r.n.
+3. Combivent inhaler 2 puffs q.i.d.
+4. Norvasc 10 mg daily .
+5. Os-Cal 500 b.i.d.
+6. Vitamin E 400 units daily .
+7. Wellbutrin SR 150 mg b.i.d.
+She will be followed by home care and also follow up with me in several weeks in the office .
+___________________
+**NAME[ZZZ M. YYY] , M.D.
+Dict :
+**DATE[Jul 10 2007] 10:46:17
+Tran :
+**DATE[Jul 10 2007] 11:59:40
+**INITIALS
+R :
+**DATE[Jul 10 2007] 11:59:40/aj
+**CARBON-COPY

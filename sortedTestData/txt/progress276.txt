@@ -1,0 +1,206 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB M]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 50s] years
+Sex :
+Female
+DOB :
+**DATE[Feb 31 1954]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Summary of Hospitalization :
+The pt. is a **AGE[in 50s] yo female with PMHx significant for c. diff x 2 , thyroid CA , HTN , CVA who initially presented 1/3 with diffuse abd pain , + N/V , and diarrhea .
+The pt. was found to have bilateral chronic DVT s.
+Cond. C called on 1/10 for pt. seizing .
+Transferred to 7F .
+Pt. found to have PE .
+Heparin gtt continued .
+Pt. stabilized and transferred back to I-Service on 1/22 .
+Past Medical History :
+PMHx : c. diff x 2 , last treated with flagyl 9/06 - **DATE[Feb 07]
+Thyroid CA - papillary Stage I
+HTN
+CVA
+Depression s/p gastric bypass s/p chole s/p RIGHT knee
+DM
+DJD
+Gastric ulcer
+CHF
+UTI
+Other Information :
+BLE dopplers **DATE[Mar 8 07] : preliminary " appears to be positive for DVT in the popliteal and posterior tibial veins bilaterally and in the LEFT Deep femoral vein ."
+Subjective / Events Overnight :
+Chart and labs reviewed .
+Patient seen at bedside .
+Pt. without specific complaints this AM .
+Reports she is feeling well .
+Denies SOB .
+Vital signs
+Physical Exam
+General Appearance :
+Pt. sitting up in bed in NAD .
+Cardiovascular :
+S1 , S2 , no gallop .
+RRR .
+Respiratory :
+CTA .
+Gastrointestinal :
+NABS x 4 .
+Obese , soft , nt , nd .
+Musculoskeletal :
+MAE s .
+Skin :
+Warm and dry .
+Neurological :
+Alert and oriented x 3 .
+Ext :
+2 + BLE edema.  .
+Current medications reviewed
+General Results
+Today 's results :
+ALLRESLTSECT
+**DATE[Mar 24 2007] 4:01 AM
+Na 138 mEq / L
+K 3.9 mEq / L
+Cl 108 mEq / L
+CO2 29 mEq / L
+Anion Gap 1.0 Low
+BUN 12 mg / dL
+Cr 0.8 mg / dL
+Ca 7.5 mg / dL Low
+Mg 1.4 mEq / L
+Phos 3.8 mg / dL
+WBC 3.6 X10E+09 / L Low
+RBC 3.13 X10E+12 / L Low
+Hgb 9.3 gm / dL Low
+Hct 27.4 % Low
+MCV 87.6 fL
+MCH 29.8 pg
+MCHC 34.0 gm / dL
+RDW 16.7 % High
+MPV 7.2 fL
+Platelets 209 X10E+09 / L
+Neutrophils 40 % Low
+Lymphs 44 %
+Monocytes 4 %
+Eosinophils 10 % High
+Basophils 2 % High
+ABS Neutrophils 1.44 X10E+09 / L Low
+ABS Lymphs 1.59 X10E+09 / L
+ABS Monocytes 0.14 X10E+09 / L Low
+ABS Eosinophils 0.36 X10E+09 / L
+ABS Basophils 0.07 X10E+09 / L High
+Type of Differential
+Manual Differential
+RBC Morphology
+RBC Morphology
+PT 17.5 sec High
+INR 2.0
+PTT 64.3 sec High
+Impression and Plan
+Impression
+**AGE[in 50s] yo female admitted with recurrent c.diff found to have B/L DVT s.
+Cond. C called for seizure activity - found to have PE .
+Plan
+1. GI - h/o c. diff .
+C. difficile Toxin -
+- V - **INSTITUTION Virology,
+Specimen Description :
+Stool for C. difficile toxin
+Special Requests :
+None
+Culture :
+Positive for Clostridium difficile Toxins A and / or B .
+CONTACT ISOLATION REQUIRED for positive patients .
+Report Status :
+Final Result **DATE[Mar 05 2007]
+Pt. initially admitted with n / v / d / abd pain .
+H/O gastric bypass .
+Recently diagnosed with c. diff in **DATE[Nov] . for which she has been taking Flagyl .
+Currently on IV Flagyl ( pt. does not tolerate PO flagyl due to nausea ) Day #13 .
+Also on PO Vanco .
+Reports improvement in diarrhea ; stools formed .
+Will need a long vanco taper upon d/c .
+Culturelle D/C due to drug ineffective when used with Vanco .
+2. GU -
+Urine Culture -
+- MM - Microbiology,
+Specimen Description :
+Urine
+Special Requests :
+None
+Culture :
+&gt ; 100,000 col / mL ENTEROBACTER CLOACAE
+Report Status :
+Final Result **DATE[Mar 06 2007]
+Completed course of Bactrim for UTI .
+Pt. asymptomatic .
+3. Vascular / Heme - Patient with LEFT deep femoral vein DVT .
+Per vascular lab , Bilateral popliteal and posterior tibial veins DVT chronic found upon admission .
+Heparin nomogram initiated .
+Baseline values :
+H/H 12.8/37.9 , platelets 207 .
+Pt. found to have PE .
+S/P IVC filter placement .
+Currently receiving Heparin gtt .
+INR goal 2-3 .
+INR at 2.0 1/23 .
+INR 2 today .
+Will continue Heparin nomogram while in 7F .
+Dr. **NAME[ZZZ] to d/w hematology regarding recommendations on when to d/c heparin gtt .
+Currently on Coumadin 2 mg daily .
+Will continue to monitor PT / INR , PTT .
+As per hematology , will recheck lupus anticoagulant in 4 months .
+4. Cardiovascular - h/o HTN .
+Was taking Lisinopril at home , but BP on admission 94/58 .
+BP stable .
+Continue to monitor .
+5. Neurological - h/o CVA .
+Cond. C called 1/10 for pt. unresponsive ; possible seizure activity .
+Currently on Dilantin Q8H .
+Dilantin level 7.7 and free Dilantin level 1.3 on 1/20 .
+No evidence of further seizure activity .
+Will continue to monitor .
+6. Pulm - H/O sleep apnea .
+Pt. underwent sleep study , but was unable to complete titration portion secondary to nausea / emesis .
+Continue Bi-Pap use at night .
+Continue O2 during day due to pt. desaturating while sleeping .
+Pt. denies SOB .
+Spoke with sleep center this AM .
+Pt. completed first portion of sleep study 1/18 which revealed mild to moderate sleep disordered breathing .
+Pt. on schedule for positive pressure titration test this evening .
+7. Musculoskeletal - h/o DJD .
+Clinically stable .
+8. Endocrine - h/o DM .
+BG 89-118 1/22 .
+Continue Accuchecks .
+h/o Thyroid CA-papillary Stage I .
+s/p thyroidectomy
+**DATE[Jan 07]. Endocrinology was consulted .
+Synthroid was on hold ; restarted 1/16 .
+Will recheck TSH in 6 weeks .
+Will need ablation 3 months after iodine loaded .
+9. FEN -
+Mg decreased to 1.4 - will replete .
+Lytes currently stable .
+Will follow .
+Pt. with intermittent nausea ; poor appetite .
+Prealbumin 9 on 1/19 .
+Will recheck in 1 week on 1/26 .
+ProSource TID .
+Receiving calcium BID .
+Nutrition consulted for calorie counts .
+10. Prophylaxis - Continue Protonix and Zantac .
+10. Disposition - d/c to home when medically stable .
+Professional Services
+Credentials and Title of Author **NAME[VVV] Signing this Document : PA-C
+Perform by **NAME[XXX , WWW M]
+( on **DATE[Mar 24 2007] 10:41 )
+Sign by **NAME[XXX , WWW M]
+( on **DATE[Mar 24 2007] 10:41 )
+VERIFY by **NAME[XXX , WWW M]
+( on **DATE[Mar 24 2007] 10:41 )

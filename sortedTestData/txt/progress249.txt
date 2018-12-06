@@ -1,0 +1,128 @@
+Narrative - Impression and Plan , Progress **INSTITUTION
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB M]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 70s] years
+Sex :
+Female
+DOB :
+**DATE[Feb 17 1928]
+Author :
+**NAME[XXX , WWW M]
+Subjective
+Pt is a **AGE[in 70s] yo f on HD#2 for FUO and weakness .
+Pt is doing well with no new complaints .
+She denies current SOB , CP , N/V , abdominal pain besides mild burning around location of cellulitis on abdomen .
+Pt is a poor historian secondary to h/o AD .
+Results Review
+General results
+Today 's results :
+ALLRESLTSECT
+**DATE[Feb 8 2007] 8:00 AM
+Temperature Conversion 35.7 Deg C
+Temperature 96.3 Deg F
+Pulse 87 BPM
+Respiratory Rate 22
+Systolic BP 152 mmHg
+Diastolic BP 59 mmHg
+**DATE[Feb 8 2007] 7:00 AM
+Troponin I 0.05 ng / mL
+**DATE[Feb 8 2007] 5:15 AM
+Na 135 mEq / L
+K 4.0 mEq / L
+Cl 99 mEq / L
+CO2 26 mEq / L
+Anion Gap 10.0
+BUN 10 mg / dL
+Cr 0.9 mg / dL
+Glucose 89 mg / dL
+Ca 8.1 mg / dL Low
+Troponin I &lt ; 0.04 ng / mL
+WBC 8.3 X10E+09 / L
+RBC 3.31 X10E+12 / L Low
+Hgb 8.6 gm / dL Low
+Hct 26.6 % Low
+MCV 80.5 fL Low
+MCH 25.9 pg Low
+MCHC 32.2 gm / dL Low
+RDW 16.5 % High
+MPV 6.6 fL Low
+Platelets 259 X10E+09 / L
+Neutrophils 76 %
+Lymphs 14 %
+Monocytes 8 %
+Eosinophils 2 %
+Basophils 0 %
+ABS Neutrophils 6.3 X10E+09 / L
+ABS Lymphs 1.2 X10E+09 / L
+ABS Monocytes 0.7 X10E+09 / L
+Abs Eos , auto 0.1 X10E+09 / L
+ABS Basophils 0.0 X10E+09 / L
+Health Status
+Current Medications : medication administration orders
+piperacillin - tazobactam ( Zosyn ) ( PIPERACILLIN / TAZOBACTAM ) , 4.5 gm , Solution , IV , Q8H , Routine , **DATE[Feb 07 07] 23:00:00
+alendronate ( Fosamax 70 mg oral tablet ) ( ALENDRONATE 70 MG TAB ) , 70 mg , Tab , By Mouth , QThursday , Routine , **DATE[Feb 11 07] 7:15:00 , Special Instructions : One half hour before breakfast .
+sertraline ( Zoloft ) ( SERTRALINE 100 MG TABLET ) , 200 mg , Tab , By Mouth , Daily , Routine , **DATE[Feb 08 07] 9:00:00
+levothyroxine ( Synthroid ) ( LEVOTHYROXINE SOD 50 MCG TABLET ) , 50 mcg , Tab , By Mouth , Daily , Routine , **DATE[Feb 08 07] 9:00:00
+galantamine ( Razadyne ER ) ( GALANTAMINE ER 16 MG CAPSULE ) , 16 mg , Er capsule , By Mouth , Daily , Routine , **DATE[Feb 08 07] 9:00:00
+docusate ( Colace ) ( DOCUSATE SODIUM 100 MG CAPSULE ) , 100 mg , Cap , By Mouth , BID , PRN , For Constipation , Routine , **DATE[Feb 07 07] 20:27:00
+amlodipine ( Norvasc ) ( AMLODIPINE 5 MG TABLET ) , 5 mg , Tab , By Mouth , Daily , Routine , **DATE[Feb 08 07] 9:00:00
+esomeprazole ( Nexium ) ( ESOMEPRAZOLE MAG TRIHYDRATE 40 MG ) , 40 mg , Ec capsule , By Mouth , Daily , Routine , **DATE[Feb 08 07] 9:00:00
+memantine ( Namenda ) ( MEMANTINE 10MG TABLET ) , 10 mg , Tab , By Mouth , Daily , Routine , **DATE[Feb 08 07] 9:00:00
+metoprolol ( Lopressor ) ( METOPROLOL TART 25 MG TAB ) , 25 mg , Tab , By Mouth , BID , Routine , **DATE[Feb 07 07] 20:26:00
+atorvastatin ( Lipitor ) ( ATORVASTATIN 10 MG TAB ) , 10 mg , Tab , By Mouth , At Bedtime , Routine , **DATE[Feb 07 07] 22:00:00
+divalproex sodium ( Depakote ) ( DIVALPROEX SODIUM 250 MG DR **NAME[VVV] ) , 250 mg , Ec tab , By Mouth , Daily , Routine , **DATE[Feb 08 07] 9:00:00
+calcium and vitamin D combination ( calcium and vitamin D combination 600 mg - 400 iu oral tablet ) ( CALCIUM 600 MG / VIT. D 400 IU TAB ) , 2 tab ( s ) , Tab , By Mouth , Daily , Routine , **DATE[Feb 08 07] 9:00:00
+lorazepam ( Ativan ) ( LORAZEPAM 0.5 MG TABLET ) , 0.5 mg , Tab , By Mouth , At Bedtime , PRN , For Anxiety , Routine , **DATE[Feb 07 07] 20:24:00
+aspirin 81 mg , 81 mg , Ec tab , By Mouth , Daily , Routine , **DATE[Feb 08 07] 9:00:00
+NS 1000 mL , 1,000 mL , IV , Routine , **DATE[Feb 07 07] 22:12:00 , 100 mL / hr , Administer Over : 10 HR
+Sodium Chloride 0.9% 1000 mL , 1000 mL , IV , STAT , **DATE[Feb 07 07] 14:58:00 , 1,000 mL / hr , Administer Over : 1 HR , Special Instructions : Bolus
+Physical Examination
+Pt is well appearing with a pleasant disposition , in no apparant distress
+General Exam
+Heart : rate : normal , rhythm : normal , heart sounds : normal , no murmurs .
+Lungs : left : breath sounds : normal , right : breath sounds .
+Abdomen : soft , non - distended .
+BS + .
+mild tenderness to deep mid - epigastirc palpation .
+Periumbilical skin inflamed , dr , erythematous with honey colored crusting c/w diagnosis of impetigous cellulitis .
+Genitourinary :
+Foley catheter in place , urine clear yellow
+Neuro :
+Mental Status :
+Pt is alerted an oriented to person and place .
+Pt not oriented to month or year .
+She is confused about the recent death of her husband
+Pt spontaneously moving extremities X 4 , no focal neurologic deficits .
+Psychiatric :
+Mood and affect :
+appropriate
+Impression and Plan
+Pt is a **AGE[in 70s] yo f on HD #2 admitted for FUO and weakness as per family .
+Pt is currently stable , afebrile .
+PLAN :
+1 :
+Fever pt currently afebrile , WBC 16.8&gt ; 8.3
+* continue Zosyn 4.5 mg IV Q8h
+* monitor temperature , signs of infection
+* CXR neg for PNA , A/P CT read pending
+2 :
+Anemia
+H/H 8.6/26.6 MCV 80.5 , likely Fe deficiency anemia
+* Retic count , Fe , TIBC , ferritin levels
+* guaiac stool for occult blood
+3 :
+HTN pt had been well controlled , continue to monitor , continue current meds
+4 :
+Psychiatric .
+AD and depression stable with no acute changes .
+continue current meds , ativan prn for agitation .
+monitor for signs of delerium .
+Perform by **NAME[XXX , WWW] L
+( on **DATE[Feb 08 2007] 09:32 )
+Sign by **NAME[XXX , WWW] L
+( on **DATE[Feb 08 2007] 09:32 )
+VERIFY by **NAME[XXX , WWW] L
+( on **DATE[Feb 08 2007] 09:32 )

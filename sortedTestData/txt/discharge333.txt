@@ -1,0 +1,120 @@
+**INSTITUTION
+GENERAL MEDICINE
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jan 06 2008]
+TRANSFER DATE :
+**DATE[Jan 07 08]
+TRANSFERRED TO :
+TRANSFERRED TO CARE OF :
+The patient was seen and examined by myself , discussed with the ED ICU .
+CHIEF COMPLAINT :
+Respiratory failure .
+This is a **AGE[in 30s]- year - old woman who denies medical history was brought in unresponsive requiring intubation .
+In the field for unclear reasons , apparently had been using crack cocaine and some other type of medication .
+She is not really sure what it was .
+Her " boyfriend " gave her this and was transferred here for further management .
+Had a relatively uneventful course .
+She had some mild tachycardiac .
+She has been intermittently febrile .
+Appears to have an aspiration on x-ray .
+She has been extubated since last evening and she has been maintaining her airway .
+She has been a little sleepy but tearful as well .
+Low - grade tachycardia , low - grade fever but otherwise arouses and starts talking and then gets very tearful .
+It is very reticent to tell what exactly happened last night but apparently the family has mentioned that she has been suicidal for some time , depressed .
+REVIEW OF SYSTEMS :
+Otherwise unremarkable .
+MEDICAL HISTORY :
+Denied .
+No medications .
+No allergies .
+Does smoke , occasionally drinks .
+Admits to crack cocaine .
+SURGICAL HISTORY :
+Noncontributory .
+FAMILY HISTORY :
+Noncontributory .
+PHYSICAL EXAMINATION :
+She is sleepy but arousable .
+Heart rate is about 110-115 , low - grade temperature here .
+Blood pressure 110/
+Satting 100% on nasal cannula .
+HEENT :
+She is disheveled .
+She has dry mucous membranes .
+Pupils about 4-5 mm but they react , they are sluggish .
+NECK :
+Supple .
+HEART :
+Regular tachycardia without murmur .
+LUNGS :
+Relatively clear .
+A little bit of scant rhonchi .
+She coughs , somewhat clears .
+ABDOMEN :
+Soft , nontender , nondistended .
+EXTREMITIES :
+No edema .
+SKIN :
+Warm and dry , well - perfused .
+No rash noted .
+I do not see any track marks .
+NEURO :
+She appears to move all four extremities without difficulty .
+There is no tremor noted .
+LABORATORY DATA :
+Labs were reviewed .
+Electrolytes essentially unremarkable .
+Mag was a little low at 1.3 .
+White count was elevated 19.6 .
+it was initially 31 .
+Stable hemoglobin and hematocrit and platelet count .
+EKG :
+Slightly prolonged QTc but otherwise no QRS prolongation .
+Urine drug screen positive for benzos and cocaine .
+Salicylate , alcohol , acetaminophen all negative .
+Chest x-ray - there appears to have some mild infiltrate .
+ASSESSMENT :
+1. Coma , resolved likely polysubstance .
+Not exactly always everything picked up on the drug screen and could have been any type of benzodiazepine or an opiate or perhaps even diphenhydramine but it seems to be resolving regardless .
+2. Respiratory failure , improved with aspiration pneumonia with leukocytosis and fever .
+3. Polysubstance abuse .
+PLAN :
+At this time , I would agree with the IV Unasyn .
+She can advance her diet as tolerated .
+I have pulled the NG tube .
+Watch for alcohol and benzo withdrawal .
+I would start some thiamine , MVI , and folate .
+I do not know her real nutrition history .
+Mag of 1.3 , perhaps she is an underlying drinker as well .
+Watch for signs and symptoms of benzo or alcohol withdrawal .
+I would get a psychiatric consultation , probably tomorrow .
+If she is okay this afternoon respiratory - wise , etc. she can likely move to a telemetry floor with a sitter to the I Service .
+This was discussed with the ICU team .
+___________________________________
+**NAME[YYY M ZZZ] , M.D.
+Dictator :
+**NAME[XXX M. ZZZ] , M.D.
+**INITIALS
+D :
+**DATE[Jan 07 2008] 07:21:39
+T :
+**DATE[Jan 07 2008] 07:30:18
+R :
+**DATE[Jan 07 2008] 07:30:18/jas
+Job ID :
+335638/**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[ZZZ , UUU M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Jan 18 2008] 09:10:46 AM

@@ -1,0 +1,26 @@
+The patient was examined on rounds with housestaff .
+I have reviewed the patient data and films .
+Last 24 hrs : required reintubation
+Impression :
+**AGE[in 40s] year old male with severe emphysema and acute respiratory failure requiring mechanical ventilation .
+1. Resp failure : receiving mechanical ventilation : tolerating PS ventilation
+PS = 5 -- will keep intubated today to rest respiratory muscles .
+2. COPD exacerbation -- on solumedrol , azithromycin , xopenex
+3. narcotic dependence -- on methadone
+4. anxiety -- restarted xanax .
+-- he is requiring hi dose propofol -- it would appear that his anxiety may be the precipitant of this exacerbation -- when extubated , we will have our psychiatrists or palliative care medicine to evaluate him for this interesting interaction of his anxiety and his severe lung disease
+Critical care time spent exclusive of teaching and procedures = 40 Minutes , provided throughout the day .
+**NAME[YYY ZZZ] , MD
+Addendum by **NAME[ZZZ , YYY M] on **DATE[Jul 13 2007] 3:23 PM
+S : patient intubated and sedated
+O : vitals : bp 127/71 , hr 77 , 96% on 40%
+HEENT : no icterus
+CV :
+RRR
+LUNG : diffuse wheezing
+ABD : soft , nt , nd
+EXT : warm , no edema .
+Perform by **NAME[ZZZ , YYY M]
+( on **DATE[Jul 13 2007] 15:22 )
+Modify by **NAME[ZZZ , YYY M]
+( on **DATE[Jul 13 2007] 15:23 )

@@ -1,0 +1,37 @@
+**INSTITUTION
+Transfer Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Jan 02 2008]
+Discharged :
+**DATE[Jan 10 2008]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+ADDENDUM
+This is an addendum to the transfer summary done on **DATE[Jan 8 2008] .
+Ms. **NAME[AAA] was ultimately transferred to a nursing home on **DATE[Jan 10 2008] .
+No bed was available earlier than this .
+______________________________
+**NAME[WWW XXX]
+HS Job # 631389 / 41736 / 30090
+SHY # **ID-NUM
+D :
+**DATE[Jan 10 2008] 15:50
+T :
+**DATE[Jan 10 2008] 17:01
+*** Transcribed On :
+**ID-NUM ***
+*** Dictated By :
+^**NAME[XXX^WWW] ***
+*** Clinical Date
+:
+**ID-NUM ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Jan 23 2008] 11:35:19 AM

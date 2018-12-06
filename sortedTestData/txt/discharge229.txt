@@ -1,0 +1,32 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA , BBB M]
+**ID-NUM
+**ID-NUM
+A5B/553
+SERVICE OF :
+**NAME[ZZZ M. YYY] , M.D.
+DATE OF ADMISSION :
+**DATE[Nov 21 2007]
+DATE OF DISCHARGE :
+**DATE[Nov 25 2007]
+ADDENDUM
+The patient was not discharged on **DATE[Nov 24 2007] , secondary to bed unavailability at the skilled nursing facility .
+On **DATE[Nov 25 2007] , after being evaluated by the medical service , the patient was found to have hypertension of 185/100 which was treated intravenously with medication ; and her baseline medication was increased .
+The lisinopril had been increased to 20 mg daily , and Lopressor 12.5 b.i.d. was added to her medical regimen .
+Clonidine 0.1 mg as needed for blood pressures of more than 180 systolic and diastolic more than 110 was also added to the patient 's medical regimen .
+All of the events regarding her blood pressure as well as the medical treatment were discussed at length with the Power of Attorney over the phone who agreed with the conservative management .
+Her medical guidelines were obtained the day prior where no aggressive treatment was indicated , and those were , again , confirmed .
+The patient is for discharge today to **INSTITUTION when they have a bed available .
+She will be monitored for her blood pressure and titrated medication without any aggressive treatment .
+___________________
+**NAME[WWW M. XXX] , M.D.
+Dict :
+**DATE[Nov 25 2007] 09:19:18
+Tran :
+**DATE[Nov 25 2007] 10:31:26
+FJL/lt/361060/**ID-NUM/**ID-NUM
+R :
+**DATE[Nov 25 2007] 10:31:26/lt
+**CARBON-COPY

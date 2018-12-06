@@ -1,0 +1,77 @@
+**INSTITUTION
+GENERAL MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[TTT M. SSS] M.D.
+ADMISSION DATE :
+**DATE[Sep 13 2007]
+DISCHARGE DATE :
+**DATE[Sep 17 2007]
+The admitting service initially was medicine followed by cardiology pavilion .
+RESIDENT :
+Dr. **NAME[RRR] .
+INTERN :
+Dr. **NAME[XXX] .
+The patient was consulted by pulmonary service while she was here in the cardiology service and in medicine .
+PROCEDURES :
+The patient had a catheterization , went to the catheterization lab and was found to be negative for coronary artery disease .
+PERTINENT MEDICAL HISTORY :
+This is a very pleasant **AGE[in 70s]- year - old lady with a history of severe COPD on home O2 and steroids who came in with severe shortness of breath on **DATE[Sep 13 2007] .
+She was intubated in the ED secondary to her respiratory condition and was admitted to the MICU .
+She was extubated in the MICU and was transferred to medicine floor .
+While in the hospital she complained of epigastric / chest pain that are associated with some shortness of breath , some nausea , diaphoresis , and palpitations .
+She was found to have some EKG changes and some bump in her troponin .
+She was transferred to the pavilion team cardiology to rule out acute coronary syndrome .
+PAST MEDICAL HISTORY :
+Significant for past MI , coronary artery disease , COPD , GERD , diabetes mellitus , hypertension , atrial fibrillation , high cholesterol , and Barrett esophagitis .
+She has a history also of hysterectomy and cholecystectomy .
+When she arrived to our service , she was placed on her home medication as before as well as heparin drip and was voiding .
+Catheterization lab , she went to the catheterization lab yesterday on **DATE[Sep 16 2007] , and was found to have clean coronary arteries .
+She tolerated the procedure well and did well the day after while here on observation .
+She did not have any complication .
+Her respiratory condition has been improved markedly with respiratory treatment and steroids .
+Pulmonary has been following him , and is going to follow her as an outpatient in 4 weeks .
+The patient is being discharged home in a good condition .
+Her medication for discharge include :
+1. Nitro patch .
+2. Metformin 500 b.i.d.
+3. Quinapril 5 mg once a day .
+4. Digoxin 0.125 once a day .
+5. Glipizide 7.5 twice a day .
+6. Prednisone taper starting from 20 mg for 2 days , 10 mg twice a day for 2 days , 5 mg twice for two days , and then 5 mg thereafter in order to decrease her prednisone , instruction is not to decrease less than 5 mg until pulmonary clinic visit in 4 weeks from now .
+7. Zantac 150 twice a day .
+8. Gabapentin 300 mg t.i.d.
+9. Ativan 1 mg nightly .
+10. Lipitor increased to 40 mg nightly .
+11. Aspirin 81 mg .
+12. Beclomethasone nebulizer 2 puffs q.6 p.r.n.
+The patient finished course of azithromycin of 4 day as well here from **DATE[Sep 13 2007] , to **DATE[Sep 17 2007] .
+Her last dose was today .
+She was not sent home on any antibiotic .
+She will follow up with her primary care and pulmonary in 4 weeks .
+She was also scheduled to have pulmonary function test and O2 evaluation prior to come up , and she will see pulmonary in 4 weeks .
+___________________________________
+**NAME[TTT M. SSS] M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+MG/ptl
+D :
+**DATE[Sep 17 2007] 15:05:55
+T :
+**DATE[Sep 17 2007] 23:04:00
+R :
+**DATE[Sep 17 2007] 23:04:00/ptl
+Job ID :
+350179/**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX , QQQ] ***
+Electronically Signed by **NAME[TTT SSS]
+**DATE[Sep 22 2007] 05:00:17 PM

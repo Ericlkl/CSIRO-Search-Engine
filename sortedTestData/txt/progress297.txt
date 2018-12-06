@@ -1,0 +1,25 @@
+The patient was admitted to the hospital on **DATE[Apr 28 2007] , due to severe epigastric pain .
+The patient was admitted .
+He was diagnosed with severe acute alcoholic pancreatitis .
+Surgery was consulted as was Dr. **NAME[VVV] .
+The patient was transferred to the CVU .
+He was started on IV fluids and given
+Dilaudid for pain control .
+The patient did fairly well while in the unit .
+His amylase and lipase levels decreased substantially .
+He was gradually started on p.o. feeds , initially clear liquids and now he is being progressed to full liquids as he is tolerating feeds quite well .
+As the patient is stable at this time , we are transferring him down to a regular floor .
+He will be followed there by the PCP , GI , and Surgery .
+PROCEDURES PERFORMED WHILE IN THE UNIT :
+Right upper quadrant sonogram was obtained to rule out gallstone which may have caused pancreatitis .
+Impression :
+Normal gallbladder .
+No gallstones were present .
+______________________________
+**NAME[WWW XXX] , M.D.
+HS Job # 168304 / 28711 /
+# **ID-NUM
+D :
+**DATE[Apr 30 2007] 19:14
+T :
+**DATE[Apr 31 2007] 09:55

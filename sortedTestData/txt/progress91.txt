@@ -1,0 +1,142 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 70s] years
+Sex :
+Male
+DOB :
+**DATE[Jan 8 1929]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Summary of Hospitalization :
+**AGE[in 70s] yo veteran with no significant cardiac history ( last echo 2003 with LVEF 55% ) , but with CRI , HTN , PVD , and h/o stroke ( 4 yrs. ago ) who presented **DATE[Feb 17 07] with 4 days of lightheadedness ( not vertigo ) , nausea ( no emesis ) , poor appetite , fatigue , and ~ 2 brief episodes of chest pain 4 days prior : L substernal , non-radiating , 5/10 , no associated symptoms , lasting ~ 2minutes .
+Patient denied any pre - or syncopal episodes , denied palpitations , noted SOB only the morning of presentation while walking to the bathroom , denied recent fevers / chills .
+Did report ongoing urinary incontinence and frequency , though no dysuria .
+Initially presented to VA ED ( where he seeks all medical treatment ) , where he was found to be in a junctional rhythm .
+First troponin was negative .
+Transferred to the **INSTITUTION ED where vitals were :
+T 36.7 , HR 40 ( still junctional ) , BP 122/61 , RR 18 ; was given ASA 81 mg x4 tabs , Nitro Paste 1 " and then admitted to the Cardiac Pavilion service .
+Initial hospital course in the Cardiac Pavilion was as follows :
+CVS
+Within a few hrs. of admission , heart rate spontaneously converted to normal sinus rhythm , but continued to be bradycardic .
+The bradycardia was thought to be due to medications in the setting of acute on chronic renal failure , so beta blocker ( atenolol ) was discontinued .
+HCTZ was also discontinued due to elevated Cr .
+For HTN patient was started on Norvasc 10 mg daily on 1/18 .
+Troponins were negative x3 .
+Systolic blood pressure was in the 150 's .
+Renal
+Admission Cr was 5.2 ( baseline 2.0-2.5 ) , showing acute on chronic renal insufficiency .
+Urine lytes were suggestive of a pre-renal etiology ( consistent with recent decreased po intake ) , and IVF were initiated on 1/18 : NS @ 100 cc / hr .
+Cr began to recover .
+In addition , for metabolic acidosis , Na-bicarbonate was started on 1/18 ( low bicarb on admission ) .
+On **DATE[Feb 19 07] patient was stable from a cardiac standpoint , Cr continued to improve with IVF , BP control was maintained with Norvasc , and the patient was transferred to the General Medicine A Service .
+Hospital Course continued :
+CVS
+Blood pressure became quite high with systolic pressures in the 170s to 180s .
+He was on a maximum dose of Norvasc , and hydralazine was added q.i.d. as well as a clonidine patch of 0.2 mg achieving systolic blood pressures of less than 140s .
+On 1/22 tachycardia ( 100-110 ) was noted , but the patient continued to maintain good SaO2 on room air until 1/25 , at which time troponin was drawn and found to be elevated at 1.49 ( had been negative x3 on admission 1 week prior ).
+The Cardiology consult service evaluated the patient and recommended giving a dosage of IV lasix x1 , holding IVF , start heparin empirically , and check TTE ( last assessment of LVEF was 55% in 2003 ) .
+Decision was made to transfer patient back to Cardiac Pavilion for closer monitoring on telemetry .
+Renal
+NS IVF was continued until 1/23 and Cr continued to improve to around the baseline of 2.5 .
+The renal U/S was done showing no hydronephrosis , and the right kidney measured 10.2 cm , while the left kidney measured 9.9 cm.
+Na - bicarboante was continued throughout .
+Respiratory
+On 1/24 patient was notably tachypneic with SaO2 90-94% at rest , and also found to have significant edema of RUE at the site of earlier peripheral IV .
+In the setting of tachypnea , tachycardia , decreased SaO2 , lowgrade fevers , and RUE edema , suspicion for a PE was high .
+Bilateral upper extremity doppler study was negative for DVT and a CT scan of RUE showed dependent edema ; a VQ scan was obtained 1/24 with low probability for PE .
+By 1/25 patient continued to have dyspnea and tachypnea at rest and required supplemental O2 , with SaO2 97% on 3L via nasal canula .
+CXR was repeated and found to have no signs of infiltrate , and scant pulmonary congestion .
+ID
+Patient developed intermittent low - grade temperatures with no obvious etiology ; Tm 1/20 of 38 Tm 1/23 38.5 .
+A CXR was done on 1/23 showing clear lungs with minimal fluid at the right base .
+A U/A was done which was within normal limits ( nitrite , LE negative ; no bacteria ).
+Urine and blood cultures from 1/23 were with no growth .
+The patient denied any subjective symptoms such as chills , cough , or dysuria .
+Again on 1/25 Tm was 38.1 .
+Heme
+Admission Hgb was 11.1 , and 1 week later it has trended down to 10.1 with a normal MCV .
+Access
+Left brachial PICC line placed 1/25 .
+PM&amp ; R / PT / OT
+Patient was assessed by PM&amp ; R service 1/21 who felt he did not need inpatient Rehab , and recommended a discharge to home with 24 - hr supervision with home PT / OT and nursing .
+Prophylaxis / Diet
+Maintained on colace , senna , and H2 blocker .
+Renal / cardiac diet .
+Upon transfer to Pavilion 1/25 :
+S :
+Patient reports worsening dyspnea / SOB x3 days , better when upright .
+O :
+Vitals Weight :
+103 kg , HR 88 , BP 138/56 , RR 22 , SaO2 94% 5L nc
+Gen : labored breathing , but not in acute distress
+HEENT :
+EOMi , oropharynx with no erythema or exudate
+Neck :
+JVP ~ 11 ; no cervical lymphadenopathy
+Resp : clear but with poor air movement diffusely
+CVS :
+S1S2 tachycardic ; no murmurs heard
+Abdo :
++ BS , soft , **INITIALS
+Extr :
+++ b/l pitting edema to mid - calf ; no calf tenderness ; LUE PICC in place
+Assessment and Plan :
+**AGE[in 70s] yo WM who presented initially 1 week ago with symptomatic junctional bradycardia and acute on chronic renal insufficiency .
+Since then he has developed tachycardia , tachypnea , and a new O2 requirement , also with newly elevated troponin , but no new EKG changes .
+CVS
+a ) r/o ACS
+- cycle troponins :
+1.49 --&gt ; 1.16 ; now trending down
+- EKG tonight showed NSR @ 95 bpm , normal axis , normal PR interval and QRS duration , no Q-waves , no ST / T changes , no T wave inversion ; no change from previous
+- continue ASA and zocor
+- will repeat EKG in am
+b ) evaluate for Left heart failure
+- will obtain TTE ( last echo was 2003 with normal EF )
+- will check BNP
+- gentle diuresis , though lungs sound and look relatively clear
+c ) HTN
+- continue Norvasc 10 mg , clonidine patch 0.2 mg , hydralazine 10 mg q6hr , metoprolol 25 mg bid ( no longer bradycardic )
+d ) claudication
+- continue pletal
+RESP
+a ) r/o PE
+- VQ with low probability ; UE dopplers negative
+- will get LE dopplers ( patient has been mostly in bed &gt ; 1 - week )
+- will start heparin gtt empirically
+- will check ABG to eval A-a gradient
+- reluctant to obtain high - res .
+CT due to renal insuffcy .
+and IV contrast
+b ) poor aeration
+- tried xopenex / atrovent nebulizer x1 with good effect ; will continue q4hr for now
+- titrate O2 to SaO2&gt; /= 94%
+RENAL
+- will monitor Cr closely especially now that patient has received Lasix 20 mg IV x1
+- continue Na - bicarb
+GI
+- will obtain stool guaiac
+- continue pepcid , colace , senna
+Heme
+- will evaluate for Fe defcy anemia , B12 , retic count
+- stool guaiac
+Uro
+- continue Hytrin
+Rheum
+- continue allopurinol
+ID
+- will monitor for recurrent low - grade fevers ; no infectious etiology identified thus far ; WBC wnl ; fevers could be due to underlying ? PE
+FENP
+- renal / cardiac diet
+CODE
+- patient wishes to be FULL code
+Perform by **NAME[XXX , WWW]
+( on **DATE[Feb 26 2007] 01:25 )
+Sign by **NAME[XXX , WWW]
+( on **DATE[Feb 26 2007] 01:25 )
+VERIFY by **NAME[XXX , WWW]
+( on **DATE[Feb 26 2007] 01:25 )

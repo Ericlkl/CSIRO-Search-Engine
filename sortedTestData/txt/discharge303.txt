@@ -1,0 +1,54 @@
+**INSTITUTION
+NEUROSURGERY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT #
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY XXX ZZZ]
+ADMISSION DATE :
+**DATE[Jan 11 2008]
+DISCHARGE DATE :
+**DATE[Jan 13 2008]
+DISCHARGE DIAGNOSES :
+1. Cervical spondylosis .
+2. History of gastroesophageal reflux disease .
+3. History of anxiety .
+PRINCIPAL PROCEDURE PERFORMED WHILE HOSPITALIZED :
+On **DATE[Jan 11 2008] , she underwent a removal of C4 through C7 hardware , C3-C4 anterior cervical diskectomy with cage placement and fusion and plating .
+HOSPITAL COURSE :
+This patient had undergone a previous C4 to C7 anterior diskectomy with bony fusion and plating and once again developed upper extremity symptoms .
+Neuroimaging studies revealed evidence of cervical spondylosis at the level of C3-C4 .
+After review of the studies and physical examination , it was our recommendation to undergo surgical intervention .
+After a lengthy explanation of the risks versus benefits , the patient agreed to undergo surgery .
+She was brought in to **INSTITUTION Hospital on **DATE[Jan 11 2008] , where she underwent removal of C4 through C7 hardware as well as C3-C4 anterior cervical diskectomy with cage placement and plating .
+Postoperatively , the incision line was clean , dry , and intact , closed superficially with Steri - Strips .
+She had a drain place placed on postoperative day #2 .
+She said that her upper extremity symptoms had improved substantially .
+She had some slight incisional discomfort as well as some neck stiffness .
+She was deemed able to be discharged on postoperative #2 as the drain output had decreased substantially .
+She was given the appropriate instructions in regards to activity as well as management of the incision line .
+She was to return to see Dr. **NAME[ZZZ] in our Office in **INSTITUTION on **DATE[Feb 12 2008] at 10:15 p.m.
+Prior to that visit , she was to have C-spine films performed and bring it with her .
+She was given a prescription for Ambien 5 one at bedtime as needed , Valium 5 one every 8 hours as needed , Vicodin 500 two every 4 hours needed for pain , and Duricef 500 mg twice a day .
+She is to contact our office if there was any drainage , discoloration of the incision line , any fevers , any worsening symptoms or any additional concerns prior to her return visit .
+___________________________________
+**NAME[YYY XXX ZZZ]
+Dictator :
+**NAME[UUU WWW , VVV-M]
+**INITIALS
+D :
+**DATE[Jan 13 2008] 07:51:10
+T :
+**DATE[Jan 13 2008] 14:30:26
+R :
+**DATE[Jan 13 2008] 14:30:26/sr
+Job ID :
+345081/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[WWW , VVV-RRR] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Jan 19 2008] 06:20:20 AM

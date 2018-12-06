@@ -1,0 +1,77 @@
+**INSTITUTION
+GENERAL MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Feb 09 2007]
+DISCHARGE DATE :
+**DATE[Feb 12 2007]
+FINAL DISCHARGE DIAGNOSES :
+1. New - onset supraventricular tachycardia; at discharge controlled on diltiazem .
+2. Type 2 diabetes .
+3. Chronic obstructive pulmonary disease .
+4. Osteoarthritis .
+5. Obesity .
+DISCHARGE MEDICATIONS :
+Consist of :
+1. Accolate 20 mg 1 p.o. q. day .
+2. Aciphex or Protonix 20 q. day .
+3. Actos 45 mg 1 p.o. q. day .
+4. Advair Diskus 500 mg / 50 1 puff p.o. b.i.d.
+5. Albuterol 2 puffs p.o. q.i.d. p.r.n.
+6. Cardizem CD 120 mg p.o. q. day .
+7. Fioricet p.r.n. for headaches .
+8. Flonase p.r.n.
+9. Glipizide 10 mg 1 p.o. b.i.d.
+10. Motrin p.r.n.
+11. Simvastatin 20 p.o. q. day .
+12. Xopenex , which is levalbuterol 1 puff p.o. q.i.d.
+Disposition is to home in good condition .
+We will await her creatinine .
+Consult during this stay was Cardiology for her new-onset SVT .
+Echocardiogram was done during this stay , and similar echocardiogram was done during a stress test showing normal left ventricular size , normal valvular structure , and ejection fraction of 55% to 60% , normal right ventricular wall thickness , and normal pulmonary artery pressures , but a questionable posterior wall defect in the left circumflex distribution .
+A cardiac catheterization was performed due to this defect by Cardiology , and the catheterization showed right dominant , left main clear , left anterior descending clear , left circumflex clear , and right circumflex clear .
+The patient tolerated the procedure well .
+BRIEF HISTORY OF PRESENT ILLNESS :
+The patient presented with noticing palpitations while in the office .
+EKG demonstrated SVT .
+A V / Q scan was done which was negative .
+She had a borderline elevation of her D - dimer .
+She was then admitted to the hospital due to the SVT , placed on the monitor , given diltiazem .
+Diltiazem rapidly controlled her rate .
+The V / Q scan was done because of the positive D - dimer that was negative .
+Chest x-ray demonstrated small bilateral pleural effusions .
+Cardiology was involved .
+The stress test was done as noted above .
+Catheterization was done as noted above .
+The patient tolerated the medications and discharged to home .
+Follow with Dr. **NAME[ZZZ] in 4 weeks .
+DISCHARGE MEDICATIONS :
+As noted above .
+She was on during the hospital stay , prednisone , lisinopril , and aspirin ; those were discontinued .
+___________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+ABF/ss
+D :
+**DATE[Feb 12 2007] 07:16:04
+T :
+**DATE[Feb 14 2007] 06:54:40
+R :
+**DATE[Feb 14 2007] 06:54:40/ss
+Job ID :
+343251/**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX , VVV M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Feb 16 2007] 11:32:53 AM

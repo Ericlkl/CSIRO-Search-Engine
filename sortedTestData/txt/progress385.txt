@@ -1,0 +1,44 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Mar 27 2007]
+EVALUATION DATE :
+**DATE[Mar 29 07]
+PROCEDURE NOTE :
+Procedure performed :
+Right IJ central venous line .
+Indication :
+Hemodynamic monitoring , decreased urine output in the setting of rhabdomyolysis .
+Description of Procedure :
+The patient 's right neck was cleansed with Chloro - Prep , draped with a large sterile drape in a sterile fashion .
+Using sterile technique which includes sterile gown , gloves , hat and mask , using ______ lidocaine .
+After using Cyber technique an antibiotic - coated triple lumen catheter was placed into the right internal jugular vein without difficulty .
+The patient tolerated the procedure .
+I was present for the entire procedure .
+___________________________________
+**NAME[WWW VVV XXX] , M.D.
+Dictator :
+**NAME[WWW VVV XXX] , M.D.
+PLS/dab
+D :
+**DATE[Mar 29 2007] 11:03:06
+T :
+**DATE[Mar 29 2007] 11:52:50
+R :
+**DATE[Mar 29 2007] 11:52:50/dab
+Job ID :
+366184/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , SSS VVV] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Apr 08 2007] 07:09:56 PM

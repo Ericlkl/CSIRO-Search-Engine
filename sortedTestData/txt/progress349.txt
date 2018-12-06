@@ -1,0 +1,55 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Apr 21 07]
+I am seeing this critically - ill woman for management of respiratory insufficiency , volume overload , treatment of pneumonia , and nutritional support .
+I have examined the patient and the laboratory data , chest x-ray film , and events of the evening .
+From a respiratory standpoint , she has bibasilar infiltrates .
+She has been off of the ventilator since the morning of **DATE[Apr 19 2007] .
+She has some scattered rhonchi .
+Overall reasonable mechanics .
+We have had her on a speaking valve this morning , but she has become dyspneic so we have her off .
+From a hemodynamically standpoint , she is warm and well - perfused off of pressors .
+Blood pressure is 96/45 with means of anywhere between 63 and 69 and heart rate of 95 .
+She is off of pressors , but I have been unable to transition her over to intermittent hemodialysis because of concern about dropping her blood pressure again .
+She has been on CVVH .
+She is negative 500 yesterday and negative 500 today .
+We will try to get a little bit more fluid off .
+She still has significant volume overload on examination , although it does not appear to be impairing her from a respiratory standpoint .
+She has a diffuse rash over her legs which is worsening .
+We will stop her Cipro today .
+She has had a 12 - day course for treatment of pneumonia .
+Hematocrit is 27 .
+White count is 5.8 .
+Continue with 10 of prednisone and enteral nutritional support which she is tolerating well with TwoCal at 30 ml an hour .
+Continue Ultram and some morphine for pain control , long and short - acting insulin , and subcu heparin .
+T = 33 .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Apr 21 2007] 15:46:30
+T :
+**DATE[Apr 21 2007] 23:23:25
+R :
+**DATE[Apr 21 2007] 23:23:25/caa
+Job ID :
+438435/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 06 2007] 12:43:10 PM

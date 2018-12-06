@@ -1,0 +1,44 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Jan 23 2008]
+Discharged :
+**DATE[Jan 25 2008]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+ADMISSION DIAGNOSIS :
+Lung cancer .
+DISCHARGE DIAGNOSIS :
+Lung cancer .
+Mrs. **NAME[AAA] is a very nice female , white , right - handed with history of lung cancer .
+She has had a complete metastatic workup ( _______________ ) lesions in the brain , bones , or any other parts of the body .
+There was no obvious mediastinal adenopathy .
+She was admitted to this hospital , **INSTITUTION on **DATE[Jan 23 2008] , for fiducial gold placement for further stereotactic radiation therapy with the Cyberknife .
+On **DATE[Jan 23 2008] , she was taken to the operating room by Dr. **NAME[YYY ZZZ] , then under CT guidance , gold fiducial markers were placed for stereotactic radiation therapy .
+After the operation , left - sided pneumothorax was noticed , and a pigtail catheter was left in place in that side of the chest .
+The patient was sent to the floor for further care , and today she is awake , alert , and oriented x 3 .
+Pupils are equal , round , and reactive to light with normal eye movements .
+There is no evidence of cranial neuropathies or any other cranial nerve deficit .
+Motor and sensory systems are intact .
+Her temperature is 36.4 with a heart rate of 84 , respiratory rate of 20 , she is saturating 91% at room air , and blood pressure is 90/56 .
+On physical exam , she has clear respiratory sounds bilaterally with arrhythmic sinus rhythm at the cardiac area .
+Her abdomen is soft , nontender , nondistended with positive bowel sounds , and she is not complaining about any abdominal discomfort .
+Lower extremities with adequate peripheral pulses .
+Due to her satisfactory evaluation and after reviewing a post removal of the pigtail x-ray of the thorax and seeing that there is no evidence of pneumothorax at all , today , the patient is being discharged with followup at Dr. **NAME[YYY ZZZ] 's office in 2 weeks from today .
+______________________________
+**NAME[WWW XXX]
+HS Job # 960297 / 38142 / 31922
+SHY # **ID-NUM
+D :
+**DATE[Jan 25 2008] 16:21
+T :
+**DATE[Jan 28 2008] 06:33
+**CARBON-COPY

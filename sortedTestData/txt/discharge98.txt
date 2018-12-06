@@ -1,0 +1,125 @@
+**INSTITUTION
+CARDIOLOGY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[BBB M ZZZ]
+ADMISSION DATE :
+**DATE[Jul 25 2007]
+DISCHARGE DATE :
+**DATE[Jul 27 2007]
+DISCHARGE DIAGNOSES :
+1. Atrial septal defect / patent foramen ovale closure .
+2. Hypertension .
+3. History of prostate cancer .
+4. Bilateral inguinal hernia repair .
+5. Cataract surgeries .
+6. Cholecystectomy .
+Briefly , the patient is a **AGE[in 60s]- year - old gentleman who has been experiencing increasing dyspnea on exertion .
+On **DATE[Nov 2006] , he underwent a stress test and he felt mild inferior hypokinesis , and an echocardiogram showed borderline dilated right ventricle and possible atrial septal defect .
+He __________ having a transesophageal echocardiogram which confirmed the presence of atrial septal defect with prominent left to right shunting .
+On **DATE[Apr 2007] , he underwent cardiac catheterization which demonstrated mild diffuse coronary artery disease with normal LV systolic function .
+A left to right shunt at the atrial level was visualized with probe and patent ASD .
+There also was mild secondary pulmonary arterial hypertension with borderline high transpulmonary gradient of 15 mmHg .
+Based on these findings , he was asked to return today and undergo an ASD closure .
+The atrial septal defect closure was performed with transesophageal echo guidance .
+Prior to closure , the transesophageal echo images revealed a 17 - mm secundum atrial septal defect with atrial septal aneurysm .
+Significant left to right flow present across the defect .
+Right atrium and right ventricle are enlarged .
+The atrial septum easily crossed with a multipurpose A2 catheter .
+A 22 - mm Amplatzer atrial septal defect occluder was initially placed across the septum , better residual left to right jet was present through a patent foramen ovale .
+An attempt was then made to place an 8 - mm atrial septal defect occluder in the tunnel , next to the 22 - mm device in the fossa ovalis .
+They were not convinced , the smaller device was stable , so both devices were removed .
+A 26 - mm Amplatzer atrial septal device occluder was then placed in the secundum defect , covering both the patent foramen ovale and the atrial septal defect .
+No residual shunt was seen .
+Post-closure images revealed no significant left to right shunt .
+However , a __________ done by the patient on room air revealed an oxygen step - up in the mid right atrium as follows :
+The SVC saturation was 63% , mid RA 84% , RV 81% , main PA 81% .
+Values repeated and were found to be consistent .
+Repeat transesophageal echocardiogram imaging confirmed that all 4 pulmonary veins empty into the left atrium .
+A trivial left to right jet was seen through the device as is commonly present at the end of these procedures .
+An aortogram showed no evidence of a patent ductus .
+Femoral venous saturation from the sheath was 67% .
+The IVC saturation near the junction of the RA was 85% .
+Bubble studies from the pulmonary artery fields revealed any evidence of left to right shunting from that site .
+The sheaths were then sutured in place , and the patient was returned to his room .
+Status post the procedure , the ASD closure device was successful .
+However , etiology of residual O2 step - up in the right atrium is unclear .
+A right lower pulmonary vein to the IVC connection is possible , and an MRI was ordered the following day .
+The MRI was performed here at **INSTITUTION .
+The results are not available to me at this time of dictation .
+However , it is recommended that he have a repeat MRI in 2 to 4 weeks to evaluate the atrial septal defect and the PFO as well as evaluate the closure device itself and to evaluate the site to possibly reveal any explanation for the residual shunt .
+That was explained to the patient ; a prescription was given to him .
+For discharge today , his sodium was 140 , potassium 3.6 , chloride 102 , CO2 of 30 , BUN 9 , creatinine 1.1 , hemoglobin 15.1 , hematocrit 42.4 .
+An echocardiogram also was performed after the procedure , which demonstrated normal left ventricle size and function with an ejection fraction of 55% to 60% .
+Mild aortic regurgitation .
+No signs of tamponade were seen , and the Amplatz or occluder device in the atrial septum had no obvious intracardiac shunting by color Doppler .
+The patient has continued to feel well without any symptoms of shortness of breath or chest pain .
+PHYSICAL EXAMINATION :
+General :
+Today , he is afebrile .
+Vital Signs :
+Heart rate is in the 80 s , respirations 16 .
+Blood pressure before medication is 140 s to 150 s over 50 s to 60 s .
+Room air spot check 93% .
+He is on telemetry , normal sinus rhythm .
+Cardiovascular :
+Demonstrates an audible S1 and S2 with a regular rate and rhythm .
+He has no gallops , murmurs , rubs , or elevated jugular venous distention .
+Chest :
+Clear throughout all lung zones .
+Abdomen :
+Soft and nontender with bowel sounds .
+Extremities :
+His pulses are palpable .
+He has no edema .
+Skin :
+His right femoral artery site is without hematoma or bruit .
+His site his ecchymotic .
+Neuropsychiatric :
+He is oriented to person , place , and time .
+His speech is clear .
+His gait is steady , and his mood and affect are appropriate .
+For discharge today , he is to follow the instructions for the people who have undergone cardiac catheterization , and they are as follows :
+His attending physician was Dr. **NAME[BBB ZZZ] .
+He is status post ASD / PFO closure .
+HE HAS NO KNOWN DRUG ALLERGIES , and his condition is stable .
+He will be discharged to home .
+I have encouraged him strongly not to drive .
+I asked him if he develops chest pain , chest pressure , chest discomfort , heart palpitations , lightheadedness , dizziness , fainting , shortness of breath , unusual sweating or fatigue , nausea and / or vomiting unrelated to eating , signs of infection at the catheterization site , sudden pain at that site , or any intolerable side effects with the medication , he has to contact Dr. **NAME[ZZZ] .
+In 1 to 2 weeks , he is to follow up with his PCP Dr. **NAME[VVV WWW] .
+In 2 to 4 weeks , he will follow up with Dr. **NAME[BBB ZZZ] .
+Prior to his visit with Dr. **NAME[ZZZ] , he is to obtain a cardiac MRI .
+Prescription and phone number were given to the patient on discharge .
+I have also asked him to increase his activities slowly , not lifting anything heavier than 5 pounds and definitely not to drive for at least 72 hours .
+MEDICATIONS :
+His medications on discharge are :
+1. Plavix 75 mg p.o. q. day for at least 6 months .
+2. Enteric coated aspirin 325 mg for at least 6 months .
+3. Detrol 4 mg p.o. q. day .
+I have also instructed him if he has any dental , urological , or GI procedure where the skin is broken or any procedure , in fact , that the skin barrier may be broken , that he is to contact Dr. **NAME[ZZZ] 's office for antibiotic prophylaxis .
+Of note , his potassium level today was slightly low at 3.6 , and he will be given 20 mEq of potassium for repletion .
+If you have any questions , please contact me .
+___________________________________
+**NAME[BBB M ZZZ]
+Dictator :
+**NAME[XXX YYY] , C.R.N.P.
+**INITIALS
+D :
+**DATE[Jul 27 2007] 11:17:42
+T :
+**DATE[Jul 27 2007] 13:10:38
+R :
+**DATE[Jul 27 2007] 13:10:38/rpk
+Job ID :
+364333/**ID-NUM
+CC:
+**NAME[VVV M. WWW] , M.D.
+*** Dictated By :
+-**NAME[YYY , UUU] ***
+Electronically Signed by **NAME[BBB ZZZ]
+**DATE[Aug 05 2007] 03:41:12 PM

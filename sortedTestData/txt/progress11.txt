@@ -1,0 +1,80 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[TTT]
+**NAME[VVV UUU]
+ADMISSION DATE :
+**DATE[Nov 19 2007]
+EVALUATION DATE :
+**DATE[Dec 14 07]
+I am managing this critically - ill **AGE[in 40s]- year - old male with severe pancreatitis and multiple complications , which have been documented previously in the medical record .
+I am seeing this patient for management of his hypotension , sepsis , respiratory failure , and his pancreatitis .
+I have seen and examined the patient , reviewed his laboratory , radiographic , and Emtek data and discussed the management with the general surgeons , vascular surgeons , and the hepatic surgeons .
+Problems and management are as follows :
+1. Respiratory failure .
+Chest x-ray shows an increase in his bilateral infiltrates consistent with ARDS .
+On the vent , I have him on assist-control .
+He developed some air hunger last night when I dropped his tidal volume from 450 to 350 and his tidal volume had been increased over the evening .
+I would like to keep his tidal volume at 350 , to keep his plateau pressures low , and consistent with a 6 mL / kg .
+To that end , I have increased his sedation today and dropped his tidal volumes to 350 .
+He seems to be doing reasonably well .
+Gas exchange is moderately impaired at 50% FiO2 and 12 of PEEP .
+I will do bronchoscopy today to evaluate the ARDS and to rule out a possible pneumonia as a cause of his sepsis .
+2. Sepsis .
+White blood cell count is dropping today to 5000 , which is consistent with his previous septic episodes as well .
+I have him on broad-spectrum gram negative and gram positive coverage including colistin for his multidrug resistant Pseudomonas , as well as tigecycline for extended gram positive coverage , as well as good gram negative and anaerobic coverage for possible intraabdominal abscess .
+He did go down for a PTC catheter today , and he has done clinically well after that with a reasonable amount of drainage in the bag .
+He has become somewhat more septic after his PTC catheter with peripheral vasodilation , hypotension , and overall sepsis physiology .
+He is not responding to fluid resuscitation , and I have started him on a norepinephrine infusion , titrated for a mean arterial pressure of
+65 .
+3. ICU prophylaxis .
+He has stress ulcer and DVT prophylaxis .
+I have held off on resuming his tube feeds for another 24 hours in light of his worsening sepsis today .
+TOTAL CRITICAL CARE TIME EQUALS 40 MINUTES EXCLUDING PROCEDURES .
+PROCEDURE NOTE :
+Bronchoscopy .
+INDICATIONS :
+Respiratory failure / ARDS .
+DESCRIPTION :
+The patient is sedated Versed and vecuronium .
+The fiberoptic bronchoscope was inserted through the endotracheal tube and advanced into the airway .
+Evaluation of the right upper , right middle , and right lower lobe , as well as the left upper , left lingula , and left lower lobe are essentially unremarkable .
+CT scan of the chest revealed significant involvement in the superior segments of the bilateral left lower lobes .
+In light of this finding , I have wedged the bronchoscope in the superior segments of the right upper lobe and instilled 120 mL or sterile normal saline into two 60 mL _________ with a return of about 40 mL of aspirate .
+I sent this off to the microbiology laboratory for evaluation .
+The patient tolerated the procedure well .
+I was present for and supervised the entire procedure .
+PROCEDURE NOTE :
+Femoral arterial line .
+INDICATIONS :
+Hypotension .
+DESCRIPTION :
+The patient 's left groin is prepped times two minutes of Chlorhexidine , full sterile barriers are applied including hat , mask , gown , glove , and large sterile drape .
+The left femoral artery was accessed on the second pass with a needle .
+The wire and 5 - French catheter advanced using Selinger technique without complications .
+Sutured into place .
+I was present for and supervised the entire procedure .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Dec 14 2007] 20:22:16
+T :
+**DATE[Dec 14 2007] 20:44:26
+R :
+**DATE[Dec 14 2007] 20:44:26/kls
+Job ID :
+389060 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , SSS M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jan 19 2008] 02:55:15 PM

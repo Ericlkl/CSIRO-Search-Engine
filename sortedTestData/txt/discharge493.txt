@@ -1,0 +1,68 @@
+**INSTITUTION
+Transfer Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Nov 15 2007]
+Discharged :
+**DATE[Nov 19 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+REASON FOR CONSULTATION :
+Our opinion regarding her medical conditions .
+Transfer to subacute nursing facility .
+DIAGNOSES ON DISCHARGE :
+1. Pneumonia .
+2. Congestive heart failure .
+3. Aortic aneurysm .
+HOSPITAL COURSE :
+The patient was admitted on **DATE[Nov 15 2007] , with worsening lethargy , shortness of breath , and left shoulder pain .
+The concern was that his recent aortic aneurysmal stent was expanding and leaking .
+As it turns out , the stent has been well incorporated , and his leakage is minor .
+Dr. Navid of CT surgery has been consulted on this case , and has followed it closely .
+He concomitantly was noted to have a pneumonia , presumed to be community acquired , for which he is being treated with Zithromax and Rocephin .
+Ultimately , he has gotten to be a bit better .
+In discussion with **NAME[BBB] and his wife , he has never fully recovered from his surgery back in **DATE[Sep] , and we are electing to transfer him to a subacute nursing facility for work on conditioning , stamina , and nutrition .
+He is discharged at this point with the above diagnoses .
+His condition is stable .
+Diet is ADA low sodium diet .
+Respiratory settings are 2 to 4 L per minute of nasal cannula .
+Blood glucose monitoring is b.i.d.
+He is to have PT / INR drawn with a goal lNR of 2.5 to 3.5 Monday , Wednesday and Friday .
+Physical and Occupational
+Therapy should incur .
+MEDICATIONS ON DISCHARGE :
+Include :
+1. Acetaminophen with codeine 1 tab p.o. q.i.d. p.r.n.
+2. Albuterol sulfate b.i.d.
+3. Proventil in a nebulizer form , Proventil inhalation **NAME[M]. RN .
+4. Xanax 0.25 q. day .
+5. Aspirin 325 q. day .
+6. Zithromax 250 p.o. q. day x 5 days .
+Stop date is **DATE[Nov 24 2007] .
+7. Tums p.r.n.
+8. Rocephin we are discontinuing .
+9. Lasix 20 t.i.d.
+10. Hydralazine 25 q.i.d.
+11. Atrovent inhaled solution nebulizer b.i.d.
+Rescue inhaler q. day .
+12. Labetalol 200 p.o. b.i.d.
+13. Protonix 40 q. day .
+14. K-Dur 10 mEq q.i.d.
+15. Warfarin sulfate 7.5 q. day .
+Again , he is to follow up with me in the office setting in approximately 3 weeks .
+______________________________
+**NAME[WWW XXX] , MD
+HS Job # 820396 / 42037 / 30090
+SHY # **ID-NUM
+D :
+**DATE[Nov 19 2007] 09:15
+T :
+**DATE[Nov 19 2007] 13:03
+**CARBON-COPY

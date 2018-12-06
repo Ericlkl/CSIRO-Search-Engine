@@ -1,0 +1,86 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Mar 01 07]
+Mrs. **NAME[AAA] is a **AGE[in 60s]- year - old woman status post lung volume reduction surgery for emphysema .
+She continues to require critical care for management of her respiratory insufficiency , malnutrition , tachycardia , hyperglycemia , and fluid overload .
+ASSESSMENT AND PLAN :
+1. PULMONARY :
+Respiratory insufficiency - Mrs. **NAME[AAA] has remained extubated ; however , subjectively she states that her work of breathing has increased and she is more dyspneic today .
+She remains on 12 liters / minute flush on BiPAP .
+I have tried her on and off BiPAP today with an IPAP of 8 and an EPAP of 5 .
+Breath sounds are relatively clear in both lung fields without significant wheeze or rhonchi .
+She denies any sputum production but her cough is poor at this time .
+At this point , her mental status is acceptable .
+She is interactive and does not have clinical signs of significant CO2 retention .
+She does , however , remain very marginal in regards to her oxygenation and desaturates with little or minimal effort .
+At this point , I would recommend tracheostomy .
+She does have a mini trach in place ; however , this is precluding adequate suctioning due to her tracheal tear .
+A size 6 tracheostomy tube would facilitate a bronchoscopic toileting and intermittent rests on the vent .
+She adamantly states that she does not wish to be reintubated .
+We will continue to work with her today as I feel that a tracheostomy would improve her comfort and allow for a rest mode on the ventilator .
+She does appear competent in her decision - making today .
+We will discuss this further with her family .
+I will continue Xopenex for bronchospasm as well as prednisone .
+2. CARDIOVASCULAR :
+Extremities are warm and adequately perfused .
+She remains in a sinus tachycardic rhythm .
+I am continuing diltiazem at 5 mg / hour .
+Mean arterial pressures are acceptable in the 70s to 80s .
+3. GI :
+Abdomen is soft and benign .
+Given her marginal respiratory status , I would favor postpyloric feeding .
+If she undergoes tracheostomy today , I will place a Duo tube .
+4. RENAL :
+Overall fluid balance is slightly net negative with an acceptable urinary output .
+BUN today is 28 with a creatinine of 0.9 .
+I intend to gently diurese her with 10 mg of Lasix IV .
+5. FLUID , ELECTROLYTES , AND NUTRITION :
+Sodium 142 .
+Potassium 4.2 .
+Magnesium 3.1 .
+I have replaced electrolytes per protocol .
+6. INFECTIOUS DISEASE :
+Afebrile overnight with a white count of 12.6 .
+I will complete an eight - day course of Unasyn for Haemophilus parainfluenzae on recent pulmonary culture .
+7. HEMATOLOGY :
+Hemoglobin this morning is acceptable at 10.9 with a platelet count of 221 .
+There is no evidence of active bleeding or clinically significant coagulopathy .
+8. PAIN :
+I will continue a morphine PCA for pain control .
+9. ENDOCRINE :
+Hyperglycemia - I will continue sliding scale insulin coverage to maintain euglycemic control .
+10. NEUROLOGIC :
+Awake and follows commands , moves all extremities , does not appear to have a focal neurologic deficit .
+11. PROPHYLAXIS :
+I will continue proton pump inhibitor , subcutaneous heparin , and head of the bed elevation .
+Critical care time = 32 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 02 2007] 01:21:48
+T :
+**DATE[Mar 02 2007] 04:16:05
+R :
+**DATE[Mar 02 2007] 04:16:05/tmc
+Job ID :
+371977/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 04 2007] 07:44:23 PM

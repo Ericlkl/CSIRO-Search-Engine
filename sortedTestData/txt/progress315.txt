@@ -1,0 +1,58 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Mar 09 07]
+I have been requested by Dr. **NAME[ZZZ] to take care of this patient admitted to the ICU .
+I am managing this patient 's respiratory failure , malnutrition , infectious disease , hyperglycemia , and ileus .
+I have examined this patient and reviewed the data in the medical record and looked at the most recent x-ray films .
+This patient 's care has been provided under my direct supervision .
+On my examination today , the patient is awake , opens her eyes , and follows commands .
+Denies any distress .
+Examination of the heart reveals S1 and S2 present .
+Lungs reveal diminished breath sounds in both bases .
+Abdomen is soft and nontender .
+ASSESSMENT AND PLAN :
+I have her on trach mask .
+Yesterday she did trach mask for most of the day and got rested overnight .
+My plan is to continue to do the same thing .
+Today my plan is to leave her on trach mask as long as tolerated and rest her tonight on the ventilator .
+With regards to her infectious disease , I have her on vancomycin for the staph in the blood .
+It is coag - negative staph .
+I hence sent off two more blood cultures today .
+I have also continued her on Zosyn for possible cholecystitis .
+Trauma saw the patient .
+At the present time , the plan is to continue to do medical management and then if necessary to a percutaneous cholecystostomy tube .
+I have continued insulin infusion on this patient .
+For her ileus , I have given her Milk of magnesia .
+If necessary , I will give her 100 ml of GoLYTELY and see if she moves her bowel .
+I replaced her electrolytes appropriately and continued her stress ulcer prophylaxis .
+Total critical care time I provided on this patient is **AGE[in 30s] minutes .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 09 2007] 22:11:09
+T :
+**DATE[Mar 09 2007] 22:47:20
+R :
+**DATE[Mar 09 2007] 22:47:20/caa
+Job ID :
+382960/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT] ***
+Electronically Signed by **NAME[SSS RRR]
+**DATE[May 06 2007] 12:43:58 PM

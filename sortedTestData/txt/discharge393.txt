@@ -1,0 +1,54 @@
+**INSTITUTION
+OPHTHALMOLOGY DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING **NAME[TTT :
+YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Sep 05 2007]
+DISCHARGE DATE :
+**DATE[Sep 08 2007]
+NARRATIVE :
+The patient is a **AGE[in 40s]- year - old white female that was admitted to the Ophthalmology Service for concern of possible compression and optic neuropathy secondary to her thyroid eye disease .
+She had shown restriction of her visual fields and decreasing color vision .
+It was decided that she be admitted to the Ophthalmology Service for high - dose intravenous Solu-Medrol .
+The patient received 3 courses of Solu-Medrol at 1 g IV per day .
+During her hospitalization , there was no improvement of her symptoms or her vision .
+Color vision was slightly worse on hospital day #2 , and CT scan of the brain and orbits was performed and was read as unremarkable .
+On day #3 of her hospitalization , again no change in her symptoms .
+Her color vision was again slightly decreased , and an MRI of the brain and orbits was performed , and this was also read as unremarkable .
+On the last day of her hospitalization , she was seen and evaluated by the Neuroophthalmology Service .
+An electroretinogram was also performed which was normal .
+At this time , it was decided that her visual symptoms could not be explained by compression optic neuropathy from her thyroid eye disease , and she was discharged home on her oral steroid taper to be followed up as an outpatient with the Neuroophthalmology Service .
+___________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW VVV XXX] , M.D.
+/ptl
+D :
+**DATE[Sep 18 2007] 17:30:48
+T :
+**DATE[Sep 18 2007] 23:22:37
+R :
+**DATE[Sep 18 2007] 23:22:37/ptl
+Job ID :
+/**ID-NUM
+Cc:
+&lt;start header&gt;
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+ADMISSION DATE :
+**DATE[Sep 05 2007]
+DISCHARGE DATE :
+**DATE[Sep 08 2007]
+Page 2 of 2
+&lt;END HEADER&gt;
+*** Dictated By :
+-**NAME[XXX , SSS VVV] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Sep 31 2007] 05:07:05 PM

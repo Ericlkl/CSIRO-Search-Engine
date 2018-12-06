@@ -1,0 +1,16 @@
+The patient was examined on rounds with housestaff .
+Data and films were reviewed .
+Refer to the medical intern progress note by Dr. **NAME[XXX] .
+I have verfied her findings and agree with her plan .
+Impression :
+**AGE[in 70s] year old female with ovarian carcinoma complicated by bowl obstruction now with mostl likely with fistulalization requiring drainage .
+1. chronic respiratory failure -- she has poor compliance most likely secondary to massive pleural effusions and respiratory muscle weakness -- we will drain the right chest .
+2. ecoli , klebsiella , enterococcus abdominal infection -- drain in place -- switch antibiotics to vancomycin , bactrim pending allergy investigation .
+3. cardiomyopathy -- on dobutamine -- titrate off to sv02 .
+4. ovarian CA -- elucidate oncologic plan with her oncologist .
+critical care time spent exclusive of procedures and teaching = 40 MINS .
+**NAME[YYY ZZZ] , MD
+Perform by **NAME[ZZZ , YYY M]
+( on **DATE[Aug 09 2007] 00:06 )
+Modify by **NAME[ZZZ , YYY M]
+( on **DATE[Aug 09 2007] 00:12 )

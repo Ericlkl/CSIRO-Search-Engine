@@ -1,0 +1,93 @@
+**INSTITUTION
+NEUROSURGERY
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+TRANSFERRED DATE :
+**DATE[Jan 01 08]
+TRANSFERRED TO :
+**NAME[PPP M. OOO] , M.D.
+TRANSFERRED TO CARE OF :
+DISPOSITION :
+The patient is being transferred to skilled nursing facility .
+TRANSFER DIAGNOSIS ( ES ) :
+1. RIGHT - SIDED SUBDURAL HEMATOMA .
+2. HYPERTENSION .
+3. DNR / DNI .
+REASON FOR ADMISSION :
+Ms. **NAME[AAA] is an **AGE[in 80s]- year - old , right - handed female who suffered a fall from her bed on **DATE[Dec 27] .
+She was found to be confused and was taken to an outside hospital where a CT scan demonstrated a right panhemispheric subdural hematoma .
+She was transferred to **INSTITUTION for further evaluation and treatment .
+LABORATORY , RADIOGRAPHIC , AND OTHER DIAGNOSTIC STUDY FINDINGS :
+HOSPITAL COURSE :
+Upon admission , a discussion was held with her nephew , who verified that Ms. **NAME[AAA] would not want emergency brain surgery , chest compressions , or intubation .
+Hence , it was verified that Ms. **NAME[AAA] would be DNR / DNI .
+Imaging studies did not demonstrate any significant fractures .
+Followup imaging studies demonstrated stability in the size of the hematoma , and she remained neurologically stable throughout her hospital stay .
+She is alert and oriented times three .
+Pupils are equally round and reactive to light .
+She follows commands in all four extremities .
+She has been seen by Physical Therapy , Occupational Therapy , and Physical Medicine and Rehabilitation and felt to be a candidate for skilled nursing facility for therapy prior to her discharge to home .
+While she was in the hospital , she did have problems with blood pressure control for which the Medicine Service adjusted her medications .
+Specifically , she is now on Lopressor 75 mg twice daily .
+On post trauma day 5 , she remains afebrile with stable vital signs .
+She will complete a full course of Bactrim on **DATE[Jan 03] for a UTI .
+She is medically stable for transfer to skilled nursing facility .
+TRANSFER INSTRUCTIONS :
+Vital signs routine .
+Activity out of bed with assistance ; PT / OT nursing routine ; SCD s in bed .
+Diet regular .
+TRANSFER MEDICATIONS :
+1. Lopressor 75 mg p.o. b.i.d.
+2. Os-Cal 500 mg p.o. q. day .
+3. Synthroid 25 micrograms p.o. q. day .
+4. K-Dur 20 mg p.o. q. day .
+5. Bactrim DS one p.o. b.i.d. through **DATE[Jan 03] , then discontinue .
+6. Keppra 500 mg p.o. b.i.d. through **DATE[Jan 04] , then discontinue .
+7. Diovan HCT 80/12.5 mg p.o. q. day .
+8. Codeine 30-60 mg p.o. q.4 hour p.r.n.
+9. Pepcid 20 mg p.o. b.i.d.
+10. Colace 100 mg p.o. b.i.d.
+11. Senokot 2 tabs p.o. q. at bedtime .
+12. Tylenol 650 mg p.o. q.6 hours p.r.n.
+For followup , please have the patient contact Dr. **NAME[ZZZ] ' office at **PHONE for a followup appointment in two to three weeks for a new CT scan of her head .
+ALLERGIES :
+NO KNOWN ALLERGIES TO MEDICATIONS :
+CONDITION ON TRANSFER :
+Stable .
+___________________________________
+**NAME[YYY ZZZ] , M.D.
+Dictator :
+**NAME[VVV M. XXX] Jr. , PA-C
+EMS/ddd
+D :
+**DATE[Jan 01 2008] 10:20:20
+T :
+**DATE[Jan 01 2008] 10:24:22
+R :
+**DATE[Jan 01 2008] 10:24:22/ddd
+Job ID :
+370814/**ID-NUM
+Cc :
+FAX to 7G
+&lt;start header&gt;
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+ADMISSION DATE :
+**DATE[Dec 27 2007]
+TRANSFER DATE :
+**DATE[Jan 01 08]
+Page 3 of 3
+&lt;END HEADER&gt;
+*** Dictated By :
+-**NAME[XXX] Jr. , PA-C-Edward M. ***
+Electronically Signed by **NAME[NNN MMM]
+**DATE[Jan 27 2008] 12:22:29 PM

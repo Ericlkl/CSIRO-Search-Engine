@@ -1,0 +1,52 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING **NAME[VVV :
+TTT M UUU]
+ADMISSION DATE :
+**DATE[May 25 2007]
+EVALUATION DATE :
+**DATE[May 26 07]
+I personally manage Mr. **NAME[AAA] in the ICU .
+This is a **AGE[in 60s]- year - old male with history of stroke , intracranial bleed , cardiac ischemia , respiratory failure , and pulmonary congestion .
+The patient more than likely has aspirated as his chest x-ray demonstrates .
+He is on Unasyn .
+We will continue to culture him .
+He also has a troponin rise indicating some cardiac ischemia .
+He is on Lopressor .
+He was extubated this morning ; however , he is passing air reasonably well on both sides of his chest .
+He follows on the left , paretic on the right .
+He has a very poor and diminished gag reflex , which will be necessary to watch closely in terms of his ventilation function .
+He needs a feeding tube , which we will provide .
+His cap of his blood pressure is 180 .
+His current systolic blood pressure is 178 .
+He passes air reasonably well on both sides of his chest .
+Heart is regular rhythm .
+Abdomen is soft and he puts out adequate amounts of urine .
+We will continue to follow expectantly and supportively .
+He does not show any evidence of meaningful arrhythmias .
+His cardiac function seems to be reasonably good on Lopressor .
+CRITICAL CARE TIME IS 30 MINUTES .
+___________________________________
+**NAME[XXX M. YYY] , M.D.
+Dictator :
+**NAME[XXX M. YYY] , M.D.
+**INITIALS
+D :
+**DATE[May 26 2007] 20:26:46
+T :
+**DATE[May 26 2007] 20:47:44
+R :
+**DATE[May 26 2007] 20:47:44/drl
+Job ID :
+363961/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[YYY , SSS M]. ***
+Electronically Signed by **NAME[XXX YYY]
+**DATE[Jul 01 2007] 01:54:04 AM

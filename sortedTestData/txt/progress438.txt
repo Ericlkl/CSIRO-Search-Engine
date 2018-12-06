@@ -1,0 +1,55 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Dec 14 2007]
+EVALUATION DATE :
+**DATE[Dec 18 07]
+The patient was seen and examined by me .
+I agree with the findings as outlined by the resident team , and I concur with the assessment and plan .
+The patient reports multiple bowel movements yesterday with some decrease in abdominal distention and abdominal discomfort .
+He reports no problems with any nausea or vomiting .
+He has noted no fevers or chills .
+No shortness of breath , chest pain , or other cardiorespiratory complaints .
+PHYSICAL EXAMINATION :
+Vital signs are stable .
+He is afebrile .
+The neck shows no JVD , no nodes or masses .
+Lungs are clear .
+The heart is regular .
+The abdomen is soft with mild diffuse tenderness and moderate distention .
+Bowel sounds are active .
+Extremities show no cyanosis , clubbing , or edema .
+LABORATORY DATA :
+The white count was 3300 , differential was pending , hemoglobin and hematocrit were stable as was the platelet count .
+CT scan of the abdomen yesterday showed partial small bowel obstruction .
+Surgery saw the patient and felt that he did not require an operation at this time .
+IMPRESSION :
+Partial small bowel obstruction with very slow , if any , resolution .
+We will be continuing conservative measures as outlined by the resident team .
+We will be monitoring the patient 's metabolic and hematologic parameters closely .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+**INITIALS
+D :
+**DATE[Dec 18 2007] 08:30:03
+T :
+**DATE[Dec 18 2007] 09:20:21
+R :
+**DATE[Dec 18 2007] 09:20:21/va
+Job ID :
+350955/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[ZZZ , TTT M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Dec 26 2007] 02:57:25 PM

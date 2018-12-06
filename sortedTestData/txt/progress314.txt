@@ -1,0 +1,57 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Mar 08 07]
+I have been requested by Dr. **NAME[ZZZ] to take care of this patient admitted to the ICU .
+I am managing this patient 's respiratory failure , hyperglycemia , infectious disease , and hypertension .
+I have examined this patient , reviewed the data in the medical records , and looked at the most recent x-ray films .
+This patient 's care has been provided under my direct supervision .
+PHYSICAL EXAMINATION :
+On my examination today , the patient is awake , alert , oriented , warm , and well perfused .
+She continues to complain of abdominal discomfort on palpation .
+Her abdomen continues to be distended and mildly tender diffusely .
+Examination of the lungs reveal diminished breath sounds in the right base .
+Neurologically , the patient is intact .
+ASSESSMENT AND PLAN :
+The patient 's CAT scan yesterday showed some gallstones and questionable pericholecystic fluid .
+Today , I got an ultrasound of the patient 's abdomen which also shows nonspecific gallbladder wall thickening and pericholecystic fluid .
+I have involved the General Surgeons to see the patient .
+I have initiated the patient on Zosyn .
+The patient also has Gram - positive cocci and clusters in the blood , for which I have started her on vancomycin .
+She keeps dropping her blood pressure on and off .
+It is possible the patient has early sepsis .
+I have done a trach - mask trial today .
+I will rest her tonight .
+She is doing on and off trach - mask trial with intermittent ventilator .
+I have also continued this patient on an enteral infusion for tight - glycemic control .
+I have continued her on prednisone at 7.5 and stress - dose steroids .
+I have continued this patient 's stress ulcer prophylaxis .
+TOTAL CRITICAL CARE TIME I PROVIDED ON THIS PATIENT TODAY IS 35 MINUTES .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+RV/cap
+D :
+**DATE[Mar 08 2007] 20:48:14
+T :
+**DATE[Mar 08 2007] 20:54:05
+R :
+**DATE[Mar 08 2007] 20:54:05/cap
+Job ID :
+381303/**ID-NUM
+*** Dictated By :
+-**NAME[XXX , TTT] ***
+Electronically Signed by **NAME[SSS RRR]
+**DATE[May 06 2007] 12:43:54 PM

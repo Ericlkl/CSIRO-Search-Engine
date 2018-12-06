@@ -1,0 +1,33 @@
+FINAL DIAGNOSES :
+1. Disruption of internal pacemaker secondary to a fall .
+2. Congestive heart failure .
+3. Essential hypertension .
+4. Gastroesophageal reflux disease .
+5. Anemia .
+6. Fall .
+ADMITTING DIAGNOSES :
+1. Disruption of internal pacemaker secondary to a fall .
+2. Congestive heart failure .
+3. Essential hypertension .
+4. Gastroesophageal reflux disease .
+5. Anemia .
+6. Fall .
+PROCEDURE :
+Placement of dual - chamber pacemaker on **DATE[Aug 30 07] , performed by Drs. **NAME[WWW , VVV] , and **NAME[UUU] , and removal of old dual - chamber pacemaker .
+COURSE OF TREATMENT :
+This patient was admitted on **DATE[Aug 30 07] , and underwent replacement of the pacemaker , which was exposed due to a laceration secondary to a fall .
+The pacemaker was removed , and an alternate pacemaker was inserted in a different site .
+The patient had an uncomplicated postoperative course and was seen by Dr. **NAME[WWW] personally daily as well as Cardiology .
+The patient was able to be transferred to the nursing home on **DATE[Sep 01 07] .
+He will be seen by Dr. **NAME[WWW] .
+_________________________
+**NAME[YYY ZZZ] D.O. , RESIDENT
+_________________________
+**NAME[CCC M. WWW] , D.O.
+D :
+**DATE[Sep 28 2007]/ 3:24 P
+T :
+**DATE[Oct 05 2007]
+3:32 P km
+#**ACCESSION-NUMBER[1]/**ID-NUM
+**CARBON-COPY

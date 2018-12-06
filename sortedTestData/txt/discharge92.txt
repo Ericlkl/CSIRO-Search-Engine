@@ -1,0 +1,47 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA] JR , **NAME[BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Nov 22 2007]
+Discharged :
+**DATE[Nov 25 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+DISCHARGE DIAGNOSIS :
+Status post left total hip arthroplasty .
+HOSPITAL COURSE :
+The patient is a **AGE[in 50s]- year - old male patient of Dr. **NAME[ZZZ] with known left hip degenerative joint disease .
+He was brought in through the Day of Admission Surgical Unit at **INSTITUTION for elective total hip arthroplasty .
+The patient underwent this procedure on the left side on **DATE[Nov 23 2007] .
+He tolerated the procedure well .
+He was transferred to a regular nursing floor postoperatively .
+His pain was well controlled by Postoperative Pain Service using nerve block catheters , followed by IV and oral pain medications .
+He was ambulatory with physical therapy on postoperative day #2 .
+His wound was clean , dry , and intact throughout his hospitalization .
+He was started on Coumadin for DVT prophylaxis while in the hospital .
+On the day of his transfer , on **DATE[Nov 25 2007] , the patient was afebrile and vital signs were stable .
+FOLLOWUP INSTRUCTIONS :
+The patient is to follow up with Dr. **NAME[ZZZ] in 2 to 3 weeks .
+He should continue taking his Coumadin for DVT prophylaxis .
+He should have every Monday and Thursday PT / INR lab draws by Home Health Care .
+Results of this should be called to **ID-NUM by 2 p.m. on the day of lab draw .
+**NAME[VVV UUU] will call with dosing adjustments as needed .
+The patient should also continue physical therapy while at home .
+If he develops any problems with his left lower extremity , such as increasing redness , pain , drainage from the wound , or other problems with the leg , he should contact Dr. **NAME[ZZZ] 's office immediately .
+He should also resume all home medications that will be given and a prescription for Coumadin and pain medication .
+______________________________
+**NAME[WWW XXX , CCC]
+HS Job # 123561 / 41509 / 38218
+SHY # **ID-NUM
+D :
+**DATE[Nov 29 2007] 08:17
+T :
+**DATE[Nov 29 2007] 13:43
+**CARBON-COPY

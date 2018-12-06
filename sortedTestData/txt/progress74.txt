@@ -1,0 +1,64 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Aug 02 2007]
+EVALUATION DATE :
+**DATE[Aug 07 07]
+I personally interviewed and examined the patient .
+Today , the patient is still hallucinating and is delusional .
+Denies any shortness of breath , chest pain , and is not coughing .
+She is ambulating .
+She is eating .
+She is not been lethargic .
+PHYSICAL EXAMINATION :
+Vital Signs :
+Blood pressure is erratic , at times accelerated and at other times normal .
+This morning it is in normal range .
+General :
+She is afebrile .
+Chest :
+Clear .
+Heart :
+Regular rhythm .
+No murmurs .
+Abdomen :
+No tenderness .
+Extremities :
+There is no edema .
+LABORATORY TESTS :
+Her blood glucose has remained elevated .
+Most recent one was 240 .
+ASSESSMENT AND PLAN :
+1. Acute delirium .
+The patient is having a sitter .
+We have her on antipsychotic agents and plans are to transfer her to **INSTITUTION .
+2. Possible aspiration pneumonia .
+We will continue antibiotics .
+3. Diabetes .
+We will increase her metformin dose because her sugars remain elevated .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+**INITIALS
+D :
+**DATE[Aug 07 2007] 16:55:14
+T :
+**DATE[Aug 08 2007] 22:17:54
+R :
+**DATE[Aug 08 2007] 22:17:54/ps
+Job ID :
+336133 /**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[ZZZ , SSS M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Aug 16 2007] 02:52:58 PM

@@ -1,0 +1,68 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA , BBB]
+**ID-NUM
+**ID-NUM
+A5A/515
+SERVICE OF :
+**NAME[ZZZ]
+**NAME[YYY] , M.D.
+DATE OF ADMISSION :
+**DATE[Aug 29 2007]
+DATE OF DISCHARGE :
+**DATE[Aug 31 2007]
+ADMITTING DIAGNOSIS :
+Right lower extremity pain .
+DISCHARGE DIAGNOSES :
+1. Degenerative joint disease of lumbosacral spine .
+2. Baker 's cyst right knee .
+3. Hypertension .
+4. Obesity .
+5. Hypothyroidism .
+6. Status post transient ischemic attack .
+7. Carotid stenosis .
+HISTORY OF PRESENT ILLNESS :
+This **AGE[in 70s]- year - old lady presented to the hospital with severe right lower extremity pain and inability to ambulate .
+The patient was in the emergency room about three days prior to her hospitalization with these symptoms and a Doppler at that point of time did not reveal any evidence of DVT and in fact she was found to have a ruptured Baker 's cyst .
+The pain was over her anterior right lower extremity more over her right upper outer thigh and she underwent an x-ray of the hip that was negative and x-ray of the knee revealed degenerative joint disease of the knee and also an x-ray and MRA of her lumbosacral spine revealed L4/L5 anterolisthesis of her lumbar spine .
+The patient was evaluated by the orthopedic and pain clinic and she was maintained on her Vicodin and the patient was able to ambulate about 15 feet with assistance .
+PHYSICAL EXAMINATION :
+HEART :
+Clinically she had regular heart sounds .
+LUNGS :
+Clear lung sounds .
+ABDOMEN :
+Soft and nontender .
+EXTREMITIES :
+Nontender .
+NEUROLOGY :
+She did not have any gross deficits .
+LABORATORY AND DIAGNOSTICS :
+Her laboratory work revealed a sodium of 141 , potassium of 3.7 , chloride 104 , bicarbonate 256 , BUN is 41 , creatinine is 1.3 , and a glucose of 103 .
+Her white count was 7.9 .
+Hemoglobin and hematocrit is 13.4 and 39.8 and a platelet count of 273 .
+DISCHARGE MEDICATIONS :
+On **DATE[Aug 31 07] , the patient was stable enough to be sent to **INSTITUTION Harmarville on the following medications :
+1. Vicodin ES one by mouth q.4h. as needed .
+2. Enteric - coated aspirin 325 mg by mouth q.daily.
+3. Plavix 75 mg by mouth q.daily.
+4. Hyzaar 25/100 mg one by mouth q.daily.
+5. Synthroid 150 micrograms by mouth q.other day to alternate with 175 micrograms by mouth q.other day .
+6. Toprol XL 100 mg by mouth q.daily.
+7. Procardia XL 30 mg by mouth q.daily.
+DISCHARGE INSTRUCTIONS :
+1. Her laboratory work will include a CBC and BMP to be done tomorrow .
+2. Follow up will be with Dr. **NAME[YYY] .
+3. Activities will be as tolerated .
+4. Diet would be a heart healthy diet .
+___________________
+**NAME[ZZZ M. YYY] , M.D.
+Dict :
+**DATE[Aug 31 2007] 09:34:15
+Tran :
+**DATE[Aug 31 2007] 10:47:03
+**INITIALS
+R :
+**DATE[Aug 31 2007] 10:47:03/ac
+**CARBON-COPY

@@ -1,0 +1,51 @@
+The patient will be discharged home on a regular diet , activity as tolerated .
+The patient will follow up with Dr. **NAME[VVV UUU] on **DATE[Dec 5 2007] , at 11:30 a.m. at **INSTITUTION ; telephone number **PHONE .
+She will follow up with her primary care physician within 1-2 weeks or as needed .
+Post - discharge testing will include BMP and magnesium on **DATE[Dec 5 2007] , for followup of her magnesium level .
+FINAL DIAGNOSIS :
+1. Advanced - stage cervical cancer , status post loop ileostomy and suprapubic catheterization .
+2. Squamous cell carcinoma in the presacral area .
+3. Bipolar disorder .
+4. Schizophrenia .
+5. Chronic abdominal pain .
+OPERATIONS AND PROCEDURE :
+CT scan of the abdomen which showed increase in the size of the presacral mass at the posterior aspect of the pelvis , with an area of relative radiolucency within the mass , suggesting an area of necrosis .
+This CT scan was compared with the CT scan done on **DATE[Oct 2 2007] .
+DISCHARGE MEDICATIONS :
+1. Percocet 5/325 mg p.o. q.6 hours p.r.n.
+2. MS Contin CR 15 mg p.o. b.i.d.
+3. Cymbalta 60 mg p.o. daily .
+4. Pepcid 20 mg p.o. b.i.d.
+5. Magnesium oxide 400 mg p.o. t.i.d.
+The dose will be adjusted on followup after the level of magnesium is documented .
+6. Nicotine patch daily .
+7. K-Dur 20 mEq p.o. b.i.d.
+8. Sodium bicarbonate 650 mg p.o. daily .
+HOSPITAL COURSE :
+The patient is a **AGE[in 30s]- year - old white female with history of metastatic cervical cancer who presented to the hospital with abdominal pain for 2 months .
+The patient has advanced stage carcinoma , with a presacral mass which is most likely secondary to metastatic disease from the cervical cancer .
+That has been causing her chronic abdominal pain .
+The patient has undergone operations of the abdomen including radical hysterectomy , cystectomy with ileal conduit and ileostomy .
+Over the last couple of months , the patient has been having severe abdominal pain at the ileostomy site , and she has been seeing several doctors for pain management .
+The patient is somewhat manipulative and she is a very difficult patient to deal with .
+After the patient had been admitted to the hospital , a CT scan of the abdomen was done which showed , as mentioned above , the presacral mass had increased in size and has developed some necrosis which could be the cause of increasing pain .
+The patient has been receiving pain medications during her stay in the hospital , and since this cancer is in an advanced state , there is no other treatment to be offered to her except for palliative care .
+Fine - needle aspiration of the presacral mass was done ; this showed atypical necrotic cells suspicious for squamous cell carcinoma .
+The patient has been stable throughout her stay in the hospital except for a low serum magnesium level which was replaced accordingly .
+A urine culture was sent ; this grew Escherichia coli ( ESBL ) and Enterococcus species , but since the patient has an ileal conduit , this may be contamination .
+The patient was initially started on ciprofloxacin which was eventually discontinued because the organisms were resistant to ciprofloxacin .
+The plan for her now is to manage her pain with pain medications , and to have her follow up with the oncologist at **INSTITUTION for further treatment .
+We have already made an appointment for the patient with Dr. **NAME[VVV UUU] on Monday .
+The patient was advised to be there on time .
+On the day of discharge , the patient is stable and she can walk with a walker .
+She may need some assistance at home .
+She will go home and stay with her mother for now .
+We asked the patient to follow up with her primary care physician as needed .
+______________________________
+**NAME[WWW XXX] , M.D.
+HS Job # 241104 / 29913 /
+# **ID-NUM
+D :
+**DATE[Dec 02 2007] 16:16
+T :
+**DATE[Dec 03 2007] 16:39

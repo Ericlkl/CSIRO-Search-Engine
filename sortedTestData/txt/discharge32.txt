@@ -1,0 +1,118 @@
+**INSTITUTION
+General Internal Medicine
+Discharge Summary
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+ATTENDING :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jul 03 2007] 19:57:00
+DISCHARGE DATE :
+**DATE[Jul 07 2007]
+CHIEF COMPLAINT :
+Fever , right lower extremity cellulitis , redness , and swelling .
+The patient is a **AGE[in 50s]- year-old female with multiple medical problems presents to the emergency room with increased redness , swelling , cellulitis , and painful right lower extremity .
+The patient was admitted for IV antibiotic therapy and aggressive wound care .
+ALLERGIES :
+PENICILLIN AND BACTRIM .
+PAST MEDICAL HISTORY :
+Morbid obesity , degenerative joint disease , osteoarthritis of multiple joints , right total knee arthroplasty , chronic low back pain , coronary artery disease , congestive heart failure , hypertension , hyperlipidemia , depression , poor personal hygiene , and poor home environment .
+MEDICATIONS AT TIME OF DISCHARGE :
+1. Aldactone .
+2. Atenolol .
+3. Claritin .
+4. Darvocet .
+5. Effexor .
+6. Flexeril .
+7. Keflex .
+8. Lasix .
+9. Lipitor .
+10. Lodine .
+FAMILY HISTORY :
+Noncontributory .
+SOCIAL HISTORY :
+The patient lives with husband .
+No history of smoking or alcohol abuse .
+PHYSICAL EXAMINATION ON ADMISSION :
+As per initial H and P .
+VITAL SIGNS ON ADMISSION :
+Temperature 100.6 , heart rate 86 , respiratory rate 18 , blood pressure 115/72 , and O2 saturation 95% .
+SIGNIFICANT LABORATORY DATA AT THE TIME OF ADMISSION :
+Sedimentation rate 63 , INR 1 , WBC 6.5 , hemoglobin 12.8 , platelet count 289 , albumin 3.4 .
+Liver functions studies were within normal limits .
+BUN 11 , creatinine 1.2 , potassium 4 .
+Urine culture negative .
+SIGNIFICANT LABS UPON DISCHARGE :
+WBC 5.4 , hemoglobin 11.3 , platelet count 280 .
+Blood cultures negative .
+Urine culture negative .
+HOSPITAL COURSE :
+The patient was admitted with initial routine admission orders .
+The patient consulted to wound **NAME[VVV] RN .
+The patient underwent routine laboratory data including wound cultures and urine culture .
+Preadmission medications were resumed .
+The patient was started on IV Ancef .
+Even though the patient has a questionable ALLERGIC REACTION TO PENICILLIN , the patient has been able to tolerate Ancef .
+The patient was started on skin care , wound care , and fall precaution , DVT prophylaxis with subcutaneous Lovenox , pain control with p.o. Vicodin .
+Personal hygiene and environmental hygiene was discussed with patient in detail again .
+IV antibiotic Unasyn started and maintained .
+Skin care and wound care maintained .
+Podiatry consult with Dr. **NAME[UUU] for nail care .
+Discharge planning underway .
+On **DATE[Jul 7 2007] , the patient was feeling quite well .
+No chest pain , no shortness of breath .
+Vital sings stable with a blood pressure 124/73 .
+The patient was afebrile .
+Physical assessment , unremarkable .
+Lower extremity cellulitis improving .
+The patient to be discharged to home .
+Discharge instructions given to patient in detail .
+Medications reviewed with patient .
+The patient to follow up in office in 2 weeks .
+The patient to advance heart healthy diet .
+The patient was instructed to report any new or increased shortness of breath , new onset of chest pain , lightheadedness , dizziness , paining ankles , swelling abdominal bloating , or weight gain .
+MEDICATIONS AT TIME OF DISCHARGE :
+1. Lidex topically twice a day .
+2. Lasix 40 mg daily .
+3. Loratadine 10 mg daily .
+4. Spironolactone 25 mg daily .
+5. Effexor XR 300 mg daily .
+6. Keflex 250 mg 3 times a day until prescription complete .
+7. Vicodin ES q.6 p.r.n. pain .
+8. Atenolol 25 mg daily .
+9. Lipitor 40 mg at bedtime .
+10. Cyclobenzaprine 10 mg b.i.d.
+FINAL DIAGNOSES :
+1. Right lower extremity cellulitis .
+2. Hypertension .
+3. Coronary artery disease .
+4. Hyperlipidemia .
+5. Low back pain .
+6. Degenerative joint disease / osteoarthritis of multiple joints .
+7. Obesity .
+8. Poor living condition .
+9. Poor personal hygiene .
+10. Contact dermatitis lower extremities .
+11. Mild hypotension .
+CONSULTANT :
+Dr. **NAME[UUU] .
+_____________________________________
+**NAME[YYY M ZZZ]
+DICTATED BY :
+**NAME[WWW XXX] , R.N.
+LT/ptl
+D :
+**DATE[Jul 22 2007] 14:19:35
+T :
+**DATE[Jul 22 2007] 22:41:39
+R :
+**DATE[Jul 22 2007] 22:41:39/ptl
+Job ID :
+356654 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Jul 24 2007] 06:29:18 AM

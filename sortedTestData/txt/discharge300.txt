@@ -1,0 +1,106 @@
+**INSTITUTION
+NEUROLOGY TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Jun 15 2007]
+TRANSFER DATE :
+**DATE[Jun 19 07]
+TRANSFERRED TO :
+Inpatient Rehabilitation
+TRANSFERRED TO CARE OF :
+TRANSFER DIAGNOSIS ( ES ) :
+RIGHT INTERNAL CAPSULE ISCHEMIC STROKE .
+ALLERGIES :
+IODINE WITH REACTION OF SKIN BREAKDOWN .
+SECONDARY DIAGNOSIS ( ES ):
+HYPERTENSION .
+HISTORY OF PRESENT ILLNESS :
+The patient is a **AGE[in 70s]- year - old woman with a history of untreated hypertension .
+She has good neurologic function at baseline and works at a daycare and taking care of her husband .
+She was at work this morning , and about 1:30 p.m. she developed left - sided weakness .
+She denies any visual changes or speech difficulty .
+She recalls that she could not feel where her left arm was and that there may be some sensory loss .
+By the time she arrived at **INSTITUTION at approximately 2 p.m. she was almost back to baseline .
+She had mild left leg weakness .
+At **INSTITUTION , she underwent a CT of the head which was normal .
+However , after the CT scan , she had recurrence of left hemiparesis and it has been fluctuating since then .
+The patient reported that she had four worsenings so far and reported having been good for the past hour or more ; yet she has had some left - sided weakness that is mild .
+Currently , she denies any numbness , visual changes , or speech difficulties .
+For further review of systems and physical examination , please see initial H&amp ; P .
+HOSPITAL COURSE :
+During the patient 's hospital stay , she had several laboratory studies drawn .
+Of note , she had a fasting lipid profile which showed triglycerides of 90 , cholesterol of 264 , LDL of 192 , HDL of 58 , VLDL of 14 .
+She also had a hemoglobin A1C of 5.8 .
+The patient was subsequently eventually placed on heparin and Coumadin therapy , and her current INR is 1.1 .
+DIAGNOSTIC STUDIES :
+The patient had a CT of the head which showed hypoattenuation in the posterior right external capsule at the area of stroke seen on followup diffusion weighted imaging .
+MRI of the head showed an area of infarct in the right dorsal _______ extending into the posterior rim of the right internal capsule consistent with acute ischemic event .
+MRA of the neck showed moderate narrowing of the left proximal subclavian artery .
+MRA of the head showed no evidence of stenosis or aneurysm .
+INVASIVE PROCEDURES :
+The patient had a cerebral angiography .
+The study demonstrates presence of lesion in the distal right M1 MCA proximal M2 division of the right cerebral artery producing 50% or less luminal reduction brain stenosis .
+Given the abnormality was initially seen in the middle M1 MCA segment , this may be a thrombus with partial recanalization .
+CARDIAC STUDIES :
+The patient had a TTE which showed left ventricular function was normal .
+Estimated ejection fraction of 60 to 65% .
+No evidence of PFO .
+STROKE MECHANISM :
+Uncertain :
+Small veseel lacunar infarction or middle cerebral artery atherosclerosis .
+CONDITION ON TRANSFER :
+Condition at discharge is stable .
+The patient continues to have mild left - sided weakness , especially in the lower extremity .
+DISPOSITION :
+The patient will be discharged to Inpatient Rehabilitation as per PT / OT and PM&amp ; R evaluation .
+TRANSFER / DISCHARGE MEDICATIONS :
+1. Heparin drip which should be adjusted according to heparin nomogram .
+2. Lipitor 80 mg p.o. , q. hour of sleep .
+3. Coumadin 5 mg p.o. , daily .
+4. Tylenol 650 mg p.o. , q. 6 hours , p.r.n. for pain and headache .
+5. Pepcid 20 mg p.o. , q. 12 hours .
+3. Aggrenox 1 capsule bid
+LABS TO BE FOLLOWED :
+The patient should have PT and INR starting on **DATE[Jun 19 2007] and then as directed for an INR goal of 2 to 3 .
+The patient should also have PTT per the heparin nomogram .
+It is also advised that the patient have LFT s in the next two weeks for monitoring of statin therapy .
+INSTRUCTIONS :
+The patient 's physical activity per PT / OT evaluation and treatment .
+DIET :
+The patient should be on a Heart Healthy Diet .
+FOLLOWUP PLAN :
+The patient should followup in the **INSTITUTION in four to six weeks .
+Phone number is **PHONE .
+The patient should also followup with PCP in one to two weeks , however , she states she does not have one currently .
+She was advised to establish and see a PCP within the next one to two weeks and be advised that she stated that she had a suggestion from a neighbor of a possible PCP .
+The signs and symptoms of stroke were reviewed with the patient and should any of these occur , she was told to report immediately to the emergency department for stroke risk management to maintain blood pressure between 120 to 130/80 .
+Cholesterol management with an LDL goal of 100 or less .
+Diabetes management with a hemoglobin A1C goal of less than or equal to 6 .
+Given that the patient possibly has acute thrombus of intracranial vessels , the goal for warfarin therapy would be to maintain her INR between 2 to 3 .
+Once fully therapeutic on the Coumadin , the patient may stop heparin drip .
+___________________________________
+**NAME[YYY ZZZ] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , C.R.N.P.
+**INITIALS
+D :
+**DATE[Jun 19 2007] 12:14:39
+T :
+**DATE[Jun 19 2007] 12:20:23
+R :
+**DATE[Jun 19 2007] 12:20:23/dam
+Job ID :
+353119/**ID-NUM
+Cc:
+Patient 's PCP
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Jun 24 2007] 09:15:20 PM

@@ -1,0 +1,92 @@
+**INSTITUTION
+TRAUMA
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING **NAME[TTT :
+SSS M. RRR] , M.D. , F.A.C.S.
+ADMISSION DATE :
+**DATE[Dec 27 2007]
+DISCHARGE DATE :
+**DATE[Dec 28 2007]
+DISCHARGE DIAGNOSES :
+1. Neck strain .
+2. Left orbital blowout fracture .
+SERVICE :
+Trauma Surgery .
+CONSULTS :
+Ophthalmology , Face / Plastic Surgery .
+PROCEDURES :
+CT of the head , neck , C-spine , chest , abdomen , pelvis , TLS , face; chest x-ray and pelvis x-ray .
+1. CT of the head showed a left orbital blowout fracture along with some possible fat herniation .
+2. CT of the face showed a 1.3 - cm orbital floor fracture .
+3. CT of the C-spine was negative .
+4. CT of the TLS spine was negative .
+5. CT of the chest , abdomen , and pelvis was otherwise negative .
+6. Chest x-ray and pelvic x-ray were otherwise negative .
+HISTORY OF PRESENT ILLNESS :
+This is a **AGE[in 20s]- year - old male with no significant medical history who was evaluated for assault by emergency department and trauma team .
+The patient stated that this morning he was attacked by several assailants , not sure really what happened but he does remember getting hit several times in the head with fist after which point he blacked out .
+He states that he has a diffuse headache , neck pain , back pain , some pain to his abdomen , as well as to the left side of his chest and forearm .
+Initially seen in an outside hospital .
+He had CT that only showed a left orbital fracture and x-rays of the chest and forearm , which were negative .
+He was transferred to the **INSTITUTION Emergency Department in trauma bay for further evaluation .
+In the emergency department , he had the scans as stated above with the results stated above .
+He was __________ being medically stable .
+The patient was transferred to the floor in medically stable condition .
+PHYSICAL EXAMINATION :
+On physical exam , the patient had some blurriness to vision in the left eye and some pain with trauma .
+He had pain to palpation around the left eye .
+He otherwise had fairly unimpressive exam .
+His abdomen was soft and nontender with positive bowel sings .
+There was no tenderness on his chest wall on palpation .
+He had no numbness , weakness , paresthesias , or focal neurological changes .
+HOSPITAL COURSE :
+On the floor , the patient did well .
+After being cleared for his TLS and C-spine , however , the patient still complained of some pain to the back of his neck .
+At which point in time , a Miami-J collar was applied and the patient was instructed to keep wearing the collar until he is seen for followup and was able to be cleared .
+The patient otherwise tolerated food .
+He is walking around and voiding with fairly easily .
+At which point the patient being medically stable , was discharged to home .
+Ophthalmology consult stated that there was nothing else to do and the face / plastic consult stated that he needs to be re-seen in the clinic in one week in order to reevaluate the swelling if they were to do surgery .
+DISCHARGE CONDITION :
+Stable .
+DISPOSITION :
+Discharged to home .
+MEDICATIONS :
+1. Percocet 1 to 2 tablets every 4 to 6 hours as needed for pain .
+2. Motrin 600 mg 1 tablet as needed for pain every 6 hours as needed for pain .
+INSTRUCTIONS :
+The patient is to resume regular diet .
+The patient is to limit his lifting to less than 10 pounds .
+The patient is not to drive while taking pain medication .
+The patient is to remain out of work for at least next week until seen for followup .
+The patient to have no restrictions on bathing or sexual activity .
+The patient is instructed to return to the emergency department if he starts experience any increased deficits in vision , as well as he experiences fevers , chills , chest pain , shortness of breath , numbness , weakness , or paresthesias .
+The patient is to wear Miami-J collar until cleared for followup .
+FOLLOWUP :
+The patient is to follow up with the trauma clinic in two weeks .
+The patient is to follow up with the facial clinic in one week .
+The patient is to follow up with the ophthalmology clinic in one week .
+Numbers and contact information are left on the discharge instructions to make any appointments .
+___________________________
+**NAME[SSS M. RRR] , M.D. , F.A.C.S.
+Dictator :
+**NAME[VVV WWW] , M.D.
+MA/jr
+D :
+**DATE[Dec 29 2007] 01:18:04
+T :
+**DATE[Dec 29 2007] 01:58:05
+R :
+**DATE[Dec 29 2007] 01:58:05/jr
+Job ID :
+365769/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[WWW , QQQ] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Dec 31 2007] 09:57:33 AM

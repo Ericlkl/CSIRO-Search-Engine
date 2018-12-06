@@ -1,0 +1,77 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M. ZZZ] , M.D.
+ADMISSION DATE :
+**DATE[Feb 12 2007]
+EVALUATION DATE :
+**DATE[Mar 21 07]
+Date of service **DATE[Mar 21 2007] .
+I saw the patient on rounds with the ICU team .
+I interviewed and examined the patient at the bedside .
+I reviewed her data on Emtek , including vital signs , I 's and O 's , laboratory data , and medication list .
+I reviewed the House Staff note .
+I discussed the management plan with the Critical Care team .
+The patient is a **AGE[in 60s]- year - old female admitted on **DATE[Feb 12 2007] with sternitis , status post debridement .
+She had an infected sternal wound following a CABG times four at another hospital that was done about six months ago .
+She has had ongoing respiratory failure , renal failure requiring hemodialysis , bilateral pleural effusions , status post drainage on the left side by Interventional Radiology and on the right side by the Critical Care team .
+She has also a history of diabetes .
+She complains of " sour mouth ," and according to the Nursing staff , has persistently been nauseated .
+T-max is 37.4 , heart rate is in the 60s , mean arterial pressure 86 to 100 .
+She is on 40% FiO2 , PEEP of 8 on assist control ventilation .
+Her urine output 575 ml for 24 hours .
+Total I 's and O 's are 2.5 in and 3.2 out , of which ultrafiltration was 2 .
+__________ liters .
+JP drainage 110 and 20 ml , respectively , serosanguineous is quite clear .
+Her right - sided chest tube 200 ml .
+She has had small , formed stool .
+Her blood sugars 62 to 127 .
+Her tube feeds currently off , on hold .
+Sodium is 134 , potassium 3.6 , BUN and creatinine are 69 and 2.3 , respectively .
+Hemoglobin is 8.7 , unchanged .
+White blood count 10.2 .
+Albumin is 1.8 .
+Chest x-ray shows left - sided pleural effusion .
+A CT scan of the chest , abdomen , and pelvis shows left - sided effusion that is partly loculated , some possible sludge in the gallbladder , anasarca , what appears to be a seroma of the right anterior chest wall , and a small amount of loculated fluid around her drain site over the left chest wall .
+Of note , on her physical examination , there is no evidence of cellulitis of her chest wall .
+She does have some left abdominal wall tenderness .
+She is answering questions appropriately .
+She is on subcu heparin , Pepcid .
+Her insulin infusion is currently off .
+She is on cefepime day 27 , Synthroid , and vancomycin that is being dosed as needed .
+Because of the patient 's heart rate in the 50s , she is not on any Lopressor .
+We will continue to watch that .
+I am obtaining a right upper quadrant ultrasound to evaluate her gallbladder because of her persistent nausea .
+I am going to change her Pepcid to Protonix in case this is a gastritis .
+We are also going to give the patient an enema to give her a better bowel movement .
+She is scheduled for hemodialysis today .
+We will follow her left effusion .
+If she continues to have persistent , left - sided effusion , in particular because it is partly loculated , she will likely require ultrasound or CT - guided catheter drainage .
+We will try to resume her tube feeds at a low rate .
+She is on vancomycin and cefepime for her sternitis , which we will continue .
+We will also continue her subcu heparin for DVT prophylaxis .
+Critical care time is 31 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 27 2007] 05:07:25
+T :
+**DATE[Mar 27 2007] 07:43:59
+R :
+**DATE[Mar 27 2007] 07:43:59/ljw
+Job ID :
+404971/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 02 2007] 01:04:30 PM

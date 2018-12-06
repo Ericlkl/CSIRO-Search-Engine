@@ -1,0 +1,54 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 18 2007]
+EVALUATION DATE :
+**DATE[Nov 19 07]
+I personally examined the patient on **DATE[Nov 19 2007] .
+I discussed the case with Dr. kwak .
+Please consider my note to be linked to Dr. **NAME[VVV] 's note .
+The patient feels fairly well today .
+He did not have a fever overnight .
+He feels slightly feverish at noon when I saw him for the second time .
+He denies any chest pain or dyspnea but has had some minimal right - sided back pain .
+PHYSICAL EXAMINATION :
+Today , the patient is afebrile , pulse 76 and blood pressure 120/69 .
+Head normocephalic .
+Skin warm and dry .
+Lungs clear to auscultation and percussion .
+Heart , regular rhythm .
+He has no flank tenderness .
+LABORATORY DATA :
+His BUN today is 18 and creatinine 1.2 .
+White count remains normal at 9400 .
+The patient 's urine culture when he entered **INSTITUTION is growing some yeast but no bacteria .
+He was on antibiotics at that time .
+He was switched last night to Zosyn and appears to be doing well in that regard .
+We will continue Zosyn at the preset time .
+The patient will also be seen by Dr. **NAME[UUU] from Urology .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+TDP/
+D :
+**DATE[Nov 19 2007] 12:53:14
+T :
+**DATE[Nov 20 2007] 00:14:48
+R :
+**DATE[Nov 20 2007] 00:14:48/
+Job ID :
+353228/**ID-NUM
+Cc:
+*** Dictated By :
+028200-Painter , M.D.-Thomas D. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Nov 26 2007] 09:05:31 AM

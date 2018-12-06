@@ -1,0 +1,82 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+____________________________________________________________
+**NAME[AAA , BBB]
+**ID-NUM
+**ID-NUM
+A5A/1
+SERVICE OF :
+**NAME[ZZZ]
+**NAME[YYY]
+DATE OF ADMISSION :
+**DATE[Feb 06 2007]
+DATE OF DISCHARGE :
+**DATE[Feb 14 2007]
+PRINCIPAL DIAGNOSES :
+1. Sepsis with enterococcus and coagulase-negative staphylococcus .
+2. Pyelonephritis .
+3. Non-Q myocardial infarction .
+4. Acute renal failure .
+5. Chronic Foley catheter .
+6. Hypertension .
+7. Severe dementia .
+8. Failure to thrive .
+CONSULTANT :
+Cardiology , Dr. **NAME[XXX] .
+PROCEDURES :
+Multiple blood cultures .
+Blood Cultures collected on **DATE[Feb 6] , 20007 , grew enterococcus species , resistant to levofloxacin and resistant to tetracycline , sensitive to penicillin and vancomycin .
+It also grew coagulase - negative staph which was sensitive to vancomycin , sulfa and trimethoprim , and tetracycline .
+Resistant to levofloxacin , [_______________]*** , oxacillin , and erythromycin .
+Urine cultures grew enterococcus .
+No MRSA was isolated .
+Repeat blood culture on **DATE[Feb 12 2007] .
+There was no growth on **DATE[Feb 13 2007] .
+DISCHARGE MEDICATIONS :
+1. Vancomycin 1 g IV q.12 hours x 3 days .
+2. Protonix 40 mg by mouth daily .
+3. Metoprolol 25 mg by mouth twice daily .
+4. Aspirin 81 mg by mouth daily .
+DIET :
+Pureed diet .
+Nutritional supplement with Boost twice or three times a day .
+ACTIVITY :
+As tolerated , PT / OT .
+HOSPITAL COURSE :
+The patient is an **AGE[in 80s]- year - old white male who was admitted via the emergency room with low urine output and low - grade fever .
+He was evaluated in the emergency room and noted to have positive troponins .
+BNP was also slightly elevated .
+It was initially thought to be secondary to renal failure ; however , previous echocardiogram which was done on **DATE[Dec 18 2006] , showed estimated ejection fraction of 45% to 50% , basal inferior and posterior akinesis , mild concentric ventricular hypertrophy , mild regurgitation , and mild calcific aortic stenosis .
+Cardiology was consulted .
+They were not sure if it was secondary to a non-Q myocardial infarction or secondary to renal failure .
+The labs also showed that the BUN was elevated to 57 and creatinine of 2.3 .
+This was thought to be secondary to volume depletion .
+He was hydrated with IV fluids and D5 half normal saline .
+With hydration , his renal failure progressively improved .
+As of **DATE[Feb 9 2007] , his BUN was 39 and creatinine was 1.3 .
+Urine and blood cultures were sent off .
+The blood cultures grew enterococcus and coagulase - negative staph .
+The source of infection was thought to be his urinary tract infection .
+In view of his fever , it was thought that he had a systemic infection of pyelonephritis .
+He was initially started on Cipro , later on switched onto Unasyn and vancomycin .
+After the sensitives came back , he was placed on vancomycin IV 1 g twice daily .
+He became afebrile .
+His WBC counts normalized .
+At the time of admission , his WBC count was elevated to 17.5 with a left shift and progressively it normalized .
+He continued to do well .
+He needed assistance with feeding .
+He was given pureed diet .
+It was noted that his albumin levels were low .
+Arrangements were made for the patient to be transferred to **INSTITUTION where he would continue to get
+IV vancomycin for 5 more days .
+___________________
+**NAME[ZZZ YYY] , M.D.
+Dict :
+**DATE[Feb 14 2007] 11:12:38
+Tran :
+**DATE[Feb 15 2007] 22:21:15
+**INITIALS
+R :
+**DATE[Feb 15 2007] 22:21:15/jk
+**CARBON-COPY

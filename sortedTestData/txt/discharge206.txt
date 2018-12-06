@@ -1,0 +1,125 @@
+Medicine D/C Summary
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] M
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 80s] years
+Sex :
+Male
+DOB :
+**DATE[Feb 11 1925]
+Author :
+**NAME[XXX , WWW M]
+Discharge Information
+Discharge Date :
+**DATE[Nov 25 2007]
+Attending Physician :
+**NAME[ZZZ , YYY M]
+Discharge Diagnosis ( es ):
+Diagnosis #1 :
+Fungal pyelonephritis .
+Diagnosis #2 :
+Fever .
+Diagnosis #3 :
+BPH .
+Diagnosis #4 :
+Afib .
+Patient Status
+HISTORY OF PRESENT ILLNESS :
+Pt. is **AGE[in 80s] y/o man with PMHx of BPH , Afib , HTN , left pleural effusion s/p VATS and pleuradesis , AVR , and CAD s/p CABG x2 and stent placement who presents from urology clinic c/o fluctuating fevers and chills .
+Pt. reports a 10 day history of F/C and difficulty voiding for which he initially presented to **INSTITUTION and was treated for a UTI .
+Pt. also reports a 2 week h/o urinary retention requiring intermittent straight catheterizations which he did himself using nonsterile technique .
+At Mercy he was treated with Levaquin and ampicillin which he was discharged on .
+However , he continued to have elevated temperatures and returned to Mercy where he was placed on IV gentamicin and vancomycin .
+Pt. was still febrile and left Mercy , continuing to take his Levaquin until a visit to the urology clinic earlier on the day of admission .
+He was sent to the ED at **INSTITUTION where a CT abdomen and pelvis was done , blood and urine cultures were sent off .
+A foley catheter was placed .
+He was treated with Ciprofloxacin in the ED .
+He currently denies F / C / CP / SOB .
+No diarrhea , No N / V .
+No change in mental status .
+Records from Mercy showed negative blood cultures taken on different dates and a urine culture showing only 60,000 Candida , no bacteria .
+HOSPITAL COURSE :
+1. Fever - Throughout the hospital course , the patient experienced low grade temperature spikes as high as 101.6 .
+He was initially started on Zosyn as we awaited blood and urine cultures from the ED and reports to be sent from Mercy hospital .
+After information from Mercy was received , the patient was also started on Diflucan 400 mg PO for the first night , then 200 mg PO for a 2 week course .
+Zosyn was discontinued .
+Although the only pathogen isolated was Candida , it is well accepted that fungal urinary tract infections and pyelonephritis rarely present with symptoms and that this seemed an odd presentation for fungal UTI .
+As the patient continued to have low grade febrile spikes , ID was consulted .
+CT abd and pelvis done in the ED showed what appeared to possibly be a small right sided fluid collection around the right kidney and right ureteritis .
+There was some discussion as to whether or not the perinephric fluid could be sampled by interventional radiology , but after discussions with ID and Urology , it was not deemed large enough .
+He was continued on Diflucan and his urinary fungal infection was shown to clear on repeat urinalyses and urine cultures .
+He continued to have low grade fevers with occasional sweats and chills , however , no other symptoms .
+There was no CVA tenderness on exam .
+A repeat CT abd / pelvis on 1/25 showed no significant change with possibly improving right perinephric fluid collection .
+On the day of discharge , the patient was afebrile , but was told he could continue to expect low grade fevers until there was either
+1. complete resolution of his fungal infection or
+2. he underwent definitive urologic surgical intervention to relieve BPH causing chronic right sided retention and inflammation .
+Other sources of possible infection in this gentleman with significant cardiopulmonary history include
+1. an infected pleural effusion or
+2. endocarditis .
+The patient reported no symptoms consistent with either of these two scenarios .
+And negative blood cultures done throughout this admission argue strongly against endocarditis .
+Furthermore , the patient had a TTE done at Mercy earlier this month which showed no vegetations or other indications of endocarditis .
+( Report was faxed and placed in the patient 's paper chart ) .
+The pleural effusion could still be infected and the option was given to the patient as to whether he wanted to have the fluid sampled .
+In consultation with the primary team and with Infectious Disease , it was determined by all involved that the procedure would be low - yield .
+The patient opted against it at this time , but should the fevers persist despite completion of antifungal treatment and urologic intervention , he was made aware that this may be necessary in the future .
+He will follow up with ID after he completes 2 weeks of diflucan ( i.e. 1 week after discharge ) .
+If still no further sources of fever are discovered , then the patient would benefit from a workup for fever of unknown origin .
+His primary care physician may opt to go ahead with this workup on an outpatient basis .
+2. BPH - The patient required a foley during his entire hospital stay .
+He underwent a cystoscopy on 1/18 to rule out bladder carcinoma which could have been the source of his hematuria and fevers .
+Cystoscopy showed right hydroureter which was relieved by alleviating the outflow obstruction secondary to BPH and no bladder carcinoma .
+The patient 's urologist , Dr. **NAME[VVV] , recommended a chronic foley until follow up in 1 week after discharge .
+He is also planning on surgical intervention in the future to more definitively treat the enlarged prostate .
+Pt. was given these instructions at the time of discharge .
+3. HTN - Well controlled on home medications .
+4. Afib - Pt. was anticoagulated with Heparin gtt until after cystoscopy .
+He was placed back on Coumadin following the procedure .
+It was noted that Diflucan and Warfarin interact which may make the pt 's INR supratherapeutic as long as he is taking the Coumadin .
+Goal for this patient with AVR is 2.5-3.5 .
+Since the patient had received 6 doses of diflucan prior to discharge , he was given 8 more days of diflucan .
+We monitored his INR closely while he was inpatient .
+While on Diflucan and Coumadin 2.5 mg PO qHS , his INR reached a maximum of 2.9 .
+On the day of discharge , INR was 2.8 .
+He was given instructions and a prescription to have his INR checked on 1/25 , 1/29 , and 1/31 with results faxed to Dr. **NAME[ZZZ] , who will be the patient 's PCP .
+The patient should complete his diflucan on **DATE[Dec 1 07] and has follow up scheduled with ID and urology at that time .
+Discharge Plan
+Disposition
+Patient discharged to home .
+Patient Instructions
+Content of Instruction :
+The patient was given instruction on medications ordered .
+Person Instructed :
+The patient was given written discharge instructions , The patient was given oral instruction , The patient 's spouse was given written discharge instructions , The patient 's spouse was given oral instruction .
+Patient / Family Response to Instruction : able to recall / perform demonstration .
+Patient Condition
+Stable
+Physical Activity
+No restrictions
+Dietary Restrictions
+Low-salt diet
+Follow Up Instructions
+Patient is to see their Primary Care Physician in 3 - 4 weeks
+Patient is to see Dr. **NAME[VVV] , Urology in 1 - 2 weeks .
+Patient is to see Dr. **NAME[UUU] , Infectious Disease in 1 - 2 weeks .
+Discharge Medications
+Discharge Medications :
+1. Metoprolol 25 mg PO BID
+2. Altace 10 mg PO QD
+3. Lasix 40 mg PO QD
+4. K-dur 20 mEq BID
+5. Zocor 40 mg PO qHS
+6. Coumadin 2.5 mg po QD
+7. Proscar 5 mg PO QD
+8. Flomax 0.8 mg PO QD
+9. Advair diskus PRN
+10. Diflucan 200 mg PO qHS x 8 days
+Perform by **NAME[XXX , WWW] J
+( on **DATE[Nov 26 2007] 13:42 )
+Sign by **NAME[XXX , WWW] J
+( on **DATE[Nov 26 2007] 13:42 )
+VERIFY by **NAME[XXX , WWW] J
+( on **DATE[Nov 26 2007] 13:42 )

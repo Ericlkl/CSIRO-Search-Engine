@@ -1,0 +1,97 @@
+**INSTITUTION
+General Internal Medicine
+Discharge Summary
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+ATTENDING :
+**NAME[YYY M XXX ZZZ]
+ADMISSION DATE :
+**DATE[Nov 18 2007] 15:47:00
+DISCHARGE DATE :
+**DATE[Nov 24 2007]
+DATE OF EXPIRATION :
+**DATE[Nov 24 2007]
+The patient was admitted through the emergency department with chief complaint of a rapid heartbeat .
+The patient was there at the hospital for an Aranesp injection the heart rate was noted at that time also , complaining of increased shortness of breath over the past 2 days .
+She also had ankle swelling and nausea .
+Reported past medical history of CHF , high cholesterol , renal calculi , hypertension , hypothyroidism , DJD , chronic renal __________ , and DVT .
+In the ER , labs were obtained .
+She had a white count of 6.4 , H and H 12.7 and 38.1 , platelets 147 , glucose 119 , BUN 89 , creatinine 4.9 , sodium 143 , potassium 4.3 , chloride 109 , and CO2 16. Her BNP was 3780 .
+CK 2 , CK-MB 0.7 , troponin 0.07 , PT 12.5 , and INR 1.1 .
+Her chest x-ray showed CHF .
+In the ER , they gave her Lasix 40 mg IV , a Cardizem bolus of 10 mg IV , then Cardizem drip of 5 mg / hour .
+ER discussed the case with Dr. **NAME[ZZZ] .
+The patient was admitted to CMU with diagnoses of CHF and renal failure .
+All of her admission orders were written .
+A consult to Dr. **NAME[UUU] and Dr. **NAME[TTT] was placed and the patient received Lasix 80 mg IV q.12 h. along with DuoNeb SA q.i.d. p.r.n. and heparin 5000 units subcu q.8 h .
+On **DATE[Nov 19 2007] , Dr. **NAME[SSS] discussed dialysis .
+The patient refused any dialysis treatment at that time .
+The Renal doctor , Dr. **NAME[RRR] , evaluated the patient upon admission and felt the patient had stage IV chronic kidney disease with a previous diagnosis of hypertensive nephrosclerosis .
+He noted that the patient was refusing dialysis in the past and adamantly continuing at the time of admission .
+She was started on sodium bicarbonate 650 mg p.o. twice a day .
+He felt that the patient appeared to be stable from a CHF standpoint and her heart rate was much improved on the Cardizem drip .
+Dr. **NAME[TTT] also evaluated the patient upon admission .
+He felt that the patient was not in heart failure at that time but only needing dialysis .
+He thought that the heart was unable to move the fluids properly .
+He felt strongly that dialysis was needed although he indicated in his notes the patient was still refusing the dialysis .
+At that time her Cardizem was changed from a drip to oral medication .
+He also noted that the patient had a history of noncompliance , which made her very difficult to treat .
+Troponin elevation was probably due to multiple medical problems and underlying renal disease .
+On **DATE[Nov 21 2007] , the patient changed her mind .
+She decided to have go on and have dialysis .
+She continued treatment for her CHF , protein caloric malnutrition , anemia , hypertension , and Coumadin therapy .
+The patient developed a fever of 100 on **DATE[Nov 23 2007] .
+Her other vitals were stable .
+Her heart rate was 90 .
+Dr. **NAME[ZZZ] ordered her arterial Dopplers .
+On **DATE[Nov 24 2007] , her BUN and creatinine were worsening with BUN 120 and creatinine 5.4 .
+Dr. **NAME[QQQ] was consulted and saw the patient on **DATE[Nov 24 2007] .
+He noted that the patient had a dialysis catheter placed in the right supraclavicular area , but later in the afternoon she had lethargy and progressive unresponsiveness requiring endotracheal intubation and mechanical ventilatory support .
+He felt her condition was critical at that time , suffering from acute respiratory failure , renal failure , and arteriosclerotic heart disease with intermittent atrial fibrillation .
+Discussed code status with the patient 's husband .
+The patient 's husband determined discontinuation of all life support systems .
+The patient ceased to breath on **DATE[Nov 24 2007] , at 11:10 a.m. due to respiratory failure .
+PRINCIPAL DIAGNOSES :
+1. Hypertensive heart disease and chronic disease stage V or end-stage renal disease with heart failure , unspecified benign or malignant .
+2. Chronic kidney disease stage V .
+3. Congestive heart failure , unspecified .
+4. Acute respiratory failure .
+5. Primary cardiomyopathy .
+6. Paroxysmal ventricular tachycardia .
+7. Atrial fibrillation .
+8. Acidosis .
+9. Thrombocytopenia , unspecified .
+10. Unspecified protein caloric malnutrition .
+11. Multiple involvement of mitral and aortic valve diseases , tricuspid slit valve .
+12. End-stage renal disease .
+13. Premature beats unspecified .
+14. Left bundle branch block .
+15. Coronary atherosclerosis of native coronary vessels .
+16. Peripheral vascular disease , unspecified .
+17. Chronic pulmonary heart disease .
+18. Cardiomegaly .
+19. Hypertension , unspecified .
+20. Unspecified anemia .
+21. Disorder of adrenal glands .
+22. Contracture of joints , ankles , and foot .
+23. Old myocardial infarction .
+24. Heart valve replacement status .
+25. Personal history of venous thrombosis and embolism .
+_____________________________________
+**NAME[YYY M XXX ZZZ]
+DICTATED BY :
+**NAME[VVV WWW] , R.N.
+**INITIALS
+D :
+**DATE[Dec 03 2007] 12:04:11
+T :
+**DATE[Dec 03 2007] 12:29:07
+R :
+**DATE[Dec 03 2007] 12:29:07/nks
+Job ID :
+373855 /**ID-NUM
+*** Dictated By :
+-**NAME[WWW , PPP] ***
+Electronically Signed by **NAME[CCC SSS] for **NAME[YYY ZZZ XXX] **DATE[Dec 07 2007] 07:53:43 PM

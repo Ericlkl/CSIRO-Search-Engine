@@ -1,0 +1,45 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Mar 23 07]
+I am seeing this critically - ill patient for continued management of multiple medical problems including respiratory failure and acute renal failure .
+I have seen and examined this patient .
+I reviewed the chest x-ray and laboratory data and I have discussed the patient 's care with the SICU team .
+Mrs. **NAME[AAA] is afebrile .
+She is tolerating trach mask trials poorly .
+I have her on assist control at 40% FiO2 and 5 of PEEP .
+I have decreased her respiratory rate as she is breathing with the ventilator .
+I am diuresing her with a torsemide infusion at 10 mg per hour .
+She has made about two liters of urine a day and is in negative fluid balance on this regimen .
+Her BUN and creatinine have increased slowly over the past few days although she continues to be volume overloaded .
+BUN and creatinine are now 72 / 3.8 .
+T = 40 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 23 2007] 22:43:48
+T :
+**DATE[Mar 23 2007] 23:11:50
+R :
+**DATE[Mar 23 2007] 23:11:50/caa
+Job ID :
+401533/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 09 2007] 04:49:44 PM

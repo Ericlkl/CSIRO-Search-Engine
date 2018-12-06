@@ -1,0 +1,101 @@
+**INSTITUTION
+GENERAL MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Feb 24 2007]
+DISCHARGE DATE :
+**DATE[Feb 26 2007]
+CHIEF COMPLAINT :
+Shortness of breath and dyspnea on exertion .
+HISTORY OF PRESENT ILLNESS :
+The patient is a **AGE[in 50s]- year - old black female admitted through the ER after experiencing shortness of breath and dyspnea on exertion while on her way to her dental appointment .
+Her dental clinic was on a hill and when she was climbing the hill on her way , she began to get more short of breath , but denied any overt chest pain , arm pain , or jaw pain .
+She did complain of palpitations , and because of the palpitations and her shortness of breath , she decided to present herself to the ER .
+After resting and getting some nitroglycerin in the ED , she was back to her normal state of health .
+Incidentally in the ED , she was found to have an increased glucose greater than 500 .
+When asked the patient , said that she had not recently been compliant with her medications , which include Lantus insulin , because of her social situation in the home which causes much stress .
+She did complain of much polyuria but denied any dysuria .
+The patient also complained of longstanding nausea and vomiting over the past 5 to 6 months , which is being worked up as an outpatient .
+Overall , she was admitted to **INSTITUTION Hospital to rule out MI and her uncontrolled blood sugars .
+PAST MEDICAL HISTORY :
+Hepatitis C , insulin - dependent diabetes , hypertension , bipolar disorder , depression , arthritis , and COPD .
+HOSPITAL COURSE :
+As stated above , the patient was mainly admitted for control of her sugars as well as a workup to rule out MI .
+On admission , her blood sugars were greater than 500 .
+Initial labs showed sodium of 133 , potassium 4.1 , BUN and creatinine of 8 and 0.7 respectively , potassium 4.1 , and chloride of 95 .
+Troponins were drawn x 4 and these were all negative .
+EKG was done which did not show any changes .
+BNP was drawn which was 12 , which was normal .
+Hemoglobin A1c was drawn which was 15.0 , white count was 6.2 , and hemoglobin and hematocrit were stable at 14.8 and 43.1 .
+As the patient had been ruled out for MI , we did order an echocardiogram to see her left ventricular function .
+She had this done on **DATE[Feb 25 2007] , which showed the following :
+1. Ejection fraction of 55% to 60% .
+2. Normal left ventricular size and function .
+3. Mitral annular calcification .
+4. As compared to **DATE[Jan 13 2005] , there have been no significant changes .
+Regarding the patient 's sugar , she was placed on her normal home regimen of glipizide , metformin , and Lantus as well as q. 4 - hour insulin coverage to make sure that her sugars come down .
+With that treatment , her blood sugars did become regulated rather quickly , and as of **DATE[Feb 25 2007]; her blood sugars had been in the range from 90s to about 200s , which is much better controlled for the patient .
+At this time , she will be switched completely to oral coverage insulin and her Lantus which she takes in the evening time .
+She had been advised extensively as to the possible complications and implications , if she does not stay compliant with her regimen .
+She has been told that it would benefit her if she recorded all of her glucose and that she should check her glucose in the morning and evening and take those records to **NAME[UUU] M.D. , as further titration may be required to control her glucose .
+To make sure that her pulmonary status was well , we also did schedule pulmonary functions tests which were completed on **DATE[Feb 26 2007] , prior to discharge .
+This showed FVC of 2.89 , FEV-1 of 2.20 , FEV-1 / FVC percentage of 76 , FEF25 - 75% of 1.87 , PEF of 6.08 , and FET 100% of 15.67 .
+Overall , these were very good results .
+Of note , the patient did take her albuterol treatment prior to these , which may affect the results mentioned above .
+At this time , it is felt that the patient has received maximum hospital benefit .
+She has been ruled out for an MI .
+Her echocardiogram shows very good left ventricular size and function .
+Her pulmonary function does show a good pulmonary function .
+At this time , she is stable and ready to be discharge to home .
+She is to follow up with her primary care provider who will be stated below and she should be very compliant with her medications to preclude any further admissions .
+DISCHARGE DIAGNOSIS :
+Chest discomfort , which has resolved .
+DIET :
+Diabetic diet .
+The patient is to avoid all sugary foods .
+ACTIVITY :
+Activity will be as tolerated .
+She is encouraged to exercise by walking 30 minutes a day .
+SPECIAL INSTRUCTIONS :
+The patient is to check her sugar twice a day .
+Write always down and give it to her primary care provider and take all medications as prescribed .
+Follow up will be with Dr. **NAME[ZZZ] in 3 to 4 weeks or the patient is to keep an appointment that she has already on **DATE[Mar 7 2007] .
+ALLERGIES :
+NONE KNOWN .
+DISCHARGE MEDICATIONS :
+1. Glipizide 10 mg p.o. q. day .
+2. Metformin 500 mg p.o. b.i.d.
+3. Spiriva 1 puff q. day .
+4. Trazodone 50 mg p.o. at bedtime .
+5. Albuterol 2 puffs q. 4 hours p.r.n.
+6. Lantus 100 units subcutaneously at bedtime .
+CONDITION ON DISCHARGE :
+The patient 's condition on discharge is good .
+She is ready to be discharged to home and this will be facilitated for .
+___________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[VVV XXX , WWW-M]
+DV/ss
+D :
+**DATE[Feb 26 2007] 11:59:22
+T :
+**DATE[Feb 26 2007] 23:00:26
+R :
+**DATE[Feb 26 2007] 23:00:26/ss
+Job ID :
+363098/**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX , WWW-TTT] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Feb 31 2007] 03:51:28 PM

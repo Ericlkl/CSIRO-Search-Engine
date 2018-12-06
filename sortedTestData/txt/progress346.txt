@@ -1,0 +1,64 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Apr 17 07]
+I am continuing to follow this patient who is status post double - lung reduction surgery .
+Postoperative course has been complicated .
+I am currently managing her for the following Critical Care issues :
+Respiratory failure , renal failure , volume overload , nutritional support .
+I examined her , reviewed her laboratory data , chart data and chest x-ray .
+Hemodynamically , she has remained hemodynamically stable .
+She came off Levophed late last night and has been off Levophed with means now running somewhere in the mid 60s to mid 80 mmHg range .
+She remains clinically warm and well - perfused and remains in sinus a rhythm .
+She continues on prednisone 10 mg for adrenal insufficiency .
+From a respiratory standpoint , she has improved .
+She actually came of the vent this morning and went on trach mask this morning .
+Will let her go as long as she tolerates and will rest her tonight .
+From a renal electrolytes standpoint , she is in renal failure .
+There is no evidence of recovery at this point in time .
+She is on CV HDF removing 50 an hour which I did increase to 100 an hour , and she if tolerates this in six hours , we will go up to 150 an hour .
+From a GI , nutrition standpoint , the patient 's abdominal pain is much improved .
+The abdomen is soft , though slightly distended and tender yesterday .
+CT scan pretty much was only remarkable to show some chronic cholelithiasis , but nothing new .
+She probably has some chronic gallbladder disease with still some sludge .
+She is due to get an abdominal ultrasound today which I will restart her enteral feeds and discontinue her IV fluids .
+Otherwise , from an ID standpoint , her white count is now normalized .
+She has remained afebrile .
+Her cultures are negative to date .
+Will continue antibiotics until cultures are final .
+If nothing grows , we will discontinue her antibiotics .
+Otherwise , at this point in time , her hematocrit is down from an hematologic standpoint at 23 .
+One ________ did close down , ___________ it may be secondary to this .
+There does not appear to be any active signs of bleeding .
+Therefore , I will continue the subq heparin for DVT prophylaxis and she is also on GI prophylaxis .
+Otherwise , we will continue her on current supportive care management .
+CRITICAL CARE TIME = 31 MINUTES .
+___________________________________
+**NAME[WWW VVV XXX] , M.D.
+Dictator :
+**NAME[WWW VVV XXX] , M.D.
+PLS/ddd
+D :
+**DATE[Apr 17 2007] 22:13:47
+T :
+**DATE[Apr 18 2007] 13:28:28
+R :
+**DATE[Apr 18 2007] 13:28:28/ddd
+Job ID :
+432290/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , SSS VVV] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 10 2007] 06:15:41 PM

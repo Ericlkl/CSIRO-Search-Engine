@@ -1,0 +1,82 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA , BBB]
+**ID-NUM
+**ID-NUM
+A5B/537CORRECTED REPORT-DATE
+SERVICE OF :
+**NAME[ZZZ M YYY] , M.D.
+DATE OF ADMISSION :
+**DATE[Nov 24 2007]
+DATE OF DISCHARGE :
+**DATE[Nov 30 2007]
+DIAGNOSES
+1. Intractable hip pain .
+2. Peptic ulcer disease with intractable nausea .
+3. Hypertension .
+4. Aortic stenosis .
+5. Chronic obstructive pulmonary disease .
+6. Advanced generalized osteoarthritis .
+7. Spinal stenosis .
+8. Anemia of chronic disease .
+9. Hypertension .
+10. Chronic postnasal drainage .
+11. Chronic constipation .
+12. Contraindication to increased medications due to mild hyperkalemia .
+DISCHARGE MEDICATIONS
+1. Tylenol 650 q.4h. p.r.n.
+2. Tums 1000 mg q.d.
+3. Colace 100 b.i.d.
+4. Fentanyl 550 q.72h.
+5. Flonase two sprays b.i.d.
+6. Advair 250/50 one puff b.i.d.
+7. Lasix 20 mg q.o.d.
+8. Lisinopril 2.5 mg q.d.
+9. Milk of Magnesia h.s. p.r.n. and the routine .
+10. Meclizine 25 mg t.i.d. p.r.n.
+11. Metoprolol 12.5 mg q.d.
+12. Multivitamin one q.d.
+13. Zofran p.r.n.
+14. Protonix 40 mg .
+15. Senna tablets , two h.s.
+16. Ocean Nasal Spray .
+DISCHARGE SUMMARY
+This is a **AGE[90+]- year - old who was admitted to the hospital in **DATE[Sep] with intractable hip and back pain .
+She received several injections during that admission and went to rehab , did reasonably well with rehab , but she had difficulties with a urinary tract infection , nausea and hyponatremia during that admission .
+She went home and was doing poorly at home .
+She had poor control of her pain , was taking Darvocet , Naprosyn , Tylenol .
+She was subsequently put on a fentanyl patch and it caused nausea when she was in the hospital before .
+She tolerated it reasonably well until three days prior to admission .
+She had progressively increasing nausea and vomiting and persistence of her pain .
+The patient was admitted to the hospital .
+She was seen by the GI service and subsequently had an endoscopy which did show a peptic ulcer .
+She was started on Protonix .
+Her Naprosyn and Darvocet were discontinued .
+She was continued on the fentanyl patch .
+Her nausea did improve somewhat and she , as long as she moved her bowels , seemed to function reasonably well .
+The patient has aortic stenosis and hypertension .
+Her blood pressure was somewhat labile but reasonable during her admission .
+The patient was seen by the pain service .
+They injected her hip , although she did not get much immediate relief of pain .
+Will need to wait for further evaluation .
+The patient was found to be anemic on admission .
+She had a mild anemia during her last admission .
+It was more severe this time .
+She was Hemoccult - negative .
+The studies , her iron , B12 , and folate were all normal , and it was determined that it ( anemia ) was probably due to a prior bleed , although a reevaluation of this will need to take place if she does not improve in the next month .
+She has a history of CHF and COPD , and these remained stable during her hospitalization .
+She will be discharged to a skilled nursing facility to continue physical therapy .
+Her ability to walk was significantly limited by pain , but she made good progress during her last admission to rehab and has a fairly good prognosis for that .
+Patient will be followed up by me after she is discharged from the skilled nursing facility .
+The discharge process took 35 minutes .
+__________________________________
+**NAME[ZZZ M. YYY] , M.D.
+Dict :
+**DATE[Nov 30 2007] 08:46:36
+Tran :
+**DATE[Nov 30 2007] 09:20:47
+JMD/pg/367461/**ID-NUM/**ID-NUM
+R :
+**DATE[Nov 31 2007] 05:51:43/pc
+**CARBON-COPY

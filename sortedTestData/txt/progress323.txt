@@ -1,0 +1,77 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Mar 22 07]
+Mrs. **NAME[AAA] is a **AGE[in 60s]- year - old woman who is status post lung volume reduction surgery .
+She continues to require critical care for management of her respiratory insufficiency , adrenal insufficiency , renal insufficiency and hyperglycemia as well as malnutrition .
+ASSESSMENT AND PLAN :
+1. Pulmonary .
+Respiratory failure .
+I am currently managing Mrs. **NAME[AAA] on assist - control ventilation rate of 20 , tidal volume 400 , 40% FiO2 and 5 of PEEP .
+I will attempt a trach - mask trial today and continue DuoNebs for bronchospasm .
+Breath sounds have occasional wheezes in bilateral lung fields .
+Chest x-ray is relatively unchanged , with the exception of a right basilar pneumothorax .
+I have readjusted her pigtail catheter and was able to aspirate a small amount of air .
+Repeat chest x-ray shows resolution of this small pneumothorax .
+I will continue weaning trails with end - tidal CO2 .
+2. Cardiovascular .
+Extremities are warm and adequately perfused .
+She is in sinus rhythm with mean pressures in the 70s .
+She is not requiring inotropic or pressure support .
+3. Infectious Disease .
+Afebrile with a white count of 6.2 .
+She does not appear to be actively infected at this time .
+4. Endocrine .
+Hyperglycemia .
+I will continue sliding - scale insulin coverage and NPH insulin to maintain euglycemic control and decrease her NPH insulin to 5 subQ twice a day .
+I am continuing Aranesp due to renal failure .
+Hydrocortisone 25 mg twice a day for adrenal insufficiency , her baseline prednisone of 5 mg daily .
+5. Renal .
+Urinary output is increased .
+BUN and creatinine are slightly elevated today at 61 and 3.5 .
+She appears to be responding to the torsemide drip in regards to her fluid balance .
+She continues to have a significant peripheral edema .
+I have added SPA to her regimen per Nephrology 's request .
+She does not have an urgent indication for dialysis at this time .
+I will continue to manage her expectantly on the torsemide drip .
+6. Fluids , electrolytes and nutrition .
+Sodium 131 , potassium 4.7 and magnesium 2.0 .
+Replace electrolytes per protocol and adjust maintenance IV accordingly .
+7. Hematology .
+Hemoglobin this morning is 8.3 with a platelet count of 185 .
+I am continuing a heparin drip due to lower extremity DVT .
+8. GI .
+Abdomen is soft and benign .
+She is tolerating Nepro at a goal of 30 mL per hour .
+9. Prophylaxis .
+I will continue her proton pump inhibitor and head of the bed elevation .
+Critical Care time = 32 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+HNM/maf
+D :
+**DATE[Mar 23 2007] 00:31:16
+T :
+**DATE[Mar 23 2007] 01:07:07
+R :
+**DATE[Mar 23 2007] 01:07:07/maf
+Job ID :
+400136/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 04 2007] 07:44:51 PM

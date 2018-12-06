@@ -1,0 +1,54 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING **NAME[VVV :
+TTT M UUU]
+ADMISSION DATE :
+**DATE[May 25 2007]
+EVALUATION DATE :
+**DATE[May 30 07]
+I personally managed Mr. **NAME[AAA] in the ICU .
+He is a **AGE[in 60s]- year - old man with a history of stroke and brain edema , who is now somewhat improved following his 3% sodium chloride , which we have discontinued today .
+He continues to be febrile .
+He is day six on Unasyn .
+He also seems to have more infiltrates than he has in the recent past .
+His white count , however , is on a decreasing trend , so because of his increasing infiltrates and the fact that he is still febrile , we have changed his antibiotic today to cefepime and Flagyl and will see if this improves his pulmonary situation .
+It may very well be that he continues to subclinically aspirate as he does not have a very good gag reflex .
+Will have to continue to evaluate this on a daily basis .
+He is on nasal cannula .
+His oxygen saturation is good .
+We have discontinued his arterial line .
+His sodium is acceptable at 149 .
+He passes air reasonably well both sides of the chest .
+Heart is regular rhythm .
+Abdomen is soft .
+He puts out adequate amounts or urine .
+Blood pressure has been somewhat elevated .
+We have increased his lisinopril .
+He is out of bed in a chair .
+Occupational therapy and physical therapy are continuing to follow him .
+We are continuing to watch him expectantly and supportively .
+Critical care time 30 minutes .
+___________________________________
+**NAME[XXX M. YYY] , M.D.
+Dictator :
+**NAME[XXX M. YYY] , M.D.
+**INITIALS
+D :
+**DATE[May 31 2007] 08:11:15
+T :
+**DATE[May 31 2007] 08:24:10
+R :
+**DATE[May 31 2007] 08:24:10/msz
+Job ID :
+369004/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[YYY , SSS M]. ***
+Electronically Signed by **NAME[XXX YYY]
+**DATE[Jul 01 2007] 01:54:25 AM

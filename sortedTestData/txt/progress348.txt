@@ -1,0 +1,63 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Apr 19 07]
+I am seeing Mrs. **NAME[AAA] for critical care at the request of Dr. **NAME[YYY ZZZ] .
+I have examined the patient , reviewed the medical record , including medications and laboratory data , and made adjustments to the patient 's therapy .
+Ms. **NAME[AAA] is a **AGE[in 60s]- year - old woman with a history of bilateral lung reduction surgery who postoperatively has had respiratory failure , acute renal failure , cholelithiasis , and diverticulitis .
+She has also had a deep venous thrombosis and an inferior venal caval filter put in place .
+Today , the patient is afebrile .
+Her mean pressures are between the mid - 50s and the mid - 60s .
+Pulse is between 80 and 100 in sinus rhythm .
+Respirations are between 15 and 25 , and she is on 40% oxygen and 93% saturated .
+She is awake and alert .
+Neurologically , she appears intact .
+She is complaining of abdominal pain in the right upper quadrant .
+She has a clean trach site .
+Her dialysis catheter insertion site appears without inflammation .
+She has diminished breath sounds bilaterally .
+Her abdomen is distended slightly .
+There are positive bowel sounds , and she has tenderness in the right upper quadrant without rebound or peritoneal signs .
+She has edema which is reported to be improving .
+Her I 's and O 's are positive 1 liter over the past 24 hours .
+She is being treated with CVVHD and since midnight has had zero removal per hour because of hypotension .
+She has been on and off of Levophed and is on a small dose of Levophed this morning .
+I reviewed her medications .
+I note that she is still on prednisone and has a history of a flat Cortrosyn stimulation test so I will continue that medicine .
+She is well - dialyzed .
+Her phosphate is low , and I am repleting that .
+I believe that she is intravascularly depleted even though she has total body volume expanded .
+I gave her 500 mL of Hextend , and with that , I was able to wean her off of the Levophed .
+I spoke to Dr. **NAME[TTT] of Renal Medicine , and we have agreed to leave the patient 's fluid removal at 0 mL for the time being .
+Should the blood pressure improve and she can stay off of Levophed for an extended period of time , we can continue trying to remove fluid from her later on today or , perhaps , tomorrow .
+We have discontinued her vancomycin because her cultures are negative for Gram - positive cocci .
+She has liquid stool so I have sent a Clostridium difficile culture .
+Total time taken in the care of this critically ill patient is **AGE[in 30s] minutes .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+MD/mr
+D :
+**DATE[Apr 19 2007] 14:08:25
+T :
+**DATE[Apr 19 2007] 18:49:11
+R :
+**DATE[Apr 19 2007] 18:49:11/mr
+Job ID :
+434187/**ID-NUM
+*** Dictated By :
+-**NAME[XXX , SSS] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 09 2007] 02:47:01 PM

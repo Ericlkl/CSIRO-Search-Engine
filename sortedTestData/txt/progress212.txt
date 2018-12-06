@@ -1,0 +1,46 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M. ZZZ] , M.D.
+ADMISSION DATE :
+**DATE[Feb 12 2007]
+EVALUATION DATE :
+**DATE[Mar 25 07]
+This is a ventilator management note .
+I am managing this **AGE[in 60s]- year - old female with respiratory failure after sternal wound debridement due to mediastinitis as a complication of her coronary artery bypass grafting .
+She now presents with respiratory and renal failure .
+On my evaluation today , Ms. **NAME[AAA] is awake , alert , and oriented , and she has no complaints .
+On chest x-ray , there is progressive decrease in her pulmonary vascular congestion .
+Her both right and left - sided pigtails are in place , and she is still on assist control with peak airway pressures in the low 30s .
+Yesterday , we tried a brief trial of pressure support ventilation which he failed with tachypnea and low tidal volumes .
+Currently , her tidal volume is set at 500 ml with a PEEP of 10 .
+I will plan to try another pressure support ventilation today in the face of recent ultrafiltration and decreased fluid overload .
+In terms of her mediastinitis , she is on day 31 of her cefepime out of a six - week course .
+She is also on vancomycin .
+Her renal failure is steady with a BUN of 35 and creatinine of 1.8 .
+She is on intermittent hemodialysis and she will get dialyzed again this coming Tuesday .
+She is tolerating her tube feeds and she is on peptic ulcer and DVT prophylaxis .
+___________________________________
+**NAME[M. WWW XXX] , M.D.
+Dictator :
+**NAME[M. WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Apr 09 2007] 09:59:39
+T :
+**DATE[Apr 09 2007] 11:16:03
+R :
+**DATE[Apr 09 2007] 11:16:03/hw
+Job ID :
+420149/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT WWW] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jun 01 2007] 08:38:01 AM

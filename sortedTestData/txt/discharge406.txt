@@ -1,0 +1,30 @@
+**INSTITUTION
+Transfer Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Jan 02 2008]
+Discharged :
+**DATE[Jan 09 2008]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+ADDENDUM :
+For discharge medications , please change #14 .
+It should read prednisone 30 mg p.o. q. day for 5 days , then 20 mg p.o. for 5 days , then 10 mg p.o. q. day .
+Also , please change the date of transfer .
+Because no bed was available at her nursing home , Ms. **NAME[AAA] is to be transferred to her nursing home on **DATE[Jan 9 2008] .
+______________________________
+**NAME[WWW XXX]
+HS Job # 591390 / 37383 /
+SHY # **ID-NUM
+D :
+**DATE[Jan 09 2008] 09:17
+T :
+**DATE[Jan 09 2008] 09:23
+**CARBON-COPY

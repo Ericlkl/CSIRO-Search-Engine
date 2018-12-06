@@ -1,0 +1,54 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M. ZZZ] , M.D.
+ADMISSION DATE :
+**DATE[Feb 12 2007]
+EVALUATION DATE :
+**DATE[Mar 23 07]
+I am managing this critically ill **AGE[in 60s]- year - old female who is status post sternal debridement for mediastinitis status post CABG surgery .
+Her hospital course has been complicated by respiratory failure , acute renal failure and fluid overload .
+I have seen and examined the patient .
+I reviewed her laboratory , radiographic and EMTEK data and discussed the management with the Plastic Surgery and my Critical Care Medicine team .
+The problems and management are as follows .
+1. Acute renal failure .
+The patient 's renal function seems to be improving .
+Her BUN today is 45 and creatinine is 2.2 , and these are significantly lower from yesterday 's numbers of 64 and 2.8 .
+Her potassium is 3.8 and she will get a dialysis on Saturday for the fluid management .
+2. Respiratory failure .
+The chest x-ray showed minimal improvement in her left - sided effusion and also in the atelectasis .
+The patient is tolerating the pressure support ventilation of 8 and PEEP of 8 as long as she is not agitated .
+Agitation really decreases her tolerance to be on the pressure support ventilation and that is why we had to switch her last night back to assist control again .
+Today we will try back on the pressure support ventilation .
+3. Mediastinitis .
+The patient is continuing her six - week course of cefepime .
+The white blood cell count came down appropriately and her fever curve is also responding well .
+Her T-max was 37 in the last 24 hours .
+4. ICU prophylaxis .
+The patient is on Protonix for GI prophylaxis and heparin subcu for DVT prophylaxis .
+She is also on sliding scale insulin for tight glucose control .
+This is Dr. **NAME[WWW XXX] dictating the critical care medicine progress note for Ms. **NAME[BBB M. AAA] for my services provided on Friday , **DATE[Mar 23 2007] .
+The total critical care time spent was 32 minutes .
+___________________________________
+**NAME[M. WWW XXX] , M.D.
+Dictator :
+**NAME[M. WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 25 2007] 16:53:32
+T :
+**DATE[Mar 26 2007] 10:12:48
+R :
+**DATE[Mar 26 2007] 10:12:48/lek
+Job ID :
+403137/**ID-NUM
+*** Dictated By :
+-**NAME[XXX , TTT WWW] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jun 01 2007] 08:37:52 AM

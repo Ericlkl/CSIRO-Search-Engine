@@ -1,0 +1,56 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA , BBB M]
+**ID-NUM
+**ID-NUM
+A5B/549
+SERVICE OF :
+**NAME[ZZZ]
+**NAME[YYY]
+DATE OF ADMISSION :
+**DATE[May 13 2007]
+DATE OF DISCHARGE :
+**DATE[May 17 2007]
+PRINCIPAL DIAGNOSIS :
+Acute diverticulitis .
+SECONDARY DIAGNOSES :
+1. Hypertension .
+2. Anemia .
+3. Chronic obstructive pulmonary disease .
+4. Brain metastases .
+5. Trauma .
+6. Melanoma .
+HOSPITAL COURSE :
+This patient is a **AGE[in 70s]- year - old with history of metastatic melanoma .
+She is for Gamma Knife treatment .
+Other problems include hypertension , COPD , and a large hiatal hernia , presented with 3 days of abdominal pain , vomiting , and diarrhea .
+She was evaluated in the emergency room and had a CT of the abdomen , which suggested sigmoid diverticulitis with small fluid and drainable collection .
+The patient was treated conservatively with IV fluids , hydration , and with antibiotic therapy .
+She was in mild renal failure and this was corrected with IV fluids .
+The patient had had reduction of pain and subsequently she was switched to oral pain medications .
+She was also noted to have a drop in H and H and this was corrected with IV fluids and blood transfusion .
+The patient was also seen by oncology who recommended follow up with her primary oncologist after discharge for arranging chemotherapy .
+She was ultimately discharged on the following medications :
+1. Darvocet-N 100 every 4 hours p.r.n. for pain .
+2. Cipro 500 mg b.i.d. till **DATE[May 20 2007] .
+3. Vasotec 20 mg daily .
+4. Ferrous sulfate 325 mg daily .
+5. Lactinex 1 package by mouth twice a day .
+6. Flagyl 500 mg by mouth 3 times a day to be discontinued on **DATE[May 27 2007] .
+7. Protonix 40 mg by mouth daily .
+The patient will be seen in followup in a couple of weeks for ongoing management of her diverticulitis .
+She will also be seen by a gastroenterologist and by her oncologist for ongoing management of her multiple issues .
+___________________
+**NAME[ZZZ YYY] , M.D.
+Dict :
+**DATE[Jun 20 2007] 17:29:02
+Tran :
+**DATE[Jun 21 2007] 01:02:32
+**INITIALS
+R :
+**DATE[Jun 21 2007] 01:02:32/pn
+Cc:
+**NAME[ZZZ]
+**NAME[YYY] , &lt;Attending&gt;
+**NAME[ZZZ YYY]

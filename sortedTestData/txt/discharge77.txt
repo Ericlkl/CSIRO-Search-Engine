@@ -1,0 +1,61 @@
+PRIMARY DIAGNOSIS :
+Avascular necrosis and degenerative joint disease , osteoarthrosis secondary to the left hip joint now status post left total hip arthroplasty .
+SECONDARY DIAGNOSES:
+1. Obesity .
+2. Diabetes mellitus .
+3. Hypertension .
+4. Depression .
+5. History of placement of a right ureteral stent .
+6. History of renal lithiasis .
+HOSPITAL COURSE :
+The patient was admitted on **DATE[Oct 29 07] and underwent elective left total hip arthroplasty without complication .
+She did receive perioperative antibiotic prophylaxis in the form of a gram of Ancef administered IV within a half hour prior to incision and the same medicine at same dose administered q. 8 hours IV x 24 hours postoperatively .
+She also received aggressive deep venous thrombosis prophylaxis with pneumatic sequential compression device on the nonoperative leg during the surgery and on both lower extremities postoperative anytime sedentary continue throughout her hospital course .
+She also received Lovenox 30 mg subcutaneously b.i.d. beginning 12 hours postoperatively and continued through her hospital course .
+The patient did spike fevers postoperatively on multiple occasions .
+Appropriate laboratory studies were taken to include a urinalysis , which on **DATE[Oct 30 07] showed positive leukocyte esterase and bacteria indicative of a urinary tract infection .
+Urinalysis cultures showed no growth , however , the patient was placed on Cipro for prophylaxis especially with regards to the fact that she has a ureteral stent on the right side .
+At no point did she develop significant respiratory difficulties .
+The highest fever she had was on **DATE[Oct 29 07] , which was 102.1 .
+Throughout her stay her left hip wound looked very good .
+Her left lower extremity remained distally neurovascularly intact .
+There was no significant erythema and after postoperative day two no drainage of the left hip wound .
+No sign or indication of wound infection .
+She did have postoperative anemia , which on **DATE[Nov 01 07] showed hemoglobin of 8 with hematocrit of 23.6 .
+Accordingly , she was transfused with two units of packed red blood cells and by date of transfer she was stable with hemoglobin of 9.4 and 28.3 hematocrit .
+Her stool on Hemoccult was found to be negative .
+By postoperative day two the patient was successfully transitioned from narcotic PCA to oral analgesics with morphine IV backup for breakthrough pain .
+She also was able to resume normal p.o. intake of food and liquid .
+On **DATE[Nov 01 07] Dr. **NAME[UUU TTT] was consulted with regards to her urinary tract infection and her history of stent and he concurred with the patient being placed on Cipro .
+The patient did progress slowly with physical therapy throughout her hospital stay and it was deemed appropriate for her to go to inpatient Rehab at **PLACE Rehab under the care of Dr. **NAME[SSS] on **DATE[Nov 02 07] .
+OPERATIONS AND DATES :
+As stated on **DATE[Oct 29 07] the patient underwent successful left total hip arthroplasty .
+She did receive a transfusion of two units of packed red blood cells on **DATE[Nov 1 2007] .
+CONSULTS :
+Dr. **NAME[TTT] for urinary tract infection with regards to prior placement of right ureteral stent .
+Dr. **NAME[SSS] was consulted for rehab management .
+Physical therapy and Occupational Therapy were consulted for standard total hip arthroplasty protocol .
+Dr. **NAME[RRR] was consulted for medical management .
+Social Service and Case Management consulted for discharge planning and placement .
+DISCHARGE INSTRUCTIONS :
+The patient is to continue with her normal preoperative diet .
+She is to continue with aggressive physical therapy under the care of Dr. **NAME[SSS] at **NAME[QQQ] Rehab for standard post total hip arthroplasty .
+She is weightbearing as tolerated on the left lower extremity with a walker .
+She is to continue with sequential compression devices on the lower extremities while sedentary and standard hip precautions .
+She can shower .
+No further dressings are required when there is no further drainage of the left hip wound .
+The staples will be removed at her already scheduled postoperative visit with Dr. **NAME[XXX] in the office two weeks postoperatively .
+She can call **PHONE to confirm this appointment .
+DISCHARGE MEDICATIONS :
+Allopurinol 100 mg tablet one p.o. t.i.d. ; Norvasc 5 mg p.o. daily ; Lotensin 20 mg p.o. daily ; Lipitor 40 mg p.o. q. h.s. ; Cipro 500 mg p.o. b.i.d. to be given separate from ferrous sulfate dose by at least two hours this should continue for at least seven days ; Colace 100 mg p.o. b.i.d. hold for loose stools ; Lovenox 30 mg subcutaneously b.i.d. for an additional ten days , this can be changed to 40 mg once daily subcutaneous injection administered at home if the patient is discharged prior to those ten days for a total of 14 days postoperative therapy ; ferrous sulfate 300 mg p.o. b.i.d. ; Lasix 40 mg p.o. q. a.m. ; Humulin insulin sliding scale ; metformin 1000 mg p.o. b.i.d. ; sertraline 100 mg p.o. daily ; Tylenol 650 mg p.o. q. 4 hours p.r.n. for fever greater than 100 - degrees Fahrenheit , caution not to exceed total Tylenol dosage of 4 grams per 24 hours when combined with the also ordered Vicodin ; Vicodin 5/500 one to two p.o. q. 4 to 6 hours p.r.n. pain with food , again caution not to exceed total of 4 grams of Tylenol p.o. q. 24 hours when combined with regular Tylenol dosage also ordered .
+_________________________
+**NAME[YYY ZZZ] D.O. , RESIDENT
+_________________________
+**NAME[WWW XXX] , D.O.
+D :
+**DATE[Nov 02 2007]/ 8:19 A
+T :
+**DATE[Nov 06 2007]
+7:16 A mm
+#**ACCESSION-NUMBER[1]/**ID-NUM
+**CARBON-COPY

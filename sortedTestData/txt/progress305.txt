@@ -1,0 +1,53 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Feb 31 07]
+I am seeing this critically - ill woman this morning for respiratory failure , mechanical ventilatory support and worsening subcutaneous emphysema in the setting of her bronchial tear as well as bilateral small pneumothoraces .
+From a respiratory standpoint , the radiograph did not look really significantly worse .
+She has small bilateral air spaces .
+Her left tube was already on suction .
+I put her right tubes on suction too , but I do not expect a huge difference since I suspect that she may be leaking air into her subcutaneous space , mostly perhaps through her bronchial tear .
+I spoke with Dr. **NAME[ZZZ] at the bedside and our goal is going to be to try to get her extubated today .
+If she has even a fair weaning trial , we have elected to do so .
+Her respiratory status is marginal , but currently acceptable with CO2 running about 61 to 64 .
+O2 saturations are reasonable on 50% FiO2 and she feels acceptable .
+She still has reasonable work of breathing , but her underlying lung disease is pretty severe .
+She has a heart rate of about 120 at this point .
+Will continue to follow her closely and may need BiPAP to try to keep her from getting reintubated .
+Hemodynamics are reasonable .
+I have her on an insulin infusion , propofol is off , on empiric Unasyn .
+She has some H. influenzae in her sputum .
+I would continue that at this point .
+Continue her theophylline and prednisone .
+She has been on some additional hydrocortisone .
+Continue supportive care for this critically - ill woman .
+T = 40
+_______________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+AJB/maf
+D :
+**DATE[Feb 31 2007] 18:37:52
+T :
+**DATE[Feb 31 2007] 18:53:33
+R :
+**DATE[Feb 31 2007] 19:09:10/ncm
+Job ID :
+370194/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 06 2007] 12:42:54 PM

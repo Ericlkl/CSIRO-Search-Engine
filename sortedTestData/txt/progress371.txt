@@ -1,0 +1,50 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[ZZZ M YYY]
+ADMISSION DATE :
+**DATE[Apr 12 2007]
+EVALUATION DATE :
+**DATE[Apr 14 07]
+I personally interviewed and examined the patient this morning and discussed the case with Dr. **NAME[XXX] .
+I agree with the findings , impression , and plans as indicated in his notes .
+Overnight , the patient 's IV pain medicines were readjusted .
+It turned out that the conversion amount from her oral to her IV dose was not quite equivalent , and she is now on an equivalent dose and feels much better .
+She did complain of back pain and neck pain throughout the evening and also increased burning pain in her midepigastrium which is consistent with reflux .
+She has no other significant complaints , and now that the medication is more well dosed , she feels better .
+PHYSICAL EXAMINATION :
+Blood pressure 136/77 , pulse is in the 70s .
+She is afebrile .
+Her lungs show poor inspiratory effort .
+Her abdominal exam is again variable .
+She complains bitterly of pain with light palpation , however does not complain of pain with rather deep palpation but with a stethoscope .
+Extremities reveal no edema .
+LABORATORY DATA :
+Her laboratories are unremarkable .
+Electrolytes , BUN , and creatinine are normal .
+White blood cell count is 7600 and hemoglobin and hematocrit are 10.8 and 31.3 .
+IMPRESSION :
+Abdominal pain .
+The abdominal pain is almost assuredly chronic .
+There was some evidence by CT scan of a pancolitis ; however , her exam , white count , and progress are not consistent with that .
+We will therefore advance her diet from clears to soft solids to full diet as tolerated and move to covert her IV pain medicines to oral pain medicines as she improves .
+___________________________________
+**NAME[ZZZ YYY] , M.D.
+Dictator :
+**NAME[ZZZ YYY] , M.D.
+MR/jd
+D :
+**DATE[Apr 14 2007] 13:23:12
+T :
+**DATE[Apr 15 2007] 22:40:40
+R :
+**DATE[Apr 15 2007] 22:40:40/jd
+Job ID :
+346232/**ID-NUM
+Cc:

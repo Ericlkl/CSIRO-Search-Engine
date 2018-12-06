@@ -1,0 +1,64 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA , BBB M]
+**ID-NUM
+**ID-NUM
+A4B/452
+SERVICE OF :
+**NAME[ZZZ M YYY]
+DATE OF ADMISSION :
+**DATE[Jan 29 2008]
+DATE OF DISCHARGE :
+**DATE[Jan 31 2008]
+PROVISIONAL ADMITTING DIAGNOSIS :
+Infected left total hip .
+HISTORY :
+This **AGE[in 60s]- year - old female status post removal of left total hip replacement with insertion of antibiotic spacer in **DATE[Oct 2007] .
+Her wounds are healed well , and she is ready for revision of total hip replacement .
+LABORATORY DATA :
+The patient was typed and crossed for O - positive blood .
+Chemistry showed BUN and creatinine ratio of 36.4 .
+All labs are normal .
+Hematology showed an H and H of 14.9 and 44.9 .
+Routine urinalysis was negative .
+Culture of the urine showed no growth .
+Remainder of the labs are in Cerner .
+**INSTITUTION STAY :
+The patient was taken to the OR on **DATE[Jan 29 2008] , where a revision of the left total hip replacement was performed by Dr. **NAME[YYY] .
+The patient tolerated the procedure well .
+Postoperative vitals were stable , and the patient was medically followed by Dr. **NAME[VVV] .
+Consultation went to Dr. **NAME[UUU] also regarding the patient 's previous infection and antibiotic coverage .
+Postoperatively , the patient was out of bed to chair , and started to physical therapy for progressive ambulation and exercises .
+She was maintained on Fragmin for DVT prophylaxis .
+Cultures of the hip showed no growth after 2 days .
+The patient progressed well in physical therapy , and arrangements were made for discharge to home , which was done on **DATE[Jan 31 2008] , with the patient in good and improved condition .
+DISCHARGE INSTRUCTIONS :
+Instructions upon discharge included activities of weightbearing as tolerated and continue the exercise program at home .
+Diet was regular .
+DISCHARGE MEDICATIONS :
+Included Vicodin as needed for pain , Advil p.r.n. , Fragmin 5000 units subcutaneously daily for 5 more days and switch to aspirin 325 mg daily for 2 weeks , calcium plus D daily , iron supplement 3 times a day , Lexapro 10 mg daily , and her daily vitamins .
+She would return to see Dr. **NAME[YYY] in 2 weeks for followup or call if she had increased pain , numbness , or other problems .
+DIAGNOSES UPON DISCHARGE :
+1. Status post infected left total hip placement .
+2. History of pneumonia .
+3. Chronic obstructive pulmonary disease .
+4. Arthritis .
+5. Anxiety .
+6. Anemia secondary to blood loss .
+7. Hypothyroidism .
+8. Depression .
+PRINCIPAL PROCEDURE :
+Revision of left total hip replacement with removal of the spacer and insertion of total hip by Dr. **NAME[YYY] on **DATE[Jan 29 2008] , medical care by Dr. **NAME[VVV] , and infectious disease consult to Dr. **NAME[UUU] .
+DICTATED BY :
+**NAME[TTT SSS] , PA-C
+___________________
+**NAME[ZZZ M. YYY] , M.D.
+Dict :
+**DATE[Feb 08 2008] 08:32:25
+Tran :
+**DATE[Feb 08 2008] 11:05:12
+SNP/ss/379971/**ID-NUM/**ID-NUM
+R :
+**DATE[Feb 08 2008] 11:05:12/ss
+**CARBON-COPY

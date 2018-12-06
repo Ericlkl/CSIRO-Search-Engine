@@ -1,0 +1,83 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Jul 13 2007]
+Discharged :
+**DATE[Jul 16 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+Ms. **NAME[AAA] is a **AGE[in 60s]- year - old woman whose main problem was palpitations .
+She had some atrial fibrillation which converted spontaneously to sinus rhythm .
+We have added Plavix 75 mg to her regimen of Cardizem CD .
+She has remained in sinus .
+In the past , she has had Coumadin therapy when she has petechial lesions .
+In addition , she is very sensitive and knows when she goes into atrial fibrillation .
+The patient has a history of systemic lupus erythematosus , lupus nephritis treated with steroids , and pulses of IV Cytoxan .
+Subsequently , she has had membranous glomerulonephropathy .
+She is status post polio with left arm weakness .
+She has had left shoulder surgery , obstructive sleep apnea , hypertension , coronary disease , and glaucoma .
+She does not not smoke nor does she drink .
+She denies any chest pain or chest discomfort .
+CURRENT DISCHARGE MEDICATIONS :
+1. Plavix 75 daily .
+2. Cardizem CD 120 daily .
+3. Baby aspirin daily .
+4. Bumex 1 twice a day .
+5. Caltrate 600 + D b.i.d.
+6. Cardura 2 b.i.d.
+7. CellCept 500 p.o. b.i.d.
+8. Vitamins .
+9. Cosopt eye drops .
+10. Digoxin 0.125 Monday , Wednesday , Friday .
+11. Diovan 320 daily .
+12. Imdur 30 b.i.d.
+13. Lisinopril 40 daily .
+14. Lopressor 50 p.o. b.i.d.
+15. Plaquenil 200 daily .
+16. Procrit 22,000 units subcu once a week .
+17. Xalatan eye drops .
+Ms. **NAME[AAA] is a **AGE[in 60s]- year - old woman who had the above problems .
+She subsequently was admitted to the hospital with atrial fibrillation and converted spontaneously , but she did receive heparin therapy , which was off .
+LABORATORY DATA :
+Her laboratory data disclosed a creatinine of 2.1 , a potassium of 4.1 .
+Total calcium was normal .
+LFT s were normal .
+HDL was 105 .
+Troponins were unremarkable .
+Hemoglobin 11.4 .
+White count 3.3 .
+She had microcytic hypochromic indices , which seemed to be chronic .
+Platelets were 174,000 .
+Sedimentation rate was 48 .
+C4 complement 34.5 .
+C3 was 110 .
+TSH was normal .
+Digoxin level was 0.6 .
+Urinalysis disclosed 3 + protein , calculated 1612 mg .
+Stools for occult blood were negative .
+Electrocardiogram initially disclosed atrial fibrillation .
+She then converted to sinus rhythm .
+There was a controlled response with minimal ST-wave changes .
+I am not sure an echocardiogram was done on this admission .
+She had been catheterized in 2004 , which was 75% first diagonal .
+Other vessels appeared normal .
+There was a bifurcation lesion and the bifurcation lesion is being treated medically .
+Chest x-ray disclosed a normal heart size without infiltrates .
+Since she has not had an echocardiogram here we will do one in our office , and if all consultants agree , we will send her home and see her in approximately 1-2 weeks as an outpatient .
+______________________________
+**NAME[WWW M XXX] , MD
+HS Job # 742281 / 42037 / 33853
+SHY # **ID-NUM
+D :
+**DATE[Jul 16 2007] 08:32
+T :
+**DATE[Jul 16 2007] 10:54
+**CARBON-COPY

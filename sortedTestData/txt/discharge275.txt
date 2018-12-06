@@ -1,0 +1,96 @@
+**INSTITUTION
+TRAUMA
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jun 16 2007]
+TRANSFER DATE :
+**DATE[Jun 18 07]
+TRANSFERRED TO :
+TRANSFERRED TO CARE OF :
+TRANSFER DIAGNOSIS ( ES ) :
+1. HYPOTHERMIA .
+2. STATUS POST ATTEMPTED BENZODIAZEPINE OVERDOSE .
+3. SUICIDE ATTEMPT .
+SECONDARY DIAGNOSIS ( ES ):
+1. DEPRESSIVE DISORDER , NOT OTHERWISE SPECIFIED .
+PROCEDURES :
+NONE .
+CONSULTATIONS :
+Psychiatry .
+REASON FOR ADMISSION :
+This is a **AGE[in 50s]- year - old female with no known medical history who presented by EMS , intubated in the field after being found unresponsive next to a creek bed .
+The car was parked nearby on the side of the road .
+As she was unresponsive and had difficulty controlling her airway per EMS .
+She was intubated prehospital .
+The patient was down for an unknown period of time before she was transferred here .
+On admission to the Emergency Department she continued to be intubated with an initial GCS of 3 .
+Initial rectal temperature was 29.0 degrees .
+She was aggressively warmed with a Foley and NG irrigation .
+Breath sounds were equal bilaterally and the patient did maintain a normal pressure and heart rate .
+EKG showed evidence of hypothermia .
+A CT scan of the head and C-spine were negative for a fracture or bleed .
+However , a CT scan of the abdomen did demonstrate a large number of 1.5 cm elliptical capsules with associated large amount of gastric fluid .
+After aggressive warming measures were performed , the patient was transferred to an ICU bed for further monitoring of both her hypothermia and possible overdose .
+HOSPITAL COURSE :
+The patient was admitted to 4G ICU .
+She was noted at that time to have somewhat improved in her GCS to about a 5 or 6 .
+The GI fellow on call was contacted and the patient underwent gastric lavage with an Ewald tube .
+Many small pills were extracted from her stomach .
+These were noted to be undissolved .
+Pills were likely a mixture of Ativan and labetalol .
+Her NG tube was kept at low continuous suction .
+The patient was observed overnight and on the morning of the **DATE[Jun 17 2007] she was noted to have increased her temperature to 37.8 degrees Celsius .
+She was also breathing normally with a GCS of 13 to 14 .
+For this reason she was extubated and tolerated this well .
+The Psychiatry Service was consulted regarding what appears to be an attempted suicide with both pills and exposure .
+Psychiatry did see the patient on **DATE[Jun 17 2007] and per his psych note she had expressed some suicidal ideation regarding stressors at home , specifically as one with newly diagnosed psychiatric disorder .
+She did state that she took her son 's Ativan and labetalol and then drove to a secluded area and walked away from her care so she would not be found .
+It is unclear on how she was found at this location .
+The patient was transferred on the evening of **DATE[Jun 17 2007] to a monitored floor as she was doing well from a medical standpoint .
+On the morning of **DATE[Jun 18 2007] the patient was alert and oriented and was conversant .
+She did express no suicidal ideation ; however , she did express a desire for psychiatric evaluation and per psychiatry recommendations as well as her own .
+She will be transferred two **INSTITUTION for psychiatric management .
+Of note , the patient does deny a history of DT s , alcohol , or benzodiazepine use in the past ; however , she will need to be monitored for this given her large amount of benzodiazepines that she did ingest .
+In addition , she denies any history of psychiatric medications ; however , she may need to be started on a psychiatric medication regimen .
+TRANSFER INSTRUCTIONS :
+The patient is being discharged to **INSTITUTION and Clinic .
+She is instructed to followup in the **INSTITUTION in two weeks if she develops any pain related to her event or other symptoms including fever or chills , nausea , vomiting , abdominal pain , or any significant change in her medical condition .
+She eats a regular diet and ambulates as tolerated .
+TRANSFER MEDICATIONS :
+None needed .
+_______________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+PHA/vls
+D :
+**DATE[Jun 18 2007] 12:08:14
+T :
+**DATE[Jun 18 2007] 12:16:39
+R :
+**DATE[Jun 18 2007] 12:16:39/vls
+Job ID :
+351368/**ID-NUM
+Cc:
+&lt;start header&gt;
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+ADMISSION DATE :
+**DATE[Jun 16 2007]
+TRANSFER DATE :
+**DATE[Jun 18 07]
+Page 3 of 3
+&lt;END HEADER&gt;
+*** Dictated By :
+-**NAME[XXX , VVV M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Jul 12 2007] 01:40:22 PM

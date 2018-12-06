@@ -1,0 +1,19 @@
+DIAGNOSIS ON ADMISSION :
+Pelvic relaxation .
+DIAGNOSIS ON DISCHARGE :
+Pelvic relaxation .
+The patient underwent a vaginal hysterectomy , anterior and posterior repair .
+The patient is a **AGE[in 70s]- year - old gravid 3 , para 3 , with history of cervical uterine prolapse and cystocele and rectocele .
+This is symptomatic , and she was admitted for definitive surgery , see operative report .
+Pathology showed uterus , vaginal hysterectomy , calcified endometrial cavity areas , particles , adenomyosis , and vaginal mucosa for anterior and posterior repair .
+The patient tolerated the procedure well .
+Postoperatively , she did well , was fully ambulating , and was discharged on **DATE[Aug 11 2007] , to be seen in the office in 2 weeks for checkup .
+Told to restrict her activities and to call us for any problems .
+______________________________
+**NAME[YYY M. ZZZ] , M.D.
+HS Job # 489509 / 41953 / 32008
+# **ID-NUM
+D :
+**DATE[Sep 14 2007] 12:57
+T :
+**DATE[Sep 15 2007] 01:55

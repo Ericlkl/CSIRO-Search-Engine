@@ -1,0 +1,61 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Jan 22 2008]
+Discharged :
+**DATE[Jan 24 2008]
+Dict :
+**NAME[XXX] , AUTHOR
+Attend :
+**NAME[ZZZ , YYY]
+DISCHARGE DIAGNOSES :
+1. Anemia .
+2. Laryngeal squamous cell cancer .
+3. Hepatitis C .
+4. History of Clostridium difficile colitis .
+5. Anxiety .
+STUDIES :
+Chest x-ray performed **DATE[Jan 22 2008] , demonstrated no change in right upper lobe opacity , and no new acute infiltrates .
+**INSTITUTION COURSE :
+Mr. **NAME[AAA] is a **AGE[in 50s]- year - old gentleman with a history of stage IV laryngeal squamous cell carcinoma diagnosed back in **DATE[Jul] of 2006 , who has been on experimental protocol consisting of cisplatin and ( _______________ ) weekly , who presents now with hypotension and anemia .
+In talking with the patient , he had noticed on the day of admission , some light - headedness as well as some dizziness , some weakness and generalized fatigue .
+The patient then subsequently did decide to seek medical attention for these problems .
+Upon arrival in the emergency department , the patient was found to be hypotensive with a systolic blood pressure in the 70s and he was also found to be anemic with a hemoglobin of 8.7 , where previously approximately 5-6 days ago , he had had a hemoglobin of 12 .
+The patient did then receive 2 units of blood as well as some IV fluids and was admitted .
+The patient did respond to the IV fluids and his blood pressure did stabilize at a baseline for him which was around 90 to 100 systolic .
+After the administration of 2 units of blood , the patient was largely asymptomatic and was no longer complaining of any dizziness , light - headedness or weakness .
+The patient did ambulate appropriately and was thought suitable to be discharged to home .
+The likely etiology of the patient 's anemia was a result of his chemotherapy that he receives on a weekly basis .
+The patient was not complaining of any hematuria , hematemesis , hemoptysis , or melena or hematochezia .
+Consequently , after having dealt with the patient 's hypotension and anemia , we did feel that the patient was suitable to be discharged to home .
+In addition , we did administer the patient 's weekly dose of chemotherapy for treatment of his laryngeal cancer , and did instruct him to follow up with Dr. **NAME[WWW] at the **INSTITUTION per his regularly scheduled appointment .
+DISCHARGE MEDICATIONS :
+1. Combivent 2 puffs inhaled q.i.d.
+2. Xenaderm ointment applied topically b.i.d. to PEG tube site .
+3. Aquaphor ointment applied topically twice daily to radiation therapy related burns .
+4. Fentanyl patch 50 mcg transdermal q. 72 hours .
+5. Protonix 40 mg p.o. daily .
+6. Seroquel 100 mg p.o. at bedtime .
+7. Lexapro 10 mg p.o. daily .
+8. MSIR 15 mg p.o. t.i.d.
+9. Multivitamin 1 tablet p.o. daily .
+DISCHARGE INSTRUCTIONS :
+The patient 's condition at discharge is stable and his disposition was to home .
+The patient was instructed to resume his normal activity level as he tolerated .
+Of note , the patient did mention at the time of admission that he had been taking 2 medications , Lasix and diltiazem , which may have also contributed to his hypotension , and he was instructed to never take these medications again .
+The patient will follow up with Dr. **NAME[WWW] in the **INSTITUTION next Tuesday as per his previously scheduled appointment .
+______________________________
+AUTHOR **NAME[XXX]
+HS Job # 964591 / 41855 /
+SHY # **ID-NUM
+D :
+**DATE[Jan 25 2008] 18:44
+T :
+**DATE[Jan 28 2008] 04:19
+**CARBON-COPY

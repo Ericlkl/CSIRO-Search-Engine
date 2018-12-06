@@ -1,0 +1,48 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Apr 23 07]
+I am seeing this critically - ill woman for management of respiratory failure , mechanical ventilatory support , followup of her rash , volume overload , and nutritional support .
+I have examined the patient , reviewed laboratory data , chest x-ray film , and events of the evening .
+From a respiratory standpoint , her radiograph is unchanged .
+She was on full mechanical ventilatory support yesterday .
+We began her back on trach mask today and she is doing exceptionally well .
+She had good aeration , right greater than left .
+Secretions are adequate .
+Off antibiotics , currently she is afebrile .
+Her white count is 4.5 and hematocrit is 24 .
+There is no evidence of bleeding .
+We have her back on enteral nutritional support at 30 ml an hour of Two-Cal .
+We will start her back on CVVH today .
+She had her tunnel dialysis catheter replaced yesterday .
+She was started on CVVH to try to take fluid off at 100 to 150 an hour if possible .
+Will continue her off of antibiotics and off of the Zoloft as potential sources of her diffuse rash .
+T = 32 .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Apr 23 2007] 15:43:31
+T :
+**DATE[Apr 23 2007] 15:54:38
+R :
+**DATE[Apr 23 2007] 15:54:38/jar
+Job ID :
+442621/**ID-NUM
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 06 2007] 12:43:18 PM

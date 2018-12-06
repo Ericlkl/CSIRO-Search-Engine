@@ -1,0 +1,76 @@
+**INSTITUTION
+UROLOGY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jan 13 2008]
+DISCHARGE DATE :
+TRANSFER DIAGNOSIS ( ES ) :
+Pryopism .
+PROCEDURES :
+Irrigation and aspiration of corpora , injection of phenylephrine x 2 , winter shunt .
+COMPLICATIONS :
+None .
+CONSULTATIONS :
+None .
+CONDITION ON TRANSFER :
+Stable .
+HPI :
+The patient is a **AGE[in 30s]- year - old male who was transferred from his correctional facility with a diagnosis of low - flow pryopism that had been up for approximately 48 hours prior to transfer .
+The patient does not have a history of sickle-cell disease .
+Denies recent illicit drug use or intercorporal injection .
+However , the patient did say that he had taken his cellmate 's Sinequan , a tricyclic antidepressant that has been connected to pryopism .
+Upon initial physical examination in the Emergency Department , the patient had a painful rigid erection , consistent with low - flow pryopism .
+Irrigation and aspiration , including phenylephrine injection , was attempted in the Emergency Department with immediate partial tumescence .
+However , the patient was transferred to the floor for observation and on re - examination was again fully erect .
+At this point , it was decided to take the patient for an operative intervention .
+Prior to the procedure , the risks and benefits of the procedure , not limited to but most importantly erectile dysfunction , were discussed with the patient .
+The patient understood that since he had been erect for greater than 48 hours , the chance of corporal fibrosis resulting in at least a 50% chance of erectile dysfunction without any operative intervention and even possibly after operative intervention , was quite possible .
+The patient understood these risks and agreed to proceed .
+A repeat irrigation and aspiration including phenylephrine injection and winter shunt was performed .
+The patient tolerated the procedure well .
+Full tumescence was observed in the operating room .
+The patient was again admitted overnight for observation .
+Upon exam in the morning , patient 's urine was clear .
+His Foley catheter was removed .
+The patient was approximately 50% erection , non painful .
+There was some penile edema and swelling with minimal hematoma .
+The patient 's shunt was still patent .
+It was deemed the patient was stable and ready for transfer back to his facility .
+The patient 's instructions are to manually decompress his pryopism q.10 minutes .
+In addition , the patient has been counseled on taking unprescribed antipsychotic medications .
+The patient was instructed he can follow up with **NAME[YYY ZZZ] , **PHONE p.r.n.
+The patient was also instructed that should his pryopism recur , to find his erection in duration of 4 to 6 hours without resolution , the patient is to be immediately transferred back to the Emergency Department .
+The patient is to resume his preoperative medications and diet .
+The patient is to have bacitracin and a dry fluff dressing applied p.r.n. for 3 days .
+It is okay for patient to shower .
+TRANSFER MEDICATIONS :
+1. Terbutaline 5 mg p.o. q.6h. x one week .
+2. Sudafed 60 mg p.o. q.6h. x 30 days .
+3. Vicodin 5/500 one tab p.o. q.4h. p.r.n. pain .
+The patient is to return to the Emergency Department or call the **INSTITUTION for prolonged erection or painful erection greater than 4 to 6 hours in duration , temperature greater than 101.5 degrees , nausea , vomiting , diarrhea , erythema or cellulitis of the groin , shaft , glans , penis , and inability to void .
+The patient is to expect some blood in his urine for the first couple of days .
+___________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Jan 14 2008] 09:57:11
+T :
+**DATE[Jan 14 2008] 12:55:01
+R :
+**DATE[Jan 14 2008] 12:55:01/ka
+Job ID :
+346013 /**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , VVV M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Jan 23 2008] 10:37:22 AM

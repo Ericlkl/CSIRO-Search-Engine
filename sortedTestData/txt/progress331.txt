@@ -1,0 +1,46 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Apr 02 07]
+I am seeing this critically ill patient for continued management of multiple medical problems including respiratory failure , acute renal failure , and sepsis .
+I have seen and examined this patient , reviewed the chest x-ray and laboratory data , and I have discussed the patient 's care with the SICU team and the Thoracic Surgery Service , as well as , the Infectious Disease Service .
+Ms. **NAME[AAA] is improving slowly although her white count is up today and she is requiring more insulin .
+I have increased her NPH .
+We decided to start the antibiotics for the cellulitis on her left lower extremity and I have written for vancomycin .
+She continues to be volume overloaded and we have switched her to CVVH but she has not received too much fluid removal as of yet .
+I have increased her removal rate to 150 cc / hour .
+BUN and creatinine have come down to 37 and 1.9 however , on continuous therapy .
+I am trying him on CPAP this morning .
+Otherwise , she is on assist control at 40% FiO2 and 5 of PEEP .
+Blood pressure is 91/64 off Hydrocortisone .
+She is on 10 of prednisone and I will taper this over the next few days .
+T = 40 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Apr 02 2007] 11:26:26
+T :
+**DATE[Apr 02 2007] 12:29:09
+R :
+**DATE[Apr 02 2007] 12:29:09/hmj
+Job ID :
+410532/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 09 2007] 04:49:55 PM

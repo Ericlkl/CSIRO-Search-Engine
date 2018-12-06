@@ -1,0 +1,53 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jan 28 2008]
+EVALUATION DATE :
+**DATE[Jan 30 08]
+SUBJECTIVE :
+The patient is doing okay today .
+He is still having significant amount of right flank pain .
+He has no complaints of chest pain , shortness of breath , nausea , or vomiting .
+OBJECTIVE :
+Vital signs are currently stable .
+Cardiac :
+Mechanical S1 , normal S2 , 2/6 systolic ejection murmur at the base .
+Lungs are clear to auscultation bilaterally .
+Abdomen is soft , nontender , and nondistended .
+Normoactive bowel sounds are present .
+LABORATORY DATA :
+Chem-7 is normal except for BUN of 37 .
+White count and differential are normal .
+H and H are 12.9 and 36.3 .
+ASSESSMENT AND PLAN :
+For details about this patient 's case and hospitalization , please see the transfer summary by Dr. **NAME[TTT] from **DATE[Jan 30 2008] .
+I have seen the patient and I agree with his assessment and plan .
+Please consider my note to be linked to his .
+The patient is being transferred to my service on the TCU for continued nutritional support and physical and occupational therapy .
+Total duration of transfer time today took about 40 minutes .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+DJM/ds
+D :
+**DATE[Jan 30 2008] 16:29:09
+T :
+**DATE[Jan 31 2008] 00:57:14
+R :
+**DATE[Jan 31 2008] 00:57:14/ds
+Job ID :
+368393/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[ZZZ , SSS M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Feb 06 2008] 09:54:51 AM

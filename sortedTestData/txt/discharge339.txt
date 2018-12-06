@@ -1,0 +1,71 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA , BBB M]
+**ID-NUM
+**ID-NUM
+A6B/670
+SERVICE OF :
+**NAME[ZZZ M] JR **NAME[YYY]
+DATE OF ADMISSION :
+**DATE[Oct 28 2007]
+DATE OF DISCHARGE :
+**DATE[Oct 31 2007]
+DISCHARGE DIAGNOSES :
+1. Chest pain , noncardiac .
+2. Coronary artery disease .
+3. Osteoarthritis .
+4. Gastroesophageal reflux disease .
+5. History of congestive heart failure .
+6. History of atrial fibrillation .
+7. Anxiety .
+8. Status post coronary artery bypass .
+9. History of myocardial infarction .
+CONSULTANTS :
+1. Dr. **NAME[XXX] .
+2. Dr. **NAME[WWW] .
+HOSPITAL COURSE :
+Mrs. **NAME[AAA] had known coronary artery disease and had a bypass procedure done perioperatively years ago .
+She was admitted to the emergency room because of complaints of 3 days of chest pain on and off followed by a severe episode of retrosternal chest pain , radiating to her left arm that was associated with palpitations and nausea .
+She took nitroglycerin without benefit .
+She was taken to the emergency room and given a baby aspirin , nitroglycerin spray , and nitroglycerin patch with resolution of pain .
+She had had a history of cardiac cath 2 years prior to admission when she was admitted under another service for congestive heart failure with atrial fibrillation , but her grafts were found to be patent .
+She had had stable intermittent chest pain over months , but this accelerated in the days prior to admission leading to the hospitalization .
+She was taking her medicines , was doing her usual activities .
+As mentioned , she did have a few rales at her bases , was in regular sinus rhythm , and had no significant edema .
+She was seen in consultation by the cardiologist and noted that she did have significant left ventricular dysfunction , had her cardiac catheterization in 2005 , and did have some occlusive disease as outlined but then overall her grafts were patent .
+It was noted that during the hospitalization , her troponin levels remained normal and her cardiogram showed no evolution of ischemic changes , feel like making this unlikely to be myocardial ischemia .
+It was thought possibly related to some mild increase in her fluid status and mild diuresis; an addition of metoprolol was recommended .
+She had a nuclear stress test that was negative for significant ischemia and noted better ejection fraction of 50 % compared to the previous echocardiogram report 2 years ago of 30 % to 40 % .
+Her pain remained under control during the hospitalization .
+It was felt that her chest pain was probably noncardiac in origin and that the patient could be discharged to be followed up as an outpatient .
+Chem-7 , bilirubin of 0.7 , SGOT 46 .
+White count 5700 , H and H 14.1 and 42.6 .
+Blood pressures also remained in the range of 126/64 .
+She was afebrile .
+DISCHARGE MEDICATIONS :
+She was discharged on the following medications :
+1. Tylenol 650 mg q.4 h. p.r.n.
+2. Amiodarone 200 mg daily .
+3. Aspirin 81 mg daily .
+4. Lipitor 40 mg daily .
+5. Digoxin 0.125 mg daily .
+6. Lasix 80 mg daily .
+7. Lisinopril 2.5 mg daily .
+8. Metoprolol 50 mg daily .
+9. Ocuvite 1 b.i.d.
+10. Potassium 10 mEq daily .
+DISCHARGE FOLLOWUP :
+She was going to follow up with Dr. **NAME[VVV] in 3 weeks and to be seen on a p.r.n. basis or as previously scheduled with myself .
+ADDENDUM
+Metoprolol dose increased to 50 mg b.i.d.
+___________________
+**NAME[ZZZ M. YYY] UUU]. , M.D.
+Dict :
+**DATE[Jan 05 2008] 09:36:30
+Tran :
+**DATE[Jan 05 2008] 13:00:08
+TAO/yr/463433/**ID-NUM/**ID-NUM
+R :
+**DATE[Jan 05 2008] 13:00:08/yr
+**CARBON-COPY

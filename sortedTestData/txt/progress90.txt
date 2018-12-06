@@ -1,0 +1,106 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+KHALED
+NASHAR
+ADMISSION DATE :
+**DATE[Feb 18 2007]
+EVALUATION DATE :
+**DATE[Feb 19 07]
+HISTORY OF PRESENT ILLNESS :
+I have reviewed all the reports from the patient 's admission recently .
+Basically , this is a **AGE[in 70s]- year - old veteran in the **INSTITUTION with no significant past cardiac history .
+The last echocardiogram in 2003 showed an EF of 55% , with chronic renal insufficiency , hypertension , peripheral vascular disease , and history of stroke , who came into **INSTITUTION with 4 days of lightheadedness ; nausea ; poor appetite ; fatigue ; and two brief episodes of chest pain 4 days ago , left substernal , nonradiating , 5/10 , no associated symptoms , lasting for 2 minutes .
+Denied any presyncopal episode .
+Denied palpitations or shortness of breath .
+Initially , went to the VA Emergency Department , and was found to be in a junctional rhythm and bradycardic .
+The heart rate was in the 40s .
+He was transferred to **INSTITUTION ED for further evaluation and was admitted to Pavilion Service for the treatment .
+The patient was seen with Dr. **NAME[RRR] in the Pavilion Service and further treatment was undergone there and later on transferred to Medicine Service for further care and evaluation .
+PAST MEDICAL HISTORY :
+Hypertension , BPH , CRI , peripheral vascular disease , and history of CVA .
+No history of CAD ; EF of 55% , but he smoked and quit 17 years back .
+His EKG had showed sinus bradycardia alternating with junctional bradycardia .
+MEDICATIONS :
+He is on :
+1. Atenolol .
+2. Aspirin .
+3. Felodipine .
+4. Hydrochlorothiazide .
+5. Zocor .
+6. Allopurinol .
+7. Terazosin .
+PHYSICAL EXAMINATION :
+Vital Signs :
+Stable .
+His heart rate today was in the range of 70s after his beta blockers were stopped .
+Blood pressure was 116/63 .
+Nonhypoxic .
+General :
+Alert and oriented x3 .
+No acute distress .
+Lying comfortably .
+HEENT :
+Pupils were equal and reactive .
+Lungs :
+Some bibasilar crackles .
+Cardiovascular :
+Regular rate and rhythm .
+No murmurs appreciated .
+Extremities :
+No edema .
+IMPRESSION AND PLAN :
+A **AGE[in 70s]- year - old with hypertension , CVA , peripheral vascular disease , and chronic renal insufficiency admitted with bradycardia and acute on chronic kidney injury .
+1. Cardiovascular .
+Bradycardia is resolved after beta blockers and calcium channel blockers were stopped and Norvasc was started .
+Continue Norvasc for now .
+Blood pressure not well controlled .
+Again , it will be really a narrow choice of the medications we can use on him presently .
+I think we can start some kind of other calcium channel blockers which would have less effect on the AV junction node , like verapamil ; it could be a different choice .
+Diuretics will not be good .
+Beta blockers really made him bradycardic and ACE inhibitors would not be a good one with his renal failure .
+So , we have a pretty narrow choice here .
+I am going to start him on a low - dose of verapamil tonight .
+2. Acute on chronic renal injury .
+Creatinine is down to 4.2 , was up to 5.2 when he came in with just IV fluids .
+It looks like he has a prerenal cause of all this .
+Continue IV fluids .
+Check on renal ultrasound and follow up creatinine closely .
+The patient looks like he had decreased p.o. intake .
+Again , I do not know what his baseline creatinine is like .
+He could have a baseline high and increased creatinine .
+He was given bicarbonate by the previous service , will continue it .
+I do not think he needs to be continued when he is discharged .
+3. Peripheral vascular disease .
+Continue cilostazol .
+4. Now regarding his cardiac issues , he did not get a stress test .
+Cardiology did not think that he needed one .
+It can be done as an outpatient in the **INSTITUTION .
+SOCIAL ISSUES :
+He came from home .
+I need to assess the home situation and see whether he can go home once his creatinine is coming down and is back to normal , or whether we will need some kind of placement like __________ or not .
+Total time spent on this patient was 40 minutes in coordination of care and looking over his chart .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Feb 19 2007] 20:02:43
+T :
+**DATE[Feb 20 2007] 04:29:44
+R :
+**DATE[Feb 20 2007] 04:29:44/jd
+Job ID :
+353950 / **ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , QQQ] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Mar 16 2007] 03:29:58 PM

@@ -1,0 +1,75 @@
+**INSTITUTION
+CARDIOLOGY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Mar 08 2007]
+DISCHARGE DATE :
+**DATE[Mar 15 2007]
+PRINCIPAL DIAGNOSIS :
+Atrial fibrillation .
+REASON FOR ADMISSION :
+This patient has had a history of atrial fibrillation which was initially diagnosed in 2001 .
+He has undergone previous DC cardioversions and has been managed in the past on flecainide , digoxin , and Rythmol .
+After his cardioversion in **DATE[Sep 2006] , he reverted back to atrial fibrillation and flecainide was restarted .
+He remained on flecainide and digoxin up until this hospitalization because of his recurrent episodes of atrial fibrillation .
+When in this arrhythmia , he feels warm and clammy , sometimes diaphoretic , shortness of breath , and palpitations .
+He admits to times of felling near syncopal .
+HOSPITAL COURSE :
+The patient initially was admitted to the Cath Lab holding area .
+He was then underwent a transesophageal echocardiogram .
+This showed a left ventricular ejection fraction of 60% to 65% , a nondilated left ventricle , and no clots or spontaneous contrast in the left atrial appendage .
+A CT scan of the chest at that time as well showed normal pulmonary vein anatomy , moderately elevated calcium scores , and moderate atherosclerosis with CAD with a long noncalcified plaque proximal to mid LAD causing mild - to - moderate narrowing .
+A large calcified plaque was identified in the mid LAD .
+The following day he underwent a radiofrequency catheter ablation of posterior left atrium for his atrial fibrillation .
+The procedure without incident , and the specifics are well documented in the operative note , which will be provided under separate cover .
+His postextubation period was evident for thick brown sputum with some moderate decrease in his O2 saturations .
+His chest x-ray at that time showed that the right lung was diffusely hazy .
+We suspected aspiration or a chemical pneumonitis .
+At that point , he was given incentive spirometry and pulmonary toilet .
+No antibiotics were started .
+A noncontrast CT of the chest was done the day after , which showed patchy consolidation in all lobes of both lungs , which apparently was consistent with aspiration .
+There was no evidence for pulmonary edema; however , the CT scan identified small bilateral pleural effusions and coronary calcifications .
+Based on the results of both the CT scans , we discontinued his flecainide in the light of possible coronary artery disease .
+We felt that he likely had chemical pneumonitis as the result of the general anesthesia , intubation , and ablation procedure .
+After reviewing the results of the CT scans , the following day he underwent an adenosine - thallium stress test .
+This test documented a left ventricular ejection fraction of 61% ; normal left ventricular wall motion ; no significant associated ST segment abnormalities ; no arrhythmias ; and no significant ischemia .
+His postprocedural transthoracic echocardiogram showed no evidence for a pericardial effusion .
+He remained in a normal sinus rhythm throughout his hospital stay off flecainide and Lanoxin and remained in the hospital until his INR was therapeutic .
+He was discharged to home on **DATE[Mar 15 2007] , with an INR of 2.0 .
+He was seen by Dr. **NAME[VVV] prior to his discharge who knows he had not been on Coumadin for about 10 years .
+We sent him home with Coumadin 10 mg alternating with 15 mg of Coumadin as well as Ecotrin 325 mg .
+LABORATORY DATA :
+His lab work at discharge showed hematocrit of 31.4 , hemoglobin of 11.3 , WBC s 5.6 , and platelets were 256 .
+His INR 2.0 on **DATE[Mar 15 2007] , and 1.4 on **DATE[Mar 14 2007] .
+He will obtain a prothrombin time with INR 3 days after his hospital discharge .
+The patient requested that Dr. **NAME[UUU TTT] , his primary care physician , manage his Coumadin therapy .
+FOLLOWUP :
+He will follow with Dr. **NAME[ZZZ] at the **INSTITUTION on **DATE[Apr 23 2007] .
+He will follow with his primary care physician on **DATE[Mar 16 2007] , and he will follow as well with Dr. **NAME[SSS RRR] , his cardiologist , in 4 weeks .
+___________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW M. XXX] , C.R.N.P.
+**INITIALS
+D :
+**DATE[Apr 09 2007] 10:50:38
+T :
+**DATE[Apr 09 2007] 22:59:33
+R :
+**DATE[Apr 09 2007] 22:59:33/jd
+Job ID :
+381853 /**ID-NUM
+CC:
+**NAME[UUU TTT] , M.D.
+**NAME[SSS RRR] , M.D.
+*** Dictated By :
+-**NAME[XXX , QQQ M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Apr 26 2007] 03:37:10 PM

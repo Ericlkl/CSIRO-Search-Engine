@@ -1,0 +1,97 @@
+**INSTITUTION
+NEUROSURGERY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT #
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jul 24 2007]
+DISCHARGE DATE :
+**DATE[Jul 30 2007]
+PRINCIPAL DIAGNOSES :
+1. LOW BACK PAIN OF DISKOGENIC ORIGIN WITH L4-L5 HERNIATED DISK .
+2. POORLY CONTROLLED HYPERTENSION .
+SECONDARY DIAGNOSES :
+1. DEPRESSION .
+2. STATUS POST C5-7 ANTERIOR CERVICAL DISKECTOMY AND INSTRUMENTED FUSION , 2000 .
+3. STATUS POST REMOVAL OF C5-7 PLATE WITH C3-C5 ANTERIOR CERVICAL DISKECTOMY AND INSTRUMENTED FUSION , **DATE[Mar 26]TH , 2006 .
+PRINCIPAL PROCEDURES THIS ADMISSION :
+1. LEFT L4-L5 INTERBODY FUSION .
+2. LEFT ILIAC CREST AUTOGRAFT .
+3. L4- L5 PEDICLE SCREW PLACEMENT .
+REASON FOR ADMISSION :
+Ms. **NAME[AAA] is a very pleasant **AGE[in 50s]- year - old African American female with a long history of low back pain and bilateral lower extremity pain , left much more significant than the right .
+She has been evaluated in pain clinics , for example , Dr. **NAME[UUU] , undergone acupuncture , physical therapy , and epidural steroid injections with minimal improvement in her pain syndrome .
+Most recently , approximately 2 weeks ago , she fell outside while taking the trash out .
+Since that time , her pain has significantly worsened .
+She also slipped  1 day prior to admission while getting off of a bus , again aggravating her chronic pain syndrome .
+She was seen and evaluated in our neurosurgical clinic on **DATE[Jul 24 2007] , at which time she reported 70% low back pain and 30% left lower extremity pain .
+She described the pain as intermittent and arising in the low back , radiating down the posterior leg , around the lateral ankle , into the dorsum of the foot and the second and third toes .
+She denied any bowel or bladder incontinence .
+Due to the intractable nature of her pain and inability to ambulate , she was admitted through the clinic for further evaluation and management .
+HOSPITAL COURSE :
+1. Low back pain of diskogenic origin with left L4-L5 herniated disk .
+Upon admission to our facility , an MRI of the lumbar spine was performed and revealed a large anular tear and a left L4-L5 disk degeneration with herniation .
+After review of all diagnostic imaging and evaluation of the patient , she was deemed an appropriate candidate for an interbody fusion procedure supplemented with pedicle screw fixation .
+Thus , on **DATE[Jul 26]th , she was taken to the operating room where she underwent the above - noted procedures which went without complication .
+Postoperatively she reported significant improvement in her preexisting left lower extremity symptoms .
+She primarily complained of incisional pain which was at times difficult to control .
+A final regimen of pain control was oxycodone 5 mg tablets , 1 to 3 tablets every 3 to 4 hours as needed .
+She was seen and evaluated by physical and occupational therapy and deemed ultimately safe for home with home physical and occupational therapy to improve her functional mobility and return her to a level of independence with her activities of daily living .
+Her incision line is clean , dry , and intact , and closed with sutures .
+2. Hypertension .
+Upon admission to our facility , Mr. **NAME[AAA] was noted to have significant elevation in her blood pressure with the systolic often ranging 150-160 , and the diastolic 100-110 .
+When she presented to the hospital , she was taking Altace 5 mg daily and hydrochlorothiazide 12.5 mg daily .
+A medicine consultation was obtained , and the patient was evaluated by Dr. **NAME[TTT SSS] .
+Preoperatively , a dobutamine stress echocardiogram was obtained and revealed a nondilated left ventricle with mild hypertrophy and overall preserved systolic function .
+Per their recommendations , metoprolol 25 mg p.o. b.i.d. was added to her regimen , and her hydrochlorothiazide was increased to 25 mg daily .
+She remained on this regimen throughout her hospital stay , and this did adequately control her blood pressure .
+She has requested to follow up with **INSTITUTION medicine doctor .
+At this time , her care is managed via the **INSTITUTION in Wilkinsburgh .
+We have arranged an appointment for Ms. **NAME[AAA] to meet with Dr. **NAME[RRR] in the **INSTITUTION on **DATE[Aug 8]th .
+DISCHARGE INSTRUCTIONS :
+1. No heavy lifting or strenuous activity .
+2. Do not push , pull , lift , or drag anything greater than 5 pounds .
+3. Avoid bending at the waist and sitting for prolonged periods of time .
+4. May shower at will .
+No tub bathing or soaking the incision site for the next 2 weeks .
+5. Arrangements have been made for home physical therapy to provide general therapeutic exercise and gait training as tolerated .
+No aggressive weight training for the next 6 weeks .
+They have been advised not to progress to outpatient therapy .
+FOLLOWUP :
+1. An appointment has been arranged for Ms. **NAME[AAA] to meet with Dr. **NAME[RRR] in the **INSTITUTION at **INSTITUTION Hospital on Thursday , **DATE[Aug 8]th 2007 at 10:00 a.m.
+We have advised that she may have her sutures removed at that appointment , **PHONE .
+2. She had been advised to contact the office of Dr. **NAME[YYY ZZZ] at **PHONE to arrange for routine postsurgical evaluation in 4 weeks .
+DISCHARGE MEDICATIONS :
+1. Altace 5 mg p.o. q. day .
+2. Hydrochlorothiazide 25 mg 1 p.o. q. day .
+Dispensed #14 , 0 refills .
+3. Lopressor 25 mg 1 p.o. b.i.d.
+Dispensed #24 , 0 refills .
+4. Oxycodone 5 mg 1 to 3 tablets p.o. q. 3 to 4 hours p.r.n. pain .
+Dispensed #90 , 0 refills .
+5. Over - the - counter Senokot S , 2 tablets p.o. at bedtime while on narcotics to avoid constipation .
+___________________________________
+**NAME[VVV XXX , WWW-M]
+___________________________________
+**NAME[YYY M ZZZ] , M.D.
+Dictator :
+**NAME[VVV XXX , WWW-M]
+**INITIALS
+D :
+**DATE[Jul 30 2007] 10:22:55
+T :
+**DATE[Jul 30 2007] 12:57:35
+R :
+**DATE[Jul 30 2007] 12:57:35/sh
+Job ID :
+367622/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , WWW-QQQ] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Aug 02 2007] 08:59:29 AM

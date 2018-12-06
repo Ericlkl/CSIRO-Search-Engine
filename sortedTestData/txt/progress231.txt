@@ -1,0 +1,54 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M. ZZZ] , M.D.
+ADMISSION DATE :
+**DATE[Feb 12 2007]
+EVALUATION DATE :
+**DATE[Apr 24 07]
+I continue to see this patient because of chronic respiratory failure , failure to thrive , and failure to wean .
+This patient 's chest x-ray this morning shows some worsening .
+There is an increased pleural effusion on the right side .
+The patient may need a new pigtail drain .
+She also has more compromised mental status .
+We will discontinue some of the sedation and allow this patient to wake up and be more interactive .
+She is unable to wean because of prolonged ventilatory support .
+She is anxious .
+She is unable to come down off her pressure support even though at the present time there appears to be no evidence of infection .
+However , this morning , for the first time in days , the white count has gone up to 32.6 .
+On exam , she is awake , alert , and following commands .
+She is complaining of mild abdominal pain .
+I am concerned that she may be developing Clostridium difficile .
+We will send this for culture .
+We will start Flagyl .
+If the patient has any signs of deterioration , we will obtain a CT of the abdomen today .
+Her T-max is 37.9 .
+She is on full ventilatory support .
+Creatinine is 1.5 .
+We will continue mild diuresis .
+Her renal function continues to remain unchanged , and there is no evidence of deterioration from her renal function .
+I examined this patient reviewed this patient 's data , and discussed this patient 's plan .
+99233 .
+___________________________________
+**NAME[WWW VVV XXX] , M.D.
+Dictator :
+**NAME[WWW VVV XXX] , M.D.
+JCP/mr
+D :
+**DATE[Apr 24 2007] 12:18:04
+T :
+**DATE[Apr 24 2007] 12:58:25
+R :
+**DATE[Apr 24 2007] 12:58:25/mr
+Job ID :
+443740/**ID-NUM
+*** Dictated By :
+-**NAME[XXX , SSS VVV] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 01 2007] 02:52:07 PM

@@ -1,0 +1,61 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jan 16 2008]
+EVALUATION DATE :
+**DATE[Jan 20 08]
+HISTORY OF PRESENT ILLNESS :
+The patient does not have any complaints of pain at this time .
+He knows he is in the hospital .
+He has had negative blood cultures for the last 2 days now .
+His last positive was from **DATE[Jan 16 2008] , that was from his line .
+PHYSICAL EXAMINATION :
+His lungs were clear to auscultation posteriorly .
+His heart was regular .
+I did not hear murmur .
+His abdomen was soft .
+He does seem to use his abdominal muscles for respiration .
+His lower extremities reveal that there is some trace dependent edema .
+He is moving all four extremities .
+ASSESSMENT AND PLAN :
+1. MRSA infection .
+It looks like that we have may have cleared his cultures .
+We are going to wait another day .
+If his cultures remain negative , then we will consider getting him a new line and remove the one in his neck and in case that one is infected , we will continue his current antibiotic regimen at this time .
+2. Hyperglycemia .
+He seems to have high sugars during the day .
+We are going to add some regular insulin with his meals and may need routine insulin nightly and see if he has improvement in his glucoses .
+3. Heart failure .
+He is on ACE inhibitor and beta blocker , and we will adjust those medications as tolerated .
+4. Increased creatinine .
+There is slight increase in his creatinine today .
+We will recheck his vancomycin trough level with his next dose .
+His case was discussed in detail with the house staff .
+I agree with their notes written .
+My note is to be considered linked to theirs .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Jan 20 2008] 12:48:19
+T :
+**DATE[Jan 21 2008] 01:57:45
+R :
+**DATE[Jan 21 2008] 01:57:45/rav
+Job ID :
+354516/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , RRR M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Feb 18 2008] 07:50:22 PM

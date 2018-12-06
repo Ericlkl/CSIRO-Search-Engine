@@ -1,0 +1,96 @@
+CCM Progress Note
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] R
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 70s] years
+Sex :
+Male
+DOB :
+**DATE[Apr 24 1936]
+Author :
+**NAME[XXX , WWW]
+Health Status
+Summary Statement
+I have personally managed this patient in the ICU .
+PMI :
+LLQ cellulitis and abdominal wall abscess
+Past medical history :
+1. Coronary artery disease .
+2. Hypertension .
+3. Peripheral vascular disease .
+4. Osteoarthritis .
+Past surgical history :
+1. AAA repair in 1977 .
+2. AAA repair again in 1983 .
+3. Back surgery in 1983 .
+4. Hemorrhoid operation in 1983 .
+5. Fem - pop in 1992 .
+6. Quadruple coronary artery bypass grafts in 1995 .
+7. Repeat AAA repair in 2000 .
+8. Numerous herniorrhaphies with and without mesh , including separation of parts .
+Per the patient , he does not think he has any mesh at the current time .
+CURRENT MEDICATIONS :
+1. Multivitamin .
+2. Pravachol .
+3. Folic acid .
+4. Bactrim .
+5. An aspirin .
+Surgery :
+1/23 expl. lap , LOA , abscess drainage , mesh removal , enterorhaphy , only skin closure
+Objective
+Radiology Studies :
+Chest Radiograph :
+The endotracheal tube has been removed .
+There has been no change in positioning of the right subclavian central line with the tip in the distal SVC or in the positioning of the NG tube directed into the stomach .
+There are findings of pulmonary congestion with mild edema , basilar atelectasis and possible small pleural effusions  .
+Impression and Plan
+Respiratory / Pulmonary
+Diagnosis ( es ):
+The patient has respiratory parameters within acceptable limits at this time .
+Respiratory Plan
+I have provided supplemental oxygen to maintain a sat &gt ; 92% .
+Patient has progressed well from a respiratory standpoint , and tolerated a spontaneous weaning trial .
+Patient has subsequently been extubated .
+Cardiovascular
+Exam Findings
+Normal blood pressure .
+Regular rhythm : normal sinus rhythm .
+Diagnosis ( es ):
+Acceptable hemodynamics .
+Cardiovascular Plan
+Will institute diuretic therapy in presence of exam findings consistent with volume overload .
+Renal / Electrolytes
+Diagnosis ( es ):
+The patient has clinical findings consisent with normal renal function .
+GI / Nutrition
+Diagnosis ( es ):
+Acceptable post - op status  .
+GI / Nutrition Plan
+Patient has normal GI function , and feeding will be initiated within the next 24 hours if patient is not extubated or condition changes .
+Prophylaxis :
+GI Prophylaxis with an H2 blocker .
+Infectious Diseases
+Diagnosis ( es ):
+Abdominal wall abscess , infected mesh  .
+Infectious Disease Plan
+Empiric coverage with vancomycin and zosyn as per TraumaSurgery .
+Neurology
+Diagnosis ( es ):
+The patient has clinical findings consisent with a normal neurologic status .
+Lines / Other Prophylaxis
+DVT Prophylaxis
+Subcutaneous Heparin :
+5000 units BID .
+I have spent 35 minutes of critical care time managing and monitoring the patient 's care and / or discussing case with patient 's family members .
+This is exclusive of any time for procedures or my teaching time
+Professional Services
+Credentials and Title of Author **NAME[VVV] Signing this Document : **NAME[UUU] : MD
+Title : Attending
+Perform by **NAME[XXX , WWW]
+( on **DATE[Jul 27 2007] 17:08 )
+Sign by **NAME[XXX , WWW]
+( on **DATE[Jul 27 2007] 17:08 )
+VERIFY by **NAME[XXX , WWW]
+( on **DATE[Jul 27 2007] 17:08 )

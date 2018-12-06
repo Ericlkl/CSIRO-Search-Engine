@@ -1,0 +1,81 @@
+**INSTITUTION
+SURGICAL ONCOLOGY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Aug 02 2007]
+DISCHARGE DATE :
+**DATE[Aug 09 2007]
+ADMISSION DIAGNOSIS :
+Obstructive jaundice .
+DISCHARGE DIAGNOSIS :
+Obstructive jaundice .
+BRIEF HISTORY OF PRESENT ILLNESS :
+The patient is a **AGE[in 70s]- year - old gentleman who was transferred from an outside hospital for jaundice and abnormal liver enzymes .
+He presented from the outside hospital with a 3 - week history of pain with jaundice .
+There was a high concern for malignancy .
+He underwent several imaging studies , which showed no evidence of any ductal dilatation .
+He did undergo an ERCP at the outside hospital , which did show distal bile duct stricture .
+He was transferred to **INSTITUTION for further workup .
+He was sent with multiple laboratory results including hepatitis panel .
+**INSTITUTION STAY :
+As mentioned earlier , the patient was transferred to **INSTITUTION on **DATE[Aug 2 2007] for pain with jaundice with abnormal liver enzymes .
+Upon admission , the patient was started on IV fluids and was doing quite well .
+He had no complaints of any fevers or chills , any abdominal pain , nausea , or vomiting .
+He did have some dark urine .
+Imaging studies that he had arrived with from the outside hospital showed some evidence of biliary obstruction , although , the liver did look somewhat cyanotic as well as __________ areas of fatty infiltration .
+His liver enzymes showed predominantly a hepatocellular pattern with transaminase near the 1000 and a mildly elevated alkaline phosphatase and GGT .
+His total bilirubin was elevated , although , after IV fluid administration regularly measured .
+On **DATE[Aug 6 2007] , it had come down to 6.7 .
+His jaundice was clinically unchanged .
+The Hepatobiliary Team was consulted , although , the laboratory studies were sent off , electrolytes , liver function tests , total bilirubin , urine studies , and hepatitis panel .
+A re - CT scan was obtained on **DATE[Aug 3 2007] , which showed cirrhotic liver morphology without any CT evidence of malignancy or significant portal hypertension .
+There appeared to be CT obtained on **DATE[Aug 3 2007] with no biliary dilatation .
+He did have some enlarged __________ hepatic nodes .
+It is measuring roughly 3.6 x 1 cm in size .
+During this stay , the patient had a preoperative workup including an EKG as well as adenosine stress test .
+The study showed the patient was at low risk for any acute ischemic events .
+The patient 's hepatitis panel came back negative for acute or chronic disease .
+His ANA titer and anti - Sm antibody tests were negative .
+Peripheral blood was sent for analysis to rule out hereditary hemochromatosis .
+These results were negative for disease .
+Transcutaneous ultrasound was obtained of the right upper quadrant on **DATE[Aug 7 2007] to evaluate the gallbladder .
+These results showed gallbladder polyps , patent hepatic vessels , as well as fatty infiltrates throughout the liver .
+An ultrasound - guided liver biopsy obtained on **DATE[Aug 9 2007] showed predominantly portal B - lymphocyte infiltrations consistent with involvement of B cell chronic lymphocytic leukemia , small lymphocytic leukemia .
+These findings were significant for past medical history for CLL in the past , which was diagnosed 6 years ago , but the patient had received no treatment .
+The patient was discharged home .
+These results were found on **DATE[Aug 9 2007] in good condition .
+DISCHARGE INSTRUCTIONS :
+The patient was instructed to follow up with Dr. **NAME[YYY ZZZ] in 2 weeks at the **INSTITUTION in the third floor of **INSTITUTION .
+ACTIVITY :
+The patient was permitted to do activity as tolerated .
+DIET :
+The patient was to resume a regular diet as tolerated .
+DISCHARGE MEDICATIONS :
+Lantus 10 units subcutaneously at bedtime , aspirin 81 mg p.o. daily , lisinopril 5 mg p.o. daily , regular insulin per insulin sliding scale the patient was following at home , metformin 500 mg p.o. b.i.d. with meals , glyburide 2.5 mg p.o. b.i.d. with meals .
+Lastly , the patient was instructed that if he were to develop any fevers or chills , any severe prolonged nausea , vomiting , diarrhea , or constipation , any chest pain , any leg swelling or lightheadedness or dizziness , the patient was to return to the emergency room as soon as possible .
+He was also provided with nursing unit 's phone number for if he were to have any questions after discharge .
+___________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW M. M. XXX] , M.D.
+ABJT/sj
+D :
+**DATE[Aug 22 2007] 18:53:54
+T :
+**DATE[Aug 22 2007] 23:56:49
+R :
+**DATE[Aug 22 2007] 23:56:49/sj
+Job ID :
+357206/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , TTT M. M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Oct 01 2007] 11:26:29 AM

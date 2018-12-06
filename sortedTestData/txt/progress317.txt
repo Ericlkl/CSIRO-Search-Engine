@@ -1,0 +1,59 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Mar 11 07]
+I have been requested by Dr. **NAME[ZZZ YYY] to take care of this patient admitted to the ICU .
+I am managing this patient 's pulmonary insufficiency , malnutrition , pneumonia , hyperglycemia , and infectious disease .
+I have examined this patient , reviewed the data in the medical records , and looked at the most recent x-ray films .
+This patient 's care has been provided under my direct supervision .
+PHYSICAL EXAMINATION :
+General appearance :
+On my examination today , the patient is awake , alert , oriented , warm , and well - perfused .
+He denies any distress .
+Heart :
+Examination of the heart reveals S1 and S2 present .
+Lungs :
+Reveal diminished breath sounds at both bases .
+Abdomen :
+Soft and nontender .
+ASSESSMENT AND PLAN :
+With regards to the respiratory failure today , I have left the patient on trach mask most of the day yesterday including the night .
+The patient seemed to be tolerating the trach mask well .
+Her lungs are nicely expanded at the present time .
+I will continue to follow this patient 's pulmonary mechanics closely .
+Her belly seems to be much softer .
+She has no tenderness .
+I have hence continued the Zosyn for cholecystitis and started her back on small - volume tube feeds .
+She is on insulin infusion at the present time .
+I will appropriately increase the Lantus insulin , continue the insulin infusion , and then will be titrating it down as tolerated .
+I have continued stress ulcer prophylaxis .
+TOTAL CRITICAL CARE TIME I PROVIDED ON THIS PATIENT TODAY IS 34 MINUTES .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 11 2007] 17:48:41
+T :
+**DATE[Mar 12 2007] 08:45:17
+R :
+**DATE[Mar 12 2007] 08:45:17/cme
+Job ID :
+384472/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT] ***
+Electronically Signed by **NAME[SSS RRR]
+**DATE[May 06 2007] 12:44:02 PM

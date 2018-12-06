@@ -1,0 +1,43 @@
+FINAL DISCHARGE DIAGNOSES :
+1. Fecal impaction .
+2. Colovaginal fistula .
+3. Anemia .
+4. Hypertension .
+5. Status post colostomy .
+6. Cervical carcinoma , status post chemoradiation .
+7. Emphysema .
+8. Hydronephrosis .
+9. Malnutrition .
+DISCHARGE MEDICATIONS :
+1. Vicodin 1 q. 4 p.r.n.
+2. Lisinopril 10 mg daily .
+3. Metronidazole vaginal gel 0.75% at bedtime .
+4. OxyContin 10 mg q. 12 twice a day .
+5. Sorbitol with meals 3 times a day .
+PERTINENT CONSULTS :
+Dr. **NAME[UUU] , Dr. **NAME[TTT] , Dr. **NAME[SSS] , Dr. **NAME[RRR] .
+HOSPITAL COURSE :
+The patient is a **AGE[in 40s]- year - old white female with a known history of cervical carcinoma who presented on account of abdominal pain which she characterized as severe of 1 week 's duration .
+She also complained of a brownish discoloration of her urine .
+The patient is also status post bilateral ureteral stents with hydronephrosis in the past .
+CT showed resolving hydronephrosis and a soft tissue density on the uterus , a lot of fecal material in the left side of the colon .
+She had a Gastrografin enema which was suggestive of a fistula in the pelvic area , within the bowel and the pelvis .
+The patient was also noticed to have a hemoglobin of 7.1 .
+She was advised on transfusion and Epogen because of the risk of severe anemia .
+The patient , however , refused transfusion and Epogen .
+She requested to be discharged and said she was going to follow up with a gynecologist at **INSTITUTION .
+She had a Gastrografin enema per rectum , but was unsuccessful because the patient had severe abdominal pain , so she had a Foley inserted into the left colon through the colostomy tube and had an enema administered .
+The pain was relieved with this , and the Gastrografin enema was also suggestive of a fistula to the pelvic area .
+The patient requested to be discharged .
+She was asked to be transfused because her hemoglobin was 7.1 .
+She , however , refused a blood transfusion and Epogen and requested to be discharged to **INSTITUTION to follow up with her gynecologist .
+She also refused her management to be discussed with her husband and she was discharged home with a pain medication and to follow up at **INSTITUTION in 2 weeks and with the gynecologist at **INSTITUTION on **DATE[Feb 19 2007] .
+She was stable hemodynamically at discharge .
+______________________________
+**NAME[WWW VVV XXX] , M.D.
+HS Job # 467172 / 41855 / 33650
+# **ID-NUM
+D :
+**DATE[Mar 13 2007] 14:13
+T :
+**DATE[Mar 14 2007] 06:05

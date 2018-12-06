@@ -1,0 +1,50 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[SSS]
+**NAME[TTT]
+ADMISSION DATE :
+**DATE[Oct 04 2007]
+EVALUATION DATE :
+**DATE[Oct 08 07]
+I personally manage Ms. **NAME[AAA] in the ICU .
+She is a **AGE[in 40s]- year - old woman with a history of encephalitis , probably viral .
+Her overall condition has improved somewhat today .
+Her mental status is somewhat improved .
+She is communicating with her family and is oriented times one .
+This seems to be an improvement from yesterday .
+A chest x-ray also shows a marginal improving trend and I suspect that she might be getting better because of antivirals .
+She is on Duo feeding tubes as of today .
+We can try to start feeding her , if possible , when her mental status starts settling down some more .
+She continues to be somewhat agitated but she seems to be somewhat better today on Seroquel .
+She passes air reasonably well on both sides of her chest .
+Heart is regular rhythm .
+Abdomen is soft .
+She continues on dialysis which she tolerates well .
+Her laboratory parameters are otherwise unremarkable .
+Her overall condition has not changed significant , except for improvement in her mental status .
+CRITICAL CARE TIME : 30 MINUTES .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Oct 08 2007] 13:44:34
+T :
+**DATE[Oct 08 2007] 14:53:35
+R :
+**DATE[Oct 08 2007] 14:53:35/eab
+Job ID :
+337152/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , RRR M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Nov 04 2007] 08:45:02 PM

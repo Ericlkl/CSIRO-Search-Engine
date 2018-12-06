@@ -1,0 +1,57 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Aug 08 2007]
+Discharged :
+**DATE[Aug 13 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+DIAGNOSES :
+History of Crohn 's disease with abdominal pain and abnormal small bowel followthrough .
+HISTORY OF PRESENT ILLNESS :
+Ms. **NAME[AAA] is a **AGE[in 30s]- year - old young woman with known Crohn 's disease who had previously undergone emergent resection for Crohn 's disease due to a perforation and abscess .
+It was a complicated surgery that required a long postoperative recovery because of postoperative infection .
+There were some abscesses requiring drainage .
+The procedure was performed in **DATE[Oct 2005] .
+The patient presents to our attention and was admitted to our service because of some abdominal discomfort which seems to increase around the time of her menstrual period .
+The patient recently underwent a small bowel followthrough that grossly appeared normal .
+Anyway , compared to again a recent colonoscopy , there was a suspected area of slight dilatation of the neoterminal ileum .
+Because of the impossibility to complete the colonoscopy because of that area of narrowing and with her optimization already of medical management , a further exploration was felt worthwhile for her in order to control the inflammation locally , and also to decrease some of the maintenance medication .
+For this reason , the patient was admitted to our service on **DATE[Aug 8 2007] , and underwent procedures of exploratory laparotomy , lysis of adhesions , small bowel resection , followed by ileocolic resection , takedown of a ileoileal fistula , and also takedown of ileosigmoid fistula .
+HOSPITAL COURSE :
+The patient tolerated the procedure well .
+She was sent to the recovery room in stable condition and extubated .
+Once the requirements were met , the patient was transferred to a regular floor where she began her postoperative recovery .
+The course was complicated by initially persistent hematuria .
+The findings were justified because of the extensive abdominal exploration which involved manipulation of the right kidney .
+H and H measurements were progressively followed to make sure that the bleeding was not at an extent for exsanguination , and in fact , the H and H remained stable .
+The hematuria was treated with a triple - lumen catheter and irrigation for about 2 days ; after that the hematuria decreased and finally subsided .
+Vital signs remained stable , the pain was well controlled by pain medication , and progressively the patient represents signs of a bowel function , and is passing flatus and bowel movements .
+When bowel function was cleanly restored , the NG tube was pulled out and the patient was started on a clear liquid diet .
+Once the clear liquid diet diet was clearly well tolerated , the patient was started on soft , and subsequently on a regular diet .
+The patient was finally felt clear for discharge home on **DATE[Aug 13 2007] .
+The patient was discharged on the following medication :
+Percocet 5/325 one tablet p.o. q.4 h. p.r.n. pain .
+The patient was instructed to continue her preoperative medication , but she was instructed to stop the medication which she was taking for the Crohn 's disease , deferring the management of those to her primary gastroenterologist , who will reevaluate her as soon as possible for a plan regarding medical treatment .
+The patient was instructed to resume her normal diet as tolerated .
+She was instructed to add a high - fiber diet and Benefiber as well , as indicated in the discharge instructions , along with good p.o. liquid intake to decrease the chances of constipation .
+The patient was instructed to resume the preoperative level of activity as tolerated .
+The patient was instructed to schedule an appointment with Dr. **NAME[ZZZ] in about 2 weeks for a followup postoperative visit .
+The patient was instructed as well to schedule an appointment with her gastroenterologist to reevaluate her condition after her Crohn 's disease after the surgical procedure .
+______________________________
+**NAME[WWW XXX]
+HS Job # 782024 / 38640 / 32010
+SHY # **ID-NUM
+D :
+**DATE[Aug 17 2007] 16:15
+T :
+**DATE[Aug 18 2007] 19:52
+**CARBON-COPY

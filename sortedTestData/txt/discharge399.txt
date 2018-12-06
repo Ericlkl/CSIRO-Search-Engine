@@ -1,0 +1,51 @@
+PRIMARY CARE PHYSICIAN :
+Dr. **NAME[VVV] .
+FINAL DIAGNOSES :
+1. Recurrent chronic Clostridium difficile colitis .
+2. Hyperkalemia .
+3. Diabetes mellitus 2 .
+4. Hypothyroidism .
+5. Adenocarcinoma of colon , status post right colectomy .
+6. Status post bilateral knee replacement surgery .
+7. Myocardial infarction .
+8. Hemorrhoids .
+9. Esophageal ulceration .
+CONSULTS :
+1. Dr. **NAME[UUU TTT] for chronic kidney disease III , anemia , and hypokalemia .
+2. Dr. **NAME[SSS] for recurrent Clostridium difficile .
+3. Dr. **NAME[RRR] for removal of the right nephroureteral stent .
+PROCEDURES :
+Procedures done on the patient :
+Removal of the right nephroureteral stent .
+HOSPITAL COURSE :
+The patient was admitted because of the reoccurrence of diarrhea due to Clostridium difficile infection .
+It was the third reoccurrence , so the patient was started on vancomycin after discussion with Dr. **NAME[SSS] for chronic Clostridium difficile .
+The patient was consulted by Dr. **NAME[UUU TTT] for chronic kidney disease as GFR was 46 and chronic anemia with hemoglobin of 8.9 and hematocrit of 27.4 .
+The patient was advised a panel of tests including bone scan which showed increased uptake at the midshaft of the right femur .
+UPEP and SPEP were ordered by Dr. **NAME[TTT] , but the results still awaited .
+The patient has significant proteinuria with urine positive for protein .
+The patient was also consulted by Dr. **NAME[QQQ RRR] for removal of the right nephroureteral stent which was put 6 weeks ago .
+DISCHARGE SUMMARY :
+The patient was discharged on :
+1. Amaryl 1 mg tablet daily by mouth .
+2. Synthroid 25 mcg daily by mouth .
+3. Procardia 30 mg tablet daily by mouth .
+4. Protonix 40 mg daily by mouth .
+5. Florastor 250 mg twice a day by mouth .
+6. Theragran one tablet daily by mouth .
+7. Levothyroxine 25 mcg tablet daily by mouth .
+8. Lisinopril 10 mg tablet daily by mouth .
+9. Procardia 30 mg tablet daily by mouth .
+According to Dr. **NAME[TTT] , the patient has to stay back because she might have a possibility of multiple myeloma due to chronic anemia , increased uptake in the bone scan , and significant proteinuria in the urine .
+He has ordered UPEP and SPEP .
+We were waiting for Dr. **NAME[SSS] to call regarding the vancomycin dosage for chronic Clostridium difficile , and the discharge summary was done before Dr. **NAME[SSS] could call , so I did not write the vancomycin dosage .
+We informed the patient at home to call Dr. **NAME[VVV] 's office tomorrow in the morning , earliest possible to get the vancomycin dosage , and the patient will be called back for her SPEP and UPEP results to rule out multiple myeloma .
+This has been told to Dr. **NAME[PPP OOO] who will discuss with Dr. **NAME[VVV] in a.m.
+______________________________
+**NAME[WWW XXX] , M.D.
+HS Job # 369764 / 41953 / 31683
+# **ID-NUM
+D :
+**DATE[May 08 2007] 16:56
+T :
+**DATE[May 09 2007] 04:56

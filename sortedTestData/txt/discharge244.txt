@@ -1,0 +1,61 @@
+**INSTITUTION
+UROLOGY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Feb 09 2007]
+DISCHARGE DATE :
+**DATE[Feb 11 2007]
+DISCHARGE DIAGNOSIS ( ES ) :
+LEFT RENAL MASS .
+PROCEDURE :
+LEFT HAND - ASSIST LAPAROSCOPIC PARTIAL NEPHRECTOMY , OPEN UMBILICAL HERNIA REPAIR .
+HISTORY OF PRESENT ILLNESS :
+The patient is a **AGE[in 40s]- year - old male with a right upper pole anterolateral 3 - cm enhancing mass consistent with a renal cell carcinoma seen as an outpatient .
+The patient elected to proceed with a laparoscopic partial nephrectomy for definitive treatment of this .
+In addition , the patient had an umbilical hernia that was planned to be repaired at the time of his operation .
+HOSPITAL COURSE :
+The patient was admitted , taken to the Operating Room on **DATE[Feb 9 2007] , for the above procedure .
+The patient tolerated the procedure well , was transferred to an unmonitored bed on the floor on postoperative day 0 , where the patient had an uncomplicated postoperative course .
+In the immediate postoperative period the patient 's hematocrit remained stable .
+The patient 's creatinine at the time of discharge was 1.2 .
+The patient 's JP fluid creatinine was checked prior to removal , it was serum 1.2 , and the JP drain was removed .
+On postoperative day 2 , the patient is out of bed and ambulating .
+The patient is tolerating a regular diet .
+The patient is afebrile .
+The patient 's pain is controlled p.o. pain medications .
+The patient 's drain is out .
+The patient 's incision is clean , dry , and intact .
+The patient 's has been deemed stable , and ready for discharge .
+DISCHARGE INSTRUCTIONS :
+Follow up with Dr. **NAME[ZZZ] on **DATE[Feb 19 2007] , and to call and confirm that appointment .
+The patient has been instructed to resume his preoperative medications and diet .
+The patient is instructed to avoid driving while on narcotics .
+Avoid heavy lifting greater than 15 pounds .
+The patient has been instructed it is okay to shower , but to avoid tub baths until seen in follow up .
+The patient has been instructed to call the **INSTITUTION or return to the ED for a temperature greater than 101.5 degrees , nausea , vomiting , diarrhea , increasing abdominal pain or flank pain , and inability to void .
+The patient has been prescriptions for Vicodin 5/500 one tab p.o. every 4 hours p.r.n. pain , Colace 100 mg p.o. b.i.d.
+___________________________________
+**NAME[YYY M ZZZ] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Feb 11 2007] 07:43:29
+T :
+**DATE[Feb 11 2007] 07:48:25
+R :
+**DATE[Feb 12 2007] 09:34:44/kh
+Job ID :
+341574/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Feb 23 2007] 10:29:01 AM

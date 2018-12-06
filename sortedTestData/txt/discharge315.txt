@@ -1,0 +1,65 @@
+**INSTITUTION
+TRANSPLANT SURGERY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Jun 06 2007]
+DISCHARGE DATE :
+**DATE[Jun 15 2007]
+She is a **AGE[in 50s]- year - old female , type 1 diabetes who was admitted for an isolated pancreatic transplantation for diabetes mellitus type 1 .
+The patient has been diabetic for 37 years and she received the transplant on **DATE[Jun 06 07] .
+She had an uncomplicated postoperative course , she went to the ICU and was managed there for 1 day and transferred to the floor in good condition .
+Her NG tube was discontinued on postoperative day 2 .
+The patient began to have nausea and vomiting and her NG was replaced .
+The patient 's GI function resumed adequately postoperatively , she was ambulating , good respiratory functions .
+She was tolerating a regular diet prior to discharge .
+The donor of the pancreas had pneumococcal meningitis for which she was on treatment .
+Transplant ID was consulted and they recommended placing the patient on IV ceftriaxone and vancomycin .
+Chemistries of the other donor were back , and it turned out that the patient 's strain was susceptible to ceftriaxone and vancomycin .
+The patient will be on this for 2 weeks , that will be until **DATE[Jun 23 07] .
+The patient will be discharged today with a PICC line .
+She will be asked to come back to 7 West tomorrow to obtain a vancomycin trough as well other labs .
+Her glucoses were well - controlled in the hospital and amylase and lipase were never elevated .
+DISCHARGE MEDICATIONS :
+1. Aspirin 81 mg p.o. every day .
+2. Nystatin 5 mL swish and swallow 4 times a day .
+3. Bactrim SS every day .
+4. Valcyte 450 mg p.o. every day .
+5. Colace 100 mg p.o. b.i.d.
+6. Protonix 40 mg p.o. every day .
+7. Prograf 5 mg p.o. b.i.d.
+8. Ferrous sulfate 225 mg p.o. b.i.d.
+9. Lipitor 40 mg p.o. at bedtime .
+10. Effexor XR 150 mg p.o. every day .
+11. Lopressor 25 mg p.o. b.i.d.
+12. Percocet 1-2 tabs p.o. every 4-6 hours p.r.n. for pain .
+13. Ceftriaxone 2 grams IV every 12 hours until **DATE[Jun 23 07] .
+14. Vancomycin 1 gram IV every 12 hours until **DATE[Jun 23 07] .
+15. Reglan 10 mg p.o. 4 times a day .
+The patient will asked to follow up tomorrow at 7 West and to call the transplant coordinator with any questions or problems .
+___________________________________
+**NAME[YYY]
+**NAME[ZZZ] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+IN/lg
+D :
+**DATE[Jun 15 2007] 15:46:34
+T :
+**DATE[Jun 15 2007] 21:14:35
+R :
+**DATE[Jun 16 2007] 09:57:25/jb
+Job ID :
+347349/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , VVV] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Jun 22 2007] 11:27:12 PM

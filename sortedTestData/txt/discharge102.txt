@@ -1,0 +1,52 @@
+**INSTITUTION
+Transfer Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Jul 03 2007]
+Discharged :
+**DATE[Jul 09 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+DISCHARGE DIAGNOSES :
+1. Status post incision and drainage .
+2. Right total knee arthroplasty .
+The patient is a **AGE[in 60s]- year - old patient of Dr. **NAME[ZZZ] who had a total knee arthroplasty done in the past which was found to be infected with coag-negative staph .
+He underwent staged reimplantation following a course of Zyvox .
+Following this reimplantation , he developed group B strep infection .
+He returned to Dr. **NAME[ZZZ] 's office .
+He has small boils in the mid portion of the incision and some drainage from the wound .
+He was brought in for elective I and D of his wound and of his total knee arthroplasty .
+He underwent this procedure on **DATE[Jul 3 2007] .
+He tolerated the procedure very well .
+He was transferred to the regular nursing floor postoperatively .
+He had a nerve block catheter , and his pain medications were managed by the postoperative pain service .
+On postoperative day #1 , an internal medicine consult was obtained for medical management .
+The patient did well postoperatively except that at the site of the small boil which was excised during surgery , he did have several days of fibrinous bloody drainage from that site .
+This drainage did slow and came to a stop just before discharge .
+The patient was started on Coumadin in the evening of the operation for DVT prophylaxis .
+The patient was ambulatory with physical therapy , and at the time of his discharge , he is afebrile , and vital signs are stable .
+FOLLOWUP INSTRUCTIONS :
+The patient is to follow up with Dr. **NAME[ZZZ] in 2 to 3 weeks .
+He should continue to get his IV antibiotics as prescribed by the Infectious Disease Service .
+He should also continue taking his Coumadin .
+He will have home health care .
+We will draw PT / INR s on every Monday and Thursday .
+The results of these tests should be called to **ID-NUM by 2 p.m. on the day of blood draw .
+( _______________ ) will call with any adjustments in Coumadin dosing .
+If the patient develops any increasing erythema , drainage , pain , numbness , or tingling , or other problems of his right lower extremity , he should contact Dr. **NAME[ZZZ] 's office immediately .
+______________________________
+**NAME[WWW XXX , CCC]
+HS Job # 625339 / 41478 / 16547
+SHY # **ID-NUM
+D :
+**DATE[Jul 10 2007] 12:59
+T :
+**DATE[Jul 11 2007] 15:54
+**CARBON-COPY

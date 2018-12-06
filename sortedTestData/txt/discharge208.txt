@@ -1,0 +1,47 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA , BBB]
+**ID-NUM
+**ID-NUM
+A6A/604
+SERVICE OF :
+**NAME[ZZZ]
+**NAME[YYY]
+DATE OF ADMISSION :
+**DATE[Aug 31 2007]
+DATE OF DISCHARGE :
+**DATE[Sep 03 2007]
+FINAL DIAGNOSES :
+1. Acute cholecystitis and chololithiasis .
+2. Diabetes mellitus type 2 .
+3. Super obesity .
+4. Depression .
+5. Essential hypertension .
+6. Clotting disorder .
+7. Gastroesophageal reflux disease .
+The patient had a laparoscopic cholecystectomy on **DATE[Sep 1 2007] , by Dr. **NAME[YYY] .
+The patient was also seen by Dr. **NAME[VVV] .
+MANAGEMENT :
+The patient was discharged on 1500 - calorie ADA diet , low salt , Glucophage 100 mg b.i.d. , Prandin 0.5 mg t.i.d. , Lantus 30 units q.a.m. , and Byetta 10 mg b.i.d. subcutaneously .
+She was to continue with her hydrochlorothiazide , Protonix , and folic acid and follow up q.i.d. , blood sugar before meals and at bedtime , exercise daily , and start her Effexor at 37.5 mg daily .
+HOSPITAL COURSE :
+This moderately depressed super obese **AGE[in 30s]- year - old white female was admitted with fairly classic right upper quadrant pain .
+It was exquisitely tender in this area and was seen by surgery .
+Confirmation revealed that the patient did have indeed evidence of chololithiasis and cholecystitis , and her diabetes was controlled with insulin , and she was subsequently required a cholecystectomy .
+Her postoperative course , she continued to be improved , but her diabetes needed to be controlled .
+She was given supplemental sliding scale insulin as well as her Lantus and then resumed her Byetta when she was eating well .
+She continued with her Protonix for her GERD and was started on Effexor 37.5 for her depression .
+Other SSRIs are contributed to her weight gain .
+Her laboratory was consistent with acute cholecystitis .
+She did extremely well .
+___________________
+**NAME[WWW M. XXX] , M.D.
+Dict :
+**DATE[Oct 16 2007] 09:45:38
+Tran :
+**DATE[Oct 16 2007] 19:23:41
+PWD/ss/430146/**ID-NUM/**ID-NUM
+R :
+**DATE[Oct 16 2007] 19:23:41/ss
+**CARBON-COPY

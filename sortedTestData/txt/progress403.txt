@@ -1,0 +1,97 @@
+Progress **INSTITUTION , Narrative - Impression and Plan
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] K
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 50s] years
+Sex :
+Male
+DOB :
+**DATE[May 16 1949]
+Author :
+**NAME[XXX , WWW M]
+Subjective
+Pt is a **AGE[in 50s]yo m with h/o ETOh abuse , CAD s/p stent , seixure d/o non - compliant on neurontin X3d who presneted to ED with CP and multidrug intoxication .
+Admitted for
+This am pt denies any current symptoms of chest pain , SOB , dizziness , palpitations , N/V , diaphoresis .
+Pt reports some mild SOB last pm but used his own albuterol with relief  , and did not notify nursing .
+Pt denies that he has had symptoms of ETOH withdrawal in the past , and denies current symptoms of tremulousness , N/V , although he is on ativan .
+He reports feeling somewhat groggy which he attributes to the ativan .
+He also reports that he was slightly lightheaded when standing up .
+He denies any LOC or symptoms of seizure .
+Results Review
+General results
+New results :
+Results New ( never reviewed )
+**DATE[Sep 17 2007] 5:09 AM
+Na 138 mEq / L
+K 4.1 mEq / L
+Cl 106 mEq / L
+CO2 26 mEq / L
+Anion Gap 6.0 Low
+BUN 7 mg / dL
+Cr 0.8 mg / dL
+Glucose 113 mg / dL High
+Ca 9.2 mg / dL
+Health Status
+Allergy / reaction profile ( all ):
+NKA
+Current Medications : medication administration orders
+nitroglycerin ( NITROGLYCERIN 0.4 MG TABLET SL ( 25 'S ) ) , 0.4 mg , Sl tab , subQ , Q5Min , PRN , For Chest Pain , Routine , **DATE[Sep 16 07] 6:59:00 , 3 Dose ( s )/ Time ( s ) , Limited # of times
+aluminum hydroxide - magnesium hydroxide ( Maalox 225 mg - 200 mg / 5 ml oral suspension ) ( MAALOX SUSPENSION 30 ML ) , 30 mL , Susp , By Mouth , QID , PRN , For Dyspepsia , Routine , **DATE[Sep 16 07] 7:00:00
+acetaminophen ( ACETAMINOPHEN 325 MG CAPLET ) , 650 mg , Caplet , By Mouth , Q6H , PRN , For Temperature above 101.3 F , Routine , **DATE[Sep 16 07] 7:00:00
+Dextrose 5% with 0.45% NaCl 1000 mL + multivitamin 10 mL + thiamine 100 mg + folic acid 1 mg + potassium chloride 20 mEq , 1000 mL , IV , Routine , **DATE[Sep 16 07] 7:03:00 , 80 mL / hr , Administer Over : 12.5 HR
+lorazepam ( Ativan ) ( LORAZEPAM 2 MG / ML 1 ML VIAL ) , 2 mg , Vial , IV , Q2H , PRN , For Anxiety , Routine , **DATE[Sep 16 07] 7:03:00
+lorazepam ( Ativan ) ( LORAZEPAM 1 MG TABLET ) , 2 mg , Tab , By Mouth , Q8H , Routine , **DATE[Sep 16 07] 8:00:00
+gabapentin ( Neurontin ) ( GABAPENTIN 400 MG CAPSULE ) , 800 mg , Cap , By Mouth , TID , Routine , **DATE[Sep 16 07] 9:00:00
+clopidogrel ( CLOPIDOGREL 75 MG TABLET ) , 75 mg , Tab , By Mouth , Daily , Routine , **DATE[Sep 16 07] 9:00:00
+aspirin ( ASPIRIN EC 325 MG ) , 325 mg , Ec tab , By Mouth , Daily , Routine , **DATE[Sep 16 07] 9:00:00
+carvedilol ( Coreg ) ( CARVEDILOL 3.125 MG TABLET ) , 3.125 mg , Tab , By Mouth , Daily , Routine , **DATE[Sep 16 07] 9:00:00 , Special Instructions : hold for SBP&lt ; 100
+Physical Examination
+Pt is resting comfortably in bed  , in no apparent distress .
+General Exam
+Vital signs :
+BP : systolic 139 , diastolic 75 ,
+Pulse : 84 beats per min , regular ,
+Respiration : 16 breaths / min at rest ,
+Temperature : 36.1 degrees Celsius .
+Eye : sclera anicteric .
+perrla .
+Oropharynx : oral mucosa : moist .
+Heart : rate : normal , rhythm : normal , heart sounds : S1 : normal , S2 : normal , no extra heart sounds , no murmurs .
+Lungs : lungs CTA bilaterally , with mild R late inspiratory crackles .
+no wheezes
+Abdomen : soft , non - tender , non - distended .
+positive BS .
+no appreciable HSM .
+no skin chanegs on abdomen
+Neuro :
+Mental Status : pt is alert and oriented X 3
+CN2 - 12 intact grossly .
+Strength 5/5 in all extremities , no focal deficits .
+no tremors present
+Psychiatric :
+Mood and affect : not appropriate , Behavior : appropriate .
+Impression and Plan
+Pt is a **AGE[in 50s] yo m c h/o ETOH abuse , Seizure Disorder and CAD s/p stent admitted for CP and seizure with witnessed tonic clonic seizure in ED .
+1 : CAD
+* serial troponins negative
+* exercise stress test negative
+* Echo complete , report pending
+* continue coreg
+2: Seizure Disorder :
+* continue neurontin , continue seizure protocol
+* Will Discuss with Dr. **NAME[ZZZ] about Consulting Neurology for recs about neurontin vs other anti - epileptic agent given T/C seizure .
+3: ETOH abuse :
+* continue scheduled ativan with prn
+* pt has no symptoms
+4: electrolytes :
+* lytes wnl
+* continue banana bag until gone
+Perform by **NAME[XXX , WWW] L
+( on **DATE[Sep 17 2007] 09:21 )
+Sign by **NAME[XXX , WWW] L
+( on **DATE[Sep 17 2007] 09:21 )
+VERIFY by **NAME[XXX , WWW] L
+( on **DATE[Sep 17 2007] 09:21 )

@@ -1,0 +1,119 @@
+**INSTITUTION
+DERMATOLOGY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Apr 04 2007]
+DISCHARGE DATE :
+**DATE[Apr 05 2007]
+DISCHARGE DIAGNOSIS ( ES ):
+1. Nephrogenic systemic fibrosis .
+2. End - stage renal disease .
+CHIEF COMPLAINT :
+The patient presents to receive extracorporeal photopheresis #37 .
+HISTORY OF PRESENT ILLNESS :
+The patient is a **AGE[in 40s]- year - old white male with a diagnosis of nephrogenic systemic fibrosis secondary to glomerulonephropathy .
+He presents today with no specific complaints of difficulties and reported stable skin and joints .
+PAST MEDICAL HISTORY :
+1. Hypertension .
+2. Hypercholesterolemia .
+3. Peptic ulcer disease / GERD .
+4. Coronary artery disease , status post 2 MI s and 6 bypasses .
+5. Right femoral artery bypass .
+6. End - stage renal disease , on dialysis .
+PAST SURGICAL HISTORY :
+Renal transplant followed by transplant nephrectomy secondary to infection .
+CURRENT MEDICATIONS :
+1. Neurontin t.i.d.
+2. Protonix 40 mg b.i.d.
+3. Coreg 3.125 mg b.i.d.
+4. PhosLo 667 mg 2 tablets twice daily .
+5. ASA 81 mg q. day .
+6. Sensipar 60 mg nightly .
+7. Dovonex cream p.r.n.
+8. Vasotec 20 mg nightly .
+9. Morphine sulfate 30 mg q.8 h .
+10. Zocor 40 mg q. day .
+11. Actiq lollipops 1 to 3 times daily .
+ALLERGIES :
+NO KNOWN DRUG ALLERGIES .
+SOCIAL HISTORY :
+Positive for history of smoking which he quit in 1994 .
+Negative alcohol consumption .
+FAMILY HISTORY :
+Negative for malignancy or renal disease .
+REVIEW OF SYSTEMS :
+The patient denies any fever , chills , night sweats , blurred vision , headache , shortness of breath , chest pain or pressure , heart palpitations , nausea , vomiting , diarrhea , constipation , urinary changes , or changes in his bowel habits .
+Remaining review of systems is negative .
+PHYSICAL EXAMINATION :
+General Appearance :
+The patient is a well - nourished , well - developed white male sitting comfortably in no acute distress .
+He is alert and oriented to person , place , and time .
+Vital Signs :
+Height 69 inches , weight 61.6 kg , temperature 37.1 , pulse 73 , respirations 18 , and blood pressure 100/60 .
+HEENT :
+Normocephalic and atraumatic .
+PERRLA .
+EOMI .
+Sclera anicteric .
+Conjunctiva is pink and moist .
+Mucous membranes are pink and moist and no lesions , exudates , or erythema .
+Heart :
+Regular rate and rhythm .
+A 3/6 systolic murmur heard throughout precordium .
+Left upper arm has a palpable thrill secondary to fistula placement .
+Lungs :
+Clear to auscultation bilaterally throughout with no adventitious lung sounds .
+No wheezing , rhonchi , or rales .
+Abdomen :
+Positive bowel sounds .
+Soft , nontender , and nondistended with no palpable masses .
+No hepatosplenomegaly .
+No pain to superficial or deep palpations .
+Extremities :
+Warm with no clubbing , cyanosis , or edema .
+The patient does have bilateral flexor contractures of fingers that remain stable .
+Skin :
+Scattered areas of skin thickening / toughness .
+This is stable in appearance .
+It is firm to touch with sclerotic appearance in areas of hypo and hyperpigmentation .
+Neurologic :
+Alert and oriented to person , place , and time .
+HOSPITAL COURSE :
+The patient presented and received his treatment with no difficulties , problems , or complaints .
+LABORATORY DATA :
+A blood work was completed during his inpatient stay as well with WBC 3.6 , RBC 3.68 , hematocrit 35 , hemoglobin 11.7 , and platelets of
+128,000 .
+Potassium was 5.1 and sodium was 143 .
+DISCHARGE PLAN :
+The patient will return to clinic in 5 to 6 weeks for his next extracorporeal photopheresis treatment .
+He will continue his topical Dovonex as needed and call with any questions , concerns , or difficulties .
+The patient will continue receiving his dialysis 3 times weekly as per renal physician .
+The patient 's plan was approved by Dr. **NAME[YYY ZZZ] .
+The patient will be contacted by Dr. __________ for his next scheduled admission date .
+The patient was instructed to call in the interim with any questions , concerns , or difficulties .
+___________________________________
+**NAME[YYY ZZZ]
+Dictator :
+**NAME[VVV XXX , WWW-M]
+LH/nks
+D :
+**DATE[Apr 05 2007] 15:56:39
+T :
+**DATE[Apr 05 2007] 16:59:25
+R :
+**DATE[Apr 05 2007] 16:59:25/nks
+Job ID :
+334126/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , WWW-UUU] ***
+Electronically Signed by **NAME[CCC ZZZ]
+**DATE[Apr 25 2007] 03:05:53 PM

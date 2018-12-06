@@ -1,0 +1,138 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Dec 16 2007]
+Discharged :
+**DATE[Jan 07 2008]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+ADMISSION DIAGNOSES :
+1. Invasive bladder cancer .
+2. Deep venous thrombosis ( DVT ) .
+DISCHARGE DIAGNOSES :
+1. Invasive bladder cancer .
+2. Deep venous thrombosis ( DVT ) .
+3. New partial small bowel obstruction .
+SERVICE :
+Urologic surgery , under Dr. **NAME[ZZZ] .
+CONSULTANTS :
+1. Surgical oncology , Dr. **NAME[VVV] .
+2. Hematology , Dr. **NAME[UUU] .
+3. Enterostomal therapy .
+4. Home care .
+PROCEDURES :
+1. **DATE[Dec 20 2007] :
+Radical cystoprostatectomy with creation of ileal orthotopic neobladder .
+2. **DATE[Dec 16 2007] :
+Insertion of inferior vena cava filter .
+STUDIES :
+1. CT of the abdomen and pelvis without IV contrast and without oral contrast showing :
+a. Findings of mechanical small bowel obstruction .
+b. Bilateral ureteral stents .
+c. Upper abdominal and retroperitoneal lymphadenopathy .
+d. Gallbladder sludge .
+e. Postsurgical changes after a radical prostatectomy and cystectomy .
+f. Small volume of free intrapelvic fluid .
+g. Loculated fluid collection , anterior to the left psoas muscle .
+2. Multiple plain films of the abdomen showing evidence of partial small bowel obstruction with multiple air-fluid levels .
+HISTORY AND PHYSICAL EXAMINATION :
+Mr. **NAME[BBB AAA] is a very pleasant **AGE[in 50s]- year - old gentleman with a recent diagnosis of deep venous thrombosis and with a known history of invasive bladder cancer who presented for elective inferior vena cava disruption and elective cystoprostatectomy with neobladder reconstruction .
+Mr. **NAME[AAA] was diagnosed with bladder cancer in **DATE[Jul 2007] .
+He , initially , presented for evaluation of severe flank pain .
+He was found to have a ureteral obstruction and a nephrostomy tube was placed .
+He underwent a TURBT , establishing the diagnosis of bladder cancer .
+He was treated with neoadjuvant chemotherapy at an outside institution .
+Radical cystoprostatectomy was recommended .
+On physical examination , his temperature was 36.4 .
+His pulse was 85 .
+His respiratory rate was 20 .
+Blood pressure was 114/16 .
+In general , he was an alert 55 gentleman , comfortable lying in bed .
+His heart had a regular rate and rhythm and his lungs were clear to auscultation bilaterally with no adventitious wheezes , rales , or rhonchi .
+His abdomen was soft , nontender , and nondistended with a right nephrostomy tube in place .
+His extremities were without cyanosis , clubbing , or edema .
+His admission laboratory values were significant for a BUN of 18 and a creatinine of 1.0 and a white count of 11.1 .
+Upon admission , his PT was 10.5 ; his PTT was 28 ; and INR was 1.1 .
+COURSE :
+Mr. **NAME[AAA] was started on prednisone before admission because of an allergy to contrast dye .
+On **DATE[Dec 16 2007] , he was taken to interventional radiology , where he had an inferior vena cava filter placed .
+This procedure occurred without complication .
+Afterwards , he was transferred to the floor .
+On **DATE[Dec 20 2007] , Mr. **NAME[AAA] underwent a radical cystoprostatectomy with creation of an ileal orthotopic neobladder under general anesthesia .
+He tolerated this procedure well and without complication .
+Afterwards , he was taken to the recovery room for a short time and then transferred to the floor where he stayed for the remainder of his hospitalization .
+Mr. **NAME[AAA] 's hospital course was complicated by a partial small bowel obstruction .
+On postoperative day #3 , the NG tube was removed and the plan was to await for the return of bowel function .
+After approximately 1 week , a consultation to Dr. **NAME[TTT VVV] was made for a surgical evaluation of partial small bowel obstruction .
+On **DATE[Jan 1 2008] , Mr. **NAME[AAA] had CT of the abdomen and pelvis without IV and without oral contrast that demonstrated a partial small bowel obstruction that was likely mechanical from adhesions , so **NAME[AAA] was kept NPO and intravenous TPN was given for nutritional support .
+His TPN was initially not cycled and that was cycled down to 16 hours at the time of discharge .
+Multiple flat plates of the abdomen demonstrated air - fluid levels consistent with partial small bowel obstruction .
+There was a decision to do an upper GI series with a small bowel followthrough according to Dr. **NAME[VVV] .
+However , Mr. **NAME[AAA] had evidence of returned bowel function with the passage of flatus and bowel movements .
+However , at the time of discharge , he still had an NPO status , although he was passing flatus and small bowel movements .
+A consultation to Dr. **NAME[UUU] was made in regards to Dr. **NAME[AAA] 's anticoagulation .
+Daily INR s were followed , and his home Coumadin dose of 5.0 mg p.o. nightly was followed .
+At the time of discharge , his INR had decreased to 1.3 on **DATE[Jan 6 2008] , and then decreased further to 1.2 on **DATE[Jan 7 2008] .
+Dr. **NAME[UUU] 's service was called again , and their recommendation was to give him double his normal daily dose on **DATE[Jan 7 2008] , with a close watch on his coagulation status after discharge .
+Throughout the course of his stay , Mr. **NAME[AAA] maintained an urine output greater than 0.5 mL / kg / hour .
+His neobladder was irrigated daily .
+His IV fluids were adjusted with his TPN to give him maintenance rate to maintain an euvolemic status .
+Throughout the course of his stay , he remained afebrile and normotensive .
+Initially , his pain was managed with intravenous narcotics .
+He was gradually switched to oral narcotics and oral antiinflammatories .
+At the time of discharge , he was tolerating pills by mouth and his pain was under adequate control .
+He was also ambulating without assistance .
+On **DATE[Jan 7 2008] , MetLife was called regarding Mr. **NAME[AAA] 's disability status .
+Over a 3 - way conversation with a representative from MetLife , a verbal confirmation of an extension of 1 month ( **DATE[Feb 7 2008] ) of his disability was maintained .
+MetLife assured that MetLife will be sending out a confirmation letter to Mr. **NAME[AAA] within the next 2 days .
+DISCHARGE CONDITION :
+Good .
+DISPOSITION :
+Mr. **NAME[AAA] is being discharged home .
+MEDICATIONS :
+1. Coumadin 10 mg p.o. on **DATE[Jan 7 2008] , with titration based on daily laboratory draws to an INR between 2.0 and 3.0 .
+2. Vicodin 500/5 , one to two tablets p.o. q.4 h. p.r.n. pain .
+3. Colace 100 mg p.o. b.i.d.
+4. Dulcolax suppository 10 mg per rectum daily p.r.n.
+5. Anusol HC 25 mg rectal suppository t.i.d. p.r.n. hemorrhoidal discomfort .
+6. Ferrous sulfate 325 mg p.o. t.i.d.
+7. Normal saline 2 syringe flush to neobladder b.i.d.
+8. Total parenteral nutrition infused over 16 hours as directed .
+INSTRUCTIONS :
+Mr. **NAME[AAA] is being discharged home .
+By mouth , he can have medications and water as recommended for hydration .
+Otherwise , his nutritional support will be through the use of intravenous TPN through a peripherally inserted central catheter .
+In terms of physical activity , he is not to drive a car and is not to lift greater than 5 to 10 pounds .
+He is not to return to work until seen for followup .
+Mr. **NAME[AAA] may shower , but tub baths and other forms of wound immersion are not recommended .
+With regards to his neobladder , he is to flush it twice a day with normal saline .
+If he exhibits such symptoms with a temperature over 101 degrees Fahrenheit , worsening abdominal pain , new-onset urinary retention , nausea , vomiting , inability to have a bowel movement and to pass flatus , or any other concerns or questions , he is to report to the emergency department immediately and then .
+FOLLOWUP :
+Mr. **NAME[AAA] is to follow up with the following services and physicians :
+1. Dr. **NAME[ZZZ] :
+On Monday , **DATE[Jan 12 2008] , in the clinic .
+He can call **PHONE to reschedule his appointment .
+2. Dr. **NAME[VVV] on Monday , **DATE[Jan 12 2008] :
+He can call **PHONE to schedule the followup appointment .
+For acute abdominal pain , nausea , vomiting , or any other GI concerns , he can call **PHONE at anytime .
+3. Dr. **NAME[SSS] daily coagulation studies are to be drawn on Mr. **NAME[AAA] for titration of his Coumadin per Dr. **NAME[SSS] .
+All results are to be called to his office .
+On **DATE[Jan 9 2008] , or **DATE[Jan 10 2008] , Mr. **NAME[AAA] is to have a set of TPN laboratories drawn which include : a BNP with calcium , magnesium , phosphorus , and albumin level .
+These numbers will be reported to the TPN service for adjustment of his intravenous nutrition status .
+______________________________
+**NAME[WWW XXX]
+HS Job # 345836 / 38808 /
+SHY # **ID-NUM
+D :
+**DATE[Jan 07 2008] 17:43
+T :
+**DATE[Jan 08 2008] 15:55
+**CARBON-COPY

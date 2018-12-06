@@ -1,0 +1,90 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[May 08 2007]
+Discharged :
+**DATE[May 12 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+FINAL DIAGNOSES :
+1. Acute inferior wall myocardial infarction .
+2. Coronary artery disease .
+3. Schizophrenia .
+4. Hypertension .
+5. Obesity .
+6. Non - insulin - dependent diabetes mellitus , new onset .
+DISCHARGE MEDICATIONS :
+1. Tylenol 650 mg q.4 hours p.r.n. for pain .
+2. Vicodin 1 p.o. q.4 hours p.r.n. for moderate pain .
+3. Mylanta 30 mL p.o. q.4 hours p.r.n. for dyspepsia .
+4. Enteric - coated aspirin 325 mg p.o. daily .
+5. Plavix 75 mg p.o. daily .
+6. Glucotrol XL 5 mg daily .
+7. Lopressor 25 mg daily .
+8. Risperdal 1 mg b.i.d.
+DIET :
+Prudent heart .
+ACTIVITIES :
+Ambulate as tolerated on level surfaces , stair climbing 1 time a day .
+She is to avoid any strenuous or exertional activity .
+She is restricted from lifting more than 5 pounds .
+She is not to drive an automobile until after she is seen and cleared by her PCP and cardiology on office followup .
+**INSTITUTION .
+She is to follow up with Dr. **NAME[VVV] in 1-2 weeks , Dr. **NAME[YYY ZZZ] in 1-2 weeks .
+Home care was consulted .
+PROCEDURES :
+1. Left heart catheterization .
+2. Left ventriculography .
+3. Coronary and right femoral arteriography .
+4. Right coronary artery percutaneous coronary intervention .
+PHYSICAL EXAM :
+Refer to H and P .
+HOSPITAL COURSE :
+This is a **AGE[in 40s]- year - old female originally presenting to **INSTITUTION under the service of Dr. **NAME[UUU VVV] complaining of chest pain .
+Her EKG revealed normal sinus rhythm with left axis deviation , previous inferior infarct could not be excluded .
+There were T-wave abnormalities noted in the inferior leads .
+Her troponin was 27.84 , white cell count was 15,000 , and potassium was 5.2 .
+Her history is remarkable for obesity , hypertension , schizophrenia , and glucose intolerance .
+The patient was placed on heparin as well as nitroglycerin drip which was subsequently converted to topical nitrates .
+She was placed on aspirin .
+Her potassium was supplemented .
+A cardiac catheterization was recommended to which she was agreeable .
+She was transferred to this facility to undergo that procedure .
+This was accomplished on **DATE[May 8 2007] , with Dr. **NAME[TTT] in attendance .
+He has documented in his progress note that a left heart catheterization , left ventriculography , coronary and right femoral arteriography along with successful recannulization of totally occluded huge right coronary tortuous mid segment by thrombus , aspiration , balloon in - stent PCI leading to TIMI 3 flow to distal segment , although there was some residual thrombus burden distally .
+Also , RCFA Perclose hemostasis .
+Huge left coronary with 30% proximal disease and slow flow in LAD .
+The patient had low blood pressure throughout the procedure .
+This improved with IV fluids and dopamine .
+Postprocedure , she had no complications .
+Her blood pressures stabilized .
+She had no complaints of chest pain or shortness of breath , and she remained in normal sinus rhythm .
+She was started on Glucotrol .
+Beta blockers were added .
+H and H were followed , and her activity level was increased .
+Consideration was being given to transfer to **INSTITUTION PCC for physical therapy or psychiatric admission .
+Life care was also investigated as a possible endpoint , but her insurance was not accepted at that facility .
+The patient also was able to ambulate 200 feet .
+She had a steady gait , did stairs without any problem .
+It was deemed not necessary to have her undergo continued physical therapy .
+She was discharged to home to be followed by home care .
+She will see Dr. **NAME[VVV] and Dr. **NAME[YYY ZZZ] in 1-2 weeks .
+At the time of discharge , she remained stable , had no complaints , and vital signs were stable .
+For laboratory data , please refer to the hospital record .
+______________________________
+**NAME[WWW XXX] , RN
+HS Job # 875245 / 33103 / 33048
+SHY # **ID-NUM
+D :
+**DATE[May 22 2007] 12:54
+T :
+**DATE[May 22 2007] 19:33
+**CARBON-COPY

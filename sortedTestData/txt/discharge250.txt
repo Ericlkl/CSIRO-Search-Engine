@@ -1,0 +1,69 @@
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+ADMISSION DATE :
+**DATE[Aug 10 2007]
+DISCHARGE DATE :
+Page 2 of 2
+&lt;END HEADER&gt;
+&lt;START FOOTER&gt;
+&lt;end footer&gt;
+&lt;start header&gt;
+**INSTITUTION
+PLASTIC SURGERY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Aug 10 2007]
+DISCHARGE DATE :
+The patient is a **AGE[in 20s]- year - old female , right hand dominant , status post fall on **DATE[Aug 1 2007] , sustained a right distal radius fracture and ulnar styloid fracture .
+The patient was seen at outside institution for treatment .
+The patient recently was admitted to **INSTITUTION with complaints of numbness in the right hand and increased pain .
+The patient was admitted to the hospital on **DATE[Aug 10 2007] .
+Preparations were made for ORIF of distal radius fracture and carpal tunnel release .
+PAST MEDICAL HISTORY :
+Denies diabetes , asthma , or high blood pressure .
+PAST SURGICAL HISTORY :
+Denies any previous surgeries .
+MEDICATIONS :
+Denies any current medications .
+ALLERGIES :
+HAS NO KNOWN DRUG ALLERGIES .
+SOCIAL HISTORY :
+One - pack per day smoker .
+Currently unemployed .
+REVIEW OF SYSTEMS :
+The patient denies any systemic abnormalities , nothing contributory at this time .
+The patient was admitted on **DATE[Aug 10 2007] , and placed on intravenous antibiotics and analgesia with elevation of the right arm scheduled for surgical procedure .
+On **DATE[Aug 11 2007] , the patient was taken to the operating room .
+The patient underwent open reduction and internal fixation of right distal radius fracture and open reduction and internal fixation of ulnar styloid fracture .
+The patient also had a release of right carpal tunnel and additional release of Guyons canal .
+The patient tolerated the procedure and was taken to the floor .
+The patient is discharged home on **DATE[Aug 11 2007] .
+The patient is instructed to keep the wound clean , dry , and elevated .
+The patient was instructed to follow up with Dr. **NAME[YYY ZZZ] in 2 weeks for further evaluation .
+________________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW XXX] , M.D.
+JS/ss
+D :
+**DATE[Aug 11 2007] 17:46:00
+T :
+**DATE[Aug 12 2007] 05:40:41
+R :
+**DATE[Aug 12 2007] 05:40:41/ss
+Job ID :
+342850/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , VVV] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Aug 18 2007] 10:38:35 AM

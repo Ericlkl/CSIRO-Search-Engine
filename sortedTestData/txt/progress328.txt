@@ -1,0 +1,86 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Mar 27 07]
+Mrs. **NAME[AAA] is a **AGE[in 60s]- year - old woman status post lung volume reduction surgery .
+She continues to require critical care for management of her respiratory failure , acute renal failure , hyperglycemia , malnutrition , and deep venous thrombosis .
+ASSESSMENT AND PLAN :
+1. Pulmonary .
+Respiratory failure following lung volume reduction surgery .
+I am currently managing Mrs. **NAME[AAA] on assist - control ventilation rate of 14 , tidal volume 400 , 60% FiO2 and 5 of PEEP .
+Chest x-ray is essentially unchanged today .
+She has evidence of pulmonary edema which persists .
+Breath sounds are equal in bilateral lung fields with occasional crackles and wheezes in the bases .
+I will continue to wean her FiO2 as tolerated to maintain an oxygen saturation of greater than 92% .
+Hemoptysis continues .
+Bronchoscopy was performed today which shows left upper lobe ooze .
+I suspect that her platelet dysfunction and uremia is contributing significantly to this .
+I am hopeful that this will correct with hemodialysis .
+2. Cardiovascular .
+Extremities are warm and adequately perfused .
+She is in a sinus rhythm with the means in the 60s to 80s .
+Transthoracic echocardiogram today shows trivial pericardial effusion without evidence of echocardiographic tamponade .
+LV function is preserved and there is moderately decreased right ventricular function .
+She does have evidence on echocardiogram of volume overload consistent with a clinical examination .
+3. Fluids , electrolytes and nutrition .
+Sodium 133 , potassium 4.2 and magnesium 2.1 .
+I have replaced electrolytes per protocol .
+4. Infectious Disease .
+Afebrile with a white count of 6.3 .
+Erythema to the left lower extremity appears improved today .
+Blood cultures are pending .
+I will continue Zosyn at this time and dose with vancomycin following hemodialysis .
+Cultures from her previous pigtail catheter have grown coag - negative staph .
+I will consult infectious disease to assist with assessment of antibiotic duration .
+Overtly she does not appear to be actively infected .
+However , this is a culture from a presumably sterile body cavity .
+She has had viridans grow from previous BAL s and one blood culture which was positive for viridan staph .
+5. Endocrine .
+Hyperglycemia .
+I will continue sliding scale insulin coverage to maintain euglycemic control .
+6. Renal .
+Acute renal failure .
+She is scheduled for hemodialysis today .
+BUN is 111 with a creatinine of 4.8 .
+7. GI .
+Abdomen is soft and benign .
+PEG tube is in place .
+I will start tube feeds with TwoCal .
+8. Hematology .
+Hemoglobin this morning is 8.0 with a platelet count of 130 .
+Heparin is currently on hold due to hemoptysis .
+9. Prophylaxis .
+I will continue a proton pump inhibitor .
+Lower extremity duplexes are pending to assess for left lower extremity deep venous thrombosis .
+She does have known right - sided DVT and is status post IVC filter placement .
+I am concerned that her skin changes on the left are secondary possibly to deep venous thrombosis .
+Critical Care time equals 32 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 27 2007] 22:58:47
+T :
+**DATE[Mar 27 2007] 23:06:30
+R :
+**DATE[Mar 27 2007] 23:06:30/cw
+Job ID :
+406663/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 04 2007] 07:44:57 PM

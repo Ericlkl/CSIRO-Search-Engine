@@ -1,0 +1,81 @@
+**INSTITUTION
+GENERAL MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[May 10 2007]
+DISCHARGE DATE :
+**DATE[May 15 2007]
+DISCHARGE DIAGNOSIS ( ES ) :
+Acute vertebral fracture .
+HISTORY OF PRESENT ILLNESS :
+The patient is a **AGE[in 40s]- year - old male with a history of hepatitis B and C and HIV / AIDS who presented with a 1 - week history of abdominal pain and distention as well as low back pain that had increased over the past several weeks .
+On presentation , the patient denied any change in bladder or bowel function , no numbness and tingling of lower extremities , denied any change in his bowel .
+PAST MEDICAL HISTORY :
+Significant for hepatitis B and C , HIV / AIDS , chronic pain secondary to arthritis , depression , and severe GERD .
+HOSPITAL COURSE :
+1. Abdominal pain and distention .
+On admission , the patient 's Aldactone and Lasix doses were increased and abdominal pain resolved within 24 hours .
+CT of the abdomen shows splenomegaly and earlier stages of cirrhosis .
+On discharge , the patient 's abdominal pain had completely resolved and abdominal size was back to baseline .
+2. Back pain .
+The patient reported back pain that was increased over the past several weeks .
+We obtained an MRI which showed acute wedge fractures , compression fractures of T12 , L1 , and L3 .
+Pain was well controlled on Dilaudid PCA .
+They also consulted Orthopedics who recommended a thoracic lumbar sacral orthosis brace .
+When attempting to titrate the patient off the Dilaudid PCA , pain control was still inadequate .
+We consulted the Acute Pain Service who suggested that we prescribe OxyContin 80 mg as well as increase his fentanyl patch to 200 mcg .
+We did that and the patient was discharged on that dosage .
+3. HIV / AIDS .
+The patient was followed by PACT attending during his hospital stay .
+We will continue his triple therapy which included abacavir , Truvada , and Kaletra .
+We also initiated Bactrim for PCP prophylaxis .
+4. GERD .
+The patient was continued on Protonix 40 mg throughout his hospital stay .
+5. Depression .
+The patient was continued on Effexor 225 mg q. day .
+DISCHARGE MEDICATIONS :
+Include
+1. Abacavir 300 mg .
+2. Truvada .
+3. Kaletra .
+4. Bupropion 100 mg .
+5. Furosemide 20 mg .
+6. Ibuprofen 800 mg .
+7. Magnesium oxide 400 mg .
+8. Spironolactone 50 mg q. day .
+9. Trazodone 100 mg .
+10. Spironolactone 100 mg .
+11. Protonix 40 mg .
+12. Effexor 220 mg .
+13. Bactrim DS .
+14. Fentanyl Duragesic patch 200 mcg .
+15. OxyContin 80 mg b.i.d.
+The patient had a followup appointment scheduled with Dr. **NAME[TTT SSS] at the **INSTITUTION on **DATE[May 23 2007] .
+At that time , she will continue to manage his HIV / AIDS as well as refer him to **INSTITUTION for future management of his chronic pain .
+___________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[May 22 2007] 23:50:02
+T :
+**DATE[May 23 2007] 01:17:14
+R :
+**DATE[May 23 2007] 01:17:14/vm
+Job ID :
+357452/**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX , RRR] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[May 23 2007] 03:10:12 PM

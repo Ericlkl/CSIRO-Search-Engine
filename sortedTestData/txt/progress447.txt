@@ -1,0 +1,28 @@
+R1 cross cover
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] L
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 30s] years
+Sex :
+Female
+DOB :
+**DATE[Aug 26 1975]
+Author :
+**NAME[XXX , WWW M]
+Impression and Plan
+Called by nurse re : pt now very awake and pacing around the room .
+Requesting
+Flex monitor be D/c 'd .
+Asking for more pain medications .
+Pt was VERY sedated upon arrival to the floor from the ER , likely due to the Compazine .
+Now that she is awake and alert will increase her Dilaudid to 1mg Q2 prn , give an additional 0.5 mg NOW .
+D/c Flex monitor .
+Will follow .
+Perform by **NAME[XXX , WWW] K
+( on **DATE[Sep 19 2007] 03:39 )
+Sign by **NAME[XXX , WWW] K
+( on **DATE[Sep 19 2007] 03:39 )
+VERIFY by **NAME[XXX , WWW] K
+( on **DATE[Sep 19 2007] 03:39 )

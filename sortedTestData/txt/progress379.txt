@@ -1,0 +1,44 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[May 15 2007]
+EVALUATION DATE :
+**DATE[May 20 07]
+I personally provided critical care services for this patient as the resource intensivist at the request of the patient 's primary team .
+The patient complains of sudden - onset chest pain times ten minute duration which was only partially relieved by sublingual nitroglycerin and oxygen .
+He has been in the hospital for two days - being treated for a bleeding duodenal ulcer , though he has not thrown up or passed blood today .
+His hemoglobin this morning was 8 and he has previously received 3 units of packed red cells to bring it to this point .
+Upon initial evaluation , he was awake , alert , in no apparent distress and had just received a second nitroglycerin which had reduced , but not completely eliminated the pain .
+His systolic blood pressure was 110 with a heart rate of 60 to 70 ( he is on atenolol ) .
+He was breathing comfortably and chest pain was not duplicated with palpation of the chest or stomach .
+EKG revealed PVC 's but no acute ST segment changes .
+I asked the Chest Pain Service to see him who recommended transfer to the Pavilion for further monitoring and treatment .
+This will include transfusion of 2 - units of packed red blood cells , oxygen , IV nitroglycerin , serial cardiac enzymes and EKG 's , as well as cardiac monitoring .
+Should the patient rule in for a MI , or demonstrate significant EKG changes , we will need to consider taking him to the Catheterization Laboratory - though we will need to carefully balance the risks of further GI hemorrhage .
+I spent 30 minutes of critical care time on this patient .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[May 20 2007] 14:27:45
+T :
+**DATE[May 20 2007] 14:45:16
+R :
+**DATE[May 20 2007] 14:45:16/ncm
+Job ID :
+354623/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , VVV M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 31 2007] 03:07:27 PM

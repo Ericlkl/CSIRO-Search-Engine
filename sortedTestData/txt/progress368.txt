@@ -1,0 +1,58 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[May 10 2007]
+EVALUATION DATE :
+**DATE[May 15 07]
+I personally interviewed and examined the patient today .
+We are planning to discharge the patient today , and this is a brief discharge note .
+Full discharge note would be dictated shortly .
+The patient was admitted with low back pain .
+This was due to compression fracture of his vertebrae .
+His major problem has been pain management .
+We have consulted Orthopedic Surgery .
+I have gotten him a brace .
+He is on narcotic analgesics , currently OxyContin and fentanyl patch with breakthrough pain control .
+His pain is reasonably well controlled and he will be discharged home .
+He also has multiple other medical problems .
+He has had abdominal pain , which has been well controlled here .
+He has had liver disease , which is stable .
+He also has HIV , and has been followed in the **INSTITUTION .
+PHYSICAL EXAMINATION :
+Today , his vital signs are stable .
+He is in no acute distress .
+Chest is clear .
+Heart :
+Regular rhythm .
+Abdomen :
+No tenderness .
+Extremities :
+No edema .
+Our plan is to discharge him with close followup by his doctor , Dr. **NAME[VVV] in PACT .
+Medication will be provided .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+**INITIALS
+D :
+**DATE[May 15 2007] 15:14:25
+T :
+**DATE[May 16 2007] 02:16:54
+R :
+**DATE[May 16 2007] 02:16:54/ps
+Job ID :
+347306/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[ZZZ , UUU M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[May 23 2007] 03:09:41 PM

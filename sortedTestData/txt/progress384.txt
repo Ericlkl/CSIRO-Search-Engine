@@ -1,0 +1,48 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Mar 27 2007]
+EVALUATION DATE :
+**DATE[Mar 28 07]
+I am currently seeing this **AGE[in 40s]- year - old gentleman status post fall secondary to being intoxicated with an ischemic injury to his left lower extremity .
+He underwent femoral - popliteal bypass surgery .
+The issues at this point in time have been rhabdomyolysis and also hypertension .
+For his hypertension , he is currently on Lopressor 5 IV q. 4 hours with adequate blood pressure control .
+For his rhabdomyolysis , CPK this morning around 35,000 , up to 51,000 , and up to 60,000 tonight .
+Urinary output was actually was adequate at 125-200 mL / hour alkalizing his urine .
+His urine pH is 7 , which is adequate .
+In light that his CPK is going up , urinary output _____ to 50 mL / hour and fluids were pushed to where his urinary output picked back up to around 125-200 mL / hour over the course of last night .
+From a respiratory standpoint , he is doing fine on 2 liters nasal cannula and saturations are 100% and respiratory effort nonlabored and comfortable .
+Auscultation of lung fields are clear .
+At this point in time , the concern is rhabdomyolysis and renal failure .
+Renal function is holding steady and continues to be normal .
+We will continue to adequately hydrate him to get him to continue to flush his kidneys in the hopes that we can prevent renal failure in this setting .
+Continue to watch the CPK s , which indeed may _____ secondary to an ongoing ischemia to the nonviable extremity .
+HIS CRITICAL CARE TIME EQUALS 31 MINUTES .
+___________________________________
+**NAME[WWW VVV XXX] , M.D.
+Dictator :
+**NAME[WWW VVV XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 29 2007] 09:38:52
+T :
+**DATE[Mar 29 2007] 10:16:02
+R :
+**DATE[Mar 29 2007] 10:16:02/cme
+Job ID :
+366015/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , SSS VVV] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Apr 08 2007] 07:09:46 PM

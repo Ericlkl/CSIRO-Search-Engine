@@ -1,0 +1,43 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Apr 14 07]
+PROCEDURE :
+Tracheostomy tube change .
+DESCRIPTION OF PROCEDURE :
+I was called to evaluate Mrs. **NAME[AAA] .
+Following unsuccessful tracheostomy tube change attempted , she had a previous Portex tracheostomy tube in place and was being changed to a #6 Shiley from a #7 Portex .
+I attempted to gently insert the #6 Shiley ; however , her percutaneous tracheostomy site was mildly contracted and I was unable to pass this without resistance .
+I then supervised my fellow , placing a #4 Shiley trach with inner cannula , it passed with ease .
+Endotracheal positioning was immediately confirmed with fiberoptic bronchoscopy .
+The patient tolerated the procedure well , bagged easily , and maintain acceptable oxygen saturations with bag mask support during the entire procedure .
+I was present and supervised all aspects of this procedure .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Apr 14 2007] 22:15:13
+T :
+**DATE[Apr 15 2007] 12:40:06
+R :
+**DATE[Apr 15 2007] 12:40:06/dld
+Job ID :
+428191/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 04 2007] 07:45:08 PM

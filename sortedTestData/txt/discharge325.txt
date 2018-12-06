@@ -1,0 +1,96 @@
+**INSTITUTION
+General Internal Medicine
+Discharge Summary
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+ATTENDING :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Apr 02 2007] 23:36:00
+DISCHARGE DATE :
+**DATE[Apr 05 2007]
+CHIEF COMPLAINT :
+Nausea , vomiting , questionable coffee - ground emesis , and abdominal pain .
+The patient is a **AGE[in 40s]- year - old female with a history of heavy alcohol abuse and schizophrenia , came to the emergency room with the above complaints .
+The patient was admitted as the patient was found to have acute renal failure , severe dehydration , and multiple electrolyte disturbances .
+ALLERGIES :
+NO KNOWN ALLERGIES .
+PAST MEDICAL HISTORY :
+Schizophrenia and alcohol abuse .
+**INSTITUTION :
+__________ that is all the patient recalls taking .
+FAMILY HISTORY :
+Noncontributory .
+SOCIAL HISTORY :
+Heavy smoker , heavy alcohol use , denies intravenous drug use .
+PHYSICAL EXAMINATION ON ADMISSION :
+As per initial H and P .
+Vital signs on admission ; the patient was afebrile , heart rate 86 , respiratory rate 22 , blood pressure 96/69 , and O2 saturation 96% .
+SIGNIFICANT LABORATORY DATA :
+At the time of admission , INR 0.9 and BNP 86 .
+WBC 13.4 , hemoglobin 13.6 , and platelet count 254 .
+Lipase 100 , alkaline phosphatase 121 , sodium 122 , potassium 3.1 , BUN 90 , creatinine 2.3 , glucose 85 , albumin 2.8 , and TSH 6.45 .
+Drug screen negative .
+SIGNIFICANT LABS UPON DISCHARGE :
+Sodium 133 , potassium 3.2 , BUN 56 , creatinine 1.1 , magnesium 2.0 , phosphorous 2.1 , and albumin 2.2 .
+Liver function studies within normal limits .
+WBC 5.9 and hemoglobin 12.7 .
+Chest x-ray from **DATE[Apr 2 2007]; no active lung disease .
+Abdominal ultrasound from **DATE[Apr 3 2007] :
+Impression ; multiple dilated fluid-filled bowel loops .
+No gallstones , liver mass , or biliary ductal dilatation .
+CT of the abdomen and pelvis from **DATE[Apr 3 2007] :
+Impression ; findings consistent with a high - grade distal small bowel obstruction .
+Small bowel followthrough on **DATE[Apr 5 2007] :
+Impression ; no evidence of intestinal obstruction .
+Small bowel series shows intermittent proximal dilatation .
+The terminal ileum is within normal limits .
+The colon is not significantly distended .
+HOSPITAL COURSE :
+The patient was admitted with initial routine admission orders .
+The patient placed on alcohol withdrawal protocol , neuro checks , and seizure precautions .
+The patient underwent chest x-ray , abdominal x-ray , abdominal CT and the results are stated above .
+The patient was started on IV fluids .
+The patient made n.p.o. except for medications .
+The patient was started on IV Zofran p.r.n.
+The patient underwent a GI consultation .
+Dr. **NAME[VVV] saw the patient on GI consultation for nausea , vomiting , weight loss , epigastric tenderness , alcohol use , and questionable coffee - ground emesis .
+The patient maintained on IV hydration .
+The patient made n.p.o , NG tube inserted to low intermittent suction .
+PPI continued .
+The patient underwent CT of the abdomen , and abdominal ultrasounds reviewed , NG maintained .
+The patient underwent surgical consultation .
+IV fluids maintained .
+Electrolyte imbalance corrected .
+The patient states she started moving her bowels .
+The patient is stating she is feeling better .
+On **DATE[Apr 5 2007] , the patient stated she wanted to sign out AMA that she is feeling better and she has no abdominal pain .
+No nausea .
+Risk explained as the patient was advised to stay in facility to monitor for small bowel obstruction .
+The patient refused .
+The patient signed out AMA .
+Risk explained by house physician .
+FINAL DIAGNOSIS :
+Small bowel obstruction , alcohol abuse , history of cocaine abuse , anemia , loose stool , hypoalbuminemia , schizophrenia , acute renal failure , electrolyte imbalance , medical noncompliance , and alcohol abuse .
+CONSULTANTS :
+Dr. **NAME[VVV] , Dr. **NAME[UUU] and Psychiatric Services saw the patient prior to discharge .
+_____________________________________
+**NAME[YYY M ZZZ]
+DICTATED BY :
+**NAME[WWW XXX] , R.N.
+LT/sj
+D :
+**DATE[Apr 22 2007] 13:22:45
+T :
+**DATE[Apr 22 2007] 22:41:29
+R :
+**DATE[Apr 22 2007] 22:41:29/sj
+Job ID :
+356502/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Apr 24 2007] 06:28:55 AM

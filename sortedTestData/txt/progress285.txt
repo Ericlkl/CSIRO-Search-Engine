@@ -1,0 +1,51 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[SSS]
+**NAME[TTT]
+ADMISSION DATE :
+**DATE[Oct 04 2007]
+EVALUATION DATE :
+**DATE[Oct 06 07]
+I personally managed Ms. **NAME[AAA] in the ICU a **AGE[in 40s]- year - old woman history of HIV , chronic renal failure , dialysis dependent , now with mental status changes compatible with encephalopathy of undetermined etiology .
+She moves all her extremities .
+She engages in confuse conservation .
+She is on nasal cannula .
+Her oxygen saturation is acceptable .
+Her lumbar puncture shows increased amount of protein .
+She is on ceftriaxone and acyclovir .
+Her chest x-ray shows patchy infiltrates compatible with viral etiology .
+White count is low which is also compatible with viral .
+She is afebrile .
+Her CAT scan shows diffuse of underdetermined etiology which may be chronic .
+So far , blood pressure has been consistent at 142/82 with a heart rate of 120 .
+She is 98% saturated .
+Her picture so far looks like viral encephalitis .
+She is on appropriate medication .
+Her airway is clear .
+We are continuing to follow her expectantly and supportively .
+Critical care time 30 min .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Oct 06 2007] 12:07:38
+T :
+**DATE[Oct 06 2007] 12:26:19
+R :
+**DATE[Oct 06 2007] 12:26:19/ljw
+Job ID :
+335042/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , RRR M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Nov 04 2007] 08:44:53 PM

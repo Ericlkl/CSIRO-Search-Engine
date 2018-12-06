@@ -1,0 +1,53 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+____________________________________________________________
+**NAME[AAA , BBB]
+**ID-NUM
+**ID-NUM
+A5A/1
+SERVICE OF :
+**NAME[ZZZ]
+**NAME[YYY]
+DATE OF ADMISSION :
+**DATE[Feb 06 2007]
+DATE OF DISCHARGE :
+**DATE[Feb 17 2007]
+ADDENDUM
+The patient was to be discharged to the nursing home on **DATE[Feb 15 2007] , but on the day of **DATE[Feb 14 2007] , the patient developed fever of 38 degrees .
+Blood cultures were sent and ID consult was placed and the labs also showed that his creatinine had gone up to 2.1 .
+He was not discharged .
+Ultrasound of the kidneys showed small kidneys , no evidence of hydronephrosis , and distended bladder .
+Echo was a technically poor study .
+His renal failure was thought to be secondary to exacerbation of chronic renal failure .
+On the day of discharge , his creatinine was better at 2.0 .
+He was showing good urine output .
+In the last 48 hours , he has been afebrile .
+ID was Dr. **NAME[XXX] who evaluated him , agreed on vancomycin and reduced vancomycin dosage , and later on after reviewing further , he thought the Staph [_______________]*** might be a contaminant , he discontinued the vancomycin , started him on IV ampicillin , and he remained afebrile .
+Repeat blood cultures were negative at the end of three days .
+He agreed that we switch him to p.o. amoxicillin 500 mg twice daily for the next two weeks and follow him clinically .
+So arrangements were made for the patient to be transferred to Harmar Village .
+DISCHARGE MEDICATIONS :
+His discharge medications would be :
+1. Amoxicillin 500 mg twice daily for two weeks .
+2. Aspirin 81 mg p.o. daily .
+3. Toprol XL 25 mg p.o. daily .
+4. Protonix 40 mg p.o. daily .
+5. Feosol 200 mg p.o. twice daily .
+6. Multivitamin one tablet p.o. daily .
+7. Depakote sprinkle 250 mg a.m. ; 500 mg p.m.
+8. Flomax 0.4 mg p.o. daily .
+9. Megace 400 mg p.o. daily .
+DIET :
+Soft pureed diet , supplement with Boost .
+The case was discussed with the family in length .
+___________________
+**NAME[ZZZ YYY] , M.D.
+Dict :
+**DATE[Feb 17 2007] 09:35:10
+Tran :
+**DATE[Feb 18 2007] 02:26:00
+**INITIALS
+R :
+**DATE[Feb 18 2007] 02:26:00/pn
+**CARBON-COPY

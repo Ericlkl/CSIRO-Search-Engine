@@ -1,0 +1,40 @@
+Narrative - Impression and Plan
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB M]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 50s] years
+Sex :
+Male
+DOB :
+**DATE[Aug 4 1948]
+Author :
+**NAME[XXX , WWW M]
+Impression and Plan
+Called re pt slightly lightheaded and with increased HR when getting up out of bed .
+Pt seen , denied CP .
+SOB improved from admission .
+No diaphoresis .
+Here with improving COPD exacerbation .
+Orthostatics were checked and he was orthostatic by pulse .
+BP was stable .
+Pt 's MM were dry .
+Lungs were diminished with occ wheezes .
+Heart borderline tachy .
+Given fluid Bolus of 500 Ml NS .
+Will place on Maintenance IVF s .
+Addendum by **NAME[XXX , WWW M] on **DATE[Apr 23 2007] 1:00 AM
+Pt has some but poor PO intake .
+Will place on NS at rate of 125 / hr after Bolus .
+BS have been elevated .
+Perform by **NAME[XXX , WWW] K
+( on **DATE[Apr 23 2007] 00:58 )
+Sign by **NAME[XXX , WWW] K
+( on **DATE[Apr 23 2007] 00:58 )
+VERIFY by **NAME[XXX , WWW] K
+( on **DATE[Apr 23 2007] 00:58 )
+Modify by **NAME[XXX , WWW] K
+( on **DATE[Apr 23 2007] 01:00 )
+Sign by **NAME[XXX , WWW] K
+( on **DATE[Apr 23 2007] 01:00 )

@@ -1,0 +1,48 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M. ZZZ] , M.D.
+ADMISSION DATE :
+**DATE[Feb 12 2007]
+EVALUATION DATE :
+**DATE[Apr 15 07]
+I am seeing this patient on Critical Care Rounds with the house staff .
+I agree with the findings and plan as documented in the house staff note .
+This is a **AGE[in 60s]- year - old woman with a sternal infection , status post sternectomy , with respiratory failure , renal insufficiency , malnutrition , bradycardia , internal jugular deep venous thrombosis , and hypothyroidism .
+The patient 's active issues include :
+1. Respiratory failure :
+She is tolerating pressure support for approximately 12 hours .
+She will require placement into long-term acute care facility .
+2. Deep venous thrombosis of the right internal jugular vein :
+This was associated with a dialysis catheter which has since been removed .
+She is heparinized with a PTT of 58.9 .
+Heparin is being held currently for planned placement of a percutaneous endoscopic gastrostomy tube .
+3. Malnutrition and inability to eat :
+PEG tube will be placed today .
+She will be restarted on her tube feeds post procedure .
+BILLING CODE 99291 .
+CRITICAL CARE TIME 35 MINUTES .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+LHA/ddd
+D :
+**DATE[Apr 15 2007] 09:54:23
+T :
+**DATE[Apr 15 2007] 09:56:52
+R :
+**DATE[Apr 15 2007] 09:56:52/ddd
+Job ID :
+428637/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Apr 30 2007] 05:32:50 PM

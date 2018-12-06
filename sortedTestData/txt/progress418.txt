@@ -1,0 +1,47 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[VVV M WWW]
+ADMISSION DATE :
+**DATE[May 25 2007]
+EVALUATION DATE :
+**DATE[Jun 05 07]
+I personally manage Mr. **NAME[AAA] in the ICU , a **AGE[in 60s]- year - old man with a history of stroke , lethargy and somnolence .
+He seems to be somewhat more aware today .
+He does follow on the left , is plegic on the right .
+He has a tracheostomy .
+He is on tracheostomy mask .
+He continues to require some pulmonary toilet , otherwise is ventilating reasonably well .
+His chest x-ray does not show any substantial change .
+He has an off and on temperature .
+This does not appear to represent pneumonia , more than likely brain fever .
+He is out to bed in his chair , occupational therapy , physical therapy , passes air reasonably well on both sides of chest .
+Heart is regular rhythm .
+Abdomen is soft , puts out adequate amounts of urine .
+His overall condition is reasonably good .
+We are continuing to follow expectantly and supportively .
+CRITICAL CARE TIME = 30 minutes .
+___________________________________
+**NAME[XXX M. YYY] , M.D.
+Dictator :
+**NAME[XXX M. YYY] , M.D.
+DWC/pap
+D :
+**DATE[Jun 05 2007] 10:41:32
+T :
+**DATE[Jun 05 2007] 10:49:53
+R :
+**DATE[Jun 05 2007] 10:49:53/pap
+Job ID :
+375479/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[YYY , UUU M]. ***
+Electronically Signed by **NAME[XXX YYY]
+**DATE[Jul 01 2007] 01:54:48 AM

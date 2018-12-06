@@ -1,0 +1,121 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[WWW M XXX]
+ADMISSION DATE :
+**DATE[Aug 02 2007]
+EVALUATION DATE :
+**DATE[Aug 03 07]
+HISTORY :
+The patient was admitted to the hospital with mental status changes .
+She is a **AGE[in 60s]- year - old female with severe COPD , osteoporosis , and congestive heart failure who was admitted to **INSTITUTION on **DATE[Jun 29 2007] , for similar symptoms and was subsequently transferred to her nursing home .
+In the nursing home , she has had problems with decreased white count and mental status changes and was transferred to **INSTITUTION for further evaluation .
+The patient has a history of anorexia that has been problem for her for greater than 20 years .
+Her weight was down to 63 pounds at near when she was admitted to the **INSTITUTION .
+She had a tube feed placed , but she pulled it out within 24 hours after having it placed despite having restraints , it was placed nasogastrically .
+She was placed on Megace therapy and that she has been eating somewhat better .
+During her stay there , apparently , she was started on multivitamin .
+She had folate level that was normal , B12 level was normal , and TSH was normal .
+I do not see that they gave her IV thiamine therapy .
+When she was admitted to the **INSTITUTION , she also had issues with increase in BNP .
+She had echocardiogram done there which revealed thickened mitral valve leaflets with moderate to severe mitral insufficiency .
+She also had aortic valve sclerosis with mild to moderate aortic valve insufficiency .
+She had mild pulmonic and moderate to severe tricuspid valve insufficiency with evidence of pulmonary hypertension .
+She had evidence of biatrial enlargement but preserved LV function .
+The patient was treated at **NAME[TTT SSS] 's with __________ therapy .
+She was also treated for volume overload with diuresis .
+They treated her for pneumonia , and she had received BiPAP therapy for 3 days .
+She had wax and weaning mental status during her stay that seemed to be more prominent when she was hypoxic .
+She was severely malnourished and debilitated , and she was transferred to the nursing home for further care .
+Apparently , at the nursing home , she has had a lot of problems with her memory .
+She is now started on Remeron and Zyprexa therapy at the nursing home and also Haldol recently .
+She has had problems with her memory prior to admission to the hospital as well of son had to take care of her finances for a long time , and the patient was not really taking care of her ADLs and not cleaning her home for quite sometime .
+PAST MEDICAL HISTORY :
+1. Problems with urinary incontinence .
+2. Problem with COPD .
+She uses BiPAP at night 10/5 , 2 L nasal cannula at baseline .
+3. She has osteoporosis , chronic low back pain .
+4. She has malnutrition and has a long history of anorexia .
+SOCIAL HISTORY :
+She has a history of having smoking .
+She drinks occasional alcohol with just social events .
+FAMILY HISTORY , REVIEW OF SYSTEMS , ALLERGIES , AND MEDICATIONS :
+Please see the resident 's note in the chart .
+My note should be considered linked to theirs .
+On her review of systems when I talked with her son in addition to the resident 's review ; he states that she has been complaining of some lower abdominal discomfort for the last few months .
+She states that it has been present since she had a fall approximately 3 months ago .
+PHYSICAL EXAMINATION :
+Her blood pressure was 106/60 , pulse was 84 , temperature was 98 , respiratory was 18 , and O2 saturation was 94% on 4 L nasal cannula .
+General Appearance :
+She is alert .
+She is not oriented to place .
+She would like to get a ride to **PLACE as multiple people did drive her there .
+She has offered people 25 to 50 dollars to take her there .
+She is very anxious to leave the hospital .
+On HEENT , oral mucosa was moist .
+Her neck was supple .
+I did not feel any concerning lymphadenopathy .
+Her lungs are clear to auscultation and percussion .
+Her heart had a normal S1 and S2 .
+Despite her echocardiogram findings , I did not hear a murmur on her exam , but her exam was somewhat limited because she was agitated and did not really let me get her in the optimal position for complete cardiac exam .
+Her abdomen was soft and nontender .
+Again , she would not lie down to let me do a good abdominal exam for masses .
+Her extremities are without edema .
+Her neuro exam , she grossly does not appear to have focal neurologic abnormality .
+She is walking without any unsteadiness of gait .
+She was able to do tandem walking for my house staff which they stated was fairly normal , and Romberg was fairly normal .
+She was agitated at this time and would not follow a detailed neurologic exam for me .
+LABORATORIES :
+On her laboratories , her sodium was 144 , BUN was 20 , creatinine was 0.8 , and bicarbonate was 32 .
+Her gas revealed a pH of 7.36 , CO2 was 60 , and her O2 was 98 .
+She was 96% saturated on that gas .
+She had a CT scan done of her chest today which was a noncontrasted study .
+It revealed severe emphysema and multiple pulmonary nodules .
+This was compared with her previous EKG , and I called the Radiology , and they thought that she had more nodules on this exam compared to that one she had on **DATE[Jun 30 2007] .
+She had a CT of her head which was read as age appropriate ventricle size and minimal ischemic changes in the paraventricular white matter regions .
+ASSESSMENT AND PLAN :
+1. COPD .
+At this point , it seems to be stable .
+I do not think that this is the cause of her current mental status changes .
+We will keep her on Combivent and DuoNeb .
+2. Anorexia , plan to give her supplements .
+She has **NAME[RRR QQQ] shakes written for with her meals .
+She will be continued on Megace therapy at this point .
+3. Pulmonary nodules .
+I talked with Radiology .
+They thought that these were more likely to be inflammatory and may be related to recent pneumonia , but she does not have any evidence of pneumonia at this time .
+We will follow serial exams .
+We did a breast exam today and there were no prominent masses or bony retraction .
+She will get a CT scan of her abdomen and pelvis to rule out any mass or lesions there , and if that is negative , she will have a followup CT of her chest in approximately 2 months to reevaluate these nodules .
+Given her mental status changes and pulmonary nodules , we will check an MRI of her brain to rule out any evidence of mass or lesions in her brain .
+4. Mental status changes .
+It seems that she has a component of dementia based on her history and is having significant difficulty related to that .
+We had Psychiatry to see her .
+They made some medication adjustments , and once we do some further scanning , we will have her go to Geriatric Psych Unit for further titration of her medications to trying help her mental status .
+Her case was discussed in detail with house staff .
+I agree with their note as written .
+My note should be considered linked to theirs .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Aug 03 2007] 19:54:11
+T :
+**DATE[Aug 04 2007] 05:10:14
+R :
+**DATE[Aug 04 2007] 05:10:14/ak
+Job ID :
+331169/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , PPP M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Aug 21 2007] 08:56:35 PM

@@ -1,0 +1,214 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] S
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 70s] years
+Sex :
+Male
+DOB :
+**DATE[Apr 17 1930]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Summary of Hospitalization :
+This **AGE[in 70s] year old married , white male with h/o CAD , s/p angioplasty and duodenal ulcer presented to ED after syncopal episode after diarrhea BM .
+Past Medical History :
+CAD s/p angioplasty and stent LAD in **DATE[Jul 2004]
+s/p revascularization angioplasty stent LAD in 2005 - **INSTITUTION
+HTN
+Hyperlipidemia
+Renal Cell CA , s/p RIGHT nephrectomy
+DM - diet controlled
+GERD
+Duodenal ulcer
+GOUT
+L4-5 diskectomy in 1968
+Other Information :
+Pt 's Cardiologist , Dr. **NAME[VVV UUU] .
+Subjective / Events Overnight :
+Chart and labs reviewed .
+Pt. seen and examined at bedside .
+Pt. reports he is depressed and would like to go home as soon as possible .
+Denies chest pain .
+Reports rash on back has improved with the hydrocortisone cream , but is persistent .
+Reports LBP is persistent .
+Vital signs
+**DATE[May 25 2007] 4:00:00 AM .
+BP : systolic 130 , diastolic 65 .
+Pulse : 70 beats per min .
+Resp : 18 breaths / min .
+Temp : 98 .
+Weight : 100.2 kgs .
+Physical Exam
+General Appearance :
+Elderly male lying in bed in NAD .
+Cardiovascular :
+S1 , S2 , irreg with II/VI murmur LSB .
+Respiratory :
+CTA .
+Gastrointestinal :
++ BS , soft , **INITIALS .
+Skin :
+Well defined erythematous lichenified plaque with clear margins on superior aspect of back .
+Otherwise no rashes or lesions .
+Neurological :
+Alert , oriented x 3 .
+Speech clear and appropriate .
+Extremities : no e/c/c in BLE .
+Current medications reviewed
+General Results
+Today 's results :
+ALLRESLTSECT
+**DATE[May 25 2007] 11:38 AM
+Discharge Plan
+DP
+( Preliminary )
+**DATE[May 25 2007] 4:00 AM
+Na 142 mEq / L
+K 3.6 mEq / L
+Cl 110 mEq / L
+CO2 27 mEq / L
+Anion Gap 5.0 Low
+BUN 20 mg / dL
+Cr 1.4 mg / dL
+GFR ( estimated ) 52.00 mL / min / 1.73 m2 Low
+( Modified )
+Ca 7.9 mg / dL Low
+Mg 1.5 mEq / L
+Phos 3.8 mg / dL
+WBC 7.1 X10E+09 / L
+RBC 3.17 X10E+12 / L Low
+Hgb 9.9 gm / dL Low
+Hct 28.8 % Low
+MCV 90.9 fL
+MCH 31.1 pg
+MCHC 34.2 gm / dL
+RDW 15.9 % High
+MPV 8.6 fL
+Platelets 210 X10E+09 / L
+Neutrophils 62 %
+Lymphs 22 %
+Monocytes 12 %
+Eosinophils 4 %
+Basophils 0 %
+ABS Neutrophils 4.30 X10E+09 / L
+ABS Lymphs 1.60 X10E+09 / L
+ABS Monocytes 0.90 X10E+09 / L
+ABS Eosinophils 0.30 X10E+09 / L
+ABS Basophils 0.00 X10E+09 / L
+Type of Differential
+Automated Differential
+PTT 27.0 sec
+Other Studies :
+TTE 1/17 :
+01) Technically difficult study .
+02) Small left ventricular cavity size with mildly hypokinetic apical anterior wall and apical septum and mildly decreased systolic function .
+03) Paradoxical septal motion consistent with post-operative septal motion .
+04) Thickened aortic valve .
+05) Mild tricuspid regurgitation .
+06) Mild pulmonic regurgitation .
+07) Moderate left atrial enlargement .
+08) Microbubble contrast bolus injection with Definity was perfomed for left ventricular opacification .
+Impression and Plan
+Impression
+**AGE[in 70s] yo male admitted after syncopal episode found to have ulcerated duodenal lipoma , s/p endoscopic ligation .
+Plan
+1. GI - H/O duodenal ulcer .
+Prevacid stopped 2-3 weeks ago by pt .
+Heme + stool in ED .
+EGD **DATE[May 16 07]:
+POSTOPERATIVE DIAGNOSIS :
+1) Normal esophagus
+2) Normal stomach
+3) 2 cm submucosal mass with clean based ulcer
+4) Small hiatal hernia
+EUS to further evaluate the duodenal mass revealed a duodenal lipoma .
+GI surgery , Dr. **NAME[TTT SSS] ( 13519 ) , consulted .
+Endoscopic removal / banding preferred by pt.
+On 1/18 pt. underwent endoscopic therapy by ligating with an endo - loop to allow strangulation and auto - amputation of the lipoma .
+The lipoma should auto - amputate secondary to ischemic necrosis with time .
+Will plan for repeat EGD in 2 months .
+Pt resumed diet without difficulty .
+Pt. denies any active bleeding .
+GI reconsulted 1/24 for anemia .
+They agreed with transfusing 2 units .
+Rec. to continue daily PPI .
+Given recent MI and stent placement will need to continue ASA and Plavix .
+If there is an increase in active bleeding or H/H falls again , will consider repeat EGD to insure there is no ulceration or visible vessel at endoloop site amenable to endoscopic therapy .
+Otherwise , will plan for repeat EGD in 2 months .
+Suggested decreasing ASA to 81 mg if possible .
+Will d/w attending and cards .
+Rec. FESO4
+325 mg daily as well as Colace 100 mg BID - will order .
+2. Heme - H/H decreased to 8.4/24.6 1/24 .
+As per attending , will transfuse to keep hematocrit near 30 .
+H/H increased to 9.9/28.8 after 2 units PRBC s .
+Stools heme + 1/21 .
+Will recheck stools for occult blood .
+Will continue to closely follow H/H daily .
+3. CV - CAD , s/p angioplasty , HTN , Hyperlipidemia .
+Troponins were initially neg .
+Pt developed chest pain on 1/20 and now troponins + at a peak 47.41 and now trending down .
+Pt transferred to the cardiac pavillion .
+Started on a heparin gtt .
+Pt 's cardiologist is Dr. **NAME[VVV UUU] - input appreciated. Dr **NAME[UUU] has seen pt. and explained importance of Cardiac Cath .
+Pt and family discussed and agreed to undergo cath .
+See attached TTE report that was done previous to MI .
+Telemetry currently reveals bigeminy .
+Pt was on plavix and d/c 'd due to GI bleed , resumed 1/22 by cards .
+Currently on Heparin 900 units / hr - will hold on call to cath lab .
+Pt. s/p LHC 1/23 .
+Findings :
+90% narrowing in proximal LAD , 90% narrowing with thrombus in mid LAD within previous stent , and 80% narrowing in previous stent .
+S/P stent to proximal LAD and PTCA with good flow .
+As per cards , if plavix must be d/c , the estimated risk of recurrent MI would be 5% .
+If Plavix is continued , then risk is decreased to 1% .
+TTE done 1/24 to assess LV s/p MI - results pending .
+Pt. denies chest pain .
+4. MS - H/O spinal stenosis .
+Pt. s/p fall during syncopal episode .
+X-rays negative for fracture .
+Pt. was receiving morphine 2mg Q 2h prn for back pain .
+Pt. developed intense itching on back with a large erythematous raised patch on the superior back thought to be from morphine .
+Pt given Atarax and IV Solumedrol for itching .
+Pt received benadryl x 1 today .
+Derm c/s .
+Hydrocortisone 2.5% topical cream ordered Q8H .
+Benadryl on call to cath lab .
+Pt. with increased back pain since fall prior to admission .
+Ortho c/s - appreciate input .
+Recommended PT and anti - inflammatories .
+Also Medrol Dose Pack for relief of pain exacerbation - pt. has been refusing Medrol Dose Pack .
+Pt. with continued LBP .
+Ortho reconsulted 1/24 .
+5. Derm - Pt. with pruritic rash localized to upper back x 5 days .
+Reports symptoms have improved with addition of hydrocortisone cream .
+Derm c/s 1/22 .
+Allergic contact dermatitis vs. irritant vs. primary eczema .
+Possible allergic reaction to pillow .
+Rec. to continue Atarax and Bendaryl 25 mg PO Q6H .
+Will give hydrocortisone cream .
+Reconsult if rash does not resolve .
+Appreciate recommendations .
+6. Psych - Pt. reports he is depressed .
+Pt 's wife called nursing staff this AM and reported that she is concerned about husband 's depressed mood .
+D/W pt option of psych c/s to consider beginning an antidepressant agent .
+Pt. expressed strong opinion that he does not want to be seen by a psychiatrist or begin any new medication .
+7. Renal - H/O Renal Cell CA , s/p RIGHT nephrectomy .
+Baseline Cr. 1.5 - Cr. stable .
+Urology c/s 1/24 for anemia .
+Pt. without hematuria .
+Given clinical hx , not suspecting urologic trauma at this point .
+Will check U/A .
+If greater than 100,000 RBC s , rec. to obtain CT abd and pelvis .
+Otherwise , f/u with Dr. **NAME[RRR] in **DATE[Apr 08] .
+8. Disp - D/C to home when medically stable .
+**INSTITUTION health c/s for PT .
+As per cards , if stable in AM plan on d/c home .
+Professional Services
+Credentials and Title of Author **NAME[QQQ] Signing this Document : PA-C
+Perform by **NAME[XXX , WWW M] ( on **DATE[May 25 2007] 17:08 )
+Sign by **NAME[XXX , WWW M] ( on **DATE[May 25 2007] 17:08 )
+VERIFY by **NAME[XXX , WWW M] ( on **DATE[May 25 2007] 17:08 )

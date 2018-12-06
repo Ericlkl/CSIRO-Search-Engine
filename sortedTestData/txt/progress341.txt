@@ -1,0 +1,80 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Apr 12 07]
+Mrs. **NAME[AAA] is a **AGE[in 60s]- year - old woman status post lung volume reduction surgery .
+She continues to require critical care for management of her respiratory failure and pneumonia , malnutrition , renal failure , and hyperglycemia .
+ASSESSMENT AND PLAN :
+1. PULMONARY :
+Respiratory failure .
+I am currently managing Mrs. **NAME[AAA] on assist control ventilation rate of 16 , tidal volume 350 , 40% FiO2 , and 5 of PEEP .
+She is tolerating trach mask again this morning on 50% FiO2 .
+I will attempt to gradually lengthen the duration of the trach mask trials .
+Breath sounds are distant in bilateral lung fields .
+Secretions are manageable at this time .
+2. CARDIOVASCULAR :
+Extremities were warm and adequately perfused .
+She is in a sinus rhythm with mean pressures in the 70s .
+She is not requiring pressors at this time .
+3. INFECTIOUS DISEASE :
+Afebrile this morning .
+Completing a course of ciprofloxacin for pseudomonas and klebsiella in the urine as well as the BAL which was positive for klebsiella and E. coli on **DATE[Apr 07 2007] .
+5. GI :
+Abdomen is soft and benign .
+She does complain of some abdominal discomfort .
+I will resume her tube feeds today .
+Her abdominal discomfort is not particularly colicky at this time .
+LFT s were relatively unremarkable .
+She has not had a bowel movement in 48 hours .
+I will give her a Fleet enema if necessary and hold her iron as this may be contributing to her abdominal discomfort .
+6. RENAL :
+Acute renal failure .
+I am continuing hemodialysis .
+She is scheduled for intermittent hemodialysis again today .
+BUN is 67 with a creatinine of 3.6 .
+7. FLUIDS , ELECTROLYTES , AND NUTRITION :
+Sodium 133 , potassium 5.1 , and magnesium 2.3 .
+I have replaced electrolytes per protocol .
+8. HEMATOLOGY :
+Hemoglobin this morning is 9.0 with a platelet count of 225 .
+There is no evidence of active bleeding at this time .
+9. ENDOCRINE :
+Hyperglycemia .
+I will continue sliding scale insulin coverage to maintain euglycemic control , darbepoetin for renal failure , and prednisone which was her baseline steroid requirement prior to LVRS .
+10. PROPHYLAXIS :
+Lower extremity DVT was noted in the past .
+She does have an IVC filter in place .
+I will check upper extremity DVT s .
+She has some asymmetric swelling of her upper extremities .
+I will start subcutaneous heparin today .
+Continue Flagyl , Prevacid , and head of the bed elevation .
+Critical care time = 32 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Apr 12 2007] 21:40:06
+T :
+**DATE[Apr 13 2007] 20:13:49
+R :
+**DATE[Apr 13 2007] 20:13:49/caa
+Job ID :
+424665/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 04 2007] 07:45:02 PM

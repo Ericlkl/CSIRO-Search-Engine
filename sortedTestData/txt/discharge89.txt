@@ -1,0 +1,52 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+Discharged :
+**DATE[Oct 14 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+BRIEF MEDICAL HISTORY :
+The patient is a **AGE[in 60s]- year - old white male who has proven prostate cancer and presented on **DATE[Oct 12 2007] , for a procedure entitled retropubic prostatectomy .
+For further information on the operation itself , please refer to Dr. **NAME[ZZZ] 's operative note .
+Postoperatively , the patient did well , was extubated and was taken to the PACU .
+When the patient met discharge criteria , the patient was transferred to the floor for further postoperative care .
+The patient was transitioned to a clear liquid diet on the first day .
+Postoperative day #1 , the patient was transitioned to a regular diet and tolerated this well .
+The patient also had his fluids hep locked , his PCA discontinued and was transitioned to oral pain medications .
+On postoperative day #2 , the patient was ambulatory , had normal bowel and bladder function , was tolerating a regular diet and was tolerating oral pain medications .
+The patient had his staples removed as well as his hemovac removed .
+The patient tolerated this well and it was deemed that the patient was well enough to be discharged to home .
+The patient was given the following discharge instructions .
+DISCHARGE INSTRUCTIONS :
+The patient was informed to follow up with Dr. **NAME[ZZZ] in clinic in 2 weeks .
+The patient was informed to limit his activities to those of a nonstrenuous nature and not to do any heavy lifting and not to do any driving while on pain medications .
+The patient was informed to return to the hospital or call a physician with any bleeding or drainage from the incision site , with any nausea , vomiting , diarrhea or any increased pain .
+The patient was amenable to the need for further postoperative care .
+The patient was stable throughout his entire hospital course .
+The patient was given prescriptions for the following including Vicodin 1-2 every 6 hours , Ditropan 5 mg 3 times a day as needed , Cipro 500 mg twice a day x5 days starting 2 days before clinic visit , iron 325 three times a day x 30 days and Colace 100 mg twice a day x 1 month .
+Thank you very much .
+______________________________
+**NAME[WWW XXX]
+HS Job # 708363 / 41736 / 32922
+SHY # **ID-NUM
+D :
+**DATE[Oct 14 2007] 11:38
+T :
+**DATE[Oct 14 2007] 21:28
+*** Transcribed On :
+**ID-NUM ***
+*** Dictated By :
+^**NAME[XXX^WWW] ***
+*** Clinical Date
+:
+**ID-NUM ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Oct 22 2007] 03:14:05 PM

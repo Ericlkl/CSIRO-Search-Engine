@@ -1,0 +1,52 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Mar 02 07]
+PROCEDURE NOTE :
+PROCEDURE :
+THERAPEUTIC BRONCHOSCOPY .
+INDICATION :
+Evaluation of tracheal tear , clearance of secretions and to facilitate tracheostomy without injury to the trachea .
+The patient continued to struggle from a respiratory standpoint and has consented to a tracheostomy , although refuses even short term intubation .
+The plan is to perform tracheostomy today .
+I have been asked to perform bronchoscopy in order to evaluate the tracheal tear as well as to facilitate the safe placement of a tracheostomy tube without injury to the trachea .
+DESCRIPTION OF PROCEDURE :
+The patient was sedated with propofol .
+I advanced the fiberoptic bronchoscope orally , using ________ in the airway .
+We oxygenated patient through her small percutaneous mini - trach .
+There was some irritation and inflammation of the trachea and the left main stem tear was granulating well .
+Thee were some moderate secretions which I aspirated to clear with minimal saline irrigation .
+Meanwhile , the surgical team had prepped and draped the neck .
+A guide wire was placed through her mini - trach .
+It was dilated with a Perk trach and a No. 6 Shiley trach was placed there without difficulty .
+I visualized the procedure in its entirety , bronchoscopically verifying safe placement of the wire as well as the trach and then advanced the bronchoscope through the endotracheal tube , verifying its position , cleared its secretions .
+The patient tolerated the procedure well and I was present for the entire procedure .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+AJB/pap
+D :
+**DATE[Mar 02 2007] 12:52:34
+T :
+**DATE[Mar 02 2007] 13:45:50
+R :
+**DATE[Mar 02 2007] 13:45:50/pap
+Job ID :
+372645/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 06 2007] 12:42:58 PM

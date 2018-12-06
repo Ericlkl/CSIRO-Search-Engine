@@ -1,0 +1,104 @@
+**INSTITUTION
+Transfer Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[May 19 2007]
+Discharged :
+**DATE[May 27 2007]
+Dict :
+**NAME[XXX , M. WWW]
+Attend :
+**NAME[ZZZ , YYY]
+CONSULTANTS :
+Include :
+1. Dr. **NAME[VVV] , cardiology .
+2. Dr. **NAME[UUU M TTT] , GI .
+3. Dr. **NAME[SSS RRR] , psychiatry .
+4. Dr. **NAME[QQQ PPP] podiatry .
+PRIMARY DIAGNOSIS :
+Clostridium difficile colitis .
+SECONDARY DIAGNOSES :
+Include :
+1. Chronic atrial fibrillation .
+2. Hypothyroidism .
+3. Delirium .
+DISCHARGE MEDICATIONS :
+1. Tylenol 650 p.o. q.6 h. p.r.n.
+2. Mylanta 30 p.o. q.4 h. p.r.n. dyspepsia .
+3. Enteric - coated aspirin 81 mg p.o. q. day .
+4. Calcium carbonate .
+5. Magnesium hydroxide ( _______________ ) mg one tablet p.o. q. day .
+6. Calcium and magnesium supplement .
+7. Pepcid 20 mg p.o. b.i.d. p.r.n. dyspepsia .
+8. Synthroid 50 mcg p.o. q. day .
+9. Flagyl 500 mg p.o. t.i.d. , end date **DATE[Jun 3 2007] .
+10. Artificial tears one drop tp both eyes q.6 h. p.r.n. dry eyes .
+11. K-Dur 10 mEq p.o. q. day .
+12. Coumadin 2.5 mg p.o. nightly .
+HOSPITAL COURSE :
+The patient is a **AGE[90+]- year - old male with a past medical history significant for admission to an outside hospital for urinary tract infection treated with unknown IV antibiotics for 3 days .
+After discharge , he developed diarrhea 5 days later ; three days after the onset of the diarrhea , the patient presented to the **INSTITUTION Emergency Department with his daughter due to increased confusion , weakness , dehydration , and multiple falls .
+The patient was started on Flagyl 500 mg p.o. t.i.d. for presumed C. diff colitis , he had stool cultures and C. diff toxin test which were positive for C. diff toxin .
+His stool culture was negative for E. coli 0157:87 , negative for Salmonella , Shigella , and Campylobacter .
+He had a urine culture significant for enterococcus which is 10,000 per mL , vancomycin sensitive ; ampicillin , ciprofloxacin , levofloxacin , levofloxacin , nitrofurantoin , and penicillin resistant .
+During the course of his stay , the patient experienced mild hyponatremia and hypokalemia .
+This resolved with IV fluids and potassium supplementation .
+He came in with mild hypomagnesemia also , also corrected with supplementation .
+His Liver function panels were notable for low albumin of approximately 2.0 , reference range here is 3.5 to 5.0 .
+B12 level was high at 1126 .
+He came in with a mildly elevated white blood cell count at 11.8 ; on last check , it was 10.6 which was within normal limits .
+Hemoglobin rose from 10.5 to 11.2 at the time of discharge .
+He was treated with Coumadin starting at dose of 5 mg nightly and decreased to 2.5 mg for anticoagulation for his chronic atrial fibrillation .
+He is to be on the Coumadin as long as he has 24 - hour supervision and is receiving therapy .
+Decision on continuation of Coumadin will be made .
+We will see how he progresses and recovers .
+His PT on **DATE[May 27 2007] , was 16 .
+His INR was 1.7 .
+He had the following tests done :
+RPR which was nonreactive .
+He had his TSH checked which was elevated at 5.766 and a free T4 level within normal limits at 1.0 .
+He had urinalysis which was trace positive with +1 leukocyte esterase , negative nitrites , 1 to 5 wbc 's and no bacteria seen .
+Urine electrolytes were normal .
+His urine sodium was less than 20 .
+He had the following procedures done :
+An acute abdominal series with ( _______________ ) showing no intestinal obstruction .
+No air fluid levels or free air .
+He has signs of chronic rotator cuff tear of his shoulders .
+He also had a head CT without contrast performed secondary to his mental status changes .
+This showed no acute intracranial hemorrhage or mass effect .
+Fluid levels in the maxillary sinus were consistent with acute sinusitis .
+He had an EKG showing atrial fibrillation , the minimal voltage criteria for a left ventricular hypertrophy and ST-T-wave abnormalities ( _______________ ) anterolateral ischemia .
+Of note , he had an echocardiogram performed on **DATE[May 22 2007] , which showed preserved left ventricular ejection fraction of 55% to 60% .
+Moderately severe tricuspid regurgitation , moderate mitral regurgitation , enlarged atrium .
+Aortic valve sclerosis without significant stenosis .
+The cardiology consultant felt that as long as the patient was adequately supervised , it would be fine for him to continue his anticoagulation with Coumadin for chronic atrial fibrillation .
+His goal INR is 2.0 to 3.0 .
+Current INR is 1.7 .
+Even off the Coumadin , the patient had a slightly elevated INR , possibly secondary to malnutrition and decreased liver production .
+The patient was seen by psychiatry for evaluation of delirium versus dementia .
+They felt that most likely his mental status changes were secondary to delirium and his infectious conditions .
+At this point , they recommended further followup with regards to dementia , but hesitating to give this diagnosis at this time .
+Mental status did improve over the course of this hospitalization , initially oriented to person only .
+At the time of discharge , he was oriented to person , month , year , and general time of month like late **DATE[May] , but not to location .
+He persisted in having difficulty with his location , although he knew that he was in the **PLACE vicinity .
+He is being transferred to skilled nursing facility in a stable condition .
+He is to receive physical therapy and occupational therapy as well as 24 - hour supervision .
+His daughter , **NAME[OOO NNN] , **PHONE is his primary contact and health decision maker .
+Alternate phone is **PHONE .
+He is to have a regular diet .
+Activity as tolerated .
+He is C. diff positive , requiring precautions .
+______________________________
+**NAME[M. WWW XXX]
+HS Job # 997212 / 38373 / 33037
+SHY # **ID-NUM
+D :
+**DATE[May 27 2007] 09:49
+T :
+**DATE[May 27 2007] 13:26
+**CARBON-COPY

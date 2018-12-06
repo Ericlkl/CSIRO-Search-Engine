@@ -1,0 +1,46 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M. ZZZ] , M.D.
+ADMISSION DATE :
+**DATE[Feb 12 2007]
+EVALUATION DATE :
+**DATE[Mar 26 07]
+VENTILATOR MANAGEMENT NOTE
+I am managing this **AGE[in 60s]- year - old female with respiratory failure after a sternal wound debridement from mediastinitis complicated by respiratory and renal failure .
+Ms. **NAME[AAA] is awake , alert , and oriented , and she is without complaints this morning .
+Chest x-ray shows a decrease in her pulmonary vascular congestion .
+Her right - sided and left - sided pigtails were in place overnight .
+She has been on assist / control with peak airway pressures in the low 30s on a tidal volume of 500 .
+Her PEEP is at 10 .
+Plan today is to discontinue her right pigtail .
+It has been in over 5 days , and although it is still continuing to drain some , I think the risk of infection is beginning to outweigh the persistent drainage of the pleural effusion .
+I have placed her on a pressure support trial today with the plan to let her go for as long as tolerated , although I suspect that she will need to rest on full support this afternoon .
+In terms of her mediastinitis , she is on day #32 of her cefepime out of a 6 - week course .
+I have ordered a vancomycin trough prior to her next dose .
+Her renal failure is stable .
+She is on intermittent hemodialysis and she should be getting a tunneled dialysis catheter today .
+She is tolerating her tube feeds adequately and I have switched her insulin drip to subcutaneous today .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 26 2007] 21:21:58
+T :
+**DATE[Mar 27 2007] 06:49:27
+R :
+**DATE[Mar 27 2007] 06:49:27/dlv
+Job ID :
+404725/**ID-NUM
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 03 2007] 09:49:05 AM

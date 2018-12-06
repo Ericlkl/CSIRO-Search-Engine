@@ -1,0 +1,49 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Mar 25 07]
+I am seeing this critically ill patient for continued management of multiple medical problems including respiratory failure and acute renal failure .
+I have seen and examined this patient .
+I have reviewed the chest x-ray and laboratory data .
+I have discussed the patient 's care with the SICU team and the Thoracic Surgery Service .
+Mrs. **NAME[CCC] is continuing to tolerate trach mask trials poorly .
+I think some of this may be due to the fact that she has had some bleeding around the trach and has had some blood secretions .
+I have given her some DDAVP to help with her platelet dysfunction but there is a plan to revise the trach tomorrow .
+She is now off antibiotics and is afebrile .
+I do not think there is any evidence of active infection at this point .
+Renal function is still a concern .
+BUN and creatinine have increased slowly .
+They are now 85 and 4.3 .
+The change in her creatinine has been slight from day to day although there does not appear to be any evidence of recovery and it is likely that she will require renal replacement therapy .
+Her Is and Os by input / output balance is roughly even on torsemide infusion .
+I have continued that at the current rate today .
+T = 35 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 25 2007] 12:15:38
+T :
+**DATE[Mar 26 2007] 09:14:22
+R :
+**DATE[Mar 26 2007] 09:14:22/jas
+Job ID :
+402788/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 09 2007] 04:49:49 PM

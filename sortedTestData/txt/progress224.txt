@@ -1,0 +1,41 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M. ZZZ] , M.D.
+ADMISSION DATE :
+**DATE[Feb 12 2007]
+EVALUATION DATE :
+**DATE[Apr 16 07]
+I am seeing this patient on Critical Care rounds with the house staff , I agree with the findings and plan as documented in the house staff note .
+Ms. **NAME[AAA] is a **AGE[in 60s]- year - old woman who developed a sternal infection , status post sternectomy , with respiratory failure , renal insufficiency , malnutrition , bradycardia and deep venous thrombosis of the internal jugular vein .
+THE PATIENT 's ACTIVE ISSUES INCLUDE :
+1. Respiratory failure , she tolerates very brief episodes of pressure support , however these often failed due to anxiety , tachypnea and rapid shallow breathing .
+She will continue to be maintained on a baseline of pressure support and weaned as tolerated .
+We will working on placement to LTAC for this patient .
+2. Deep venous thrombosis of right internal jugular vein , the patient is being anticoagulated with heparin .
+She is to undergo placement of a gastrostomy tube today , once this has been completed , she will be placed back on heparin and then started on Coumadin as well .
+3. Malnutrition , a gastrostomy tube will be placed in this patient today , and tube feeds continued .
+Billing code 99291 , Critical Care 30 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Apr 16 2007] 12:20:06
+T :
+**DATE[Apr 16 2007] 12:57:39
+R :
+**DATE[Apr 16 2007] 12:57:39/lbw
+Job ID :
+430426/**ID-NUM
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Apr 30 2007] 05:33:00 PM

@@ -1,0 +1,83 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[May 17 2007]
+EVALUATION DATE :
+**DATE[Jun 01 07]
+SUBJECTIVE :
+This patient states he is still having some abdominal pain , although it is mildly improved today as well as his feeling of gas pains .
+He denies any chest pain or shortness of breath .
+He has been eating well and has been urinating without difficulty .
+He denied any fevers , any chills or sweats , although he did have a fever overnight .
+OBJECTIVE :
+Vital Signs :
+Temperature is 36.7 , pulse 84 , respiratory rate 18 , and blood pressure 120/82 .
+General :
+He is awake .
+He is alert and in no acute distress .
+HEENT :
+He has moist mucous membranes .
+His heart is regular rate and rhythm .
+His lungs are clear to auscultation bilaterally .
+No wheezes or crackles .
+Abdomen :
+Soft .
+He has positive bowel sounds .
+He has no rebound or guarding , although he does have some tenderness diffusely with deep palpation .
+Extremities are warm and well perfused .
+No clubbing , cyanosis , or edema .
+Skin :
+He has no visible rash .
+His mood is stable .
+LAB WORK :
+He had a colonoscopy this afternoon , which showed normal terminal ileum , normal colonoscopy status post biopsy __________ .
+He had an INR of 1.5 , white count of 2.9 , and H and H 9.9/29.6 with platelets of 141 .
+Sodium 139 , potassium 4.2 , chloride 102 , bicarbonate 26 , BUN and creatinine 11/1.6 , albumin 3.6 , total bilirubin 0.1 , ALT 97 , AST 41 , alkaline phosphatase 85 , and GGTP 65 .
+ASSESSMENT AND PLAN :
+1. Fever .
+He is currently on Zosyn and vancomycin on **DATE[Jun 2 2007] .
+He is being followed by the ID Service .
+We had a long discussion with them .
+There is no clear origin of his fevers at this point .
+It could be secondary to his underlying disease although this is a diagnosis of exclusion .
+At this point , we will redo some blood cultures from both his PICC line and from his blood today .
+If his cultures are negative , we can assume that it is a possibility that his underlying disease is causing his fevers .
+His regular Infectious Disease physician , Dr. **NAME[TTT SSS] who will be coming back in town tomorrow and will likely discuss his case with her .
+2. GI .
+He has had persistent gas - like abdominal pain .
+We will have the GI Service see him as well as the GI Surgery Service who felt that a colonoscopy might be warranted to make sure that he did not have any evidence of disease in his colon .
+Therefore , he was prepped last night with GoLYTELY and had a colonoscopy which is as noted above .
+Given the fact that he has mildly improving symptoms , plan will be to continue with his current medicines and diet , we will hold off on giving him steroids for now .
+3. DVT , left upper extremity .
+He is currently on Coumadin and his INR is 1.5 .
+I will give him 3 mg of Coumadin tonight and continue with his heparin drip .
+4. Acute renal failure .
+His INR was 1.6 today , which has been stable for the last few days .
+The Renal Service has been following , and they feel that it could be likely secondary to the high - dose spectrum he was getting .
+This has been discontinued , and we will continue to follow .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+CRM/ss
+D :
+**DATE[Jun 01 2007] 17:00:02
+T :
+**DATE[Jun 02 2007] 01:45:01
+R :
+**DATE[Jun 02 2007] 01:45:01/ss
+Job ID :
+371597 /**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[ZZZ , RRR M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Jun 28 2007] 03:52:10 PM

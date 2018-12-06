@@ -1,0 +1,61 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Feb 26 2007]
+Discharged :
+**DATE[Feb 28 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+SERVICE :
+Urology
+ADMIT DIAGNOSIS :
+Adenocarcinoma of the prostate .
+DISCHARGE DIAGNOSIS :
+Adenocarcinoma of the prostate .
+PROCEDURE PERFORMED :
+Bilateral pelvic lymphadenectomy with nerve-sparing radical retropubic prostatectomy .
+HISTORY OF PRESENT ILLNESS :
+Mr. **NAME[AAA] is a **AGE[in 60s]- year - old male who was found to have an elevated PSA of 13.8 .
+He underwent a prostate needle biopsy and was found to have adenocarcinoma of the prostate with a Gleason score 3 + 3 equals 3 .
+His clinical stage at that time was T1C .
+He opted to undergo surgical treatment of his prostate cancer and was admitted to the hospital on **DATE[Feb
+26 2007] , for this procedure .
+The patient tolerated the procedure well and did not have any postoperative complications or sequelae .
+He was transferred to the regular nursing unit following his surgery .
+On the evening of his surgery , the patient was tolerating clear liquids and was ambulating about the hallway without difficulty .
+On postoperative day #1 , he was started on regular diet and on postoperative day #2 , it was felt that he was ready for discharge home .
+At that time , he was tolerating regular food , was passing flatus , had a bowel movement , was ambulating without difficulty and excellent pain control .
+The patient was discharged home on the following instructions .
+1. The patient was instructed that he may resume his previous home medications in addition to Vicodin 1 to 2 tabs p.o. q.4 hours p.r.n. , Colace 100 mg p.o. b.i.d. , Ditropan 5 mg p.o. t.i.d. p.r.n. bladder spasms , and
+Levaquin 500 mg p.o. q.day x 5 days .
+The patient was instructed to begin the Levaquin in approximately 2 days prior to his follow up appointment with Dr. **NAME[ZZZ] in anticipation of getting his Foley catheter removed .
+2. His activity is as tolerated .
+HOwever , he is instructed not to lift anything greater than 15 pounds or to travel with the Foley catheter in place .
+His staples and drains were removed prior to his discharge home , and all of his questions and concerns were answered for him prior to leaving .
+The nursing staff also instructed the patient general Foley catheter prior to his discharge .
+He was instructed to call Dr. **NAME[ZZZ] 's office for a followup appointment in approximately 2 weeks ' time for Foley catheter removal .
+______________________________
+**NAME[WWW XXX] , MD
+HS Job # 244268 / 33103 /
+SHY # **ID-NUM
+D :
+**DATE[Mar 02 2007] 18:00
+T :
+**DATE[Mar 04 2007] 21:31
+*** Transcribed On :
+**ID-NUM ***
+*** Dictated By :
+015499^**NAME[XXX^WWW] ***
+*** Clinical Date
+:
+**ID-NUM ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Mar 05 2007] 02:59:47 PM

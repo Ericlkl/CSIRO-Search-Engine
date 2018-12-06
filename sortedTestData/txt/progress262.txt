@@ -1,0 +1,58 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Sep 24 2007]
+EVALUATION DATE :
+**DATE[Sep 31 07]
+I personally discussed the patient 's complicated past history with Dr. **NAME[TTT] upon transfer of care .
+I personally rounded on the patient this morning and reviewed her computerized records .
+I discussed her plan of care with the house staff .
+I linked my note to the discharge summary dictated today upon transfer as previously noted in the chart to select a specialty , LTAC .
+On morning rounds , the patient was in bed without any acute complaints of fatigue , but had some minor back pain that was somewhat relieved with change of position .
+PHYSICAL EXAMINATION :
+Her blood pressure was 108/65 , temperature 97.5 , heart rate was 100 , and respiratory rate was 14 and unlabored .
+Her lungs were clear although inspiratory effort was poor .
+Cardiovascular :
+Regular rate and rhythm .
+S1 and S2 without S3 or S4 .
+Ultrasound of the abdomen report reviewed by me with large cystic midabdominal fluid collection consistent with a known pseudocyst .
+There was no visualization of the gallbladder .
+LABORATORY DATA :
+Sodium 138 , potassium 3.4 , chloride 104 , bicarbonate 26 , BUN 16 , creatinine 0.8 , SGOT 26 , SGPT 34 , alkaline phosphatase 533 , and GGT 207 slightly increased from 148 hours prior .
+Amylase and lipase not drawn today .
+Her WBC was 10.1 , hemoglobin 9.6 , stable , and platelets 463,000 .
+The patient has multiple medical problems status post stent placement for coronary artery disease , but these appear to be stable at this time .
+With respect to her pancreatitis and a large pancreatic pseudocyst , the recommendation by the GI Service would be for expectant management and not to plan any surgery at this point .
+Her nutritional status has been addressed .
+She has a trach in place status post respiratory failure , but with continued downsizing of the trach as she recovers , this may be likely to be removed .
+She remains on aspirin and Plavix per Cardiology recommendations .
+Anticoagulation with Coumadin was thought contraindicated due to the fact that she had some clean - based ulcers seen on EGD with placement of her tube .
+The patient will require long - term rehabilitation to regain functional capacity .
+She is stable for transfer to the above - mentioned facility today .
+___________________________________
+**NAME[YYY ZZZ] , M.D.
+Dictator :
+**NAME[YYY ZZZ] , M.D.
+RG/ss
+D :
+**DATE[Sep 31 2007] 16:12:08
+T :
+**DATE[Oct 01 2007] 02:10:01
+R :
+**DATE[Oct 01 2007] 02:10:01/ss
+Job ID :
+369980/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[ZZZ , SSS] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Oct 21 2007] 03:28:37 PM

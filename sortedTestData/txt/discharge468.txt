@@ -1,0 +1,68 @@
+The patient is a **AGE[in 70s]- year - old white female who was admitted to the emergency room because of abdominal pain , diarrhea , and generalized weakness .
+The patient has long history of medical illness including pulmonary embolism and deep vein thrombophlebitis and is taking anticoagulation with Coumadin .
+She also had a colectomy because of colon CA and also coronary artery disease .
+The patient apparently was doing well until the last week or so when she started having the diarrhea .
+PHYSICAL EXAMINATION :
+The patient is a **AGE[in 70s]- year - old well - built white female who seems to be in no distress .
+Pulse rate 62 , respiratory rate is 22 , blood pressure is 123/59 , pulse oximetry is 95% on room air , and temperature is 97.8 .
+Examination of the skin , eye , head , and neck revealed that the mucous membrane is dry .
+There is no icterus .
+The lungs seems to be clear .
+The heart showed a regular rhythm .
+The abdomen is soft , but there is periumbilical tenderness and there is surgical scar from previous colectomy .
+There is no rebound tenderness .
+The rectal examination revealed that there was no mass and the stool were positive for guaiac .
+The extremities did not show any edema .
+The pulses are intact .
+Neurologic examination is nonfocal .
+DIAGNOSES ON ADMISSION :
+1. Abdominal pain with diarrhea , rule out peptic ulcer disease , rule out infectious colitis , and rule out ischemic colitis .
+2. History of coronary artery disease .
+3. History of deep venous thrombosis and pulmonary embolism .
+4. History of electrolyte imbalance .
+5. History of iron - deficiency anemia .
+COURSE IN THE WARD ON ADMISSION :
+The patient was admitted to a general floor .
+She was given IV fluids because she was azotemic and also to correct electrolyte imbalance .
+The patient was noted to have a very high PT / INR and Coumadin was stopped for the time being and PT / INR was monitored .
+The patient was continued on hydration and she was seen by GI Service who eventually did a procedure and found that there was no lesion in the colon and CT scan showed that there was some retention of fecal material in the rectum , mild ileus , vascular calcification , and status post cholecystectomy .
+The IVC filter was also noted .
+The patient started to feel better , but she still continued with diarrhea until she started having nausea and vomiting .
+She was continued on the Reglan , and she was started on clear liquids and stools were sent for specimen and found out that she has Clostridium difficile colitis .
+The patient is put on enteric isolation .
+The IV fluid was continued and after number of days the patient was able to eat better and her diarrhea slowed down .
+The nausea and vomiting went away .
+Flat - plate of the abdomen was followed and it showed that there was still some liquid fecal material in the rectum and there was distention of large and small bowel .
+It was felt that for some reason Lomotil was being given in the floor with order from the admission order and because of this , this was discontinued and the ileus got better .
+The patient was finally sent back to **INSTITUTION **INSTITUTION to continue her care .
+She will be continuing with the following medications :
+1. Tylenol every 4 to 6 hours p.r.n.
+2. Magnesium oxide 400 mg daily .
+3. Reglan 10 mg three times a day before meals .
+4. Lopressor 25 mg daily .
+5. Flagyl 500 mg three times a day for another 10 days .
+6. Nitroglycerin tablet as needed .
+7. Prilosec 20 mg daily .
+8. K-Dur 20 mEq daily .
+9. Risperdal 0.25 mg daily .
+10. Florastor 250 mg twice a day .
+11. Coumadin 5 mg daily .
+12. She will have a PT / INR every week .
+The patient will be followed by Dr. **NAME[ZZZ] at the personal care home .
+FINAL DIAGNOSES :
+1. Clostridium difficile colitis .
+2. Dehydration .
+3. History of pulmonary embolism , deep venous thrombosis , and ileus .
+4. History of colon cancer .
+5. Anemia secondary to iron deficiency .
+6. Coronary artery disease .
+7. Azotemia secondary to dehydration .
+8. PT / INR secondary to Coumadin .
+______________________________
+**NAME[M YYY ZZZ] , M.D.
+HS Job # 983968 / 41251 /
+# **ID-NUM
+D :
+**DATE[Jul 26 2007] 15:26
+T :
+**DATE[Jul 28 2007] 22:21

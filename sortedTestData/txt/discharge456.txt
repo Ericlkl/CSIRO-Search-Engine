@@ -1,0 +1,89 @@
+**INSTITUTION
+NEUROLOGY DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Sep 03 2007]
+DISCHARGE DATE :
+**DATE[Sep 05 2007]
+Mr. **NAME[AAA] is a **AGE[in 60s]- year - old male with past medical history of hypertension who presented to **INSTITUTION with complaint of transient neurological deficits .
+He experienced on one occasion right head weakness and on the other occasion left eye altitudinal visual field defect with dysarthria .
+Both episodes lasted several hours and resolved completely .
+**STREET-ADDRESS **INSTITUTION , Mr. **NAME[AAA] had an MRI and CT scan done .
+The MRI showed scattered foci of restricted diffusion in the left hemisphere .
+CTA showed bilateral carotid stenosis and bifurcation and distal left ICA stenosis .
+The patient was transferred to **INSTITUTION for further management .
+In **INSTITUTION , Mr. **NAME[AAA] underwent angiography that showed
+1. Left ICA stenosis at origin .
+Recent change to mild left ICA stenosis at origin .
+2. Right ICA stenosis ( 60 to 70% ) just above its origin .
+3. No intracranial stenosis .
+4. Patent posterior circulation .
+The patient also underwent transesophageal echocardiography that showed normal left ventricular function and size with ejection fraction of 55 to 60% , no intracardiac shunts , trace mitral regurgitation and trace tricuspid regurgitation , and atherosclerotic disease in aortic arch .
+The patient also underwent CT scan of chest , abdomen , and pelvis to rule out malignancy .
+This CT scan was preliminarily read by a radiologist as negative for malignancy .
+Because the patient presented with 2 different episodes of neurological deficit and these results to foci of restricted diffusion visible on the MRI scan , we decided to start the patient on Aggrenox 1 capsule p.o. b.i.d.
+As this patient does not have significant vascular malformations or stenosis and does not have cardiac abnormalities that would predispose him for a stroke did not do any interventions at this time .
+The patient 's fasting lipid profile was total cholesterol 250 , LDL 181 , HDL 40 , and triglycerides 182 .
+We started the patient on atorvastatin 40 mg p.o. nightly .
+We changed the patient 's antihypertensive medication ( nifedipine ) to valsartan 80 mg p.o. q. day .
+The patient 's last obtained laboratory values are as follows :
+Sodium 142 , potassium 3.8 , BUN 13 , creatinine 1.2 , glucose 79 , and calcium 8.9 .
+Magnesium 1.7 and phosphate 4.2 .
+White blood count 5.7 , hemoglobin 13.5 , hematocrit 38.3 , platelet 209 , and hemoglobin A1c 5.1 .
+ESR 3 .
+CRP 0.24 .
+During the hospital stay , the patient 's blood pressure varied between systolic 125 to 170 over diastolic 55 to 80 and heart rate varied between 65 and 90 .
+Mr. **NAME[AAA] was admitted to the **INSTITUTION on **DATE[Sep 3 2007] , and discharged on **DATE[Sep 5 2007] .
+The discharge diagnosis is CVA ( scattered foci of ischemia in the left MCA distribution ) :
+60 to 70% right ICA stenosis just above its origin .
+ALLERGIES :
+NOT KNOWN DRUG ALLERGIES .
+CONDITION :
+Stable .
+FOLLOWUP APPOINTMENTS
+1. With Dr. **NAME[ZZZ] in 4 to 6 weeks .
+Telephone number , **PHONE or **PHONE .
+2. With Dr. **NAME[TTT] in **INSTITUTION in 4 to 6 weeks .
+3. With PCP in 1 to 2 weeks .
+DISCHARGE MEDICATIONS :
+The patient 's discharge medications include
+1. Aggrenox 1 capsule p.o. b.i.d.
+2. Atorvastatin 40 mg p.o. nightly .
+3. Valsartan 80 mg p.o. q. day .
+Diet is heart - healthy and low - sodium .
+Activity is as tolerated .
+___________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW XXX] , M.D.
+MM/rr
+D :
+**DATE[Sep 05 2007] 17:49:11
+T :
+**DATE[Sep 06 2007] 02:14:27
+R :
+**DATE[Sep 06 2007] 02:14:27/rr
+Job ID :
+334375/**ID-NUM
+Cc:
+&lt;start header&gt;
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+ADMISSION DATE :
+**DATE[Sep 03 2007]
+DISCHARGE DATE :
+**DATE[Sep 05 2007]
+Page 3 of 3
+&lt;END HEADER&gt;
+*** Dictated By :
+-**NAME[XXX , SSS] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Sep 09 2007] 09:24:30 PM

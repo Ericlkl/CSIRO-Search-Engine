@@ -1,0 +1,61 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Nov 23 2007]
+Discharged :
+**DATE[Nov 29 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+DIAGNOSIS :
+Pilonidal abscess .
+HISTORY OF PRESENT ILLNESS :
+Ms. **NAME[AAA] is a **AGE[in 20s]- year - old woman who was admitted from the emergency department for evaluation and management of a pilonidal abscess .
+The patient describes an increasing sacral discomfort for about a week .
+The discomfort increased up to an intolerable level progressively , such as the patient needed to present to medical attention .
+The patient experienced malaise and felt febrile .
+Once in the emergency department , a small incision was made over the abscess , and a large amount of pus was drained .
+The patient was sent for CT scan of the abdomen , that did not show any deep involvement of the tissues .
+The culture showed rare diphtheroids with heavy Peptostreptococcus anaerobius at the anaerobic culture .
+The patient was admitted for overnight pain control with a intracavity packing .
+The following days , the patient experienced again an excruciating pain at the dressing change with the packing removal .
+For this reason and for the impossibility of the patient to have dressing change at home , the patient was kept in - house , and on **DATE[Nov 25 2007] , the patient was brought to the ER for a procedure of incision and drainage of the pilonidal abscess to obtain a better debridement of the cavity , to increase the incision length , in order to make the dressing change and the packing easier .
+The patient tolerated the procedure well .
+She was sent to the recovery room in stable condition , and once the requirements were met , the patient was sent to the regular floor for postoperative care .
+Chronic pain service was consulted regarding management of pain .
+Appropriate recommendations were made .
+The patient did well after the procedure .
+She was able to tolerate a regular diet .
+She was able to ambulate without assistance .
+She was able to pass gas and have a regular bowel movement .
+The patient has been felt clear for discharge on **DATE[Nov 29 2007] .
+Enterostomal nurse consult was sent in , and the patient was evaluated for dressing change with Aquafil dressing in single patches so that the patient does not need to have the dressing change everyday .
+Home care consult was set up for the patient via the visiting nurse taking care at least initially of the dressing changes .
+The patient was then cleared for discharge on **DATE[Nov 29 2007] .
+The patient was discharged on the following medications :
+Percocet 5/325 p.o. every 6 hours in case of pain .
+The patient was discharged to resume her preoperative medications .
+No particular recommendations in terms of diet and level of activity were made .
+The patient was discharged to keep the wound clean and dry .
+She was instructed to have sitz bath after each bowel movement .
+The patient was then instructed to schedule an appointment with Dr. **NAME[ZZZ] in about 10 days .
+She was instructed to follow up with chronic pain service at their clinic as needed if pain control issues .
+The patient was instructed not to drive while taking pain medications , not to lift heavy weights .
+The patient understood all the recommendations and agreed .
+The questions were answered appropriately and to the patient 's satisfaction .
+______________________________
+**NAME[WWW XXX]
+HS Job # 141587 / 33115 /
+SHY # **ID-NUM
+D :
+**DATE[Nov 29 2007] 19:10
+T :
+**DATE[Nov 31 2007] 12:13
+**CARBON-COPY

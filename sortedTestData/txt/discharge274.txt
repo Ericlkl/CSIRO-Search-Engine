@@ -1,0 +1,79 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+____________________________________________________________
+**NAME[AAA , BBB M]
+**ID-NUM
+**ID-NUM
+A5A/1
+SERVICE OF :
+**NAME[ZZZ]
+**NAME[YYY]
+DATE OF ADMISSION :
+**DATE[Jan 05 2008]
+DATE OF DISCHARGE :
+**DATE[Jan 09 2008]
+DATE OF BIRTH :
+**DATE[Jun 16 1930] .
+ADMISSION DIAGNOSES :
+1. Chronic obstructive pulmonary disease exacerbation .
+2. Bronchitis .
+3. Poor compliance with medications .
+4. Emphysema .
+5. Mildly increased blood sugars .
+DISCHARGE DIAGNOSES :
+1. Chronic obstructive pulmonary disease exacerbation .
+2. Bronchitis .
+3. Poor compliance with medications .
+4. Emphysema .
+5. Mildly increased blood sugars .
+HISTORY OF PRESENT ILLNESS :
+This is a **AGE[in 70s]- year - old female who I had seen in the office , who came into the office with increasing dyspnea on exertion and shortness of breath .
+She was treated as an outpatient on oral prednisone and failed outpatient management .
+She had had a cough and shortness of breath that had been going on since Christmas time productive of mucous .
+She was also treated with Avelox .
+She was seen on Friday in the office with increasing shortness of breath .
+Her pulse oximetry was 87% on room air .
+This patient generally is fairly noncompliant with using anticholinergic agents .
+She states that causes shortness of breath .
+She was noncompliant with using oxygen at home , even though she has fairly moderate to severe COPD .
+She has exacerbations frequently every 6 weeks or so , and is on prednisone at that point in time .
+HOSPITAL COURSE :
+She did have a chest x-ray , which did not show pneumonia .
+She was started on IV Solu-Medrol , which was titrated fairly rapidly .
+She was also started on Rocephin and Zithromax initially , which I discontinued the Rocephin and started her on p.o. Zithromax and p.o. prednisone .
+She otherwise remained stable on her oxygen requirements of 2 liters continuing with the DuoNeb , Advair , and Singulair .
+She had no other issues in terms of her laboratory evaluations .
+Her CBC and BMP were within normal limits .
+Her white count was initially 16.3 , and it came back to 9.0 .
+She remained afebrile throughout her course .
+Of note , her blood sugars were mildly elevated probably secondary to prednisone .
+Hemoglobin A1c was 6.3 .
+The patient was discharged to home in a stable condition .
+DISCHARGE MEDICATIONS :
+1. Prednisone 10 mg three tablets p.o. b.i.d. for 3 days , then two tablets p.o. b.i.d. for 2 days , then three tablets p.o. daily for 2 days , then two tablets p.o. daily for 2 days , then one tablet p.o. daily for 2 days , then half a tablet daily for 2 days , and then discontinue .
+2. Zithromax 250 mg one p.o. daily for 2 more days .
+3. Advair one puff daily .
+4. Albuterol two puffs p.r.n.
+5. Albuterol nebulizers .
+6. Centrum Silver .
+7. Citracal .
+8. Lisinopril 10 mg daily .
+9. Singulair 10 mg daily .
+10. She also had a home O2 evaluation , and will require 2 liters of O2 at home .
+She was recommended to go home with her son , which she refused .
+Of note , also her sodium was initially 129 and it came up to 134 upon discharge .
+CONDITION :
+The patient was discharged to home in a stable condition .
+FOLLOWUP :
+She will follow up with me in 2 weeks , on a regular diet .
+___________________
+**NAME[ZZZ YYY] , D.O.
+Dict :
+**DATE[Jan 09 2008] 09:08:10
+Tran :
+**DATE[Jan 09 2008] 18:18:57
+RC/mm/338348/**ID-NUM/**ID-NUM
+R :
+**DATE[Jan 09 2008] 18:18:57/mm
+**CARBON-COPY

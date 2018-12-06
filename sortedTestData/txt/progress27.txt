@@ -1,0 +1,110 @@
+Progress **INSTITUTION
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB]
+MRN - **ID - NUM - MPACCOMMMRN
+Age :
+**AGE[in 30s] years
+Sex :
+Male
+DOB :
+**DATE[Sep 24 1969]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Allergy profile :
+NKA
+Current medications reviewed
+Results Review
+General results
+Today 's results :
+ALLRESLTSECT
+**DATE[Jul 18 2007] 7:37 AM
+Glucose ( bedside ) 89 mg/dL
+**DATE[Jul 18 2007] 6:00 AM
+Temperature Conversion 36.6 Deg C
+Temperature 97.9 Deg F
+Temperature Site Oral
+Pulse 78 BPM
+Respiratory Rate 18
+Systolic BP 106 mmHg
+Diastolic BP 56 mmHg
+**DATE[Jul 18 2007] 5:40 AM
+Na 134 mEq / L
+K 3.8 mEq / L
+Cl 101 mEq / L
+CO2 28 mEq / L
+Anion Gap 5.0 Low
+BUN 6 mg / dL Low
+Cr 0.5 mg / dL Low
+Glucose 68 mg / dL Low
+Ca 7.6 mg / dL Low
+Ca ( adjusted ) 9.8 ( Modified )
+Ionized Calcium 1.12 mMol / L Low
+Mg 1.5 mg / dL Low
+Albumin 1.5 gm / dL Low
+Total Protein 6.3 gm / dL Low
+Bili , Total 4.3 mg / dL High
+Bili , Direct 2.3 mg / dL High
+ALT / SGPT 66 IntUnit / L High
+AST / SGOT 176 IntUnit / L High
+Alk Phos 108 IntUnit / L
+WBC 13.3 X10E+09 / L High
+RBC 2.92 X10E+12 / L Low
+Hgb 10.7 gm / dL Low
+Hct 30.8 % Low
+MCV 105.4 fL High
+MCH 36.6 pg High
+MCHC 34.7 gm / dL
+RDW 16.4 % High
+MPV 6.5 fL Low
+Platelets 167 X10E+09/L
+Neutrophils 71 %
+Lymphs 18 %
+Monocytes 10 %
+Eosinophils 1 %
+Basophils 0 %
+ABS Neutrophils 9.4 X10E+09 / L
+ABS Lymphs 2.4 X10E+09 / L
+ABS Monocytes 1.3 X10E+09 / L
+Abs Eos , auto 0.2 X10E+09 / L
+ABS Basophils 0.0 X10E+09 / L
+PT 19.9 sec High
+INR 1.7 High
+Activated PTT 45.3 sec High
+Subjective
+Complaints abdominal swelling
+anxiety improved no CP , SOB
+Physical Examination
+General Exam
+Eye :
+sclera anicteric
+Abdomen : contour : generalized distention , soft ,
+bowel sounds : normal .
+Vital signs : normal
+Thyroid : normal
+Heart : normal
+Lungs : normal
+Skin : normal
+Extremities : normal
+Plan
+ALCOHOLIC LIVER DAMAGE , UNSPECIFIED ( ICD9 571.3 , Working , Diagnosis ) possibly Non - alcoholic liver ds as well Probable cirrhosis
+PORTAL HYPERTENSION ( ICD9 572.3 , Working , Diagnosis )
+ASCITES ( ICD9 789.5 , Working , Diagnosis ) on spironalactone
+Blood coagulation disorder due to liver disease ( SNMCT **ID-NUM , Working , Diagnosis ) no evidence of bleeding follow PT / INR
+Alcohol abuse NOS ( ICD9 305.00 , Working , Diagnosis ) cont Thimine , folic acid suppl
+Librium for DVT proph
+Leukocytosis NOS ( ICD9 288.8 , Working , Diagnosis ) start IV abx for poss SBP
+Dilutional hyponatremia ( SNMCT **ID-NUM , Working , Diagnosis ) improved with fluid restriction and low na diet
+Lone atrial fibrillation ( SNMCT **ID-NUM , Working , Diagnosis ) by history current NSR on Nadolol
+BENIGN ESSENTIAL HYPERTENSION ( ICD9 401.1 , Working , Diagnosis ) on ace
+Diabetes mellitus type 2 in obese ( SNMCT **ID-NUM , Working , Diagnosis ) on actos at home - hgba1c nl range glu low this am watch pt on prandin
+Professional Services
+Credentials and Title of Author **NAME[VVV] Signing this Document :
+DO , Attending Physician
+Perform by **NAME[XXX , WWW] L
+( on **DATE[Jul 18 2007] 10:04 )
+Sign by **NAME[XXX , WWW] L
+( on **DATE[Jul 18 2007] 10:04 )
+VERIFY by **NAME[XXX , WWW] L
+( on **DATE[Jul 18 2007] 10:04 )

@@ -1,0 +1,51 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA , BBB]
+**ID-NUM
+**ID-NUM
+A4B/437
+SERVICE OF :
+**NAME[ZZZ M YYY]
+DATE OF ADMISSION :
+**DATE[Apr 22 2007]
+DATE OF DISCHARGE :
+**DATE[Apr 26 2007]
+CHIEF COMPLAINT AND HISTORY OF PRESENT ILLNESS :
+As per history and physical dictation on the chart without additions or deletions .
+HOSPITAL COURSE :
+Preoperative labs and assessments were accepted for surgery .
+On **DATE[Apr 22 2007] , the patient underwent a lumbar reexploration right L4 foraminotomy , and L4-L5 lateral mass fusion with Tectonic plating , and right L3-L4 and L4-L5 interbody EMG s .
+She tolerated the procedure .
+Postoperative course :
+She had some persistent leg pain .
+The incision was health .
+H and Hs were checked .
+Jackson-Pratt drain was left in until the second postoperative day and was subsequently removed .
+Her leg pain had improved .
+She was progressing and ambulating independently .
+Voiding spontaneously .
+Tolerating regular diet .
+The incision appeared healthy .
+She was discharged on **DATE[Apr 26 2007] , to be followed as an outpatient .
+DISCHARGE DIAGNOSIS :
+Lumbar stenosis and instability .
+DISCHARGE INSTRUCTIONS:
+1. Diet as tolerated .
+2. Activity as per protocol .
+3. She was given Motrin , Darvocet , and Percocet .
+4. She was advised .
+5. She will be followed in 1 week for suture removal .
+6. She left the hospital in stable condition .
+DICTATED BY :
+**NAME[VVV UUU] , PAC
+___________________
+**NAME[ZZZ M. YYY] , M.D.
+Dict :
+**DATE[May 19 2007] 12:22:33
+Tran :
+**DATE[May 19 2007] 22:22:07
+**INITIALS
+R :
+**DATE[May 19 2007] 22:22:07/
+**CARBON-COPY

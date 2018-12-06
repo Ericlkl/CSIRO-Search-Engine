@@ -1,0 +1,169 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] S
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 70s] years
+Sex :
+Male
+DOB :
+**DATE[Apr 17 1930]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Summary of Hospitalization :
+This **AGE[in 70s] year old married , white male with h/o CAD , s/p angioplasty and duodenal ulcer presented to ED after syncopal episode after diarrhea BM .
+Past Medical History :
+CAD s/p angioplasty and stent LAD in **DATE[Jul 2004]
+s/p revascularization angioplasty stent LAD in 2005 -**INSTITUTION
+HTN
+Hyperlipidemia
+Renal Cell CA , s/p RIGHT nephrectomy
+DM - diet controlled
+GERD
+Duodenal ulcer
+GOUT
+L4-5 diskectomy in 1968
+Other Information :
+Pt 's Cardiologist , Dr. **NAME[VVV UUU] .
+Subjective / Events Overnight :
+Chart and labs reviewed .
+Patient seen at bedside .
+Wife and son present .
+Lying still as back pain continues .
+Otherwise , no c/o .
+Vital signs
+**DATE[May 16 2007] 8:00:00 AM .
+BP : systolic 130 , diastolic 64 .
+Pulse :
+65 beats per min .
+Resp :
+20 breaths / min .
+Temp :
+36.7 degrees Celsius .
+Physical Exam
+General Appearance :
+Elderly white male in NAD - groggy from EGD .
+Cardiovascular :
+S1 , S2 , no gallop , irregular .
+Respiratory :
+CTA .
+Gastrointestinal :
++ BS , soft , **INITIALS .
+Musculoskeletal :
+MAE s- limited due to backpain .
+Skin :
+Warm and dry .
+Neurological :
+Arousable - groggy from EGD .
+Hematologic / Lymphatic :
+No edema .
+Current Medications : medication administration orders ( selected )
+acetaminophen , 1000 mg , By Mouth , Q4HRS , Drug Form : Caplet , PRN , Start : **DATE[May 15 07] 11:05:00
+atenolol , 25 mg , By Mouth , Daily , Drug Form : Tab , Start : **DATE[May 15 07] 10:51:00
+atorvastatin , 80 mg , By Mouth , At Bedtime , Drug Form : Tab , Start : **DATE[May 15 07] 21:00:00
+flurazepam , 15 mg , By Mouth , At Bedtime , Drug Form : Cap , PRN , Start : **DATE[May 15 07] 11:06:00
+morphine , 1 mg , IV , Q3H , Drug Form : Tubex , PRN , Start : **DATE[May 15 07] 11:06:00
+ondansetron , 4 mg , IV , Q8HRS , Drug Form : Vial , PRN , Start : **DATE[May 15 07] 11:07:00
+pantoprazole , 40 mg , IV , Q24H , Start : **DATE[May 15 07] 11:00:00
+ramipril , 10 mg , By Mouth , Daily , Drug Form : Cap , Start : **DATE[May 15 07] 10:52:00
+General Results
+Today 's results :
+ALLRESLTSECT
+**DATE[May 16 2007] 9:20 AM
+Na 141 mEq / L
+K 4.4 mEq / L
+Cl 114 mEq / L High
+CO2 22 mEq / L
+Anion Gap 5.0 Low
+BUN 77 mg / dL Critical High
+Cr 1.7 mg / dL High
+GFR ( estimated ) 42.00 mL / min / 1.73 m2 Low
+( Modified )
+PT 10.3 sec High
+INR 1.1
+PTT 26.6 sec
+**DATE[May 16 2007] 4:01 AM
+Troponin I &lt ; 0.10 ng / mL
+PT 10.2 sec
+INR 1.1
+**DATE[May 16 2007] 3:30 AM
+Na 142 mEq / L
+K 4.3 mEq / L
+Cl 117 mEq / L High
+CO2 21 mEq / L
+Anion Gap 4.0 Low
+BUN 79 mg / dL Critical High
+Cr 1.6 mg / dL High
+GFR ( estimated ) 45.00 mL / min / 1.73 m2 Low
+( Modified )
+Ca 8.2 mg / dL Low
+Mg 1.6 mEq / L
+Phos 3.7 mg / dL
+WBC 8.7 X10E+09 / L
+RBC 2.79 X10E+12 / L Low
+Hgb 8.7 gm / dL Low
+Hct 25.1 % Low
+MCV 89.9 fL
+MCH 31.3 pg
+MCHC 34.8 gm / dL
+RDW 14.9 %
+MPV 9.9 fL
+Platelets 109 X10E+09 / L Low
+Neutrophils 72 %
+Lymphs 18 %
+Monocytes 8 %
+Eosinophils 2 %
+Basophils 0 %
+ABS Neutrophils 6.20 X10E+09 / L
+ABS Lymphs 1.60 X10E+09 / L
+ABS Monocytes 0.70 X10E+09 / L
+ABS Eosinophils 0.20 X10E+09 / L
+ABS Basophils 0.00 X10E+09 / L
+Type of Differential
+Automated Differential
+Impression and Plan
+Plan
+1. GI - h/o duodenal ulcer , Prevacid stopped 2-3 weeks ago by pt .
+Heme + stool in ED .
+EGD **DATE[May 16 07]:
+POSTOPERATIVE DIAGNOSIS :
+1) Normal esophagus
+2) Normal stomach
+3) 2 cm submucosal mass with clean based ulcer
+4) Small hiatal hernia
+PLAN :
+We will arrange for pt. to have an followup EUS to further eval. the duodenal mass .
+2. Heme - H/H 8.7/25.1 after transfusion PRBC s .
+No active bleeding noted .
+3. Cardiovascular - h/o CAD , s/p angioplasty , HTN , Hyperlipidemia .
+Troponins negative x 3 .
+Pt had PVC s throughout night .
+Cardiology consulted - pt 's cardiologist is Dr. **NAME[VVV UUU] .
+Lytes pending from this am .
+Attending re - ordered .
+4. Musculoskeletal - s/p fall during syncopal episode .
+X-rays negative for fracture .
+Continue analgesia .
+5. Renal - h/o Renal Cell Ca , s/p RIGHT nephrectomy .
+Baseline Cr. 1.5 .
+Cr today 1.6
+6. Disposition - d/c to home when medically stable .
+Case discussed with Dr. **NAME[TTT] .
+Professional Services
+Credentials and Title of Author **NAME[SSS] Signing this **NAME[RRR] : CRNP
+Addendum by **NAME[XXX , WWW M] on **DATE[May 16 2007] 3:33 PM
+Results of EGD , Cardiac Consult and H/H 8.4/23.9 discussed with Dr. **NAME[TTT] .
+Will transfuse another unit to keep Hgb above 8 .
+Will order TTE to evaluate LEFT ventricular function .
+Perform by **NAME[XXX , WWW] R
+( on **DATE[May 16 2007] 14:29 )
+Sign by **NAME[XXX , WWW] R
+( on **DATE[May 16 2007] 14:29 )
+VERIFY by **NAME[XXX , WWW] R
+( on **DATE[May 16 2007] 14:29 )
+Modify by **NAME[XXX , WWW] R
+( on **DATE[May 16 2007] 15:33 )
+Sign by **NAME[XXX , WWW] R
+( on **DATE[May 16 2007] 15:33 )

@@ -1,0 +1,54 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Apr 24 07]
+I am seeing this critically ill woman for management of respiratory insufficiency and volume overload , nutritional support , glycemic control .
+I have examined the patient , laboratory data , chest x-ray film , events of the evening .
+From a respiratory standpoint , she was off of mechanical ventilatory support last night .
+Her A-a gradient is reasonable at 40% .
+She is breathing about 13 which is a substantial improvement .
+Because of her hemodynamic lability , we have not converted her over to intermittent dialysis , but will continue with ultrafiltration with CVVH , currently at 150 cubic centimeters an hour .
+She was , overall , negative 200 cubic centimeters yesterday , and 600 so far this morning .
+I continue her on enteral nutritional support with TwoCal tube feeds at 30 an hour , which she is tolerating well .
+Belly exam is benign .
+She will get a diffuse rash over her lower extremities .
+She is off Cipro , off of the Zoloft .
+No other clear etiology .
+I suspect it will resolve over time .
+Continue on long and short - acting insulin for glycemic control .
+Blood sugar is running between 96 and 140 .
+Continue DVT prophylaxis , GI prophylaxis , and she is still on a low dose of prednisone .
+Off of antibiotics except for Flagyl currently .
+No evidence of active infection .
+White count is 5.2 .
+Hematocrit is 28 .
+Continue supportive care of this critically ill woman with a prolonged ventilatory support , still unable to switch over to intermittent hemodialysis due to hypotension , off of Levophed currently .
+T = 30 .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Apr 24 2007] 08:04:46
+T :
+**DATE[Apr 24 2007] 09:33:45
+R :
+**DATE[Apr 24 2007] 09:33:45/lbw
+Job ID :
+443438/**ID-NUM
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 06 2007] 12:43:25 PM

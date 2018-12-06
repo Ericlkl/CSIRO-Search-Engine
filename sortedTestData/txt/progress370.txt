@@ -1,0 +1,58 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[ZZZ M YYY]
+ADMISSION DATE :
+**DATE[Apr 12 2007]
+EVALUATION DATE :
+**DATE[Apr 13 07]
+I personally interviewed and examined the patient this morning , and discussed the case with Dr. **NAME[XXX] .
+I agree with the findings , impression , and plan as indicated in his note .
+Today , the patient was admitted for increasing nausea , vomiting , and abdominal pain on top of chronic abdominal pain that is felt to be due to spinal stenosis .
+Today , she still feels poorly .
+She complains of persistent pain in her belly , although she no longer complains of nausea and vomiting and has had no diarrhea or other change in bowel movements .
+She is complaining that the pain medicine wears away too quickly .
+PHYSICAL EXAMINATION :
+Vital Signs :
+Unremarkable .
+She is non tachycardiac .
+She is afebrile .
+Lungs :
+Show poor inspiratory effort .
+Cardiac :
+Examination reveals regular rate and rhythm with normal S1 and S2 .
+Abdomen :
+Soft .
+It is diffusely tender with significant amount of guarding to light palpation .
+Of note , I can palpate much more deeply when I listen with my stethoscope without reaction .
+Extremities :
+Show trace edema .
+LABORATORY DATA :
+Electrolytes , BUN , and creatinine are unremarkable with the exception of K of 3.3 .
+White count is 8,400 and normal hemoglobin and hematocrit .
+IMPRESSION
+1. Abdominal pain .
+She has chronic abdominal pain and this is one of many exacerbations that had brought her into the hospital multiple times .
+There was a worry that she might have Clostridium difficile enterocolitis , because of a history of a recent bronchitis being treated by amoxicillin .
+There is no evidence of systemic inflammation or infection .
+Her belly is relatively benign and therefore while we await the C. diff toxin , we will restart oral liquids .
+___________________________________
+**NAME[ZZZ YYY] , M.D.
+Dictator :
+**NAME[ZZZ YYY] , M.D.
+MR/ps
+D :
+**DATE[Apr 13 2007] 09:51:41
+T :
+**DATE[Apr 13 2007] 23:14:35
+R :
+**DATE[Apr 13 2007] 23:14:35/ps
+Job ID :
+345158/**ID-NUM
+Cc:

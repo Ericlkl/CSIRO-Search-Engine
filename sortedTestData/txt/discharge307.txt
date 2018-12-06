@@ -1,0 +1,51 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Dec 03 2007]
+Discharged :
+**DATE[Dec 07 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+**INSTITUTION COURSE :
+Mr. **NAME[AAA] was admitted on **DATE[Dec 3 2007] , because of nausea and vomiting and difficulty keeping food down .
+He came into the emergency room with that complaint as well as abdominal pain .
+His labs on admission showed an elevated glucose , hemoglobin 10.3 , and hematocrit 31.5 .
+He was admitted and given morphine for body pain and abdominal pain .
+A UA was done to further evaluate hematuria .
+Mr. **NAME[AAA] has a history of prostate cancer , and a consult was placed with Dr. **NAME[VVV] .
+He was continued on his hypertension medications as well and started on IV fluids .
+Mr. **NAME[AAA] was followed over the next several days in the hospital and improved slowly .
+With the help of the pain management team , they arrived at a consensus regarding pain management for him .
+He was then discharged on **DATE[Dec 7 2007] , on the following medications :
+1. Vitamin C 500 mg daily .
+2. Calcium and vitamin D 600 mg 1 tablet b.i.d.
+3. Colace 100 mg b.i.d.
+4. Fentanyl patch 50 mg q.48 h .
+5. Ferrous sulfate 325 mg daily .
+6. Neurontin 300 mg q.8 h .
+7. Hydrochlorothiazide 25 mg daily .
+8. Zofran 4 mg p.o. q.8 h. p.r.n.
+9. Protonix 40 mg daily .
+He was discharged in stable condition and was asked to follow up with heme / onc and myself at the family health center .
+DISCHARGE DIAGNOSES :
+1. Prostate cancer with bony metastasis and diffuse pain .
+2. Gastroesophageal reflux .
+3. Depression .
+4. Hypertension .
+______________________________
+**NAME[WWW XXX] , DO
+HS Job # 236264 / 33115 /
+SHY # **ID-NUM
+D :
+**DATE[Jan 02 2008] 13:48
+T :
+**DATE[Jan 04 2008] 09:13
+**CARBON-COPY

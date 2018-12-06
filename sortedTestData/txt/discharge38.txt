@@ -1,0 +1,41 @@
+**INSTITUTION
+GENERAL MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[TTT M SSS]
+ADMISSION DATE :
+**DATE[Nov 12 2007]
+DISCHARGE DATE :
+**DATE[Nov 18 2007]
+ADDENDUM :
+I discussed with both the sisters **NAME[RRR] and **NAME[QQQ] , and I had discussed with them extensively regarding how sick the patient was and how emergent that she needs to be intubated .
+But both the sisters had discussed among themselves , and they had expressed their wish that they do not want their mother to be intubated or to be on ventilation , but however , they agreed for all the other intervention other than do not intubate and not put her on ventilation .
+The patient is struggling to breathe at this time , and she is tachypneic , and she might have to be intubated right now but ; however , the patient 's family did not wish the patient to be intubated even after I explained to them that she could potentially die if she was not on a breathing machine ; but however , the patient 's family stressed to me again and wished that they do not want her mother to be on a breathing machine .
+They do not want her to be intubated even though it is only a temporary measure where she does not have to be on the breathing machine for long .
+It would be only a temporary measure until she can maintain her airway and then they can extubate her .
+I explained to her that it is only going to be a short - term temporary measure , and after her pneumonia gets better , she could probably be extubated but even then , she did not wish her mother to be intubated .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Nov 18 2007] 15:14:08
+T :
+**DATE[Nov 18 2007] 22:59:47
+R :
+**DATE[Nov 19 2007] 06:55:02/clo
+Job ID :
+351836 /**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX , PPP M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Nov 29 2007] 12:32:38 PM

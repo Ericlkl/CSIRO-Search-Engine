@@ -1,0 +1,49 @@
+**INSTITUTION :
+Acute exacerbation of chronic obstructive pulmonary disease .
+OTHER PERTINENT SECONDARY DIAGNOSES :
+1. Coronary artery disease with angioplasty in 1980 .
+2. Cor pulmonale .
+3. Anxiety .
+4. Atrial fibrillation .
+PERTINENT CONSULTS PLACED :
+None .
+PRIMARY CARE PHYSICIAN :
+**NAME[CCC M. ZZZ] VVV]. , M.D.
+HOSPITAL COURSE :
+The patient is a **AGE[in 70s]- year-old white male resident of personal care home and was sent to the hospital complaining of shortness of breath and coughing .
+The patient was treated for acute exacerbation of COPD with steroids .
+The patient is a current smoker who was counseled about smoking cessation .
+The patient also has cor pulmonale .
+The BNP was elevated in 100 , but the patient 's potassium was about 5.3 on discharge .
+He has been on Aldactone and potassium and Lasix at home .
+We will discontinued the Lasix by now and recheck her BMP in one week to see if he needs a potassium .
+The patient has chronic stasis dermatitis in his legs and edema which is chronic .
+BNP was 112 .
+The patient is stable now and is being discharged back to the personal care home .
+LIST OF MEDICATIONS :
+The patient is being discharged as follows :
+1. Xanax 0.5 b.i.d.
+2. Tenormin 25 mg daily by mouth .
+3. Lanoxin 0.125 mg tablet daily by mouth .
+4. Lexapro 20 mg tablet daily by mouth .
+5. Lasix 20 mg b.i.d. by mouth .
+6. Glucotrol 5 mg daily by mouth .
+7. Imdur 30 mg tablet daily by mouth .
+8. Lisinopril 10 mg daily by mouth .
+9. Remeron 50 mg tablet at bedtime by mouth .
+10. Aldactone 25 mg tablet by mouth .
+11. Medrol Dosepak .
+12. Advair 250/50 one puff b.i.d.
+DISCHARGE INSTRUCTIONS :
+Diet is heart healthy .
+Activity as tolerated .
+Physician followup with Dr. **NAME[CCC ZZZ] Jr. in 1 week .
+BMP and magnesium in 1 week .
+______________________________
+**NAME[WWW XXX] , M.D.
+HS Job # 983693 / 38471 /
+# **ID-NUM
+D :
+**DATE[Jan 26 2008] 15:19
+T :
+**DATE[Jan 28 2008] 00:33

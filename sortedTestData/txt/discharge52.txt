@@ -1,0 +1,63 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Jan 29 2008]
+Discharged :
+**DATE[Feb 09 2008]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+DISCHARGE DIAGNOSES :
+1. Type B thoracic / abdominal aortic dissection .
+2. Hypertension .
+3. Atrial fibrillation .
+4. Acute renal insufficiency due to IV contrast .
+5. Osteoarthritis , generalized .
+6. Status post bilateral total hip replacements .
+7. History of gout .
+8. Chronic low back pain due to lumbar diskogenic disease .
+DISCHARGE MEDICATIONS :
+1. Coreg 6.25 mg b.i.d.
+2. Cardura 8 mg q. p.m.
+3. Nifedipine XL 90 mg daily .
+4. Colace 100 mg b.i.d.
+5. Allopurinol 100 mg daily .
+6. Protonix 40 mg daily .
+7. Pravachol 40 mg q. p.m.
+8. Coumadin 7.5 mg q. p.m.
+9. Ambien 10 mg at bedtime p.r.n.
+CONSULTANTS :
+Dr. **NAME[VVV] of vascular surgery ; Dr. **NAME[UUU TTT] of cardiology ; pulmonary medical thoracic associates ; Dr. **NAME[SSS] , renal ; Dr. **NAME[RRR] , cardiac electrophysiology .
+HISTORY OF PRESENT ILLNESS :
+This is a **AGE[in 70s]- year - old male followed by Dr. **NAME[ZZZ] in our office with multiple medical problems as above , who was referred to the emergency department at **INSTITUTION .
+He had been having intermittent symptoms of chest and abdominal pain over the preceding two weeks .
+Initially he presented to **INSTITUTION with concern for possible acute coronary syndrome .
+He was thought to have musculoskeletal pain and discharged with Darvocet .
+Subsequent presentation at **INSTITUTION Emergency Department with colicky abdominal pain , thought to be related to cholelithiasis , and again discharged .
+Dr. **NAME[ZZZ] obtained a CT scan of the chest and abdomen on **DATE[Jan 29 2008] , which did reveal a type B aortic dissection extending to the level of the celiac axis , with mesenteric and renal arteries patent .
+HOSPITAL COURSE :
+The patient was admitted to the intensive care unit for evaluation and monitoring .
+The decision was made to manage his type B aortic dissection conservatively .
+Blood pressure was carefully managed .
+He did develop problems with bradycardia which improved with discontinuation of clonidine .
+Hospital course was complicated by development of mild pulmonary effusions and shortness of breath , in addition to concomitant increase in creatinine , which was thought to be related to acute renal insufficiency due to IV contrast from the CT scans which he had obtained .
+He was cautiously diuresed , and his renal function plateaued and has finally started improving as of today .
+He did also have some mild symptoms of gout in his right great toe , and he declined treatment for this condition .
+He is being discharged on the above medications , with plans to follow up with Dr. **NAME[TTT] of cardiology as well as with vascular surgery over the next two weeks .
+Followup with Dr. **NAME[ZZZ] as scheduled .
+______________________________
+**NAME[WWW XXX] , MD
+HS Job # 387712 / 37380 /
+SHY # **ID-NUM
+D :
+**DATE[Feb 09 2008] 12:46
+T :
+**DATE[Feb 11 2008] 08:59
+**CARBON-COPY

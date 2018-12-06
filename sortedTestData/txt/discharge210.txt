@@ -1,0 +1,103 @@
+**INSTITUTION
+GENERAL MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Apr 07 2007]
+DISCHARGE DATE :
+**DATE[May 03 2007]
+**INSTITUTION .
+DISCHARGE DIAGNOSIS :
+Sickle cell crisis .
+CONDITION ON DISCHARGE :
+Stable .
+HOSPITAL COURSE :
+The patient is a **AGE[in 50s]- year - old African American female with a past medical history significant for sickle cell disease , hepatitis C , ischemic colitis , and atrial fibrillation who came into the emergency room on **DATE[Apr 7 2007] , with a chief complaint of 3 - day history of cough , fever , abdominal pain , and vomiting .
+She reports that the cough was productive of yellow - green sputum for the past several days prior to admission and that she had a fever in the morning prior to coming to the emergency room .
+The abdominal pain is chronic , but she reported this was worse than usual and was accompanied by nausea and vomiting .
+She has had multiple hospitalizations for exacerbation of her sickle cell disease with crisis as well as the abdominal pain and infection .
+In the emergency room she was evaluated and had an EKG done which showed sinus tachycardia at 116 beats a minute with T - wave inversions that were new compared to her baseline EKG .
+She had a chest x-ray which showed mild interstitial edema and an ill - defined right lower lung air space opacity which was felt to be due to pneumonia or less likely infarction .
+Abdominal x-rays were done which showed no radiographic evidence of obstruction or pneumoperitoneum .
+A CT of the abdomen and pelvis was then done without contrast and a preliminary report showed no acute abnormality .
+She had blood work done in the emergency room as well which showed a sodium of 143 , potassium 4.4 , chloride 114 , CO2 of 22 , BUN 30 , creatinine 1.3 , calcium 8.6 , magnesium 1.6 , phosphorus 2.9 , total bilirubin 2.9 , ALT 50 , AST 55 , alkaline phosphatase 92 , and GGTP 37 .
+Troponin level was negative at less than 0.1 .
+Lactate normal at 0.7. WBC 17.5 , hemoglobin 7.1 , hematocrit 21.0 , MCV 89.6 , and neutrophils 68% .
+She was admitted to the MICU as there was no step - down bed available .
+She was given a dose of ceftriaxone and azithromycin in the emergency room for treatment of community acquired pneumonia and was also given morphine for pain control .
+A unit of blood was transfused in the emergency room prior to her admission to the unit .
+In the emergency room , she was monitored closely and kept on telemetry secondary to her history of atrial fibrillation .
+Her abdomen was rather evaluated with an MRI on **DATE[Apr 11 2007] , the results of which showed a segment 2 liver lesion which had increased in size since **DATE[Aug 2005] secondary iron overload cirrhosis without findings of portal hypertension and bilateral pleural effusions with dependent atelectasis .
+Her blood work was monitored throughout hospitalization and she was noted to have an increasing creatinine to a high of 5.6 .
+Renal Medicine was consulted and it was determined that she would benefit from hemodialysis and therefore she was started on a
+3 - day - a - week course of hemodialysis while here at **INSTITUTION .
+The dialysis was effective for also eliminating some of the fluid overload as she did have small to moderate amounts of ascites present secondary to her liver disease .
+Additional liver workup was done which included a positive cryoglobulin screen with characterization showing a positive type 2 containing polyclonal IgG and monoclonal IgM .
+She also had a confirmation of the hepatitis C antibody being present , and a hepatitis B surface antigen and core antibody done both of which were negative .
+She did have difficulty with fluid retention as well and needed to be placed on Lasix in addition to the dialysis for control of that .
+We continued her on the antibiotics for the treatment of the community acquired pneumonia and she did resolve .
+She was showing some changes in mental status , which were felt to be consistent with hepatic encephalopathy and therefore was maintained on lactulose .
+Her ammonia levels remained within the normal range .
+She had complaint of a sore throat and a strep test was done which was positive .
+She was then placed on amoxicillin for that .
+She complained of some hearing loss and ENT was consulted and started her on Floxin Otic drops .
+For her atrial fibrillation , she was controlled on Cardizem .
+Palliative care was consulted to help with her pain management and they had been working in conjunction with her primary hematologist Dr. **NAME[YYY ZZZ] for pain control .
+She continued to improve throughout her hospitalization and was felt to be stable for discharge on **DATE[May 3 2007] .
+She had dialysis in the morning and then is to go home .
+On the day of discharge her blood work showed a sodium of 143 , potassium 4.2 , chloride 106 , CO2 of 29 , BUN 36 , creatinine 3 , glucose 108 , phosphorus 5.4 , magnesium 1.3 , and calcium 8.5 .
+WBC 15.5 , hemoglobin 11.7 , hematocrit 36.5 , platelets 134 , and neutrophils 78% .
+She will be discharged today to home .
+DISCHARGE DIAGNOSES
+1. Sickle cell crisis , resolved .
+2. Pneumonia , resolved .
+3. Positive strep throat , resolved .
+DIET :
+Soft , renal .
+ACTIVITY :
+As tolerated .
+SPECIAL INSTRUCTIONS FOR DIALYSIS :
+She is to go to DCI of **PLACE .
+Phone number **PHONE on Tuesday , **DATE[May 6 2007] , at 11:30 a.m.
+She is to take her insurance ___________ to dialysis and dialysis will be done 3 days a week on Tuesday , Thursday , and Saturday .
+Transportation will be provided from MATP .
+Phone number **PHONE .
+Home health consult for physical therapy was ordered .
+Follow up is with Dr. **NAME[ZZZ] posthospital with a prescheduled appointment on Wednesday , **DATE[May 6 2007] .
+Phone number
+**PHONE .
+DISCHARGE MEDICATIONS
+1. Lactulose 30 mL every 12 hours .
+2. Cardizem 60 mg every 6 hours .
+3. PhosLo 1 tablet 3 times a day with meals .
+4. Fosrenol 1000 mg 3 times a day with meals .
+5. Dilaudid 4 mg 2 tablets every 4 hours as needed for pain .
+6. OxyContin 40 mg 2 tablets 3 times a day .
+7. Prednisone 10 mg 2 times a day .
+8. Protonix 40 mg 2 times a day .
+___________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW XXX] , VVV] , M.S.N. , B.C.
+AL/ss
+D :
+**DATE[May 03 2007] 16:03:27
+T :
+**DATE[May 04 2007] 00:24:25
+R :
+**DATE[May 04 2007] 00:24:25/ss
+Job ID :
+374099/**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX] , VVV] , M.S.N. , B.C.-Anita ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[May 06 2007] 04:39:58 PM

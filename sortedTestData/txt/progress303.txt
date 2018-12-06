@@ -1,0 +1,48 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Feb 31 07]
+I evaluated Mrs. **NAME[AAA] this afternoon for respiratory failure .
+This morning , she was on assist control ventilation rate of 14 , tidal volume 350 , 40% FiO2 , and 2.5 of PEEP .
+The chest tube continues to have a modest air leak with a right apical pneumothorax on chest x-ray .
+There is no significant bronchospasm , though she is slightly tachycardic .
+I will change her DuoNeb to Xopenex and continue her prednisone and theophylline for her bronchospasm .
+She was able to tolerate CPAP with a pressure support of 15 this morning .
+I placed her on a pressure support of 5 and obtained a venous gas an hour later .
+She was not showing any clinical signs of CO2 retention , nor was she acidotic .
+I will go ahead and proceed to extubation this afternoon .
+Both her family and the patient understand that she is high risk for requiring reintubation due to her poor pulmonary mechanics .
+Should she decompensate this evening , I would try a low level of BiPAP with an IPAP of 8 and EPAP of 5 and continue to wean her FiO2 as tolerated to maintain an oxygen saturation between 88 and 90 .
+I have started a low dose of Cardizem for rate control for her atrial fibrillation .
+Subcutaneous emphysema is mildly worse and the chest tubes were returned to suction today .
+If Mrs. **NAME[AAA] does require reintubation , I will proceed with fiberoptic intubation given her recent tracheal injury .
+Critical care time equals 45 minutes in addition to services provided earlier today .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Feb 31 2007] 22:03:26
+T :
+**DATE[Feb 31 2007] 22:21:04
+R :
+**DATE[Feb 31 2007] 22:21:04/hms
+Job ID :
+370384/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 04 2007] 07:44:20 PM

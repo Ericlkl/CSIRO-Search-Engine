@@ -1,0 +1,56 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 18 2007]
+EVALUATION DATE :
+**DATE[Nov 21 07]
+I personally interviewed and examined Mr. **NAME[AAA] on **DATE[Nov 21 2007] .
+I discussed the case with Dr. **NAME[VVV] .
+Please consider my note to be linked to Dr. **NAME[VVV] 's .
+Mr. **NAME[AAA] feels well this morning .
+He had some pain in his foot last night , which has resolved .
+He denies chest pain or dyspnea .
+PHYSICAL EXAMINATION :
+On physical examination today , his lungs are clear to auscultation and percussion .
+Heart :
+Regular rhythm .
+Abdomen :
+Soft and nontender .
+Extremities :
+No edema .
+Temperature 98.7 , T-max yesterday 99.4 , and his pulse is 70 .
+Remainder of his examination is as recorded and is unremarkable .
+I discussed the case with Dr. **NAME[UUU] from Infectious Diseases who agrees that percutaneous tap of this fluid is probably is not indicated at this point .
+At least he remains afebrile .
+I discussed the case with the resident from Urology .
+They are planning to do a cystoscopy tomorrow and are concerned about the possibility of bladder carcinoma .
+The patient will have the procedure in the morning .
+He should be able to tolerate the procedure without any difficulty .
+They will do it while on heparin and put a stent in if necessary .
+He should receive SBE prophylaxis given __________ .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+TDP/
+D :
+**DATE[Nov 21 2007] 10:43:06
+T :
+**DATE[Nov 21 2007] 23:41:21
+R :
+**DATE[Nov 21 2007] 23:41:21/
+Job ID :
+355163/**ID-NUM
+Cc:
+*** Dictated By :
+028200-Painter , M.D.-Thomas D. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Nov 26 2007] 09:05:39 AM

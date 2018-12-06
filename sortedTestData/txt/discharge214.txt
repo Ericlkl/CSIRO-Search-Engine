@@ -1,0 +1,38 @@
+FINAL DIAGNOSES :
+1. Hypoosmolality with hyponatremia .
+2. Chronic hepatitis .
+3. Ascites .
+4. Cirrhosis of the liver , nonalcoholic .
+5. Diarrhea .
+6. Umbilical hernia .
+7. Pancytopenia .
+8. Portal hypertension .
+9. Hypersplenism .
+COURSE OF STAY :
+This patient was admitted to the hospital on **DATE[Jun 26 07] with Chief Complaint of confusion and a three day history of diarrhea .
+The patient does have a history of autoimmune hepatitis with cirrhosis , esophageal varices , and has had a hepatic encephalopathy in the past , along with spontaneous bacterial peritonitis and E. coli bacteremia .
+On the patient 's stay in the hospital , the patient 's labs were rechecked and patient was placed on fluid restriction and normal saline and ordered to try to correct her sodium .
+That did come up .
+The patient did need to receive 2 units of packed red blood cells , also , on **DATE[Jun 27 07] .
+The patient also sees Dr. **NAME[VVV] for routine paracentesis approximately once a week as an outpatient .
+Dr. **NAME[VVV] did see her while she was in the hospital .
+The patient also had some trouble sleeping and some nervousness .
+She was given Benadryl for that by the Intern on call , which relieved those symptoms .
+The patient had a paracentesis performed on **DATE[Jun 29 07] and approximately 4 liters of ascitic fluid were removed .
+Two tubes were sent to the laboratory for cell count and culture .
+The culture came back negative .
+The patient 's course continued to improve .
+Her abdominal distention was marked less after paracentesis , as patient was discharged on **DATE[Jun 31 07] with instructions to follow with Dr. **NAME[UUU] and Dr. **NAME[VVV] as an outpatient .
+She was also sent home on her normal home medications .
+No changes were made to her medication regimen .
+_________________________
+**NAME[YYY ZZZ] D.O. , INTERN
+_________________________
+**NAME[CCC M. UUU] , DO , FACOI
+D :
+**DATE[Sep 06 2007]/ 4:30 A
+T :
+**DATE[Sep 11 2007]
+7:55 A ll
+#**ACCESSION-NUMBER[1]/**ID-NUM
+**CARBON-COPY

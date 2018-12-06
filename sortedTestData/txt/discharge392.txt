@@ -1,0 +1,36 @@
+FINAL DIAGNOSES :
+1. Ischemic left fifth toe .
+2. Peripheral arterial disease .
+3. Coronary heart disease .
+This **AGE[in 60s]- year - old smoker was admitted with a one - month history of left lateral foot pain and burning paresthesias .
+He has had calf claudication with stairs .
+The pain was much worse in the two weeks prior to admission and on the day of admission he was experiencing constant rest pain was ell as ischemic discoloration of the left 5th toe and lateral foot .
+He had had no ulceration .
+Physical exam showed absent popliteal and pedal pulses on the left .
+The patient was seen in consultation by Dr. **NAME[WWW VVV] of peripheral vascular surgery .
+The patient was also seen by Dr. **NAME[UUU TTT] of Cardiology for preoperative cardiac clearance .
+The patient was heparinized .
+His toe and leg improved with heparinization .
+An adenosine stress was performed on **DATE[Jan 22 08] which was markedly abnormal .
+The patient subsequently underwent heart catheterization .
+The left main was free of disease .
+The left anterior descending showed a 95% ostial stenosis , 60% narrowing of the junction of the mid and distal vessel and a 40% luminal irregularities .
+The left circumflex showed 20% irregularities .
+Obtuse marginal was a large vessel and 80% proximal stenosis .
+The right coronary had 40% irregularities .
+The patient had a right - sided aortic arch .
+His ejection fraction was about 38% by echo .
+The nuclear study done prior to the catheterization showed an ejection fraction of about 40-45% .
+The heart catheterization was done by Dr. **NAME[SSS] .
+It was elected to send the patient to Dr. **NAME[RRR QQQ] at **NAME[PPP] **INSTITUTION for definitive treatment of his coronary artery disease .
+It was thought that he might be a candidate for a hybrid procedure such as a keyhole left internal mammary artery and stenting .
+Subsequent to treatment of his coronary artery disease he will require definitive treatment of his peripheral arterial disease .
+He was transferred to **NAME[PPP] **INSTITUTION on **DATE[Jan 24 08] .
+_________________________
+**NAME[YYY ZZZ] , M.D.
+D :
+**DATE[Mar 04 2008]/ 4:30 P
+T :
+**DATE[Mar 06 2008] 10:28 A mm
+#**ACCESSION-NUMBER[1]/**ID-NUM
+**CARBON-COPY

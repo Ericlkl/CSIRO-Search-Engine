@@ -1,0 +1,43 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Mar 24 2007]
+EVALUATION DATE :
+**DATE[Mar 28 07]
+PROCEDURE :
+Right radial arterial line .
+INDICATIONS :
+The patient has a history of positive respiratory insufficiency and metabolic left exostosis , frequent blood work , as well as ABG analysis .
+TECHNIQUE :
+The patient 's right wrist was cleansed with ChloraPrep .
+He was draped with a small sterile drape and sterile field .
+Using sterile gloves , and using lidocaine .
+Thereafter , using Seldinger technique , a 20 - gauge aerocath was placed in the right radial artery without difficulty .
+The patient tolerated the procedure .
+I was present for the entire procedure .
+___________________________________
+**NAME[WWW VVV XXX] , M.D.
+Dictator :
+**NAME[WWW VVV XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 29 2007] 10:21:47
+T :
+**DATE[Mar 29 2007] 10:27:24
+R :
+**DATE[Mar 29 2007] 14:27:01/lmm
+Job ID :
+366093/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT VVV] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Apr 21 2007] 11:26:54 PM

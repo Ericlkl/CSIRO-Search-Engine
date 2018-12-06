@@ -1,0 +1,175 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB M]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 50s] years
+Sex :
+Female
+DOB :
+**DATE[Feb 31 1954]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Summary of Hospitalization :
+This **AGE[in 50s] year old , single , white female with h/o c. diff x 2 , thyroid CA , HTN , CVA presents with diffuse abd pain , + N/V , and diarrhea .
+Past Medical History : c. diff x 2 , last treated with flagyl 9/06 -**DATE[Feb 07]
+Thyroid CA - papillary Stage I
+HTN
+CVA
+Depression s/p gastric bypass s/p chole s/p RIGHT knee
+DM
+DJD
+Gastric ulcer
+CHF
+UTI
+Other Information :
+BLE dopplers **DATE[Mar 8 07] : preliminary " appears to be positive for DVT in the popliteal and posterior tibial veins bilaterally and in the LEFT Deep femoral vein ."
+Subjective / Events Overnight :
+Chart and labs reviewed .
+Patient seen at bedside .
+Transferring from bed for doppler studies .
+Reports BM ( diarrhea ) x 2 yesterday .
+Denies bleeding .
+Vital signs
+**DATE[Mar 8 2007] 7:00:00 AM .
+BP : systolic 115 , diastolic 83 .
+Pulse : 76 beats per min .
+Resp : 20 breaths / min .
+Temp : 36.3 degrees Celsius .
+Physical Exam
+General Appearance :
+Middle - aged white female in NAD .
+Cardiovascular :
+S1 , S2 , no gallop .
+RRR .
+Respiratory :
+CTA .
+Gastrointestinal :
++ BS , soft , **INITIALS .
+Obese .
+Musculoskeletal :
+MAE s .
+Skin :
+Warm and dry .
+Neurological :
+Alert and oriented x 3 .
+Hematologic / Lymphatic :
+BLE edema 3 - 4 + .
+Current Medications : medication administration orders ( selected )
+acetaminophen - hydrocodone , 2 tab ( s ) , By Mouth , Q4HRS , Drug Form : Tab , PRN , Start : **DATE[Mar 03 07] 21:11:00
+acetaminophen - hydrocodone , 1 tab ( s ) , By Mouth , Q4HRS , Drug Form : Tab , PRN , Start : **DATE[Mar 03 07] 21:11:00
+balsam Peru / castor oil / trypsin topical , 1 Application , Topically , BID , Drug Form : Oint , Start : **DATE[Mar 04 07] 11:03:00
+citalopram , 20 mg , By Mouth , At Bedtime , Drug Form : Tab , Start : **DATE[Mar 03 07] 21:12:00
+D5 1/2 NS 1000 mL , IV , Start : **DATE[Mar 03 07] 21:12:00 , Infuse Rate : 125 mL / hr , Administer Over : 8 HR
+lactobacillus rhamnosus GG , 1 cap ( s ) , By Mouth , BID , Drug Form : Cap , Start : **DATE[Mar 03 07] 21:06:00
+lorazepam , 0.5 mg , IV , TID , Drug Form : Tubex , PRN , Start : **DATE[Mar 03 07] 21:09:00
+lorazepam , 0.5 mg , By Mouth , TID , Drug Form : Tab , PRN , Start : **DATE[Mar 03 07] 21:09:00
+magnesium sulfate , 4 gm , IV , ONCE , Drug Form : Solution , Start : **DATE[Mar 08 07] 15:00:00 , Stop : **DATE[Mar 08 07] 15:00:00
+metronidazole , 500 mg , IV , Q6HRS , Start : **DATE[Mar 04 07] 0:00:00
+morphine , 2 mg , IV , Q4HRS , Drug Form : Tubex , PRN , Start : **DATE[Mar 03 07] 21:13:00
+nystatin topical , 1 Application , Topically , AS DIRECTED , Drug Form : Powder , PRN , Start : **DATE[Mar 05 07] 18:10:00
+ondansetron , 4 mg , IV , Q6HRS , Drug Form : Vial , Start : **DATE[Mar 04 07] 0:00:00
+potassium chloride , 40 mEq , By Mouth , ONCE , Drug **NAME[CCC] : Sr tab , Start : **DATE[Mar 08 07] 15:00:00 , Stop : **DATE[Mar 08 07] 15:00:00
+prochlorperazine , 10 mg , IV , Q6HRS , Drug Form : Vial , PRN , Start : **DATE[Mar 03 07] 21:12:00
+sulfamethoxazole - trimethoprim , 1 tab ( s ) , By Mouth , BID , Drug Form : Tab , Start : **DATE[Mar 06 07] 14:01:00
+vancomycin , 250 mg , By Mouth , QID , Drug Form : Oral sol , Start : **DATE[Mar 04 07] 9:00:00
+General Results
+Today 's results :
+ALLRESLTSECT
+**DATE[Mar 8 2007] 8:44 AM
+TSH 0.966 uIU / mL hCG , Qual Neg
+**DATE[Mar 8 2007] 4:00 AM
+Na 136 mEq / L
+K 3.3 mEq / L Low
+Cl 107 mEq / L
+CO2 23 mEq / L
+Anion Gap 6.0 Low
+BUN 8 mg / dL
+Cr 0.9 mg / dL
+Ca 8.0 mg / dL Low
+Mg 1.3 mEq / L
+Phos 3.4 mg / dL
+WBC 5.9 X10E+09 / L
+RBC 4.32 X10E+12 / L
+Hgb 12.5 gm / dL
+Hct 37.9 %
+MCV 87.7 fL
+MCH 29.0 pg
+MCHC 33.1 gm / dL
+RDW 14.7 %
+MPV 7.5 fL
+Platelets 207 X10E+09 / L
+Neutrophils 51 %
+Lymphs 31 %
+Monocytes 10 %
+Eosinophils 7 % High
+Basophils 1 %
+ABS Neutrophils 3.00 X10E+09 / L
+ABS Lymphs 1.80 X10E+09 / L
+ABS Monocytes 0.60 X10E+09 / L
+ABS Eosinophils 0.40 X10E+09 / L
+ABS Basophils 0.10 X10E+09 / L High
+Type of Differential
+Automated Differential
+Impression and Plan
+Plan
+1. GI - h/o c. diff .
+C. difficile Toxin -
+- V -**INSTITUTION Virology ,
+Specimen Description :
+Stool for C. difficile toxin
+Special Requests :
+None
+Culture :
+Positive for Clostridium difficile Toxins A and/or B .
+CONTACT ISOLATION REQUIRED for positive patients .
+Report Status :
+Final Result **DATE[Mar 05 2007]
+Currently on oral Vancomycin , Flagyl and culturelle Day #4 without reaction .
+Continue .
+2. GU -
+Urine Culture -
+- MM - Microbiology ,
+Specimen Description :
+Urine
+Special Requests :
+None
+Culture :
+&gt ; 100,000 col / mL ENTEROBACTER CLOACAE
+Report Status :
+Final Result **DATE[Mar 06 2007]
+Day #2 Bactrim DS BID without adverse reaction .
+Continue .
+3. Vascular - Patient with LEFT deep femoral vein DVT .
+Per vascular lab , Bilateral popliteal and posterior tibial veins DVT chronic .
+Heparin nomogram initiated .
+Baseline values :
+H/H 12.8/37.9 , platelets 207 .
+Continue to monitor daily while on Heparin .
+4. Cardiovascular - h/o HTN .
+Was taking Lisinopril at home , but BP 115/83 , on admission 94/58 .
+Continue to monitor .
+5. Neurological - h/o CVA .
+Clinically stable .
+6. Musculoskeletal - h/o DJD .
+Clinically stable .
+7. Endocrine - h/o DM .
+Glucose 106 on admission .
+h/o Thyroid CA - papillary Stage I .
+Endocrinology following .
+Per patient for ablation .
+8. FEN - K + 3.3 , will replete .
+Mg 1.3 , will replete .
+Continue to monitor .
+9. Disposition - d/c to home when medically stable .
+Case discussed with Dr. **NAME[ZZZ] .
+Professional Services
+Credentials and Title of Author **NAME[VVV] Signing this **NAME[UUU] : CRNP
+Perform by **NAME[XXX , WWW] R
+( on **DATE[Mar 08 2007] 15:17 )
+Sign by **NAME[XXX , WWW] R
+( on **DATE[Mar 08 2007] 15:17 )
+VERIFY by **NAME[XXX , WWW] R
+( on **DATE[Mar 08 2007] 15:17 )

@@ -1,0 +1,63 @@
+**INSTITUTION
+Orthopaedics
+Discharge Summary
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT# :
+**ID-NUM
+ATTENDING :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Sep 29 2007] 13:45:00
+DISCHARGE DATE :
+**DATE[Oct 05 2007]
+ADMISSION DATE :
+**DATE[Sep 29 2007]
+DISCHARGE DATE :
+**DATE[Oct 7 2007]
+ADMISSION DIAGNOSIS :
+STATUS POST RIGHT TOTAL HIP ARTHROPLASTY .
+DISCHARGE DIAGNOSIS :
+STATUS POST RIGHT TOTAL HIP ARTHROPLASTY .
+CONSULTS :
+Were placed for Physical Therapy and Dr. **NAME[VVV] for medical management .
+BRIEF HPI :
+The patient is a **AGE[in 70s]- year - old female with a chief orthopedic complaint of pain in the right hip since **DATE[Feb] of 2006 .
+The patient fell in her bathtub around the same time .
+The patient began complaining of right hip pain with radiating pain down into her foot .
+The patient had occasional numbness and tingling .
+The patient , since that time , noted to have increased pain in ambulation and decreased range of motion of the right hip .
+The patient has been taking oxycodone and Vicodin because of the severity of her pain .
+BRIEF PHYSICAL EXAMINATION :
+RIGHT HIP :
+Range of motion is 0 to 90 degrees with flexion .
+No internal rotation , no external rotation , no abduction .
+X-rays and MRI s were consistent with severe arthritis of the right hip with AVN .
+Patient had a total hip arthroplasty of the right hip on **DATE[Sep 29] and , subsequently , was admitted and started on Coumadin 5 mg .
+HOSPITAL COURSE :
+Was complicated by what started as a fever , and the patient had an NG tube placed for an ileus .
+General Surgery was consulted .
+The NG tube was eventually pulled .
+The patient 's ileus and abdomen pain went down .
+The patient resumed her full weightbearing and physical therapy .
+Patient was discharged to a skilled nursing facility on Coumadin and is to follow up with Dr. **NAME[ZZZ] in 2 weeks or sooner if any problems arise .
+____________________________
+**NAME[WWW XXX]
+_________________________________
+**NAME[YYY M ZZZ]
+DICTATED BY :
+**NAME[WWW XXX]
+**INITIALS
+D :
+**DATE[Oct 19 2007] 08:15:53
+T :
+**DATE[Oct 19 2007] 13:52:36
+R :
+**DATE[Oct 19 2007] 13:52:36/np
+Job ID :
+394015/**ID-NUM
+CC :
+*** Dictated By :
+016399-Waters-Dana ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Nov 12 2007] 10:53:50 AM

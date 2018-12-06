@@ -1,0 +1,126 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Sep 14 2007]
+EVALUATION DATE :
+**DATE[Sep 14 07]
+HISTORY OF PRESENT ILLNESS :
+The patient is an **AGE[in 80s]- year - old gentleman who has a history of normal pressure hydrocephalus .
+He is status post VP shunt placement on **DATE[Jul 28 2007] .
+Apparently was known to have some issue with the issue and was supposed to get it revived , but in any case he was in the nursing home , apparently had some vomiting , shortness of breath , and therefore was transferred to **PLACE ER .
+In the **PLACE ER , he had a chest x-ray which was thought to be consistent with possible pneumonia .
+He subsequently had a CT scan which showed atrophy and moderate hydrocephalus .
+He had CT of his abdomen and pelvis which was read as being unremarkable .
+He was started on antibiotic therapy and was transferred here for further care .
+He denies swelling or nausea at this time .
+Denies abdominal pain , and he denies cough .
+He really cannot give a very accurate history because of his memory issues .
+PAST MEDICAL HISTORY :
+Normal pressure hydrocephalus , shunt placement on **DATE[Jul 28 2007] .
+He has had a history of coronary artery disease status post stent to his right coronary artery in **DATE[Jan 2002] .
+He also had a report that he may have had a stent placed as well in **DATE[Oct 2005] .
+He has a history of diabetes mellitus type 2 , hyperlipidemia , arthritis , diabetic neuropathy , status post CVA in **DATE[Oct 2005] , and he had lost his left eye vision in **DATE[Oct 2006] .
+He is status post bilateral knee replacement status post rotator cuff repair .
+MEDICATIONS :
+1. Avandia 4 mg q.a.m.
+2. Zocor 20 mg a day .
+3. Saw **PLACE .
+4. He is on B6 , B12 supplement .
+5. Iron sulfate 325 b.i.d.
+6. VESIcare 5 mg a day .
+7. Xalatan .
+8. Timolol .
+9. Saw **PLACE .
+10. Uroxatral .
+11. Aspirin .
+12. Plavix .
+13. Aricept .
+14. Neurontin .
+15. Imdur .
+16. Glucophage .
+17. Lopressor .
+SOCIAL HISTORY :
+He still work as a worker .
+He lives at a personal care home .
+He is married .
+He used to smoke a pack of cigarettes per day but quit 45 years ago .
+FAMILY HISTORY :
+Noncontributory to his current situation .
+REVIEW OF SYSTEMS :
+He is unable to give a very accurate review of systems secondary to his memory issues .
+He currently is denying problems with cough or abdominal discomfort .
+No current nausea .
+PHYSICAL EXAMINATION :
+His blood pressure today was 136/89 with a pulse of 116 , his temperature was 36.9 , and he was 98% on room air .
+His neck was supple .
+His carotids were 2+ , and I did not hear any bruits .
+Jugular venous pressure was 7 cm .
+His lungs had a few rhonchi at his bases .
+His heart had a normal S1 and S2 .
+No murmurs , rubs , or gallops .
+Abdomen was soft , and he was absolutely nontender .
+Bowel sounds were positive .
+There was no HSM noted .
+In his extremities , he had some trace peripheral edema .
+He had 2+ DP pulses both bilaterally .
+His finger to nose on targeting did have some tremor of his right hand .
+He did not have significant neck stiffness but had some mild rigidity of his extremities .
+His leg strength was 5/5 bilaterally and symmetric .
+He was oriented to the month , the year .
+He thought the day of the week was Saturday since just one day off and he felt the date was **DATE[Sep 7 2007] , and not **DATE[Sep 14 2007] .
+He was able to spell words more quickly , but he could not spell a word backward .
+He started with D but then went to W and continues about 4 words from there .
+ASSESSMENT AND PLAN :
+This is an **AGE[in 80s]- year - old gentleman with a history of normal pressure hydrocephalus .
+He is here to have some shunt revision .
+He has had problems with some nausea and vomiting yesterday , elevated white count , question if he may have had some mild aspiration and related nausea and vomiting .
+He currently looks much better than what was described yesterday .
+1. Vomiting .
+His abdominal x-ray looked unremarkable .
+He currently is not nauseated and was NPO but he seems to be doing better .
+We advanced his diet this afternoon since he is no longer having complaints of nausea .
+2. Mild aspiration pneumonia .
+His x-rays showed there is some retrocardiac infiltrates .
+Official reading is still pending .
+We will continue him on Unasyn therapy for now .
+We will have speech evaluation .
+3. Diabetes .
+We will continue his metformin and rosiglitazone and hold until the morning of the surgery .
+4. BPH .
+Continue his home regimen .
+The VESIcare does not seem to have any effect on memory .
+5. History of coronary artery disease .
+He denies any problems with chest pain , dyspnea on exertion at this time .
+His EKG revealed basically some Qs and 3 in aVF which is consistent with his recent EKG of **DATE[Jul 2007] .
+Based on the reading , there was no acute ST elevation or depression .
+Perioperatively , he will be continued on his nitrate and beta blocker .
+We will make sure he gets the dose on the morning of surgery .
+Case was discussed in detail with the house staff .
+I agree with their notes written .
+My note should be considered linked .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Sep 14 2007] 17:47:46
+T :
+**DATE[Sep 15 2007] 23:15:50
+R :
+**DATE[Sep 15 2007] 23:15:50/rav
+Job ID :
+346403 /**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , RRR M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Sep 21 2007] 09:14:07 PM

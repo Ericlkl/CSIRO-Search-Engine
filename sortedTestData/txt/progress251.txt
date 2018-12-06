@@ -1,0 +1,140 @@
+Progress **INSTITUTION , Narrative - Impression and Plan
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB M]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 70s] years
+Sex :
+Female
+DOB :
+**DATE[Feb 17 1928]
+Author :
+**NAME[XXX , WWW M]
+Subjective
+Pt is a **AGE[in 70s]yo f on HD#4 for fever secondary to cellulitis on abdomen .
+Pt is doing well this am .
+She has no complaints and denies fevers , chills , n / v / d , chest pain , SOB .
+She reports that she is eating well and is OOB to bathroom .
+She reports that she is using her incentive spirometry .
+She denies any pain , but reports some mild irritation in the area of her cellulitis .
+Health Status
+Current Medications : medication administration orders
+acetaminophen ( Tylenol ) ( ACETAMINOPHEN 325 MG CAPLET ) , 650 mg , Caplet , By Mouth , Q6H , PRN , For Pain , Mild ( 1-3 ) , Routine , **DATE[Feb 08 07] 21:05:00
+piperacillin - tazobactam ( Zosyn ) ( PIPERACILLIN/TAZOBACTAM ) , 4.5 gm , Solution , IV , Q8H , Routine , **DATE[Feb 07 07] 23:00:00
+alendronate ( Fosamax 70 mg oral tablet ) ( ALENDRONATE 70 MG TAB ) , 70 mg , Tab , By Mouth , QThursday , Routine , **DATE[Feb 11 07] 7:15:00 , Special Instructions : One half hour before breakfast .
+sertraline ( Zoloft ) ( SERTRALINE 100 MG TABLET ) , 200 mg , Tab , By Mouth , Daily , Routine , **DATE[Feb 08 07] 9:00:00
+levothyroxine ( Synthroid ) ( LEVOTHYROXINE SOD 50 MCG TABLET ) , 50 mcg , Tab , By Mouth , Daily , Routine , **DATE[Feb 08 07] 9:00:00
+galantamine ( Razadyne ER ) ( GALANTAMINE ER 16 MG CAPSULE ) , 16 mg , Er capsule , By Mouth , Daily , Routine , **DATE[Feb 08 07] 9:00:00
+docusate ( Colace ) ( DOCUSATE SODIUM 100 MG CAPSULE ) , 100 mg , Cap , By Mouth , BID , PRN , For Constipation , Routine , **DATE[Feb 07 07] 20:27:00
+amlodipine ( Norvasc ) ( AMLODIPINE 5 MG TABLET ) , 5 mg , Tab , By Mouth , Daily , Routine , **DATE[Feb 08 07] 9:00:00
+esomeprazole ( Nexium ) ( ESOMEPRAZOLE MAG TRIHYDRATE 40 MG ) , 40 mg , Ec capsule , By Mouth , Daily , Routine , **DATE[Feb 08 07] 9:00:00
+memantine ( Namenda ) ( MEMANTINE 10 MG TABLET ) , 10 mg , Tab , By Mouth , Daily , Routine , **DATE[Feb 08 07] 9:00:00
+metoprolol ( Lopressor ) ( METOPROLOL TART 25 MG TAB ) , 25 mg , Tab , By Mouth , BID , Routine , **DATE[Feb 07 07] 20:26:00
+atorvastatin ( Lipitor ) ( ATORVASTATIN 10 MG TAB ) , 10 mg , Tab , By Mouth , At Bedtime , Routine , **DATE[Feb 07 07] 22:00:00
+divalproex sodium ( Depakote ) ( DIVALPROEX SODIUM 250 MG DR **NAME[VVV] ) , 250 mg , Ec tab , By Mouth , Daily , Routine , **DATE[Feb 08 07] 9:00:00
+calcium and vitamin D combination ( calcium and vitamin D combination 600 mg - 400 iu oral tablet ) ( CALCIUM 600 MG / VIT. D 400IU TAB ) , 2 tab ( s ) , Tab , By Mouth , Daily , Routine , **DATE[Feb 08 07] 9:00:00
+lorazepam ( Ativan ) ( LORAZEPAM 0.5 MG TABLET ) , 0.5 mg , Tab , By Mouth , At Bedtime , PRN , For Anxiety , Routine , **DATE[Feb 07 07] 20:24:00
+aspirin 81 mg , 81 mg , Ec tab , By Mouth , Daily , Routine , **DATE[Feb 08 07] 9:00:00
+NS 1000 mL , 1,000 mL , IV , Routine , **DATE[Feb 07 07] 22:12:00 , 100 mL / hr , Administer Over : 10 HR
+Sodium Chloride 0.9% 1000 mL , 1000 mL , IV , STAT , **DATE[Feb 07 07] 14:58:00 , 1,000 mL / hr , Administer Over : 1 HR , Special Instructions : Bolus
+Results Review
+General results
+New results :
+Results New ( never reviewed )
+**DATE[Feb 10 2007] 5:30 AM
+Na 139 mEq / L
+K 3.6 mEq / L
+Cl 107 mEq / L
+CO2 27 mEq / L
+Anion Gap 5.0 Low
+BUN 4 mg / dL Low
+Cr 0.8 mg / dL
+Glucose 97 mg / dL
+Ca 8.4 mg / dL Low
+Ca ( adjusted ) 9.4
+( Modified )
+Albumin 2.5 gm / dL Low
+Total Protein 6.3 gm / dL Low
+Bili , Total 0.4 mg / dL
+ALT / SGPT 22 IntUnit / L Low
+AST / SGOT 19 IntUnit / L
+Alk Phos 78 IntUnit / L
+WBC 4.8 X10E+09 / L
+RBC 3.44 X10E+12 / L Low
+Hgb 8.8 gm / dL Low
+Hct 27.4 % Low
+MCV 79.7 fL Low
+MCH 25.7 pg Low
+MCHC 32.3 gm / dL Low
+RDW 16.2 % High
+MPV 5.6 fL Low
+Platelets 257 X10E+09 / L
+Neutrophils 56 %
+Lymphs 26 %
+Monocytes 10 %
+Eosinophils 8 % High
+Basophils 1 %
+ABS Neutrophils 2.7 X10E+09 / L
+ABS Lymphs 1.2 X10E+09 / L
+ABS Monocytes 0.5 X10E+09 / L
+Abs Eos , auto 0.4 X10E+09 / L
+ABS Basophils 0.0 X10E+09 / L
+**DATE[Feb 9 2007] 2:18 PM
+Occult Blood , Stool
+Neg
+Physical Examination
+Pt is resting comfortably , in NAD .
+General Exam
+Vital signs :
+BP : systolic 134 , diastolic 48 ,
+Pulse : 81 beats per min , regular ,
+Respiration : 16 breaths / min at rest ,
+Temperature : 35.8 degrees Celsius .
+Constitutional : appearance : comfortable .
+Heart : rate : normal , rhythm : normal , heart sounds : normal , no murmurs .
+Lungs : bilateral :
+few bibasilar crackles improved from yesterday .
+Otherwise lungs are CTA bilaterally
+Abdomen :
+soft , non - distended , non - tender .
+positive BS
+Skin :
+Abdominal lesion appears somewhat improved .
+Still has erythema with heavy crusts , no crepitus , no warmth .
+Neuro :
+Mental Status :
+Pt is alert and oriented , behavior appropriate
+No focal neurological deficits
+Psychiatric :
+Mood and affect : normal .
+Oropharynx .
+Impression and Plan
+**AGE[in 70s] yo F admitted for fever likely secondary to cellulitis on abdomen .
+Pt is afebrile X 3 d on febrile with negative cultures
+1:
+Cellulitis / infection
+* cellulitis appears to be improving on Zosyn
+* WBC 5.5 , afebrile
+* ID rec to start PO cephalexin in 1-2 d if pt 's status unchanged and Cx remain neg .
+2:
+Pulm
+* bibasilar crackles present but improved
+* encourage spirometr , OOB with assistance
+3:
+Anemia
+* H/H 8.8/27.4 , stable
+* consider Fe2 + on D/C or F/U with PCP to manage
+4:
+HTN
+* currently under control on meds
+5:
+Disposition :
+* Possible D/C to home today , will discuss with Dr. **NAME[ZZZ]/ID
+* Home heath and PT consulted
+Perform by **NAME[XXX , WWW] L
+( on **DATE[Feb 10 2007] 08:12 )
+Sign by **NAME[XXX , WWW] L
+( on **DATE[Feb 10 2007] 08:12 )
+VERIFY by **NAME[XXX , WWW] L
+( on **DATE[Feb 10 2007] 08:12 )

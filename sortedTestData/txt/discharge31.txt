@@ -1,0 +1,89 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+____________________________________________________________
+**NAME[AAA , BBB]
+**ID-NUM
+**ID-NUM
+A3B/1
+SERVICE OF :
+**NAME[ZZZ]
+**NAME[YYY]
+DATE OF ADMISSION :
+**DATE[Oct 07 2007]
+DATE OF DISCHARGE :
+**DATE[Oct 12 2007]
+FINAL DIAGNOSES :
+1. Tibial fracture , distal spiral , on the left .
+2. Fibular fracture , distal and proximal , on the left .
+3. Syncope .
+4. Temporal arteritis .
+5. B12 deficiency .
+6. Acute myocardial infarction , stable coronary artery disease .
+CONSULTANTS :
+1. Dr. **NAME[XXX] , orthopedics .
+2. Dr. **NAME[WWW] in cardiology .
+Management will be
+1. Vicodin 1 for mild pain every 4 hours or 2 for moderate pain every 4 hours .
+2. Magnesium hydroxide 30 mL nightly p.r.n.
+3. Norvasc 10 mg daily .
+4. Aspirin 324 mg daily .
+5. Plavix 75 mg daily .
+6. B12 injection IM 1000 mcg monthly .
+7. Colace 100 mg b.i.d.
+8. Lovenox 65 mg b.i.d.
+9. Ferrous sulfate 220 mg daily for 2 months .
+10. Metoprolol 50 mg b.i.d.
+11. OxyContin Extended Release q.12 h. 30 mg b.i.d.
+12. Prednisone 10 mg daily .
+LABORATORY :
+I will repeat the sedimentation rate and CBC and diff and CMP in approximately 2 weeks .
+**INSTITUTION :
+This remarkable **AGE[90+]- year-old widow , who lives with her niece and son-in-law on a farm , had a syncopal episode .
+She does not remember going down .
+She sustained a left lower spiral tibial fracture and a fibular fracture .
+She was brought to the emergency room .
+Her past medical history is significant for triple-vessel disease in the coronaries evaluated in the past by Dr. **NAME[WWW] .
+The patient is no candidate for [_______________]*** procedure and she has also had a bitemporal severe arteritis approximately 4 years ago that responded slow taper of steroids .
+I have not seen her for several months , but she has continued to receive 10 mg of prednisone on a daily basis without incident .
+She has had a CVA in the past with diplopia , but no recurrence .
+She has had a right mastectomy for many many years ago without any recurrence and suffers from osteoporosis .
+Her blood pressure was stable .
+On exam she was 130/80 and a pulse of 76 with rare ectopics .
+There was some mild skin ecchymosis in the upper extremities .
+There was some flat skin lesions over the scalp .
+The patient was alert and had a fairly good memory .
+The heart was significant for a grade 2 to 3 over 6 systolic murmur at the base that radiated into the neck and into the left as well as the right carotid areas .
+The lungs were clear .
+The patient was in a wheelchair .
+The extremities showed a left leg cast just below the knee .
+Her current medications when she came in was
+1. Norvasc .
+2. Plavix .
+3. Prednisone .
+4. Metoprolol .
+The patient was seen by cardiology as well as by orthopedics .
+The patient received some physical therapy , but continued to have problems with significant pain .
+Relief of pain was difficult and ultimately required OxyContin Extended Release .
+This was at first 10 mg twice a day then increased to 20 b.i.d. and finally 30 mg twice a day .
+She had a problem with constipation and urinary retention , but this was relieved by disimpaction and with a soapsuds enema .
+Her last set of chemistries looked fairly stable .
+She did show some very mild iron deficiency with 10% saturation and her B12 level was also low when she was seen .
+Orthopedics followed her and felt that nonweightbearing for 6 to 8 weeks with a walker and then functional brace and will take approximately 3 months to heal and then of course the patient will need to be followed up by Dr. **NAME[XXX] at all .
+The TIBC was 277 and her iron saturation at 10% .
+Her TSH was upper limits of normal at 4.92 .
+A B12 level was 190 and a folic acid was normal at 6.7 .
+Other studies appeared quite good .
+She was seen in consultation by Dr. **NAME[VVV] who felt the patient was reasonably stable at this point ; however , she did evolve with some chest pain 24 hours prior to discharge and had a slight elevation of the troponin consistent with probably a remote myocardial infarction .
+The patient was discharged definitely improved for rehab at Vincentian Regency under the care of Dr. **NAME[UUU] .
+It is conceivably possible that the patient begins to ambulate and she may return home with her niece and son-in-law .
+___________________
+**NAME[ZZZ M. YYY] , M.D.
+Dict :
+**DATE[Oct 12 2007] 11:26:17
+Tran :
+**DATE[Oct 12 2007] 23:06:45
+**INITIALS
+R :
+**DATE[Oct 12 2007] 23:06:45/km
+**CARBON-COPY

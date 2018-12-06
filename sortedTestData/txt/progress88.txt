@@ -1,0 +1,173 @@
+TRANSFER SUMMARY
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB M]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 70s] years
+Sex :
+Male
+DOB :
+**DATE[Mar 30 1930]
+Author :
+**NAME[XXX , WWW]
+Results Review
+General results
+Most recent results
+Discrete results only :
+ALLSRVSECTS
+**DATE[Apr 21 2007] 4:00 AM
+Na 135 mEq / L Low
+K 3.9 mEq / L
+Cl 99 mEq / L
+CO2 30 mEq / L
+Anion Gap 6.0 Low
+BUN 17 mg / dL
+Cr 0.9 mg / dL
+Ca 8.1 mg / dL Low
+Mg 1.6 mEq / L
+Phos 2.2 mg / dL Low
+WBC 11.3 X10E+09 / L High
+RBC 3.78 X10E+12 / L Low
+Hgb 10.1 gm / dL Low
+Hct 31.4 % Low
+MCV 83.1 fL
+MCH 26.8 pg Low
+MCHC 32.3 gm / dL Low
+RDW 17.9 % High
+MPV 6.9 fL
+Platelets 197 X10E+09 / L
+Neutrophils 71 %
+Lymphs 19 %
+Monocytes 7 %
+Eosinophils 3 %
+Basophils 0 %
+ABS Neutrophils 8.00 X10E+09 / L High
+ABS Lymphs 2.20 X10E+09 / L
+ABS Monocytes 0.80 X10E+09 / L
+ABS Eosinophils 0.30 X10E+09 / L
+ABS Basophils 0.00 X10E+09 / L
+Type of Differential
+Automated Differential
+PT 9.7 sec
+INR 1.1
+Discharge Information
+Discharge Summary Information
+Admitted
+**DATE[Apr 17 2007] .
+Discharged
+**DATE[Apr 22 2007] .
+Admitting physician :
+**NAME[ZZZ , YYY M] .
+Acute aortic occlusion .
+Discharge diagnosis :
+All Problems
+[ESRD] CHRONIC RENAL FAILURE ( ICD-9-CM 585 )
+[PVD] PERIPHERAL VASCULAR DISEASE , UNSPECIFIED ( ICD-9-CM 443.9 )
+ABDOMINAL AORTIC ANEURYSM , RUPTURED ( ICD-9-CM 441.3 )
+CATARACT EXTRACTION STATUS ( ICD-9-CM V45.61 )
+DIABETES MELLITUS ( ICD-9-CM 250 )
+Glaucoma ( ICD-9-CM 365 )
+HYPERTENSION ( ICD-9-CM 997.91 )
+OA [Osteoarthritis] ( ICD-9-CM 715.9 )
+PRIMARY PULMONARY HYPERTENSION ( ICD-9-CM 416.0 ) .
+Discharge medications :
+Current Medications : medication administration orders
+( selected ) zolpidem , 5 mg , By Mouth , At Bedtime ,
+Drug Form : Tab , PRN ,
+Start : **DATE[Apr 19 07] 23:52:00
+torsemide , 10 mg , By Mouth , Daily ,
+Drug Form : Tab ,
+Start : **DATE[Apr 19 07] 9:00:00
+ramipril , 2.5 mg , By Mouth , Daily ,
+Drug Form : Cap ,
+Start : **DATE[Apr 19 07] 9:00:00
+pantoprazole , 40 mg , By Mouth , Daily ,
+Drug Form : Ec tab ,
+Start : **DATE[Apr 19 07] 9:00:00
+multivitamin , 1 cap ( s ) , By Mouth , Daily ,
+Drug Form : Cap ,
+Start : **DATE[Apr 19 07] 9:00:00
+multivitamin , 1 cap ( s ) , By Mouth , Daily ,
+Drug Form : Cap ,
+Start : **DATE[Apr 19 07] 9:00:00
+metoprolol , 5 mg , IV , Q4HRS ,
+Drug Form : Vial ,
+Start : **DATE[Apr 19 07] 0:00:00
+MAR CHECK , Miscellaneous , BID ,
+Drug Form : Misc ,
+Start : **DATE[Apr 18 07] 22:39:00
+magnesium oxide , 400 mg , By Mouth , BID ,
+Drug Form : Tab ,
+Start : **DATE[Apr 18 07] 22:41:00
+insulin regular , 1 SeeNotes , subQ , ACandHS ,
+Drug Form : Solution ,
+Start: **DATE[Apr 19 07] 8:00:00
+HYPOGLYCEMIA PROTOCOL , Miscellaneous , AS DIRECTED ,
+Drug Form : Misc , PRN ,
+Start : **DATE[Apr 18 07] 22:43:00
+heparin , 5000 Unit ( s ) , subQ , BID ,
+Drug Form : Vial ,
+Start : **DATE[Apr 18 07] 22:39:00
+glipiZIDE , 5 mg , By Mouth , Daily ,
+Drug Form : Tab ,
+Start : **DATE[Apr 19 07] 9:00:00
+D5 1/2NS 1000 mL , IV ,
+Start : **DATE[Apr 18 07] 2:02:00 ,
+Infuse Rate : 65 mL/hr ,
+Administer Over : 15.4 HR clopidogrel , 75 mg , By Mouth , Daily ,
+Drug Form : Tab ,
+Start : **DATE[Apr 19 07] 9:00:00
+ciprofloxacin - dexamethasone otic , 4 Drop ( s ) , Left Ear , BID ,
+Drug Form : Susp ,
+Start : **DATE[Apr 20 07] 21:00:00 ,
+Duration : 5 Day ( s )
+ciprofloxacin - dexamethasone otic , 3 Drop ( s ) , Left Ear , BID ,
+Drug Form : Susp ,
+Start : **DATE[Apr 20 07] 21:00:00 ,
+Duration : 5 Day ( s )
+carvedilol , 3.125 mg , By Mouth , Daily ,
+Drug Form : Tab ,
+Start : **DATE[Apr 19 07] 9:00:00
+aspirin , 81 mg , By Mouth , Daily ,
+Drug Form : Tab ,
+Start : **DATE[Apr 19 07] 9:00:00
+acetaminophen - hydrocodone , 2 tab ( s ) , By Mouth , Q4HRS ,
+Drug Form : Tab , PRN ,
+Start : **DATE[Apr 18 07] 22:41:00 .
+Physical Examination
+Vital signs : normal
+Constitutional : normal
+Arterial pulses
+Dorsalis pedis pulse : bilateral : normal .
+Capillary return : normal
+Heart : normal
+Veins : normal
+Respirations : normal
+Lungs : normal
+Abdomen : normal
+General musculoskeletal : normal
+Mental status : normal
+No Edema
+Hospital Course
+Hospital Course
+Patient statistics :
+**AGE[in 70s] year old , male .
+Transferred : by ambulance .
+Admitting diagnosis : aortic occlusion .
+Admission disposition : admit to monitored bed .
+Medical management :
+Day 1 ( Medications : heparin gtt , Procedures : axillo - bifemoral bypass ) .
+Discharge Plan
+Discharge Summary Plan
+Discharge Status : improved .
+Discharge Disposition : discharge to skilled nursing facility healthsouth dubois .
+Activity : per pmr .
+Follow Up :
+With Dr. **NAME[ZZZ] in four weeks **ID-NUM .
+Perform by **NAME[XXX , WWW]
+( on **DATE[Apr 22 2007] 11:52 )
+Sign by **NAME[XXX , WWW]
+( on **DATE[Apr 22 2007] 11:52 )
+VERIFY by **NAME[XXX , WWW]
+( on **DATE[Apr 22 2007] 11:52 )

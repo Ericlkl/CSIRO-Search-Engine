@@ -1,0 +1,177 @@
+Discharge Summary
+**INSTITUTION
+Patient :
+**NAME[AAA] JR , **NAME[BBB] C
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 40s] years
+Sex :
+Male
+DOB :
+**DATE[Jun 16 1966]
+Author :
+**NAME[XXX  , WWW M]
+Results Review
+General results
+New results :
+ResultsNew ( never reviewed )
+**DATE[Nov 17 2007] 4:49 PM
+DUPLEX SCAN , VEINS , EXTREMITY ; COMPLETE BILAT STUDY
+DUPLEX SCAN , VEINS , EXTREMITY ; COMPLETE BILAT STUDY
+**DATE[Nov 17 2007] 4:00 PM
+WBC 8.6 X10E+09 / L
+RBC 3.26 X10E+12 / L Low
+Hgb 8.5 gm / dL Low
+Hct 25.4 % Low
+MCV 78.0 fL Low
+MCH 26.0 pg Low
+MCHC 33.4 gm / dL
+RDW 16.3 % High
+MPV 7.7 fL
+Platelets 311 X10E+09 / L
+Neutrophils 78 % High
+Lymphs 9 % Low
+Monocytes 8 %
+Eosinophils 4 %
+Basophils 1 %
+ABS Neutrophils 6.70 X10E+09 / L
+ABS Lymphs 0.80 X10E+09 / L
+ABS Monocytes 0.60 X10E+09 / L
+ABS Eosinophils 0.30 X10E+09 / L
+ABS Basophils 0.10 X10E+09 / L High
+PT 20.1 sec High
+INR 2.2
+PTT 37.9 sec High
+**DATE[Nov 17 2007] 10:35 AM
+MR LOWER EXTREMITY W/O RIGHT
+LOW EXT W&amp ; WO RT
+Discharge Information
+Discharge Summary Information
+Admitted
+**DATE[Nov 15 2007] .
+Discharged
+**DATE[Nov 18 2007] .
+Admitting physician :
+**NAME[VVV] , MARK .
+Right groin swelling .
+Discharge diagnosis :
+All Problems ( Selected )
+Diabetic myonecrosis .
+Discharge medications :
+Current Medications : medication administration orders ( selected )
+warfarin , 5 mg , By Mouth , QPM , Drug Form : Tab , Start : **DATE[Nov 16 07] 18:00:00
+sucralfate , 1 gm , By Mouth , Q6HRS , Drug Form : Tab , PRN , Start : **DATE[Nov 15 07] 21:45:00
+sertraline , 100 mg , By Mouth , Daily , Drug Form : Tab , Start : **DATE[Nov 15 07] 23:00:00
+senna , 2 tab ( s ) , By Mouth , At Bedtime , Drug Form : Tab , Start : **DATE[Nov 15 07] 21:40:00
+pantoprazole , 40 mg , By Mouth , Daily , Drug Form : Ec tab , Start : **DATE[Nov 15 07] 23:00:00
+multivitamin , 1 cap ( s ) , By Mouth , Daily , Drug Form : Cap , Start : **DATE[Nov 16 07] 9:30:00
+morphine , 5 mg , By Mouth , Q4HRS , Drug Form : Solution , PRN , Start : **DATE[Nov 15 07] 21:44:00
+metoclopramide , 10 mg , By Mouth , TIDAC , Drug Form : Tab , Start : **DATE[Nov 15 07] 23:00:00
+lorazepam , 0.5 mg , By Mouth , Q8HRS , Drug Form : Tab , PRN , Start : **DATE[Nov 15 07] 21:45:00
+lanthanum carbonate , 1000 mg , By Mouth , TID meals , Drug Form : Chew tab , Start : **DATE[Nov 16 07] 0:00:00
+insulin regular , 1 See Notes , subQ , ACandHS , Drug Form : Solution , Start : **DATE[Nov 15 07] 23:00:00
+insulin isophane , 13 Unit ( s ) , subQ , QPM , Drug Form : Injection , Start : **DATE[Nov 15 07] 21:47:00
+insulin isophane , 15 Unit ( s ) , subQ , QAM , Drug Form : Injection , Start : **DATE[Nov 16 07] 8:00:00
+insulin aspart , 4 Unit ( s ) , subQ , TID meals , Drug Form : Solution , Start : **DATE[Nov 15 07] 21:49:00
+gabapentin , 300 mg , By Mouth , QTueThur , Drug Form : Cap , Start : **DATE[Nov 16 07] 9:00:00
+bisacodyl , 10 mg , Per Rectum , Daily , Drug Form : Supp , PRN , Start : **DATE[Nov 15 07] 21:44:00 .
+Physical Examination
+Vital signs
+BP : systolic 121 , diastolic 77 .
+Resp : 20 breaths / min .
+Temp : 98.8 F .
+Constitutional
+Alert and oriented .
+Skin color : not jaundiced .
+Arterial pulses
+Posterior tibial pulse : bilateral : normal .
+Dorsalis pedis pulse : bilateral : normal .
+Heart
+Rate : normal .
+Rhythm : normal .
+Murmurs : systolic ( intensity Grade III/ VI , location heard throughout precordium ) .
+Edema
+Right lower extremity : leg 1 + .
+Respirations
+No distress .
+Lungs
+Bilateral : breath sounds clear to auscultation .
+Abdomen
+Soft .
+Bowel sounds : normal .
+No tenderness .
+No mass .
+No ascites .
+Liver
+No hepatomegaly .
+Spleen
+No splenomegaly .
+General musculoskeletal
+RUE swelling without pitting edema .
+swelling on right medial upper thigh without erythema or warmth .
+tender to palpation .
+Mental status
+Patient does not speak much , secondary to CVA .
+Hospital Course
+Hospital Course
+Patient statistics :
+**AGE[in 40s] year old .
+Admitted : from emergency department .
+Admitting diagnosis : right groin swelling .
+Admission disposition : admit to medical bed .
+HPI - **AGE[in 40s] yo male came to ED with right groin swelling .
+Brief recent history
+- ESRD , on transplant list .
+Came in for transplant on **DATE[Sep 3 07] , but was found to have elevated alk phos an tbili , so was unable to be transplanted on that day , and was taken off of the list pending hepatology workup .
+This far , workup has been negative , including MRCP .
+Was admitted to Latrobe hospital from **DATE[Nov 1 07] until **DATE[Nov 10 07] for RUE swelling .
+On angioplasty ( through the right brachial vein ) , was found to have NO DVT - the right inominate vein was stenotic , so was stented .
+This was felt to be due to TDC presence , however , access is an issue with thsi gentelman , so the catheter was left in place , and anticoagulation was started .
+During the Latrobe hospitalization , on either 1/8 or 1/9 , right groin swelling started .
+Doppler was negative for DVT or hematoma , and he was discharged to his persnal care home .
+Mr. **NAME[AAA] presented to presby ED on 1/15 with continued right groin swelling and pain .
+Extensive review of Latrobe records revealed no history of groin line placement , and patient reports none .
+There is no evidence on exam of a goin line or use for blood draw .
+1. Right groin swelling - Ultrasound on 1/16 showed organized hematoma 1.2 x 2.86 cm .
+Both general and vascular surgery consult also felt that the exam was c/w hematoma , and not concerning for vascular malformation .
+Recommended observation .
+MRI on 1/17 of the LE showed diabetic myonecrosis , concerning for inflammation or infection .
+No fluid collection or abscess is visualized .
+Clinical picture is not concerning for infection ( afebrile , WBC normal ) so inflammation of the muscles is most likely .
+Recommend rest until symptoms improve , leg elevation , wheelchair with footrests for transport beyond walking to the restroom , etc .
+In terms of follow up , would recommend CBC three times per week and physical exam by nursing home physician to be sure that an infection does not develop .
+If symptoms worsen , if Mr. **NAME[AAA] becomes febrile , this is concerning for infection or worsening inflammation .
+2. RUE swelling - Recent baloon opening of stenotic right inominate vein .
+Doppler was repeated 1/17 , which showed patent vessels .
+Will send patient home on continued anticoagulation , and will defer to PCP on whether to continue anticoagulation in the absence of DVT .
+Continue to check INR while on Coumadin .
+3. Renal - continued hemodialysis MWF as per home schedule , with IV iron .
+Also continued home phosphate binders .
+Consider low glucose Boost ( or equivalent ) TID as an outpatient to maintain adequate BUN .
+4. Endocrine - Mr. **NAME[AAA] has a history of difficult to control glucose .
+Was kept on home regimen of insulin , plus SSI , and will be discharged with same .
+5. ID - At Latrobe hospital , Mr. **NAME[AAA] was found to have CoNS bacteremia , and was treated with vancomycin .
+Blood cultures during this admission were negative .
+Discharge Plan
+Discharge Summary Plan
+Discharge Status : improved .
+Discharge Disposition : discharge to skilled nursing facility .
+Prescriptions : continue same medications .
+Activity :
+OOB to chair during the day .
+Limit activity until clinically improved .
+Follow Up :
+With doctor at nursing home .
+Check CBC and coags as indicated , and monitor RLE swelling .
+Consults : general surgery , vascular surgery , and renal medicine .
+Perform by **NAME[XXX  , WWW]
+( on **DATE[Nov 18 2007] 10:55 )
+Sign by **NAME[XXX  , WWW]
+( on **DATE[Nov 18 2007] 10:55 )
+VERIFY by **NAME[XXX  , WWW]
+( on **DATE[Nov 18 2007] 10:55 )
+Sign by **NAME[ZZZ , YYY] J
+( on **DATE[Nov 18 2007] 10:55 )
+**NAME[CCC:
+XXX  , WWW]
+( on **DATE[Nov 18 2007] 10:55 )

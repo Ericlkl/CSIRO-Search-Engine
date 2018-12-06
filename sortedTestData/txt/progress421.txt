@@ -1,0 +1,53 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[BBB M ZZZ]
+ADMISSION DATE :
+**DATE[May 25 2007]
+EVALUATION DATE :
+**DATE[Jun 13 07]
+A **AGE[in 60s]- year - old male .
+Overnight events reviewed .
+Medications and laboratories reviewed .
+Condition stable on **INSTITUTION .
+ASSESSMENT :
+1. CVA , left MCA distribution , S/P t-PA , right hemiplegia , aphasia , aspiration .
+Tracking commands intermittently , protective reflexes intact .
+DVT , ulcer , and seizure prophylaxis .
+2. Coronary artery disease , atrial fibrillation , permanent pacemaker .
+No chest pain or dyspnea .
+S1 , S2 normal .
+No audible S3 or S4 gallop .
+Flow murmur stable .
+MR murmur stable .
+No cardiovascular decompensation .
+3. Dyslipidemia .
+Asymptomatic .
+No abdominal pain or pancreatitis .
+4. Hypertension .
+Blood pressure controlled .
+No neurovascular / cardiovascular decompensation .
+___________________________________
+**NAME[BBB M. ZZZ] , M.D.
+Dictator :
+**NAME[BBB M. ZZZ] , M.D.
+**INITIALS
+D :
+**DATE[Jun 14 2007] 22:38:12
+T :
+**DATE[Jun 15 2007] 02:19:26
+R :
+**DATE[Jun 15 2007] 02:19:26/fk
+Job ID :
+389143/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[ZZZ , WWW M]. ***
+Electronically Signed by **NAME[VVV UUU] for **NAME[BBB ZZZ] **DATE[Jun 28 2007] 03:02:04
+PM

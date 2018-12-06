@@ -1,0 +1,74 @@
+**INSTITUTION
+Orthopaedics
+Discharge Summary
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT# :
+**ID-NUM
+ATTENDING :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Aug 30 2007] 00:00:00
+DISCHARGE DATE :
+**DATE[Sep 02 2007]
+ADMISSION DIAGNOSES :
+Right bimalleolar fracture of the right ankle secondary to a fall and history of tobacco chewing .
+DISCHARGE DIAGNOSES :
+1. Status post ORIF of bimalleolar right ankle fracture .
+2. Tobacco usage .
+CONSULTANTS :
+Consultants include Dr. **NAME[WWW] , for medical management .
+BRIEF HISTORY OF PRESENT ILLNESS :
+The patient is a **AGE[in 50s]- year - old male who was a consult from Dr. **NAME[VVV] regarding a right ankle bimalleolar fracture .
+The patient reports that he was walking on **DATE[Aug 20 2007] , slipped on ice and injured his right ankle .
+Initially , the patient thought that he had a severe right ankle sprain and did not seek immediate medical attention .
+However , the patient states that the right ankle became more painful and it was very difficult for him to ambulate .
+The patient then presented to **INSTITUTION Southside ED on **DATE[Aug 28 2007] , and x-rays were taken at that time and he was diagnosed with bimalleolar fracture .
+The patient was then admitted to Dr. **NAME[VVV] 's service and then Dr. **NAME[VVV] had consulted Dr. **NAME[ZZZ] for further evaluation and possible treatment option .
+Physical examination reveals on his right ankle he had DP and PT pulses , which were intact 2/4 with capillary refills of less than 2 seconds .
+The patient had skin temperature , which was normal with warm to touch and skin turgor was within normal limits .
+The patient had positive ecchymosis and edema noted at the right ankle and does have a 0.5 - cm blister noted on the medial malleolus , right , which has serous fluid .
+The patient had adequate range of motion to his toes 1 to 5 .
+His right ankle is dislocated in a valgus malalignment .
+His calf compartment was soft and supple .
+At this point , we can appreciate the relaxed skin tension line along the medial malleolus .
+The patient had adequate protective sensation to light touch sensation noted .
+There appears to be after reviewing the patient 's radiograph an antegrade tibial nail intact and a fibular plate proximal to the lateral malleolus .
+There appears to be evidence of oblique fracture of the lateral malleolus , which is in varus malalignment and vertical medial malleolar fracture as well .
+There are also osteoarthritic changes noted on the anterior and posterior aspects of the ankle joint .
+ADMISSION LABS :
+His sodium was 141 , potassium of 3.8 , chloride of 101 , bicarbonate was 27 , BUN is 10 , and glucose was 109 .
+WBC of 5.7 , hemoglobin of 14.2 , hematocrit was 41.5 , platelets were 288 , PT was 10.6 , INR was 0.9 , and PTT was 28.3 .
+PROCEDURE PERFORMED :
+On **DATE[Aug 31 2007] open reduction and internal fixation of bimalleolar fracture ; right ankle utilizing 10 - hole locking plate laterally for the distal fibular fracture and 3 Synthes screws , which were partially threaded cancellous screw medially .
+HOSPITAL COURSE :
+Once the patient was admitted , medical management was performed by Dr. **NAME[WWW] .
+The patient was medically stable and on **DATE[Aug 31 2007] , the patient was taken in to the OR for open reduction and internal fixation of bimalleolar fracture .
+The patient tolerated the procedure well and postoperatively , the patient was again readmitted to 3D Ortho for a wound management as well as pain management .
+The patient tolerated the pain management well and the patient 's vital signs were stable throughout the hospital stay .
+The patient 's **NAME[UUU] compression dressing was intact to the right ankle of the right leg with capillary refill less than 3 seconds .
+Once the block wore off , on postoperative day #1 , the patient was able to move his toes and the patient was also started on PCA on postoperative day #2 .
+The patient was then discharged to home in satisfactory condition .
+DISCHARGE MEDICATIONS :
+Lovenox 40 mg subcutaneously once daily , oxycodone 1 to 3 tablets every 4 hours 5 mg p.o. , and acetaminophen 1000 mg every 8 hours p.r.n. pain .
+DISCHARGE INSTRUCTIONS :
+The patient was instructed to keep his dressing intact , dry , and elevate his right leg with 2 pillows and the patient is to follow up with Dr. **NAME[ZZZ] in 1 week .
+The patient has been informed to continue to nonweightbearing to the right lower extremity and use crutches .
+_________________________________
+**NAME[YYY M ZZZ]
+DICTATED BY :
+**NAME[TTT SSS] , DPM
+**INITIALS
+D :
+**DATE[Sep 05 2007] 16:25:21
+T :
+**DATE[Sep 06 2007] 01:47:30
+R :
+**DATE[Sep 06 2007] 01:47:30/sj
+Job ID :
+376168/**ID-NUM
+CC:n
+*** Dictated By :
+017106-**NAME[ZZZ , CCC XXX] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Sep 09 2007] 08:57:31 AM

@@ -1,0 +1,84 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Apr 13 07]
+Mrs. **NAME[AAA] is a **AGE[in 60s]- year - old woman status post lung volume reduction surgery for COPD .
+She continues to require critical care for management of respiratory insufficiency , pneumonia , hyperglycemia , renal failure , and malnutrition .
+ASSESSMENT AND PLAN :
+1. PULMONARY RESPIRATORY INSUFFICIENCY / FAILURE :
+I am currently managing Mrs. **NAME[AAA] this afternoon on trach mask .
+Oxygen saturations are acceptable on 50% Fi02 .
+She did stay off the vent overnight last night and has been on trach mask for approximately 24 hours .
+She looks more fatigued this afternoon .
+I plan to rest her on the vent overnight on assist control ventilation .
+I will continue daily trach mask trials and wean her Fi02 as tolerated .
+Chest x-ray shows bilateral infiltrates and improved edema .
+There is bibasilar atelectasis which is unchanged .
+2. CARDIOVASCULAR :
+Extremities are warm and adequately perfused .
+She is in a sinus rhythm in the 90s to 100s .
+Mean pressure is in the 60s .
+She is not requiring inotropic or pressor support at this time .
+3. INFECTIOUS DISEASE :
+Afebrile at 36.4 with a white count of 7.1 .
+I am completing a course of ciprofloxacin for a BAL on **DATE[Apr 07 2006] which was positive for Klebsiella and E. Coli .
+4. HEMATOLOGY :
+Hemoglobin this morning is 9.5 with a platelet count of 251 .
+There is no evidence of active bleeding or clinically significant coagulopathy .
+5. RENAL :
+Ultrafiltrated for 1.5 liters yesterday .
+She is scheduled for tunnel - dialysis catheter placement this afternoon .
+BUN today is 34 with a creatinine of 2.4 .
+She continues to have significant lower extremity edema .
+6. FLUIDS , ELECTROLYTES AND NUTRITION :
+Sodium 137 , potassium 4.2 , magnesium 2.1 .
+I have replaced electrolytes per protocol .
+7. GI :
+Abdomen is soft and benign .
+She does complain of some right upper quadrant discomfort .
+LFT s yesterday showed a total bilirubin of 0.8 with relatively normal transaminases .
+There is no peritonitis on examination today .
+8. PROPHYLAXIS :
+She is status post IVC filter placement for lower extremity DVT .
+I am continuing subcutaneous heparin at this time .
+Upper extremity duplex was negative for deep venous thrombosis .
+I will continue Prevacid and Flagyl .
+9. ENDOCRINE / HYPERGLYCEMIA :
+I am continuing sliding scale insulin coverage to maintain euglycemic control .
+I will resume NPH insulin following her tunnel dialysis catheter and continue her home dose of prednisone .
+10. PAIN CONTROL :
+I will continue Fentanyl .
+11. NEUROLOGIC :
+Awake and alert .
+Moves all extremities .
+Has no focal deficits .
+Critical care time = 32 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Apr 14 2007] 01:20:42
+T :
+**DATE[Apr 15 2007] 06:06:59
+R :
+**DATE[Apr 15 2007] 06:06:59/vls
+Job ID :
+426505/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 04 2007] 07:45:04 PM

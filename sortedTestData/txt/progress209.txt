@@ -1,0 +1,55 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M. ZZZ] , M.D.
+ADMISSION DATE :
+**DATE[Feb 12 2007]
+EVALUATION DATE :
+**DATE[Mar 22 07]
+I am managing this critically ill **AGE[in 60s]- year - old female who is status post sternal debridement for mediastinitis , status post CABG surgery .
+Her hospital course has been complicated by respiratory failure , acute renal failure , and fluid overload .
+I have seen and examined the patient and reviewed her laboratory , radiographic , and EMTEK data , and discussed the management with the plastic surgeons .
+Problems and management are as follows :
+1. Acute renal failure .
+The rise in the BUN and creatinine have plateaued and the peak BUN and creatinine were 97 and 3.5 , and today 's BUN is 64 and creatinine is down to 2.8 .
+Her potassium is 3.5 .
+The potassium level did respond to Kayexalate .
+We started the patient also on intermittent dialysis through a dialysis catheter .
+The patient is tolerating the dialysis well .
+2. Respiratory failure .
+The chest x-ray shows the pigtail is in good position .
+There still seems to be a small left - sided effusion and a subsegment of atelectasis .
+On the ventilator , I am trying to switch the patient to pressure support ventilation on a pressure support setting of 8 and PEEP of 8 , and will try to wean down those settings .
+The patient has previously failed tracheal mask trials , but we will try in the afternoon another trach mask trial again .
+3. Mediastinitis .
+The patient is on a six - week course of cefepime .
+The white blood cell count is recently down to 8.5 today , and her fever / temperature also came down for a Temperature max of 36.5 .
+On my examination , the patient has a regular rate and rhythm and breath sounds are regular and clear .
+4. ICU prophylaxis .
+The patient is on Protonix for GI prophylaxis and heparin subcutaneous for DVT prophylaxis .
+He is on sliding scale insulin for tight glucose control .
+CRITICAL CARE TIME SPENT WAS 32 MINUTES .
+___________________________________
+**NAME[M. WWW XXX] , M.D.
+Dictator :
+**NAME[M. WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 24 2007] 18:53:12
+T :
+**DATE[Mar 24 2007] 18:57:06
+R :
+**DATE[Mar 24 2007] 18:57:06/eab
+Job ID :
+402327/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT WWW] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jun 01 2007] 08:37:42 AM

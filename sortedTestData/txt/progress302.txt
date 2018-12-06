@@ -1,0 +1,53 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Feb 30 07]
+I have been requested by Dr. **NAME[ZZZ] to take care of this patient admitted to the ICU .
+I am managing this patient 's respiratory failure , hyperglycemia , infectious disease , and electrolyte imbalances .
+I have examined this patient , reviewed the data in the medical records , and looked at the most recent x-ray films .
+This patient 's care has been provided under my direct supervision .
+On my examination today , the patient is awake , seems to be following commands .
+It looks like she may be a little bit confused and delirious .
+Examination of the heart reveals S1 , S2 present .
+The lungs revealed diminished breath sounds at both bases .
+The abdomen is soft and nontender .
+With regards to my assessment and plan for the day , I tried her on CPAP 5 , pressure support 5 .
+Every time I tried her on minimal pressure support , the patient 's minute volume goes down to less than 5 liters , and she gets into moderate to severe respiratory acidosis with pH in the 7.15 to 7.25 range .
+The PCO2 is in the high 70s to mid 80s .
+I , hence , aborted that trial .
+She also had increasing wheezing this morning for which she is on all her home medications including theophylline , p.o. prednisone and the IV hydrocortisone .
+At the present time , the patient is quite not ready for extubation from a mechanical standpoint of view ; however , she has been off her __________ gas insufflation .
+I have left her on CPAP at the pressure support of anywhere from 12-15 with which her ventilation seems to be adequate .
+Her air leak has not gotten better .
+The x-ray looks nicely expanded .
+I have continued an insulin infusion on her along with the Unasyn she is on empirically after the __________ tear .
+I have replaced her electrolytes appropriately .
+The total critical care time I provided on this patient is **AGE[in 30s] minutes .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Feb 31 2007] 19:37:51
+T :
+**DATE[Feb 31 2007] 19:59:12
+R :
+**DATE[Feb 31 2007] 19:59:12/plb
+Job ID :
+370257/**ID-NUM
+*** Dictated By :
+-**NAME[XXX , TTT] ***
+Electronically Signed by **NAME[SSS RRR]
+**DATE[May 06 2007] 12:44:06 PM

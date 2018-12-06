@@ -1,0 +1,93 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 50s] years
+Sex :
+Female
+DOB :
+**DATE[Jun 29 1953]
+Author :
+**NAME[XXX  , WWW M]
+Health Status
+Summary of Hospitalization :
+This **AGE[in 50s] year old AA female with h/o SCA admitted to MICU **DATE[Apr 8 07] with c/o cough + green sputum , abd pain , N/V
+Past Medical History :
+SCA
+Hepatitis C
+ICH **DATE[Mar 2004]
+Chronic Pain
+Subjective / Events Overnight :
+Pt with increasing difficulty in hearing .
+Physical Exam
+General Appearance :
+Middle aged AA female in NAD .
+Cardiovascular :
+S1 , S2 , no gallop .
+IRRR .
+Monitor :
+Afib , controlled rate , 77 .
+Respiratory :
+Scattered rales / wheeze .
+Gastrointestinal :
++ BS , soft , + tender **PLACE , ND .
+Musculoskeletal :
+MAE s .
+Skin :
+Warm and dry .
+Neurological :
+Arousable but sleepy .
+Hematologic / Lymphatic :
+No edema .
+General Results
+Today 's results :
+ALLRESLTSECT
+**DATE[Apr 12 2007] 1:45 PM
+Discharge Plan
+DP
+( Preliminary )
+**DATE[Apr 12 2007] 12:51 PM
+Glucose ( bedside ) 131 mg / dL High
+**DATE[Apr 12 2007] 6:26 AM
+Glucose ( bedside ) 119 mg / dL High
+Glu ( Bedside Test ) Meter Cmt .
+RN Notified
+**DATE[Apr 12 2007] 4:00 AM
+Na 143 mEq / L
+K 4.7 mEq / L
+Cl 120 mEq / L High
+CO2 16 mEq / L Low
+Anion Gap 7.0 Low
+BUN 18 mg / dL
+Cr 1.7 mg / dL High
+GFR ( estimated ) 40.00 mL / min / 1.73 m2 Low
+( Modified )
+Ca 8.3 mg / dL Low
+Ionized Ca , Whole Blood 1.28 mMol / L
+Mg 1.9 mEq / L
+Phos 5.3 mg / dL High
+Impression and Plan
+Plan
+Heme - h/o SCA .
+Admitted in crisis .
+Attending adjusted analgesia - Morphine sulfate 8 mg IV q 3h prn - severe pain .
+Patient appears comfortable .
+Aranesp ordered .
+Pulmonary - h/o asthma - Duonebs prn ; PNA - Cefepime Day #5 .
+IV hydrocortisone .
+Follow CXR .
+HEENT - Throat ? fungal infection - Nystatin .
+Otalgia / inc. hearing loss - ENT c/s - Floxin Otic .
+Cards - A fib - Cardizem ( when BP parameters allow ) .
+FEN - IVF s .
+Disposition - d/c to home when medically stable .
+Professional Services
+Credentials and Title of Author **NAME[VVV] Signing this Document : PA-C
+Perform by **NAME[XXX  , WWW] M
+( on **DATE[Apr 12 2007] 19:31 )
+Sign by **NAME[XXX  , WWW] M
+( on **DATE[Apr 12 2007] 19:31 )
+VERIFY by **NAME[XXX  , WWW] M
+( on **DATE[Apr 12 2007] 19:31 )

@@ -1,0 +1,215 @@
+**INSTITUTION
+GENERAL MEDICINE
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Mar 03 2007]
+TRANSFER DATE :
+**DATE[Mar 30 07]
+TRANSFERRED TO :
+Montefiore TCU
+TRANSFERRED TO CARE OF :
+**NAME[YYY M. ZZZ] , M.D.
+DISPOSITION :
+The patient will be transferred to Montefiore TCU .
+TRANSFER DIAGNOSIS ( ES ) :
+1. DECONDITIONING .
+2. THYROID CARCINOMA .
+3. BILATERAL PULMONARY EMBOLUS .
+4. DEEP VENOUS THROMBOSIS .
+5. STATUS POST IVC FILTER .
+REASON FOR ADMISSION :
+The patient is a **AGE[in 50s]- year - old , single , white female with a past history of stroke , thyroid cancer , status post thyroidectomy , hypertension , and diabetes mellitus who presents with abdominal pain which was vague in nature with nausea .
+She denied any melena , hematochezia , hematemesis , and recent use of NSAID s or other GI irritants .
+She denies fever , chills , respiratory distress , sputum production , or hemoptysis .
+In the emergency department , the patient was given a liter of normal saline .
+She received Pepcid IV , Compazine , Flagyl , and Zofran IV .
+The patient did obtain relief of her nausea with that regime ; however , she felt that she would not be able to manage herself at home .
+She was still unable to tolerate any p.o.
+It was decided that the patient would be admitted with the diagnosis of intractable nausea and vomiting as well as diarrhea .
+She did have a trace heme - positive stool for occult blood in the ED , but it was not grossly bloody .
+Past medical history :
+Positive for diabetes , hypertension , obesity , bariatric surgery , coronary artery disease , gastric ulceration , status post respiratory failure , status post cholecystectomy , DJD , papillary thyroid cancer , status post thyroidectomy , depression , CVA , Clostridium difficile colitis .
+ALLERGIES :
+ASPIRIN , PENICILLIN , AND IBUPROFEN .
+LABORATORY , RADIOGRAPHIC , AND OTHER DIAGNOSTIC STUDY FINDINGS :
+Her sodium was 140 .
+Potassium was 3.7 .
+Chloride : 104 .
+CO2 : 27 .
+Anion gap : 9 .
+BUN : 17 .
+Creatinine : 0.8 .
+Glucose : 106 .
+Total bilirubin was 0.5 .
+Conjugated bilirubin was less than 0.1 .
+Delta bilirubin was less than 0.1 .
+ALT was 16 .
+AST : 12 .
+Alkaline phosphatase : 122 .
+GGTP was 45 .
+WBC : 6.9 .
+RBC : 4.91 .
+H&amp ; H was 14.2 and 42.6 .
+Platelets : 225 .
+HOSPITAL COURSE :
+1. GI .
+The patient was admitted with vague abdominal pain , history of Clostridium difficile toxin , and the patient tested positive for Clostridium difficile toxin .
+She had been diagnosed in **DATE[Nov] .
+She had been taking Flagyl .
+She has completed an IV course of Flagyl .
+She continues to be on p.o. vancomycin .
+She is reporting an improvement in diarrhea , and stools are formed .
+She will need a long course of vancomycin with taper .
+Culturelle had been discontinued due to the drug being ineffective when used with vancomycin .
+The patient also complains of intermittent nausea .
+She has been receiving Zofran q. six hours IV .
+On admission , her lipase was 57 .
+This subsequently came down to 28 .
+She did have a rise back up to 76 to the 160s until on the twenty - fifth , her level is 95 .
+Her amylase was less than 30 .
+She maintained an amylase level of less than 30 .
+She also had a lactate level on admission which was 1.3 .
+Her pre - albumin level on the nineteenth was nine .
+A level was ordered to be repeated this morning , and at the time of this dictation , that level is still pending .
+The patient has been receiving protein supplements , and this will continue .
+2. GU .
+The patient completed a course of Bactrim for microbiology of greater than 100,000 colonies of Enterobacter cloacae .
+3. Vascular .
+The patient was a left deep femoral vein DVT .
+She had bilateral popliteal and posterior tibial vein DVT , chronic found upon admission .
+The heparin nomogram was initiated with the baseline values being an H&amp ; H of 12.8 and 37.9 .
+Platelets were 207 .
+The patient was found to have a PE .
+She is status post IVC filter placement .
+She continues on her heparin drip as well as 5 mg of Coumadin daily .
+Her INR goal is 2-3 , and her INR currently is 1.7 , and her platelets remain stable at 245 .
+Her H&amp ; H is 10.2 and 30.4 .
+4. Cardiovascular .
+Patient with a history of hypertension .
+She was taking Lisinopril at home , but her blood pressure on admission was 94/58 .
+The patient has had some bradycardia into the 30s on **DATE[Mar 28] , but her blood pressure remained stable .
+She was asymptomatic .
+She had a STAT TSH and Dilantin level drawn .
+The free Dilantin level was within normal limits .
+Her TSH was slightly increased .
+At the date of discharge , the patient 's blood pressure is 98/54 , and her pulse is clinically stable at 54 .
+5. Neurologic .
+History of CVA .
+The patient had a condition C called on **DATE[Mar 10 2007] for unresponsiveness with possible seizure activity .
+The patient was started on Dilantin .
+On **DATE[Mar 28] , her Dilantin level was 7.3 , and free Dilantin level was 1.3 .
+There has been no evidence of further seizure activity , and this will continue to be monitored .
+6. Pulmonary .
+The patient has a history of sleep apnea .
+She underwent a sleep study but was unable to complete the titration portion secondary to nausea and emesis .
+It was recommended that the patient complete positive pressure titration portion of the study as an outpatient once she is medically stable .
+She could follow up with the **INSTITUTION to schedule this study .
+The patient does use BiPAP at night with O2 , and she will continue to do so .
+7. Musculoskeletal .
+History of DJD .
+She is clinically stable .
+8. Endocrine .
+History of diabetes as well as thyroid cancer , papillary stage I , status post thyroidectomy in **DATE[Jan 2007] .
+Endocrinology has been following .
+Her Synthroid had been on hold .
+It was restarted at **DATE[Mar 16 2007] .
+On **DATE[Mar 28] , her TSH was 5.341 .
+TSH should be checked in six weeks , and the patient will need ablation in three months after the iodine load .
+For her diabetes , the patient is on low - dose sliding scale Accu-Chek , and this will continue to be followed .
+9. **INITIALS .
+The patient was found to have some hypomagnesemia .
+Today , her magnesium level is 1.4 , and she is currently on oral magnesium supplements , and this will continue to be followed .
+The patient again was prealbumin was 9 on **DATE[Mar 19] .
+As previously mentioned , the repeat has been ordered but is pending at the time of this dictation .
+The patient is receiving ProSource t.i.d. along with calcium b.i.d. for prophylaxis .
+It was found through calorie counts and nutrition consult that the patient 's estimated needs are between **ID-NUM kcal .
+10. For prophylaxis , the patient was on Protonix and Zantac .
+The patient is considered medically stable for transfer to the TCU , and we already went over those orders .
+TRANSFER INSTRUCTIONS :
+The patient is a full code status .
+She is discharged .
+She is aware of her medical condition .
+The attending physician in the acute hospital in Dr. **NAME[YYY ZZZ] , and that is the physician who will follow her in the TCU as well .
+Diagnosis :
+Deconditioned , thyroid CA , bilateral PE , DVT , status post IVC filter .
+ALLERGIES :
+ASPIRIN , IBUPROFEN , AND PENICILLIN .
+Please accept the hospital H&amp ; P .
+Rehabilitation potential is good .
+Isolation is VRE and Clostridium difficile .
+Vital signs daily .
+Activity :
+As tolerated .
+I&amp ; O q. shift .
+Top side rails up .
+Turning and positioning .
+Bedside glucose check at 700 and 1600 .
+Dressing of XenoDerm b.i.d. to buttocks .
+Respiratory therapy :
+Keep the SaO2 greater than 93% .
+Respiratory treatments :
+BiPAP 7 and 3 + O2 .
+Diet :
+She is on a low sodium with meats ground .
+ProSource one packet p.o. t.i.d.
+Consultations :
+Physical therapy , Occupational therapy , Nutrition consult .
+TRANSFER MEDICATIONS :
+1. Milk of magnesia 30 ml p.o. q. day p.r.n. if no bowel movement for 24 hours .
+2. Dulcolax suppository 10 mg / rectum q. day p.r.n. no bowel movements for 24 hours .
+3. Coumadin 5 mg p.o. daily .
+4. Vancomycin 250 ml p.o. q.i.d.
+5. Celexa 20 mg p.o. at bedtime .
+6. Dilantin 100 mg p.o. t.i.d.
+7. Protonix 40 mg p.o. daily .
+8. Zantac 300 mg p.o. q. p.m.
+Please do not substitute .
+9. MVI with minerals one p.o. daily .
+10. Calcium plus vitamin D 500 mg p.o. b.i.d. with meals .
+11. Synthroid 250 mcg p.o. daily .
+12. Zofran 4 mg IV q. six hours .
+13. Magnesium oxide 400 mg p.o. b.i.d.
+14. Vicodin one p.o. q. four hours p.r.n.
+15. Cepacol lozenges one p.o. p.r.n.
+16. Ocean spray two sprays inhalation p.r.n.
+17. She is also on low dose regular insulin sliding scale insulin 12 unit scale b.i.d. at 700 and 1600 .
+She is also on a DVT , PE , heparin nomogram for DVT .
+Her weight is 133 .
+Her platelets within the past 12-24 hours were 245 .
+Hemoglobin : 10.2 .
+PTT : 79.4 .
+She will follow the heparin nomogram .
+Infusion is already infusing .
+For less than 37 __________ , she gets 80 unit / kg bolus which is 10,000 .
+Increase infusion rate by 4 units / kg / hr which is 500 units .
+Repeat STAT aPTT six hours after rate change , and please follow the rest of the nomogram accordingly .
+CONDITION ON TRANSFER :
+Condition is stable .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[M. WWW XXX] , C.R.N.P.
+**INITIALS
+D :
+**DATE[Mar 30 2007] 12:28:49
+T :
+**DATE[Mar 30 2007] 12:42:00
+R :
+**DATE[Mar 30 2007] 14:17:01/plb
+Job ID :
+367883/**ID-NUM
+Cc:
+Montefiore TCU
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX] , C.R.N.P.-J. **NAME[WWW] ***
+Electronically Signed by **NAME[VVV UUU] for **NAME[YYY ZZZ] **DATE[Apr 08 2007] 09:02:01
+PM

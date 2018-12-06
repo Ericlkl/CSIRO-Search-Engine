@@ -1,0 +1,50 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Feb 29 2007]
+EVALUATION DATE :
+**DATE[Mar 03 07]
+I have been requested by Dr. **NAME[ZZZ] to take care of this patient admitted to the ICU .
+I am managing this patient 's respiratory failure , atrial fibrillation , hyperglycemia , irrigation and debridement , and malnutrition .
+I have examined this patient , reviewed the data in the medical records , and looked at the most recent x-ray films .
+This patient 's care has been provided under my direct supervision .
+On my examination today , the patient is on BiPAP .
+She seems to be doing well on BiPAP .
+I have been doing intermittent trach mask trials on this patient .
+She is on and off on SVT for which I have continued the Cardizem infusion .
+She seems to be tolerating the Cardizem well .
+Her sugars have been high today .
+I have initiated an insulin infusion along with Lantus insulin .
+My plan is to increase her Lantus and decrease the IV insulin over time .
+I have also initiated her on tube feeds with Osmolite .
+She seems to be tolerating that well .
+She is on empiric Unasyn , also , making decent amounts of urine and running relatively dry .
+I have continued her stress ulcer prophylaxis .
+TOTAL CRITICAL CARE TIME I HAVE PROVIDED ON THIS PATIENT IS **AGE[in 30s] MINUTES .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+**INITIALS
+D :
+**DATE[Mar 03 2007] 18:53:21
+T :
+**DATE[Mar 03 2007] 19:12:23
+R :
+**DATE[Mar 03 2007] 19:12:23/eab
+Job ID :
+374234/**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , TTT] ***
+Electronically Signed by **NAME[SSS RRR]
+**DATE[May 06 2007] 12:43:37 PM

@@ -1,0 +1,81 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA , BBB M]
+**ID-NUM
+**ID-NUM
+A6A/628
+SERVICE OF :
+**NAME[ZZZ]
+**NAME[YYY]
+DATE OF ADMISSION :
+**DATE[May 10 2007]
+DATE OF DISCHARGE :
+**DATE[Jun 24 2007]
+DISCHARGE DIAGNOSES :
+1. Dehydration .
+2. Ataxia .
+3. Degenerative joint disease .
+HOSPITAL COURSE :
+The patient is an **AGE[in 80s]- year-old female that was a direct admission of Dr. **NAME[YYY] 's with ataxia complains of inability to swallow , poor by mouth intake , and dehydration .
+PAST MEDICAL HISTORY :
+Includes hypertension , congestive heart failure , bronchitis , hypothyroidism , and macular degeneration .
+PHYSICAL EXAMINATION :
+Vital signs , temperature was 98.4 , heart rate was 84 , respirations 18 , O2 saturations on room air was 98% , and blood pressure was 152/84 .
+The patient 's lungs were clear .
+Heart rate was regular .
+DIAGNOSTICS :
+CMP showed an elevated BUN and creatinine of 35 and 1.7. CBC , white blood cells were slightly elevated at 10.9 .
+ESR was elevated at 48 .
+Thyroid functions , TSH was within normal limits of 0.52 and T4 was high at 12.3 .
+Chest x-ray showed cardiomegalia without edema .
+EKG was within normal limits .
+PROBLEMS LIST :
+1. Dehydration .
+The patient was gently hydrated with IV fluids .
+Hydrochlorothiazide was discontinued , and Zaroxolyn was placed on hold .
+The patient was evaluated by speech therapy for dysphagia , and speech therapy doubt that the patient was having no difficulty with swallowing .
+There were no signs of aspiration and suggested regular diet with thin fluids .
+With general hydration rather , the patient 's BUN and creatinine improved to 30 and 1.6 .
+2. Blood cultures were obtained on admission , and one blood culture came back positive .
+A second blood culture came back negative .
+The patient was afebrile .
+White blood cells were normal , and there was no left shift , and there were no bands in her blood .
+The patient was continued with observation , and antibiotics were not started .
+It was thought that the blood cultures were contaminated .
+3. Ataxia .
+The patient was having difficulty ambulating .
+It was thought that the difficulty with ambulation was due to degenerative joint disease .
+The patient was started on Ultram 50 mg t.i.d. to assist with the pain , and PT and OT were initiated .
+In physical therapy , the patient was walking 150 feet with a wheeled walker , but physical therapist felt that the patient could benefit from acute rehab .
+[_______________]*** evaluated the patient and felt the patient was appropriate for a short inpatient stay .
+On discharge , the patient was transferred to **INSTITUTION for further rehab .
+4. History of hypothyroidism .
+The patient was continued on her Synthroid .
+5. History of depression .
+The patient was continued on her Remeron .
+The patient was discharged in satisfactory condition to **INSTITUTION .
+DISCHARGE MEDICATIONS :
+1. Tylenol 650 mg q.6 h. p.r.n. for pain .
+2. Vitamin C 500 mg daily .
+3. Coreg 6.25 mg b.i.d.
+4. Synthroid 50 mcg daily .
+5. Remeron 15 mg at bedtime .
+6. Ocuvite one tablet daily .
+7. Potassium chloride 10 mEq daily .
+8. Ultram 50 mg q.8 h .
+9. Diovan 80 mg daily .
+10. Ambien 5 mg at bedtime p.r.n.
+11. Ditropan XL 10 mg one daily .
+OTHER DISCHARGE INSTRUCTIONS :
+The patient was to be on a heart-healthy , 2-g sodium .
+The patient was to ambulate with assistance and with all fall precautions .
+The patient will participate in physical therapy and occupational therapy at **INSTITUTION , and the patient will be followed by Dr . **NAME[YYY] at **NAME[XXX] .
+DICTATED BY : **NAME[WWW VVV] .
+___________________
+**NAME[ZZZ YYY] , M.D.
+Dict : **DATE[Jan 06 2008] 16:29:17
+Tran : **DATE[Jan 06 2008] 16:42:35
+DS / dg / 672889 /**ID-NUM/**ID-NUM
+R : **DATE[Jan 08 2008] 06:17:00/pc
+**CARBON-COPY

@@ -1,0 +1,19 @@
+The patient was examined on rounds with housestaff .
+Data and films were reviewed .
+EXAM : vitals : see EMTEK data -- I have reviewed these
+HEAD : no thrush
+CV : RRR
+LUNGS : no wheeze , diminshed breath sounds right lung
+ABD : soft , no peritoneal signs .
+drain in place without purulence
+EXT : ansarca , warm .
+Impression :
+**AGE[in 70s] year old female with ovarian carcinoma complicated by bowl obstruction now with mostl likely with fistulalization requiring drainage .
+1. chronic respiratory failure -- she has poor compliance most likely secondary to massive pleural effusions and respiratory muscle weakness -- thoracentesis has been held -- she is not certain how aggresive she wants her managment to be .
+2. ecoli , klebsiella , enterococcus abdominal infection -- drain in place -- elucidate allergy history small bowel follow through
+3. cardiomyopathy -- on dobutamine -- titrate off to sv02 .
+4. ovarian CA -- we have asked palliative care to see her regarding aggresiveness of treatment .
+critical care time spent exclusive of procedures and teaching = 35 MINS .
+**NAME[YYY ZZZ] , MD
+Perform by **NAME[ZZZ , YYY M]
+( on **DATE[Aug 09 2007] 16:20 )

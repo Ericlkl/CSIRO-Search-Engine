@@ -1,0 +1,15 @@
+The patient was examined on rounds with housestaff .
+I have reviewed the patient data and films .
+Refer to the history and physical by Dr. **NAME[XXX] .
+I have reviewed her findings and agree with her plan .
+Impression :
+**AGE[in 40s] year old male with severe emphysema and acute respiratory failure requiring mechanical ventilation .
+1. Resp failure : he is requiring NIV with BIPAP currently -- hehas become very agitated , requriing sedations for BIPAP synchrony -- we may have to re - intubate him for resp failure
+2. COPD exacerbation -- on solumedrol , azithromycin , xopenex
+3. narcotic dependence -- on methadone
+4. anxiety -- restarted xanax .
+-- he has required several doses of ativan and versed
+Critical care time spent exclusive of teaching and procedures = 45 Minutes , provided throughout the day .
+**NAME[YYY ZZZ] , MD
+Perform by **NAME[ZZZ , YYY M]
+( on **DATE[Jul 12 2007] 15:06 )

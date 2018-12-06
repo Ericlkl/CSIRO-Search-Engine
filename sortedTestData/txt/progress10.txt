@@ -1,0 +1,54 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[TTT]
+**NAME[VVV UUU]
+ADMISSION DATE :
+**DATE[Nov 19 2007]
+EVALUATION DATE :
+**DATE[Dec 13 07]
+I am managing this critically ill **AGE[in 40s]- year - old male with pancreatitis complicated by development of phlegmon and superior mesenteric artery aneurysm .
+He is status post repair , now transferred back to the intensive care unit for fever , chills , rigor with presumed sepsis .
+Over the course of the evening , he has become progressively more hypoxemic and required intubation .
+I have seen and examined the patient , reviewed his laboratory , radiographic , and EMTEK data , and discussed the management with the general surgeons and with the infectious disease consultants .
+His problems and management are as follows :
+1. Sepsis :
+The etiology of his deterioration is unclear , but he appears to be septic at T max of 39.3 .
+Of note , he was complaining of abdominal pain prior to intubation .
+LFT s show an obstructive pattern , and a dye study through the drain appears to show , to my read , a leak through the common bile duct .
+Currently , we have consulted the GI / Hepatology service , as well as the hepatic surgeons to evaluate .
+In the meantime , I have started him empirically on broad spectrum gram - negative and gram - positive coverage for ID 's recommendations .
+I am awaiting definitive recommendations from the hepatologist and the surgeons about the possibility of source control with the drainage , either percutaneously or open .
+His hemodynamics have been stable , and I have not needed to start him on vasopressors , although he has required multiple fluid boluses for hypotension .
+2. Respiratory failure :
+Chest x-ray last night developed rapid occurrence of bilateral fluffy infiltrates consistent with ARDS .
+He is now on the ventilator .
+I have dropped his tidal volumes from 550 to 450 today and then again down to 350 to get him at 6 ml / kilogram .
+Peak airway pressures have remained less than 30 .
+I have been able increase his PEEP to 12 and wean his FiO2 down gradually to 60% .
+I have left him on a Fentanyl infusion for pain control with intermittent Versed for sedation .
+Total critical care time equals 40 minutes .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+SRG/ddd
+D :
+**DATE[Dec 13 2007] 17:53:15
+T :
+**DATE[Dec 14 2007] 09:54:18
+R :
+**DATE[Dec 14 2007] 09:54:18/ddd
+Job ID :
+387660 /**ID-NUM
+CC:
+*** Dictated By :
+-**NAME[XXX , SSS M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jan 19 2008] 02:55:13 PM

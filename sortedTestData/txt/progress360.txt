@@ -1,0 +1,57 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jul 24 2007]
+EVALUATION DATE :
+**DATE[Jul 28 07]
+SUBJECTIVE :
+The patient is having postoperative pain in the lumbar spine , but otherwise , has no chest pain , shortness of breath , abdominal pain , nausea , or vomiting .
+OBJECTIVE :
+Vital Signs :
+Currently stable .
+Cardiac :
+Normal S1 and S2 .
+No murmurs , rubs , or gallops are present .
+Lungs :
+Clear to auscultation bilaterally .
+Abdomen :
+Soft , nontender , and nondistended .
+Normoactive bowel sounds are present .
+LABS :
+Dobutamine stress echocardiogram showed a nondilated left ventricle with mild hypertrophy and overall preserved systolic function .
+There was a mild left atrial enlargement , and there were no stress - induced findings .
+ASSESSMENT AND PLAN :
+1. Hypertension .
+The patient 's blood pressures have come down to about the 130 to 140 systolic range which is acceptable for now .
+I would continue her hydrochlorothiazide .
+The patient also was on an ACE inhibitor which we probably can continue for now .
+In addition , metoprolol has been started for perioperative risk reduction , and her pressures did appear to be doing okay .
+I would continue this regimen for now .
+2. The patient would like to follow up at **INSTITUTION with a medicine doctor .
+Upon her discharge , she can be sent to our **INSTITUTION at **INSTITUTION , call **PHONE for an appointment .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Jul 28 2007] 11:25:16
+T :
+**DATE[Jul 29 2007] 01:34:50
+R :
+**DATE[Jul 29 2007] 01:34:50/ak
+Job ID :
+365223/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , VVV M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Aug 06 2007] 09:53:09 AM

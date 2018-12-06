@@ -1,0 +1,51 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Aug 02 2007]
+EVALUATION DATE :
+**DATE[Aug 09 07]
+I personally interviewed and examined the patient .
+The patient is being discharged to **INSTITUTION today .
+The patient continues to have hallucinations and delusions .
+The patient was admitted with hallucinations and delusions and was lethargic at times and totally confused .
+She finally admitted to multiple drug abuse , which once they cleared from her system she improved remarkably .
+She is improved and now being transferred to **INSTITUTION for further management of her psychosis .
+She also had pneumonia .
+We treated her with antibiotics .
+Also , her diabetes was managed by the metformin .
+Today , she is in no acute distress .
+Vital signs are stable .
+Chest is clear .
+Heart regular rhythm , no murmur or gallop .
+Extremities , no edema .
+Laboratory tests were reviewed .
+Her glucoses are better .
+At the time of discharge , she is stable .
+She will be discharged on metformin and her chronic medications and antibiotics to complete a course for aspiration pneumonia .
+Full discharge summary will be dictated separately .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+WNK/p
+D :
+**DATE[Aug 09 2007] 18:12:41
+T :
+**DATE[Aug 10 2007] 01:58:12
+R :
+**DATE[Aug 10 2007] 01:58:12/p
+Job ID :
+339496 /**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[ZZZ , SSS M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Aug 16 2007] 02:53:04 PM

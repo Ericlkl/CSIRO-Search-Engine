@@ -1,0 +1,43 @@
+**INSTITUTION
+CRITICAL CARE MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M. ZZZ] , M.D.
+ADMISSION DATE :
+**DATE[Feb 12 2007]
+EVALUATION DATE :
+**DATE[Apr 04 07]
+Ventilator management note :
+Overnight I rested Mrs. **NAME[AAA] on assist control with a tidal volume of 500 .
+Her peak airway pressures have been between 28 to 32 .
+Gas exchange is stable at 40% FIO2 and 5 of PEEP .
+Chest x-ray shows a slight increase in her left - sided effusion .
+Yesterday she was ultrafiltrated for 2.4 L and she tolerated 10 cm water pressure support from 6 a.m. until 2 p.m.
+Plan today is to have her out of bed into chair .
+Continue at 10 cm of water trial pressure support for as long as tolerated .
+In terms of her renal failure , BUN and creatinine are 25 and 1.3 .
+She continues to make about 500 mL of urine a day .
+I have increased her ACE inhibitor for her hypertension and I have switched her Synthroid to IV in light of her persistently elevated TSH .
+I have ordered albumin and prealbumin to assess her nutritional status .
+___________________________________
+**NAME[WWW M. XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Apr 04 2007] 22:03:57
+T :
+**DATE[Apr 05 2007] 07:27:31
+R :
+**DATE[Apr 05 2007] 07:27:31/ksc
+Job ID :
+413413/**ID-NUM
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[May 03 2007] 09:49:20 AM

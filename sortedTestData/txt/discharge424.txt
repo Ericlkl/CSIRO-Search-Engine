@@ -1,0 +1,46 @@
+FINAL DIAGNOSES :
+HISTORY OF PRESENT ILLNESS :
+This **AGE[90+]- year - old man was readmitted after a syncopal episode which occurred while waiting for a modified barium study in the outpatient area .
+He had just been discharged to **NAME[WWW] 's on **DATE[Apr 09 07] after admission for a left thigh deep venous thrombosis and urinary retention .
+During that stay , he received a seven day course of Lovenox .
+He was not felt to be a good candidate for long term anticoagulation because of his frail status .
+He seemed to be eating and taking fluids adequately .
+He was not dehydrated and was discharged to **NAME[WWW] 's .
+However , while there , he was eating poorly and staff felt that he might be aspirating .
+A modified barium swallow was scheduled and this was performed on the morning of admission .
+HISTORY AND PHYSICAL EXAMINATION :
+As dictated previously with no additions or corrections .
+HOSPITAL COURSE :
+The patient was admitted after a syncopal episode .
+It was thought that he might have an early left lower lobe pneumonia .
+He was covered with Rocephin 1 gram IV daily and received IV normal saline from moderate volume depletion .
+It was noted he had a stage 3 sacral decubitus ulcer .
+He is arousable but lethargic .
+His neurologic examination was nonfocal .
+He was afebrile .
+Blood pressure was 98/50 on admission .
+The patient was felt to be a poor candidate for Coumadin .
+A venous duplex study was done to see if he had progressed his phlebitis .
+A PICC line was ordered , however , the patient tore this out within hours of its placement and it was elected not to resume the PICC line .
+The patient remained lethargic .
+Swallowing study showed coughing on even pudding consistencies .
+He was at high risk for aspiration with any p.o. intake .
+Case was discussed with the family .
+The patient was confused , did not understand IV s or the need for treatment .
+I spoke to the daughter and it was elected to try to feed the patient as best he would tolerate with pudding consistency fluids .
+DISCHARGE MEDICATIONS / INSTRUCTIONS :
+He was discharged back to **NAME[WWW] 's with Lovenox 60 mg subcu q.12 h. as DVT treatment , Ceftin suspension 250 mg b.i.d. for seven days .
+Foley catheter was placed because of incontinence and his immobility as well as risk of aggravating his sacral decubitus ulcer .
+His diet will be consisting of pureed with thickened liquids , trying to achieve a pudding consistency as much as possible .
+He will receive wound care to his sacral ulcer , oxygen 2 liters nasal cannula .
+Additional medications include aspirin 81 mg per day , Xenaderm to be applied to the sacral decubitus ulcer , Proscar 5 mg daily , isosorbide 30 mg daily , magnesium oxide 400 mg b.i.d. , metoprolol 25 mg b.i.d. , Flomax 0.4 mg h.s. , multivitamin , and Nitrostat p.r.n.
+Per the patient 's advance directive , he is a no code .
+Follow up will be with Dr. **NAME[ZZZ] at **NAME[WWW] 's **INSTITUTION .
+_________________________
+**NAME[YYY ZZZ] , M.D.
+D :
+**DATE[May 19 2007]/12:11 P
+T :
+**DATE[May 20 2007] 10:16 A tc
+#**ACCESSION-NUMBER[1]/**ID-NUM
+**CARBON-COPY

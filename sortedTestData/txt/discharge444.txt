@@ -1,0 +1,40 @@
+**INSTITUTION
+NEUROSURGERY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT #
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY XXX ZZZ]
+ADMISSION DATE :
+**DATE[Oct 17 2007]
+DISCHARGE DATE :
+**DATE[Oct 26 2007]
+BRIEF HISTORY :
+The patient is a **AGE[in 70s]- year - old with a past medical history of left temporal glioblastoma who was status post awake craniotomy for resection of tumor by Dr. **NAME[YYY ZZZ , QQQ] 22 , 2007 .
+His postoperative issues included personality changes , dysphasia , and dysphagia .
+Postoperatively , several drains were in place in his scalp those were removed once outputs were low .
+The patient 's dysphasia improved in the course of his admission , although , his ability to speak did wax and wane .
+We believe that this will resolve over several weeks .
+He was discharged home to the care of __________ family and will follow up in clinic in 2 weeks with Dr. **NAME[ZZZ] .
+They are encouraged to call with any questions or concerns including fevers , severe personality changes , headaches , and vision changes .
+___________________________________
+**NAME[YYY XXX ZZZ]
+Dictator :
+**NAME[VVV WWW] , M.D.
+CF/sj
+D :
+**DATE[Nov 10 2007] 12:20:12
+T :
+**DATE[Nov 11 2007] 03:04:59
+R :
+**DATE[Nov 11 2007] 03:04:59/sj
+Job ID :
+383364/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[WWW , PPP] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Nov 19 2007] 07:42:13 AM

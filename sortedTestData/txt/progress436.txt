@@ -1,0 +1,64 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[WWW M XXX]
+ADMISSION DATE :
+**DATE[Dec 14 2007]
+EVALUATION DATE :
+**DATE[Dec 16 07]
+I personally interviewed and examined the patient and discussed the case with the house staff team .
+The patient feels much better today .
+He notes that he is having bowel movements .
+He is actually hungry and ate breakfast without problem .
+His NG tube is out since yesterday , and he has had no recurrence of the significant abdominal pain and distention .
+He still does not feel back to normal .
+He still feels that he is somewhat bloated , but the pain is much better .
+He does however note that he is coughing up much more sputum , and he feels much more congested in his chest .
+PHYSICAL EXAMINATION :
+Blood pressure 154/80 , pulse is in the 80s , respirations are 18 , and he is afebrile .
+Examination of his lungs reveals increased crackles and rhonchi in the right lower lobe that is worse than yesterday .
+Some of it clears with cough but not completely .
+The rest of his lung fields are relatively unremarkable .
+His cardiac exam is unremarkable .
+His abdominal exam has normal bowel sounds .
+It is soft .
+It is essentially nontender today and is less distended .
+LABORATORIES :
+His electrolytes , BUN , and creatinine were normal .
+White blood cell count was 3800 with a marked left shift .
+He has 21% neutrophils and 34% bands .
+Chest x-ray from yesterday revealed small patchy bilateral atelectasis , but no evidence of specific consolidation .
+IMPRESSION :
+1. Partial small bowel obstruction .
+He clearly is moving his bowels .
+He feels better .
+He has been passing gas and stool .
+There is no evidence of significant obstruction by exam .
+2. Upper respiratory tract infection .
+He felt that lot of this started with an upper respiratory tract infection , which he feels he picked up at work , however , he is having more sputum production and chest congestion .
+He had a bilateral lower lobe atelectasis by x-ray but now has a profound bandemia on his white blood cell count .
+I would suggest we start with a repeat chest x-ray to make sure there has not been progression of an infiltrate in his lungs .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW XXX] , M.D.
+MR/va
+D :
+**DATE[Dec 16 2007] 11:00:41
+T :
+**DATE[Dec 16 2007] 22:05:29
+R :
+**DATE[Dec 16 2007] 22:05:29/va
+Job ID :
+348152/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , RRR] ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Jan 05 2008] 11:20:30 AM

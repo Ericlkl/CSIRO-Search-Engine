@@ -1,0 +1,72 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+Discharged :
+**DATE[Apr 27 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+PRIMARY DIAGNOSIS :
+Congestive heart failure exacerbation .
+SECONDARY DIAGNOSES :
+1. Dilated nonischemic cardiomyopathy .
+2. Heart failure .
+3. Severe mitral regurgitation .
+4. Chronic renal insufficiency .
+5. History of breast cancer .
+6. History of non-Hodgkin lymphoma .
+7. History of transient ischemic attack .
+8. History of osteomyelitis with subsequent arthroplasty and amputation of the second toe on the right foot .
+9. History of left ventricular wall thrombus .
+STUDIES DONE DURING THE HOSPITALIZATION :
+1. Chest x-ray done on **DATE[Apr 24 2007] , that showed heart failure with cardiomegaly , bilateral pulmonary edema , and small bilateral effusions .
+2. BNP level was 1506 on **DATE[Apr 24 2007] .
+HOSPITALIZATION COURSE :
+The patient is a **AGE[in 70s]- year - old lady with a past cardiomyopathy ( nonischemic ) probably related to valvular problems and also chemotherapy .
+She was admitted with an episode of acute pulmonary edema secondary to heart failure and she received IV diuretic treatment .
+She responded very well to the diuretics , and she lost about more than 10 pounds on the first day of treatment after the diuresis .
+She was able to have a normal breathing and to have normal daily activities and walk around the medical floor without any shortness of breath .
+Cardiology was involved in the care of this patient during this hospitalization , and given the fact that she had severe mitral regurgitation and a lower ejection fraction , it was suggested that the patient might need surgical treatment for this .
+However , the patient had a low ejection fraction , and these might preclude further interventions .
+For this reason , Dr. **NAME[VVV] was consulted to try to find out if she would be able to tolerate surgical procedure .
+At the same time given the fact that she had a severe valvular problem in the context of advanced heart failure , electrophysiology service recommended biventricular defibrillator on the patient in order to protect her life against sudden cardiac death and also with the possibility of improving her symptoms of heart failure after improving her muscle function of the heart .
+In order to perform any further surgical treatment , the patient might need to have a cardiac catheterization to find out if she does have any sort of coronary artery disease that might be fixed and can also help in improving her ventricular function .
+However , her chronic renal insufficiency makes it very difficult to pursue a cardiac catheterization .
+Dr. **NAME[ZZZ] ( her primary care physician ) advised the patient in the past to have hemodialysis for this chronic renal problem , but the patient refused any type of hemodialysis until this time .
+During this hospitalization , she was offered different options and she was told that she might benefit from the AICD placement and she might also benefit from the valvular repair .
+Dr. **NAME[UUU TTT] ( Cardiology ) believes that the only reason why she would do a cardiac catheterization would be if the surgeon thinks that surgical procedure is feasible on the patient even though she has low ejection fraction , and for this cardiac catheterization , the patient would need to be on hemodialysis .
+All these issues were explained to the patient , and the patient agreed to think about it and come with a final decision .
+In the meantime , she is going to be discharged to home and the patient will have to decide whether she needs to pursue further workup and further therapy for her mentioned problems .
+MEDICATIONS :
+The patient is being discharged on the medications that she was on at the time of this admission which include ,
+1. Coumadin 2 mg and 4 mg q.p.m. alternating doses .
+2. Coreg 3.125 mg p.o. b.i.d.
+3. Synthroid 75 mcg p.o. daily .
+4. Aspirin 81 mg p.o. daily .
+5. Potassium chloride 25 mEq p.o. daily .
+DISCHARGE INSTRUCTIONS :
+**INSTITUTION .
+CONDITION :
+Good .
+ACTIVITY :
+As tolerated .
+DIET :
+As tolerated .
+The patient needs to call back Dr. **NAME[ZZZ] regarding her final decision on the further workup that we are recommending to do .
+She does have the phone number of Dr. **NAME[ZZZ] and she said that she was going to contact her within 1 week after her discharge .
+______________________________
+**NAME[WWW XXX]
+HS Job # 141237 / 36756 /
+SHY # **ID-NUM
+D :
+**DATE[Apr 29 2007] 18:54
+T :
+**DATE[Apr 29 2007] 19:54
+**CARBON-COPY

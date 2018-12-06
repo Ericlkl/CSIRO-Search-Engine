@@ -1,0 +1,76 @@
+**INSTITUTION
+Transfer Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Jul 30 2007]
+Discharged :
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+Mrs. **NAME[AAA] is an **AGE[in 80s]- year - old lady who is followed by me .
+She has a history of an aortic valve replacement that I believe is a tissue valve and bypass surgery .
+She has had LV dysfunction .
+I believe the EF is about 35% to 40% .
+Other medical problems include a past history of myocardial infarction , hypertension , and a Hodgkin 's disease , some type of leukemia .
+She has had breast cancer with mastectomy , and she has also had depression , and she has had significant forgetfulness .
+This patient came in the hospital today because of progressive congestion .
+She was in the hospital last **DATE[May] with pneumonia , and apparently was treated , unfortunately at least according to her signs of ( _______________ ) coughing , bringing up phlegm , and was wheezing at home , and that was the issue .
+I had given her a nebulizer in my office a couple of days ago , but apparently was not working for her .
+This patient currently on exam is awake and alert .
+She is in no acute distress .
+Her blood pressure is 100/52 , heart rate is 69 .
+She is afebrile .
+The HEENT is negative .
+Neck veins are not distended .
+The carotid upstrokes are weak but normal .
+No bruits are noted .
+The lungs have decreased breath sounds and rhonchi bilaterally .
+The heart , the aortic valve is crisp .
+There is an early ejection click .
+There is no S3 gallop .
+S1 and S2 are normal .
+There is evidence of mastectomy of the chest .
+The abdomen is soft .
+Extremities have no edema .
+An EKG was not performed .
+Labs are significant for a sodium of 142 , potassium 4.2 , BUN 32 , creatinine 1.3 , the hemoglobin is 10.2 , the hematocrit is 29.5 , the platelet count is 248,000 .
+BNP is 220 .
+Chest x-ray was performed in the emergency room , and it reveals an enlarged heart , clicks from previous bypass surgery .
+There is some congestion in the right upper lobe .
+I am not convinced that there is any infiltrate .
+There are some increased interstitial markings bilaterally certainly widening to the mediastinum , but this is an AP film .
+There is blunting of both costophrenic angles .
+IMPRESSION :
+1. Congestion in the lungs .
+This patient had recent pneumonia .
+She may have an exacerbation of the underlying lung disease or upper respiratory bronchitis .
+She apparently was having trouble breathing at home , and her family was very concerned and brought her in .
+2. Left ventricular dysfunction , coronary artery disease , coronary artery bypass graft , and a history of aortic valve replacement .
+I believe it is a tissue valve .
+Her BNP is in the 200s , and I do not think that she is in overt failure right now .
+3. History of mastectomy and breast cancer .
+4. History of some type of leukemia or non - Hodgkin 's lymphoma .
+5. Senile dementia .
+PLAN :
+We are going to make Mrs. **NAME[AAA] very comfortable .
+I know she is going to get a pulmonary consult with Dr. **NAME[VVV UUU] .
+Dr. **NAME[ZZZ] is in - charge of her general medical care .
+From a cardiac perspective , I do not think that there is anything acute going on right now .
+Her chronic home medications will be ordered .
+I spoke at length ( _______________ ) doctors .
+Thank you very much for the consult .
+______________________________
+**NAME[WWW M XXX] , MD
+HS Job # 170565 / 33103 / 32974
+SHY # **ID-NUM
+D :
+**DATE[Jul 30 2007] 21:34
+T :
+**DATE[Jul 30 2007] 22:33
+**CARBON-COPY

@@ -1,0 +1,52 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Sep 11 2007]
+EVALUATION DATE :
+**DATE[Sep 20 07]
+HISTORY OF PRESENT ILLNESS :
+The patient is doing okay today .
+She states that she is having some mild lower back discomfort and she also is having some problem with vaginal discharge again which she states is quite odorous .
+Her cultures are growing group B Strep and Proteus .
+She is on antibiotic therapy with Avelox and vancomycin .
+PHYSICAL EXAMINATION :
+She has some mild diffuse tenderness over the lower ribs on the right side .
+Her lungs were clear to auscultation and percussion .
+Abdomen was soft and nontender .
+ASSESSMENT AND PLAN :
+1. Osteomyelitis .
+She is on antibiotic therapy .
+2. Vaginal discharge .
+We had done a vaginal exam when she was having her period that is now resolved .
+We are going to have a talk with Gynecology to see if we can get the appointment with her to go to the clinic , right after discharge to make sure that she does not have a fistulous track that is developed but we could not see when we had taken her down to our clinic and look for __________ defects .
+3. Abnormal uptake in her sacrum .
+We are going to discuss with ID , if they think that we should proceed with biopsy in that area as well .
+Her case was discussed in detail with house staff .
+I agree with their note as written .
+My note should be considered linked .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Sep 20 2007] 12:44:23
+T :
+**DATE[Sep 21 2007] 02:40:04
+R :
+**DATE[Sep 21 2007] 02:40:04/jcm
+Job ID :
+354513/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Oct 18 2007] 07:50:55 PM

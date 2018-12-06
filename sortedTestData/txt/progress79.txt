@@ -1,0 +1,59 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING **NAME[WWW :
+YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Apr 29 2007]
+EVALUATION DATE :
+**DATE[May 02 07]
+I personally interviewed and examined the patient .
+The care plan was discussed with the resident team .
+Please consider this note linked to the resident note .
+The patient had an uneventful night .
+She has been transferred up to 10 - west and is doing well .
+She continues to deny any pain .
+She also is declining to get out of bed with physical therapy , as she feels too tired .
+PHYSICAL EXAMINATION :
+Vital signs stable .
+Remains afebrile .
+Heart rate in the 80s to 90s and sinus .
+Lungs are clear to auscultation .
+Heart Sounds :
+Regular rate and rhythm .
+Mouth is without lesions .
+Skin lesions are unchanged .
+LABORATORY DATA :
+Labs are detailed in the resident note and are reviewed by me in their entirety .
+ASSESSMENT AND PLAN :
+1. ID .
+Continue current antibiotic regimen for now , awaiting any culture data from the lesion on her breast .
+2. Lupus .
+As per Rheumatology Plaquenil and steroids .
+3. Disposition .
+PT to assess the ability to walk and guide discharge .
+She lives in a third floor apartment and may not be able to negotiate the stairs there .
+She does live with her mother who appears to have been taking care of her after this admission .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+**INITIALS
+D :
+**DATE[May 02 2007] 15:51:25
+T :
+**DATE[May 03 2007] 06:30:57
+R :
+**DATE[May 03 2007] 06:30:57/vk
+Job ID :
+373012 /**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[ZZZ , TTT M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[May 21 2007] 10:46:46 PM

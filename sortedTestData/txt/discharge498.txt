@@ -1,0 +1,164 @@
+**INSTITUTION
+GENERAL MEDICINE
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Sep 18 2007]
+TRANSFER DATE :
+**DATE[Sep 26 07]
+TRANSFERRED TO :
+**NAME[RRR QQQ] , M.D.
+TRANSFERRED TO CARE OF :
+DISPOSITION :
+TRANSFER DIAGNOSIS ( ES ) :
+MSSA BACTEREMIA .
+SECONDARY DIAGNOSIS ( ES ):
+1. INSULIN - DEPENDENT DIABETES .
+2. SARCOIDOSIS WITH CARDIOVASCULAR INVOLVEMENT , STATUS POST AICD .
+3. HYPERTENSION .
+CONSULTS :
+1. Infectious Disease .
+2. Orthopedics .
+3. Physical Medicine &amp ; Rehabilitation .
+4. Ortho - Spine with Dr. **NAME[PPP] .
+STUDIES COMPLETED :
+1. On **DATE[Sep 18 2007] , chest x-ray showing no obvious acute air space opacity , cardiomegaly , and multiple old pacer wires and hardware , interval removal of PICC line .
+2. On **DATE[Sep 19 2007] , x-ray of the lumbar spine showing status post spinal fusion of L2-L3 levels , the hardware is intact and in satisfactory position , essentially no interval change from the previous study .
+3. On **DATE[Sep 20 2007] , x-ray of the right elbow showing soft - tissue swelling and calcifications typical of olecranon bursitis .
+4. On **DATE[Sep 19 2007] , CT of the lumbosacral spine showing prior surgical changes including laminectomies of L2-L5 , pedicle screws in L2-L3 , interbody fusion at L2-L3 , degenerative disk space narrowing at L2-L3 , no evidence of abscess or osteomyelitis .
+5. On **DATE[Sep 22 2007] , transthoracic echocardiogram showing a technically difficult study , primarily parasternal views , nondilated left ventricle with hypokinetic inferior septum and inferior wall and mild to moderately decreased systolic function , mild tricuspid regurgitation , catheter seen in the right heart consistent with pacemaker , a defibrillator , no vegetation seen by this technique .
+As compared to **DATE[Dec 14 2004] , left ventricular systolic function has mildly decreased , right ventricular leads are new .
+6. On **DATE[Sep 24 2007] , CT scan of the right upper extremity shows extremely limited evaluation in the right elbow due to streak artifact from adjacent pacer .
+If clinical concern persists for abscess of this region , repeat imaging with the patient 's arm above his head is recommended .
+No definite findings of abscess within the right arm or proximal forearm within the significant limitations of the study as described .
+7. On **DATE[Sep 26 2007] , status post PICC line placement .
+Mr. **NAME[AAA] is a **AGE[in 60s]- year - old , African - American male who presented to the emergency department on **DATE[Sep 18 2007] complaining of fevers , generalized malaise and fatigue .
+He has an extensive past medical history most recently including status post multiple back surgeries , the last one being in **DATE[Jul 2007] and then being discharged from South Side Rehabilitation on **DATE[Sep 03 2007] .
+During that hospital stay , he was treated for a URI with a seven - day course of Cipro which was completed on **DATE[Sep 09 2007] .
+Past medical history also includes insulin - dependent diabetes , glaucoma , history of DVT and PE on Coumadin , ischemic colitis , sarcoidosis with cardiac involvement , status post AICD , GERD , hyperlipidemia , hypertension , BPH , and recurrent MSSA .
+He stated that after he was discharged from **INSTITUTION Rehabilitation , he had a couple of good days , but then developed fever as high as 101.4 , chills , and generalized malaise .
+He denied any cough , chest pain , abdominal pain , nausea , vomiting , shortness of breath , hematuria , or dysuria .
+The most recent laboratory data on **DATE[Sep 25 2007] showed a sodium of 139 , potassium 4 , chloride 105 , CO2 of 25 , BUN 13 , creatinine 0.9 , glucose 147 , and he had two negative troponins .
+White count 9.3 , hemoglobin 14.3 , hematocrit 42.2 , platelet count 341,000 .
+INR from **DATE[Sep 26 2007] is 2.1 .
+Vancomycin trough on **DATE[Sep 21 2007] was 5.5 .
+Blood culture on **DATE[Sep 21 2007] was negative times five days .
+Prior blood cultures grew Staphylococcus aureus .
+Urine culture was contaminated .
+Nose culture was positive for MRSA .
+In regards to his fever , we had several services involved .
+Initial workup included blood cultures , urine culture and chest x-ray .
+His blood cultures grew right away with Staphylococcus aureus .
+Since he had had recent back surgery , we were concerned that he could have hardware infection .
+He was seen by Ortho-Spine with Dr. **NAME[PPP] and x-rays of his lumbar spine as well as CT scan of his lumbar spine were completed .
+After Dr. **NAME[PPP] reviewed the scans , it was his assessment that it is highly unlikely that there was any infection of the spine .
+Mr. **NAME[AAA] did complain of some right elbow pain and did have an area of erythema , swelling , and tenderness .
+We were concerned that possibly he had a cellulitis and / or an abscess that was causing this recurrent bacteremia .
+At this point , we had Orthopedic Surgery involved .
+We did check a CT scan of the elbow which was quite limited in views as Mr. **NAME[AAA] would not raise his elbow over his head .
+The views that were obtained did not show any definite abscess .
+They only recommended keeping his arm in a sling and following up as an outpatient .
+Other possible etiologies we entertained was possible endocarditis or infection of his pacemaker .
+We did get a transthoracic echocardiogram that did not show any vegetations from that technique .
+We did not pursue a transesophageal echocardiogram as we did not think that his treatment plan would change .
+He was followed by Dr. **NAME[QQQ] of Infectious Disease .
+Initially on his hospitalization , he was on gentamicin and vancomycin .
+However , it was Dr. **NAME[QQQ] 's final recommendation that he should be on nafcillin 2 grams IV q. 4 hours for a total of six weeks starting with the day of his last negative blood cultures .
+Therefore , he will remain on IV antibiotics through **DATE[Nov 03 2007] .
+At this point in time , the plan after nafcillin is that he will be on oral Keflex for an additional six weeks .
+Dr. **NAME[QQQ] will follow the patient while over at South Side Rehabilitation .
+Since we still do not have a clear etiology as to why he has recurrent bacteremia , we have scheduled for a tagged white blood cell scan on **DATE[Oct 01 2007] at **INSTITUTION Radiology Department at 10:00 a.m.
+He is to take his prescription with him at the time of the appointment .
+He has a history of DVT / PE in the past .
+He had been on a steady Coumadin dose of 5 mg every day , except Wednesdays 2.5 mg .
+We kept him on this dose while inhouse , but his INR jumped from 2.2 to 7.2 over the course of two days .
+We held his Coumadin dose on **DATE[Sep 24 2007] and **DATE[Sep 25 2007] .
+On **DATE[Sep 26 2007] , his INR was done to 2.1 and we will resume his usual doses .
+We think he probably spiked secondary to drug interaction with his antibiotics .
+I would recommend daily INR checks .
+His blood sugars were kept under control while inhouse .
+We continued him on his q. day Lantus dose and a low - dose sliding scale insulin with Lispro insulin .
+On the day of his transfer , he had a PICC line placed and overall is feeling a bit better .
+He does complain of intermittent nausea with infusion of his antibiotics .
+PHYSICAL EXAMINATION :
+VITAL SIGNS :
+He is afebrile .
+Heart rate is 72 , respirations 18 , blood pressure 141/83 .
+He is 97% on room air .
+GENERAL :
+He is in no distress .
+NEUROLOGIC :
+Alert and oriented times three .
+CARDIOVASCULAR :
+He has a regular rhythm .
+LUNGS :
+Clear bilaterally .
+ABDOMEN :
+Benign .
+EXTREMITIES :
+Right elbow with decreasing erythema .
+Lower extremities without any edema .
+He can be transferred to South Side Rehabilitation today .
+Activity as tolerated .
+Right upper extremity is to be in a sling .
+Diet is a 2000 - calorie , ADA , low - fat diet .
+COUMADIN SENSITIVE .
+ALLERGIES :
+ALTACE , CODEINE , " NEXILENE " , DUST , POLLEN , RAGWEED , AND CAFFEINE .
+NURSING :
+Vital signs routine .
+CONSULTS :
+PT / OT and Infectious Disease - Dr. **NAME[QQQ] .
+MEDICATIONS :
+1. Trazodone 50 mg p.o. at bedtime .
+2. Flonase two sprays each nostril every day .
+3. Tylenol 650 mg p.o. q. 6 hours p.r.n.
+4. Senna two tablets p.o. at bedtime p.r.n.
+5. Tamsulosin 0.4 mg p.o. every day .
+6. Timolol eye drops one drop each eye every day .
+7. Fosinopril 5 mg p.o. every day .
+8. Protonix 40 mg p.o. every day .
+9. Prednisone 15 mg p.o. every day .
+10. Alendronate 70 mg p.o. q. Friday .
+11. Latanoprost eye drops one drop each eye every day .
+12. Colace 100 mg p.o. b.i.d.
+13. Sotalol 160 mg p.o. q. 8 hours .
+14. Oxycodone extended - release 10 mg p.o. b.i.d.
+15. Pravastatin 20 mg p.o. at bedtime .
+16. Alprazolam 0.5 mg p.o. at bedtime p.r.n. insomnia .
+17. Zofran 4 mg IV q. 6 hours p.r.n.
+18. Lantus 26 units subcutaneously q.a.m.
+19. Low - dose sliding scale insulin with Lispro q.a.c. and at bedtime .
+20. Coumadin 5 mg p.o. q. day except Wednesdays 2.5 mg p.o..
+21. Nafcillin 2 grams IV q. 4 hours through **DATE[Nov 03 2007] .
+22. Dilaudid 2 mg p.o. q. 6 hours p.r.n. pain .
+FOLLOWUP :
+1. With his PCP , Dr. **NAME[OOO] , **PHONE upon discharge from rehabilitation .
+2. With Dr. **NAME[QQQ] of Infectious Disease , **PHONE , followup date is to be determined upon his discharge .
+3. With Orthopedics , **PHONE , to reevaluate his right elbow once he is discharged .
+___________________________________
+**NAME[YYY M ZZZ] , M.D.
+Dictator :
+**NAME[WWW XXX] , C.R.N.P.
+**INITIALS
+D :
+**DATE[Sep 26 2007] 16:02:50
+T :
+**DATE[Sep 26 2007] 16:10:15
+R :
+**DATE[Sep 26 2007] 16:10:15/klm
+Job ID :
+363576/**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX , NNN] ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Oct 07 2007] 04:42:12 PM

@@ -1,0 +1,78 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Feb 05 2007]
+Discharged :
+**DATE[Feb 08 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+PRIMARY DIAGNOSIS :
+Degenerative arthritis of the right hip .
+SECONDARY DIAGNOSES :
+Include :
+1. Hypertension .
+2. History of bladder cancer .
+3. Hypercholesterolemia .
+4. History of smoking .
+5. Social alcohol use .
+SURGICAL PROCEDURE :
+Right minimally invasive total hip replacement under spinal anesthesia with image intensification .
+This was done by Dr. **NAME[YYY ZZZ] with physician assistant , **NAME[VVV UUU] .
+This was done on **DATE[Feb 5 2007] .
+CONSULTS :
+Consults were made with physical therapy , occupational therapy , and social services as well as Dr. **NAME[TTT] for cardiology .
+History and physical is as per chart without any insertions or deletions .
+HOSPITAL COURSE :
+On postoperative day 1 , the patient is complaining of hip pain .
+We will consult chronic pain service for assessment .
+She can move and feel both feet .
+H and H are 11.9 and 35.2 .
+The patient is voiding spontaneously .
+Per physical therapy and occupational therapy , weightbearing as tolerated .
+With her history of cerebral palsy , it is unclear how rapidly she will progress .
+She is independent with gait and transfers .
+The patient is okay for discharge to home .
+She is on aspirin for anticoagulation .
+On postoperative day 2 , the patient is complaining of some pain in the right hip , moving slowly , yesterday on physical therapy , and no other complaints .
+The incision is clean , dry , and intact .
+Neurovascular is intact .
+There is no calf tenderness .
+Continue physical therapy and occupational therapy .
+The patient is okay for discharge to home and independent with gait and transfers .
+We will consult home care .
+Continue aspirin for anticoagulation .
+On postoperative day 3 , the patient is comfortable .
+Pain is controlled .
+No chest pain or shortness of breath .
+Vital signs were stable .
+Neurovascular is intact .
+Incisions are benign .
+The patient is to continue physical therapy and occupational therapy , and home care was consulted .
+The patient is okay for discharge when home care is organized .
+Follow up with Dr. **NAME[ZZZ] in 1 month .
+The patient was discharged on postoperative day 3 and will have home care for aid with physical therapy and occupational therapy .
+The patient is to continue aspirin for anticoagulation and Vicodin for pain control .
+She may resume any preoperative medications .
+Continue physical therapy and occupational therapy .
+Weightbearing as tolerated .
+Keep incisions clean and dry .
+Call the office with any questions , concerns , or complaints .
+Call the emergency department for any chest pain , shortness of breath , calf pain , or swelling .
+Followup appointment with Dr. **NAME[ZZZ] in 1 month .
+______________________________
+**NAME[WWW XXX] , PA-C
+HS Job # 951503 / 39816 / 35766
+SHY # **ID-NUM
+D :
+**DATE[Feb 25 2007] 11:51
+T :
+**DATE[Feb 26 2007] 17:58
+**CARBON-COPY

@@ -1,0 +1,53 @@
+**INSTITUTION
+NEUROLOGY TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Jun 15 2007]
+TRANSFER DATE :
+**DATE[Jun 20 07]
+TRANSFERRED TO :
+Inpatient Rehabilitation
+TRANSFERRED TO CARE OF :
+ADDENDUM :
+The new date of transfer for this patient will be **DATE[Jun 20 2007] .
+HOSPITAL COURSE :
+On the afternoon of **DATE[Jun 19 2007] , just prior to the patient 's transfer to rehabilitation , she suffered a period of waxing and waning in her neurological examination where she had some left upper and lower extremity weakness as well as some dysarthric speech .
+This lasted for several minutes .
+In response to this , although we checked the patient 's laboratory studies and her most recent PTT was therapeutic and satisfactory in the 50s , although starting Coumadin she was not fully therapeutic with an INR of 1.1 .
+In this setting , with the knowledge that the patient had a partial thrombus in her proximal right middle cerebral artery , we ordered a STAT MRI / MRA subacute stroke protocol to evaluate the status to see if there was any intervention that would be required .
+This was performed and the MRI / MRA reviewed , and there is no change in the studies with no extension of the stroke and no clear changes in the vessels .
+In this setting , we continued the patient 's maximal medical management for this thrombus and with heparin drip bridging her to therapeutic Coumadin and felt that the patient was in stable condition .
+She was seen on the morning of **DATE[Jun 20 2007] .
+She had stable vital signs .
+She was doing well .
+She was back to her baseline and in good spirits , looking forward to participating in rehabilitation .
+In this setting , she was felt to be medically clear for transfer to Rehabilitation as soon as possible .
+FOLLOW - UP INSTRUCTIONS :
+There is no change to the followup instructions .
+Please see the previous transfer summary .
+___________________________________
+**NAME[YYY]
+**NAME[ZZZ] , M.D.
+Dictator :
+**NAME[VVV M. XXX , WWW] , M.D.
+EAM/tm
+D :
+**DATE[Jun 20 2007] 06:56:14
+T :
+**DATE[Jun 20 2007] 07:05:31
+R :
+**DATE[Jun 20 2007] 07:05:31/tm
+Job ID :
+354178/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , WWW , SSS M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Jun 24 2007] 09:13:37 PM

@@ -1,0 +1,61 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[WWW M XXX]
+ADMISSION DATE :
+**DATE[Sep 11 2007]
+EVALUATION DATE :
+**DATE[Sep 13 07]
+HISTORY OF PRESENT ILLNESS :
+The patient is doing okay today .
+No new complaints .
+PHYSICAL EXAMINATION :
+We rolled her over to look at her decubitus ulcer .
+She has a very deep decub that has good granulation tissue .
+It is approximately 6 x 10 cm long .
+It is regularly shaped .
+There is no dead tissue deep into the wound , and it looks like it goes down close to her sacrum .
+We did gynecology exam on her today .
+Her examination , because we took her down to do gynecologic exam today , took over an hour of time .
+We got her into the stirrup .
+She was having a lot of bleeding .
+Probably , she is having her period at this point .
+Around her urethra , she has a polypoid - looking lesion .
+It did not appear particularly friable at this time right at the urethral entrance consistent with a probable urethral polyp .
+Her vaginal vault had bloody drainage , so the wet prep was negative .
+There were no open lesions that seemed to be communicating to the anterior pelvis .
+There is no evidence of fistula .
+No purulent drainage noted .
+ASSESSMENT AND PLAN :
+1. Probable recurrent osteomyelitis .
+We are awaiting her bone scan results .
+They are not yet available and Nuclear Medicine was unavailable today .
+I talked with Surgery about her , and they recommended getting a repeat CT scan so they can help prepare her for surgery .
+She is off antibiotics at this point .
+We will continue wound care for sacral decubitus .
+2. As far her vaginal discharge is concerned , she is now having her period , and it is hard to interpret wet prep results .
+If she has continued problems after she has completed this period , we told her that she needs to follow up with **INSTITUTION to have them do her regular Pap smear which she is due for plus reevaluate her vaginal vault and discharge when she is not having active .
+___________________________________
+**NAME[WWW XXX] , M.D.
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Sep 13 2007] 14:40:18
+T :
+**DATE[Sep 14 2007] 06:16:52
+R :
+**DATE[Sep 14 2007] 06:16:52/va
+Job ID :
+345475/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , TTT M]. ***
+Electronically Signed by **NAME[WWW XXX]
+**DATE[Oct 18 2007] 07:50:52 PM

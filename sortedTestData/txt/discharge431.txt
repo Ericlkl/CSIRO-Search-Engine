@@ -1,0 +1,40 @@
+**INSTITUTION
+NEUROSURGERY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT #
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Nov 05 2007]
+DISCHARGE DATE :
+**DATE[Nov 06 2007]
+BRIEF HISTORY :
+The patient is a **AGE[in 30s]- year - old female with multiple intracranial aneurysms .
+The patient had a prior ACOM aneurysm , by Dr. **NAME[ZZZ] .
+The patient presents on **DATE[Nov 5 2006] for an elective coiling of a left superior hypophyseal aneurysm .
+The patient tolerated the procedure well with no intraoperative complications .
+The patient was kept under observation for 24 hours at which time she remained at her neurological baseline .
+The patient was discharged on **DATE[Nov 6 2007] to home on aspirin .
+The patient was to follow up arteriogram in 3 to 6 months .
+___________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW M. XXX] , M.D.
+**INITIALS
+D :
+**DATE[Nov 06 2007] 07:48:03
+T :
+**DATE[Nov 06 2007] 08:51:14
+R :
+**DATE[Nov 06 2007] 08:51:14/sr
+Job ID :
+334808/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[XXX , VVV M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Nov 10 2007] 05:37:19 PM

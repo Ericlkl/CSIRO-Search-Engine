@@ -1,0 +1,61 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Dec 14 2007]
+EVALUATION DATE :
+**DATE[Dec 20 07]
+The patient is awake and alert .
+He notes less abdominal discomfort .
+He does note some left groin pain and some left knee pain , which he relates to a recent likely muscle strain of about 2 to 3 weeks ago .
+He is eating without difficulty .
+He has no complaints of any nausea or vomiting .
+He has noted no fevers or chills .
+He has no chest pain , shortness of breath , or other cardiorespiratory complaints .
+PHYSICAL EXAMINATION :
+Vital signs are stable .
+He is afebrile .
+The neck shows no JVD .
+No nodes or masses .
+Lungs are clear .
+Heart is regular .
+The abdomen is soft with moderate distention , active bowel sounds .
+No tenderness .
+Extremities :
+There is some tenderness of the left groin without hernia present , also some mild swelling in the left suprapatellar area .
+LABORATORY DATA :
+Electrolytes , BUN , and creatinine are within normal range .
+White count is 4800 with normal differential notable for no bands .
+Hemoglobin and hematocrit are 12.9 and 37.3 .
+INR is 5.5 .
+IMPRESSION :
+Partial small bowel obstruction appears to be resolving clinically .
+The patient is tolerating p.o. well .
+If the patient continues to improve , we can consider discharge later today .
+If the patient is discharged , we will be holding Coumadin for a period of 1 to 2 days , and then rechecking an INR early next week .
+Otherwise , we will agree with plans as outlined by the resident team and discuss with them .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+KJS/sc
+D :
+**DATE[Dec 20 2007] 09:29:30
+T :
+**DATE[Dec 21 2007] 00:21:30
+R :
+**DATE[Dec 21 2007] 00:21:30/sc
+Job ID :
+354291/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[ZZZ , TTT M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Dec 26 2007] 02:57:31 PM

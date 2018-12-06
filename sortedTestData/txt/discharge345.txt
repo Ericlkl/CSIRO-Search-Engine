@@ -1,0 +1,79 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+____________________________________________________________
+**NAME[AAA , BBB]
+**ID-NUM
+**ID-NUM
+A3B/1
+SERVICE OF :
+**NAME[ZZZ]
+**NAME[YYY]
+DATE OF ADMISSION :
+**DATE[Oct 11 2007]
+DATE OF DISCHARGE :
+**DATE[Oct 13 2007]
+PRINCIPAL DIAGNOSES :
+1. Congestive heart failure .
+2. Dilated cardiomyopathy with reduced ejection fraction .
+3. Coronary artery disease status post permanent pacemaker status post bypass surgery and status post permanent pacemaker with a defibrillator .
+4. Orthostatic hypotension .
+5. History of pulmonary embolism on Coumadin .
+6. History of atrial fibrillation .
+7. History of nonsustained ventricular tachycardia on amiodarone .
+8. History of spinal stenosis .
+9. History of gallstone .
+10. Chronic renal failure .
+11. Dementia of Alzheimer type .
+CONSULTANTS :
+Dr. **NAME[XXX] for cardiology .
+PROCEDURES :
+Checking the pacemaker and defibrillator .
+DISCHARGE MEDICATIONS :
+1. Lasix 40 mg by mouth daily .
+2. Allegra 180 mg p.o. daily .
+3. Aspirin 81 mg p.o. daily .
+4. Amiodarone 200 mg by mouth daily .
+5. Lactulose 20 g syrup by mouth daily .
+6. Milk of magnesia as needed 30 mL .
+7. K-Dur 20 mEq twice daily .
+8. Lopressor 12.5 mg twice daily .
+9. Coumadin 2 mg as directed .
+PT and INR in about a week 's time .
+DIET :
+Heart healthy diet .
+ACTIVITY :
+As tolerated , fall precautions .
+HOSPITAL COURSE :
+The patient is an **AGE[in 80s]- year - old white male who was admitted to the emergency room for increasing shortness of breath .
+He was evaluated in the emergency room and noted to have pulmonary congestion with pleural effusion .
+He was started initially on IV Lasix and later on switched to p.o. Lasix .
+His home medications were continued .
+Cardiology consult was put in .
+Dr. **NAME[XXX] evaluated , recommended we start a low-dose beta-blocker namely Lopressor 12.5 mg twice daily .
+He tolerated the medication well .
+His pacemaker was checked , was noted to be functioning well .
+His defibrillator had not fired , suggesting he did not have any sustained ventricular tachycardia .
+PT and OT were consulted and he continued to do well .
+PT / INR was monitored .
+It was adequate .
+He was back to his baseline .
+Arrangements were made for patient to be discharged home .
+Home care would be consulted .
+Continue PT and OT and his home medications .
+His new medication would be Lopressor 12.5 mg twice daily .
+LABORATORY DATA :
+Labs on the day of discharge sodium was 142 , potassium was 3.8 , chloride of 105 , bicarbonate of 27 , BUN of 17 , and creatinine of 1.5 .
+Cardiac enzymes were negative .
+H and H are stable at 13.5 and 39.7 .
+His INR was 2.0 on **DATE[Oct 12 2007] .
+___________________
+**NAME[ZZZ YYY] , M.D.
+Dict :
+**DATE[Oct 13 2007] 12:42:20
+Tran :
+**DATE[Oct 13 2007] 17:21:58
+**INITIALS
+R :
+**DATE[Oct 13 2007] 17:21:58/
+**CARBON-COPY

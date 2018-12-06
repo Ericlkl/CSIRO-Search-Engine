@@ -1,0 +1,123 @@
+**INSTITUTION
+GENERAL MEDICINE
+TRANSFER SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[Jan 12 2008]
+TRANSFER DATE :
+**DATE[Jan 17 08]
+TRANSFERRED TO :
+Montefiore TCU
+TRANSFERRED TO CARE OF :
+**NAME[YYY M. ZZZ] , M.D.
+DISPOSITION :
+Condition is stable .
+Transferred to Montefiore TCU .
+REASON FOR ADMISSION .
+This is a **AGE[in 60s]- year - old , married , Caucasian female with end - stage renal disease on hemodialysis who , during dialysis on the day of admission , developed a presyncopal episode , lightheadedness and substernal chest pain that was nonradiating , described as an 8/10 which was completely resolved by the time she was evaluated in the Emergency Department .
+THE PATIENT 's ALLERGIES ARE TO IV DYE AND COLCHICINE .
+On admission , her sodium was 139 , potassium 4.4 , chloride 94 , CO2 27 , anion gap 18 , BUN 20 , creatinine 5.6 and glucose was 110 .
+Troponin was less than 0.1 .
+WBC 13.5 , RBC 3.02 , H&amp ; H was 10.3 and 30.5 .
+Platelets were 76 .
+She had 80 segs , 9 lymphocytes , 8 monocytes , 2 eosinophils and 1 basophil .
+She had a chest x-ray done which showed mild vascular congestion in the Emergency Department .
+She had an EKG which was unremarkable .
+The report , normal sinus rhythm , rate of 101 , QRS 82 msec and QTc 500 msec .
+Otherwise , there was no sign of acute coronary ischemia .
+It was decided though that the patient would be admitted with the diagnosis of :
+1. Chest pain .
+2. Hypotensive episode during dialysis .
+3. Presyncope .
+PAST MEDICAL HISTORY :
+The patient has a past medical history which is significant for :
+1. End - stage renal disease on hemodialysis three times a week .
+2. Past history of alcohol abuse .
+3. Cirrhosis / end - stage liver disease .
+4. Diabetes .
+5. Hypothyroidism .
+6. Gout .
+7. Asthma .
+8. Status post appendectomy .
+PROBLEMS :
+1. Renal .
+End - stage renal disease on hemodialysis .
+No further episodes of syncope noted .
+The patient will continue .
+There has been no edema noted .
+The patient does continue to produce urine .
+2. GI with end - stage liver disease .
+The patient is clinically doing well .
+Her lactulose was decreased from four times a day to daily as the patient was having between 7 and 10 stools a day and she is not showing any signs of encephalopathy .
+3. Endocrine .
+History of diabetes and hypothyroidism .
+The patient will continue on her Lantus , preprandial regular insulin as well as four times a day low - dose insulin Accu-Cheks .
+The patient is considered medically stable for transfer to the TCU .
+TRANSFER DIAGNOSIS ( ES ):
+DECONDITIONING .
+SECONDARY DIAGNOSIS ( ES ):
+1. END - STAGE RENAL DISEASE ON HEMODIALYSIS .
+2. END - STAGE LIVER DISEASE .
+Please accept the history and physical .
+Rehab potential is good .
+TRANSFER INSTRUCTIONS :
+1. She is on VRE isolation .
+2. Vital signs every day .
+3. Activity :
+As tolerated .
+4. Is and Os q. shift .
+5. Top side rails up ________ positioning .
+6. Accu-Cheks :
+7 , 11 , 4 and 9 p.m.
+7. AM labs , electrolytes .
+8. Diet :
+1800 , 4 - gram sodium renal diet .
+9. Code :
+Full code .
+CONSULTANTS :
+PT / OT .
+TRANSFER MEDICATIONS :
+1. Thiamine 100 mg p.o. daily .
+2. Folic acid 1 mg p.o. daily .
+3. MVI one p.o. daily .
+4. Prevacid 30 mg p.o. daily .
+5. Synthroid 100 mcg p.o. daily .
+6. Aranesp 1000 mcg subQ weekly , on Saturday .
+7. Sodium bicarbonate 1300 mg p.o. three times a day .
+8. PhosLo one p.o. three times a day with meals .
+9. Lactulose 20 mg p.o. daily .
+10. Rifaximin 400 mg p.o. three times a day .
+11. Nystatin oral suspension 5 mL p.o. swish and swallow four times a day for thrush .
+12. Oxycodone 2.5 mg p.o. q.6 hours p.r.n. for pain .
+13. Lantus 22 units at bedtime .
+14. She is on regular insulin at breakfast , lunch and suppertime , 6 units total at breakfast , at lunch and at supper .
+15. She is on a low - dose sliding - scale insulin .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[M. WWW XXX] , C.R.N.P.
+JRH/maf
+D :
+**DATE[Jan 17 2008] 16:08:11
+T :
+**DATE[Jan 17 2008] 17:04:35
+R :
+**DATE[Jan 17 2008] 17:04:35/maf
+Job ID :
+350333/**ID-NUM
+Cc:
+**NAME[YYY M. ZZZ] , M.D.
+**STREET-ADDRESS , 3rd Fl .
+**PLACE , PA
+**ZIP-CODE
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX] , C.R.N.P.-J. **NAME[WWW] ***
+Electronically Signed by VERA STABILE for **NAME[YYY ZZZ] **DATE[Feb 01 2008] 05:56:07 PM

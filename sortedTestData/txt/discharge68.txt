@@ -1,0 +1,51 @@
+**INSTITUTION
+TRANSPLANT SURGERY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[XXX M ZZZ YYY]
+ADMISSION DATE :
+**DATE[Jan 09 2008]
+DISCHARGE DATE :
+**DATE[Jan 11 2008]
+DIAGNOSES :
+1 Intestinal obstruction .
+2 Paraplegia .
+HISTORY :
+This is a **AGE[in 30s]- year - old female patient with history of paraplegia secondary to a motor vehicle accident and multiple exploratory laparotomies for small bowel perforation in the past .
+She presented to **INSTITUTION complaining of nausea and absence of the bowel movement .
+She was admitted to Dr. **NAME[ZZZ YYY] 's service under the impression of intestinal obstruction .
+We placed an NG tube and kept the patient n.p.o. with hydration .
+On hospital day #2,she started passing gas and stools through her ileostomy .
+We removed her NG tube on hospital day #2 and we were able to start diet .
+On the day of discharge , she was tolerating diet and had a normal bowel movement .
+DISCHARGE MEDICATIONS :
+1 Neurontin 900 mg p.o. t.i.d.
+2 Neurontin 1200 mg p.o. nightly .
+3 Ditropan 5 mg p.o. b.i.d.
+4 Fentanyl patch 50 mcg every 72 hours .
+5 Wellbutrin 75 mg p.o. b.i.d.
+6 Baclofen 20 mg p.o. b.i.d.
+7 Ambien 10 mg nightly .
+___________________________________
+**NAME[XXX M ZZZ YYY]
+Dictator :
+**NAME[VVV WWW] , M.D.
+IS/fp
+D :
+**DATE[Jan 11 2008] 18:31:10
+T :
+**DATE[Jan 12 2008] 04:32:44
+R :
+**DATE[Jan 12 2008] 04:32:44/fp
+Job ID :
+342924 /**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[WWW , UUU] ***
+Electronically Signed by **NAME[XXX CCC]
+**DATE[Jan 23 2008] 02:37:54 PM
