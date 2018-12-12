@@ -1,0 +1,26 @@
+[2018-09-28T14:09:52,376][WARN ][o.e.d.s.ScriptModule     ] Script: returning default values for missing document values is deprecated. Set system property '-Des.scripting.exception_for_missing_value=true' to make behaviour compatible with future major versions.
+[2018-09-28T14:13:03,489][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2018-09-28T14:13:03,871][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2018-09-28T14:13:04,707][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2018-09-28T14:37:13,407][WARN ][o.e.d.c.m.MetaDataCreateIndexService] the default number of shards will change from [5] to [1] in 7.0.0; if you wish to continue using the default of [5] shards, you must manage this on the create index request or with an index template
+[2018-09-28T14:50:24,347][WARN ][o.e.d.c.m.MetaDataCreateIndexService] the default number of shards will change from [5] to [1] in 7.0.0; if you wish to continue using the default of [5] shards, you must manage this on the create index request or with an index template
+[2018-09-28T14:56:16,511][WARN ][o.e.d.c.ParseField       ] Deprecated field [all_fields] used, replaced by [Set [fields] to `*` instead]
+[2018-09-28T14:56:16,535][WARN ][o.e.d.c.ParseField       ] Deprecated field [inline] used, expected [source] instead
+[2018-09-28T14:57:12,772][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2018-09-28T14:57:13,878][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2018-09-28T14:57:15,222][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2018-09-28T15:01:00,957][WARN ][o.e.d.c.ParseField       ] Deprecated field [all_fields] used, replaced by [Set [fields] to `*` instead]
+[2018-09-28T15:01:00,969][WARN ][o.e.d.c.ParseField       ] Deprecated field [inline] used, expected [source] instead
+[2018-09-28T15:23:08,647][WARN ][o.e.d.c.ParseField       ] Deprecated field [all_fields] used, replaced by [Set [fields] to `*` instead]
+[2018-09-28T15:23:08,658][WARN ][o.e.d.c.ParseField       ] Deprecated field [inline] used, expected [source] instead
+[2018-09-28T15:49:12,931][WARN ][o.e.d.c.m.MetaDataCreateIndexService] the default number of shards will change from [5] to [1] in 7.0.0; if you wish to continue using the default of [5] shards, you must manage this on the create index request or with an index template
+[2018-09-28T15:49:13,084][WARN ][o.e.d.c.m.MetaDataCreateIndexService] the default number of shards will change from [5] to [1] in 7.0.0; if you wish to continue using the default of [5] shards, you must manage this on the create index request or with an index template
+[2018-09-30T11:41:54,168][WARN ][o.e.d.s.ScriptModule     ] Script: returning default values for missing document values is deprecated. Set system property '-Des.scripting.exception_for_missing_value=true' to make behaviour compatible with future major versions.
+[2018-10-02T11:35:09,281][WARN ][o.e.d.s.ScriptModule     ] Script: returning default values for missing document values is deprecated. Set system property '-Des.scripting.exception_for_missing_value=true' to make behaviour compatible with future major versions.
+[2018-10-02T12:31:53,765][WARN ][o.e.d.s.ScriptModule     ] Script: returning default values for missing document values is deprecated. Set system property '-Des.scripting.exception_for_missing_value=true' to make behaviour compatible with future major versions.
+[2018-10-08T14:01:22,578][WARN ][o.e.d.s.ScriptModule     ] Script: returning default values for missing document values is deprecated. Set system property '-Des.scripting.exception_for_missing_value=true' to make behaviour compatible with future major versions.
+[2018-10-08T14:08:28,632][WARN ][o.e.d.c.ParseField       ] Deprecated field [all_fields] used, replaced by [Set [fields] to `*` instead]
+[2018-10-08T14:08:28,668][WARN ][o.e.d.c.ParseField       ] Deprecated field [inline] used, expected [source] instead
+[2018-10-08T14:08:33,673][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2018-10-08T15:09:41,335][WARN ][o.e.d.s.ScriptModule     ] Script: returning default values for missing document values is deprecated. Set system property '-Des.scripting.exception_for_missing_value=true' to make behaviour compatible with future major versions.
+[2018-10-08T15:17:59,154][WARN ][o.e.d.s.ScriptModule     ] Script: returning default values for missing document values is deprecated. Set system property '-Des.scripting.exception_for_missing_value=true' to make behaviour compatible with future major versions.
