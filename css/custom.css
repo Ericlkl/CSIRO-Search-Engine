@@ -1,7 +1,7 @@
 /* Add your custom css styling */
 
 body {
-	background-color: #2780E3 ;
+	background-color: #D7EDF7; /* alternative is #2780E3*/
 }
 
 .searchbox {
@@ -29,6 +29,43 @@ body {
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
 }
 
+
+.over-button-secondary {
+  color: #fff;
+  background-color: #2780E3;
+  border-color: #2780E3;
+}
+
+.over-button-secondary:hover {
+  color: #fff;
+  background-color: #2780E3;
+  border-color: #2780E3;
+}
+
+.over-button-secondary:focus, .over-button-secondary.focus {
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(71, 147, 231, 0.5);
+          box-shadow: 0 0 0 0.2rem rgba(71, 147, 231, 0.5);
+}
+
+.over-button-secondary.disabled, .over-button-secondary:disabled {
+  color: #fff;
+  background-color: #2780E3;
+  border-color: #2780E3;
+}
+
+.over-button-secondary:not(:disabled):not(.disabled):active, .over-button-secondary:not(:disabled):not(.disabled).active,
+.show > .over-button-secondary.dropdown-toggle {
+  color: #fff;
+  background-color: #2780E3;
+  border-color: #2780E3;
+}
+
+.over-button-secondary:not(:disabled):not(.disabled):active:focus, .over-button-secondary:not(:disabled):not(.disabled).active:focus,
+.show > .over-button-secondary.dropdown-toggle:focus {
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(71, 147, 231, 0.5);
+          box-shadow: 0 0 0 0.2rem rgba(71, 147, 231, 0.5);
+}
+
 .over-button {
   display: inline;
   width: 19%;
@@ -37,7 +74,7 @@ body {
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #373a3c;
+  color: #2780E3;
   background-color: transparent;
   background-clip: transparent;
   border: 1px solid #ced4da;
@@ -64,10 +101,4 @@ body {
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;*/
-}
-
-.over-button-secondary {
-  color: #fff;
-  background-color: #373a3c;
-  border-color: #373a3c;
 }
