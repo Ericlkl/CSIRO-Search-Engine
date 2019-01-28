@@ -33,10 +33,10 @@
           <h1><center>CSIRO Health Text Visualisation</center></h1>
           <br>
           <br>
-          <form name="myForm" method="post" action="javascript:getcookie()" onsubmit="return storeValues(this);">
+          <form name="myForm" method="post" onsubmit="storeValues(this);">
             <fieldset>
               <input class="search-form" placeholder="What would you like to search ?" name="field" value="">
-              <a href="result.html"><button type="button" class="over-button over-button-secondary">Search</button></a>
+              <a href="result.html"><button type="button" class="over-button over-button-secondary" onsubmit="storeValues(myForm);">Search</button></a>
             </fieldset>
           </form>
       </div>
