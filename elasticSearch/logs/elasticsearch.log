@@ -170,3 +170,60 @@
 [2018-10-08T15:29:38,686][INFO ][o.e.n.Node               ] [rignPuv] stopped
 [2018-10-08T15:29:38,687][INFO ][o.e.n.Node               ] [rignPuv] closing ...
 [2018-10-08T15:29:38,699][INFO ][o.e.n.Node               ] [rignPuv] closed
+[2019-02-18T15:51:51,701][INFO ][o.e.n.Node               ] [] initializing ...
+[2019-02-18T15:51:51,781][INFO ][o.e.e.NodeEnvironment    ] [rignPuv] using [1] data paths, mounts [[/home (/dev/nvme0n1p4)]], net usable_space [273.5gb], net total_space [392.8gb], types [ext4]
+[2019-02-18T15:51:51,782][INFO ][o.e.e.NodeEnvironment    ] [rignPuv] heap size [989.8mb], compressed ordinary object pointers [true]
+[2019-02-18T15:51:51,823][INFO ][o.e.n.Node               ] [rignPuv] node name derived from node ID [rignPuvkTMiaHdpKc3uSlQ]; set [node.name] to override
+[2019-02-18T15:51:51,824][INFO ][o.e.n.Node               ] [rignPuv] version[6.4.1], pid[6890], build[default/tar/e36acdb/2018-09-13T22:18:07.696808Z], OS[Linux/4.20.6-arch1-1-ARCH/amd64], JVM[Oracle Corporation/OpenJDK 64-Bit Server VM/10.0.2/10.0.2+13]
+[2019-02-18T15:51:51,824][INFO ][o.e.n.Node               ] [rignPuv] JVM arguments [-Xms1g, -Xmx1g, -XX:+UseConcMarkSweepGC, -XX:CMSInitiatingOccupancyFraction=75, -XX:+UseCMSInitiatingOccupancyOnly, -XX:+AlwaysPreTouch, -Xss1m, -Djava.awt.headless=true, -Dfile.encoding=UTF-8, -Djna.nosys=true, -XX:-OmitStackTraceInFastThrow, -Dio.netty.noUnsafe=true, -Dio.netty.noKeySetOptimization=true, -Dio.netty.recycler.maxCapacityPerThread=0, -Dlog4j.shutdownHookEnabled=false, -Dlog4j2.disable.jmx=true, -Djava.io.tmpdir=/tmp/elasticsearch.UR8HickE, -XX:+HeapDumpOnOutOfMemoryError, -XX:HeapDumpPath=data, -XX:ErrorFile=logs/hs_err_pid%p.log, -Xlog:gc*,gc+age=trace,safepoint:file=logs/gc.log:utctime,pid,tags:filecount=32,filesize=64m, -Djava.locale.providers=COMPAT, -XX:UseAVX=2, -Des.path.home=/home/aaron/Capstone/CSIRO-Search-Engine-Project/elasticSearch, -Des.path.conf=/home/aaron/Capstone/CSIRO-Search-Engine-Project/elasticSearch/config, -Des.distribution.flavor=default, -Des.distribution.type=tar]
+[2019-02-18T15:51:53,227][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [aggs-matrix-stats]
+[2019-02-18T15:51:53,227][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [analysis-common]
+[2019-02-18T15:51:53,227][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [ingest-common]
+[2019-02-18T15:51:53,227][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [lang-expression]
+[2019-02-18T15:51:53,228][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [lang-mustache]
+[2019-02-18T15:51:53,228][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [lang-painless]
+[2019-02-18T15:51:53,228][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [mapper-extras]
+[2019-02-18T15:51:53,228][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [parent-join]
+[2019-02-18T15:51:53,228][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [percolator]
+[2019-02-18T15:51:53,229][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [rank-eval]
+[2019-02-18T15:51:53,229][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [reindex]
+[2019-02-18T15:51:53,229][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [repository-url]
+[2019-02-18T15:51:53,229][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [transport-netty4]
+[2019-02-18T15:51:53,229][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [tribe]
+[2019-02-18T15:51:53,229][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [x-pack-core]
+[2019-02-18T15:51:53,230][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [x-pack-deprecation]
+[2019-02-18T15:51:53,230][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [x-pack-graph]
+[2019-02-18T15:51:53,230][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [x-pack-logstash]
+[2019-02-18T15:51:53,230][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [x-pack-ml]
+[2019-02-18T15:51:53,230][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [x-pack-monitoring]
+[2019-02-18T15:51:53,230][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [x-pack-rollup]
+[2019-02-18T15:51:53,231][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [x-pack-security]
+[2019-02-18T15:51:53,231][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [x-pack-sql]
+[2019-02-18T15:51:53,231][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [x-pack-upgrade]
+[2019-02-18T15:51:53,231][INFO ][o.e.p.PluginsService     ] [rignPuv] loaded module [x-pack-watcher]
+[2019-02-18T15:51:53,232][INFO ][o.e.p.PluginsService     ] [rignPuv] no plugins loaded
+[2019-02-18T15:51:56,221][INFO ][o.e.x.s.a.s.FileRolesStore] [rignPuv] parsed [0] roles from file [/home/aaron/Capstone/CSIRO-Search-Engine-Project/elasticSearch/config/roles.yml]
+[2019-02-18T15:51:56,749][INFO ][o.e.x.m.j.p.l.CppLogMessageHandler] [controller/6994] [Main.cc@109] controller (64 bit): Version 6.4.1 (Build 1df3104bc26648) Copyright (c) 2018 Elasticsearch BV
+[2019-02-18T15:51:57,163][DEBUG][o.e.a.ActionModule       ] Using REST wrapper from plugin org.elasticsearch.xpack.security.Security
+[2019-02-18T15:51:57,410][INFO ][o.e.d.DiscoveryModule    ] [rignPuv] using discovery type [zen]
+[2019-02-18T15:51:58,087][INFO ][o.e.n.Node               ] [rignPuv] initialized
+[2019-02-18T15:51:58,087][INFO ][o.e.n.Node               ] [rignPuv] starting ...
+[2019-02-18T15:51:58,249][INFO ][o.e.t.TransportService   ] [rignPuv] publish_address {127.0.0.1:9300}, bound_addresses {[::1]:9300}, {127.0.0.1:9300}
+[2019-02-18T15:51:58,318][WARN ][o.e.b.BootstrapChecks    ] [rignPuv] max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]
+[2019-02-18T15:52:01,384][INFO ][o.e.c.s.MasterService    ] [rignPuv] zen-disco-elected-as-master ([0] nodes joined)[, ], reason: new_master {rignPuv}{rignPuvkTMiaHdpKc3uSlQ}{X1CboLr_QZeVdTIPZe5BIQ}{127.0.0.1}{127.0.0.1:9300}{ml.machine_memory=8113713152, xpack.installed=true, ml.max_open_jobs=20, ml.enabled=true}
+[2019-02-18T15:52:01,390][INFO ][o.e.c.s.ClusterApplierService] [rignPuv] new_master {rignPuv}{rignPuvkTMiaHdpKc3uSlQ}{X1CboLr_QZeVdTIPZe5BIQ}{127.0.0.1}{127.0.0.1:9300}{ml.machine_memory=8113713152, xpack.installed=true, ml.max_open_jobs=20, ml.enabled=true}, reason: apply cluster state (from master [master {rignPuv}{rignPuvkTMiaHdpKc3uSlQ}{X1CboLr_QZeVdTIPZe5BIQ}{127.0.0.1}{127.0.0.1:9300}{ml.machine_memory=8113713152, xpack.installed=true, ml.max_open_jobs=20, ml.enabled=true} committed version [1] source [zen-disco-elected-as-master ([0] nodes joined)[, ]]])
+[2019-02-18T15:52:01,407][INFO ][o.e.x.s.t.n.SecurityNetty4HttpServerTransport] [rignPuv] publish_address {127.0.0.1:9200}, bound_addresses {[::1]:9200}, {127.0.0.1:9200}
+[2019-02-18T15:52:01,408][INFO ][o.e.n.Node               ] [rignPuv] started
+[2019-02-18T15:52:01,745][INFO ][o.e.c.s.ClusterSettings  ] [rignPuv] updating [xpack.monitoring.collection.enabled] from [false] to [true]
+[2019-02-18T15:52:02,074][WARN ][o.e.x.s.a.s.m.NativeRoleMappingStore] [rignPuv] Failed to clear cache for realms [[]]
+[2019-02-18T15:52:02,123][INFO ][o.e.l.LicenseService     ] [rignPuv] license [45eccb79-1c87-4e43-8239-4fda6868d443] mode [basic] - valid
+[2019-02-18T15:52:02,138][INFO ][o.e.g.GatewayService     ] [rignPuv] recovered [5] indices into cluster_state
+[2019-02-18T15:52:02,866][INFO ][o.e.c.r.a.AllocationService] [rignPuv] Cluster health status changed from [RED] to [YELLOW] (reason: [shards started [[.kibana][0]] ...]).
+[2019-02-18T15:52:12,011][INFO ][o.e.c.m.MetaDataCreateIndexService] [rignPuv] [.monitoring-es-6-2019.02.18] creating index, cause [auto(bulk api)], templates [.monitoring-es], shards [1]/[0], mappings [doc]
+[2019-02-18T15:56:20,666][INFO ][o.e.c.m.MetaDataCreateIndexService] [rignPuv] [.monitoring-kibana-6-2019.02.18] creating index, cause [auto(bulk api)], templates [.monitoring-kibana], shards [1]/[0], mappings [doc]
+[2019-02-18T17:42:22,948][INFO ][o.e.x.m.j.p.NativeController] Native controller process has stopped - no new native processes can be started
+[2019-02-18T17:42:22,953][INFO ][o.e.n.Node               ] [rignPuv] stopping ...
+[2019-02-18T17:42:22,972][INFO ][o.e.x.w.WatcherService   ] [rignPuv] stopping watch service, reason [shutdown initiated]
+[2019-02-18T17:42:23,393][INFO ][o.e.n.Node               ] [rignPuv] stopped
+[2019-02-18T17:42:23,396][INFO ][o.e.n.Node               ] [rignPuv] closing ...
+[2019-02-18T17:42:23,434][INFO ][o.e.n.Node               ] [rignPuv] closed

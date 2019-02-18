@@ -24,3 +24,6 @@
 [2018-10-08T14:08:33,673][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
 [2018-10-08T15:09:41,335][WARN ][o.e.d.s.ScriptModule     ] Script: returning default values for missing document values is deprecated. Set system property '-Des.scripting.exception_for_missing_value=true' to make behaviour compatible with future major versions.
 [2018-10-08T15:17:59,154][WARN ][o.e.d.s.ScriptModule     ] Script: returning default values for missing document values is deprecated. Set system property '-Des.scripting.exception_for_missing_value=true' to make behaviour compatible with future major versions.
+[2019-02-18T15:51:54,876][WARN ][o.e.d.s.ScriptModule     ] Script: returning default values for missing document values is deprecated. Set system property '-Des.scripting.exception_for_missing_value=true' to make behaviour compatible with future major versions.
+[2019-02-18T16:42:00,096][WARN ][o.e.d.c.ParseField       ] Deprecated field [all_fields] used, replaced by [Set [fields] to `*` instead]
+[2019-02-18T16:42:00,113][WARN ][o.e.d.c.ParseField       ] Deprecated field [inline] used, expected [source] instead
