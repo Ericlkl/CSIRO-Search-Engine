@@ -8,9 +8,9 @@ import {
 } from '../actions/types';
 
 const filterState = {
-    sortBy: "Most Recent",
-    gender: ["Male"],
-    country: "United State",
+    sortBy: "Revelance",
+    gender: [],
+    country: "Australia",
     continent: [],
     status: []
 };

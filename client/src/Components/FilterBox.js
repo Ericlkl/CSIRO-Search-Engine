@@ -5,7 +5,8 @@ import {
   filterContinent, 
   filterStatus,
   filterCountry,
-  filterSortBy
+  filterSortBy,
+  filterReset
 } from '../actions/index';
 
 const CheckBox = props => {
@@ -151,6 +152,10 @@ class FilterBox extends Component {
               isChecked={this.props.filter.status.includes("Unknown")} />
           </BoxField>
 
+          <div className="active content">
+            <button onClick={this.props.filterReset} className="ui button primary fluid">Reset</button>
+          </div>
+
         </div>
       </div>
     )
@@ -164,5 +169,6 @@ export default connect(mapStateToProps, {
   filterContinent, 
   filterStatus,
   filterSortBy,
-  filterCountry
+  filterCountry,
+  filterReset
 })(FilterBox);
