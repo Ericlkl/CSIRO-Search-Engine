@@ -1,15 +1,19 @@
 import React, { Component } from 'react'
 import {connect} from 'react-redux';
+import { filterGender, filterContinent, filterStatus } from '../actions/index';
 
 const CheckBox = props => {
+  const {name, value, isChecked} = props;
   return (
     <div className="field">
       <div className="ui checkbox">
         <input type="checkbox"
-          name={props.name}
-          value={props.value}
+          name={name}
+          value={value}
+          checked={isChecked}
+          onChange={e => props.onChange({ checked: e.target.checked, value})}
         />
-        <label>{props.value}</label>
+        <label>{value}</label>
       </div>
     </div>
   )
@@ -44,18 +48,22 @@ class FilterBox extends Component {
             </select>
           </BoxField>
 
-
           <BoxField name="Gender">
-            <CheckBox name="Gender"
+            <CheckBox 
+              name="Gender" 
               value="Male"
-              onClick={this.onCheckBoxTicked} />
+              onChange={this.props.filterGender} 
+              isChecked={this.props.filter.gender.includes("Male")} />
             <CheckBox
               name="Gender"
               value="Female"
-              onClick={this.onCheckBoxTicked} />
+              onChange={this.props.filterGender} 
+              isChecked={this.props.filter.gender.includes("Female")} />
             <CheckBox
               name="Gender"
-              value="Unspecified"/>
+              value="Unspecified"
+              onChange={this.props.filterGender} 
+              isChecked={this.props.filter.gender.includes("Unspecified")} />
           </BoxField>
 
           <BoxField name="Country">
@@ -69,23 +77,65 @@ class FilterBox extends Component {
           </BoxField>
 
           <BoxField name="Continent">
-            <CheckBox name="Continent" value="Europe" />
-            <CheckBox name="Continent" value="Asia" />
-            <CheckBox name="Continent" value="North America" />
-            <CheckBox name="Continent" value="Oceana" />
-            <CheckBox name="Continent" value="South America" />
-            <CheckBox name="Continent" value="Africa" />
+            <CheckBox 
+              name="Continent" 
+              value="Europe" 
+              onChange={this.props.filterContinent} 
+              isChecked={this.props.filter.continent.includes("Europe")}
+            />
+            <CheckBox 
+              name="Continent" 
+              value="Asia"
+              onChange={this.props.filterContinent} 
+              isChecked={this.props.filter.continent.includes("Asia")} />
+            <CheckBox 
+              name="Continent" 
+              value="North America" 
+              onChange={this.props.filterContinent} 
+              isChecked={this.props.filter.continent.includes("North America")} />
+            <CheckBox 
+              name="Continent" 
+              value="Oceana"
+              onChange={this.props.filterContinent} 
+              isChecked={this.props.filter.continent.includes("Oceana")} />
+            <CheckBox 
+              name="Continent" 
+              value="South America"
+              onChange={this.props.filterContinent} 
+              isChecked={this.props.filter.continent.includes("South America")} />
+            <CheckBox 
+              name="Continent" 
+              value="Africa"
+              onChange={this.props.filterContinent} 
+              isChecked={this.props.filter.continent.includes("Africa")} />
           </BoxField>
 
           <BoxField name="Status">
             <CheckBox
               name="status"
               value="Completed"
-            />
-            <CheckBox name="status" value="Inomplete" />
-            <CheckBox name="status" value="Terminated" />
-            <CheckBox name="status" value="Active" />
-            <CheckBox name="status" value="Unknown" />
+              onChange={this.props.filterStatus} 
+              isChecked={this.props.filter.status.includes("Completed")} />
+            <CheckBox 
+              name="status" 
+              value="Incomplete"
+              onChange={this.props.filterStatus} 
+              isChecked={this.props.filter.status.includes("Incomplete")} />
+            <CheckBox 
+              name="status" 
+              value="Terminated"
+              onChange={this.props.filterStatus} 
+              isChecked={this.props.filter.status.includes("Terminated")} />
+            <CheckBox 
+              name="status" 
+              value="Active"
+              onChange={this.props.filterStatus} 
+              isChecked={this.props.filter.status.includes("Active")} />
+            <CheckBox 
+              name="status" 
+              value="Unknown"
+              onChange={this.props.filterStatus} 
+              isChecked={this.props.filter.status.includes("Unknown")} />
           </BoxField>
 
         </div>
@@ -96,4 +146,8 @@ class FilterBox extends Component {
 
 const mapStateToProps = ({filter}) => ({filter})
 
-export default connect(mapStateToProps)(FilterBox);
+export default connect(mapStateToProps, {
+  filterGender,
+  filterContinent, 
+  filterStatus 
+})(FilterBox);

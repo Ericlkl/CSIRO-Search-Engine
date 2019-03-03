@@ -1,3 +1,7 @@
 export const FETCH_ITEMS = "FETCH_ITEMS";
 
 export const FILTER_GENDER = "FILTER_GENDER";
+
+export const FILTER_CONTINENT = "fILTER_CONTINENT";
+
+export const FILTER_STATUS = "fILTER_STATUS";
