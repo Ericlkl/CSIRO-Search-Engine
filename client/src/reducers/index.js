@@ -1,4 +1,5 @@
 import { FETCH_ITEMS } from '../actions/types';
+import filterReducer from './filterReducer';
 import { combineReducers } from 'redux';
 
 const searchItemReducer = (state = "", action) => {
@@ -11,5 +12,6 @@ const searchItemReducer = (state = "", action) => {
 }
 
 export default combineReducers({
-    searchItem: searchItemReducer
+    searchItem: searchItemReducer,
+    filter: filterReducer
 })

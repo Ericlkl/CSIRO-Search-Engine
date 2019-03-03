@@ -1,10 +1,14 @@
 import React, { Component } from 'react'
+import {connect} from 'react-redux';
 
 const CheckBox = props => {
   return (
     <div className="field">
       <div className="ui checkbox">
-        <input type="checkbox" name={props.name} value={props.value} />
+        <input type="checkbox"
+          name={props.name}
+          value={props.value}
+        />
         <label>{props.value}</label>
       </div>
     </div>
@@ -26,22 +30,32 @@ const BoxField = props => {
 class FilterBox extends Component {
 
   render() {
+    console.log(this.props.filter);
     return (
       <div className="filterBox">
         <div className="ui styled fluid accordion">
 
           <BoxField name="Sort By">
-            <select className="ui dropdown fluid" name="sortBy">
+            <select className="ui dropdown fluid"
+              name="sortBy">
               <option value="revelance">Revelance</option>
               <option value="most recent">Most Recent</option>
               <option value="earliest registration">Earliest Registration</option>
             </select>
           </BoxField>
 
+
           <BoxField name="Gender">
-            <CheckBox name="Gender" value="Male"/>
-            <CheckBox name="Gender" value="Female"/>
-            <CheckBox name="Gender" value="Unspecified"/>
+            <CheckBox name="Gender"
+              value="Male"
+              onClick={this.onCheckBoxTicked} />
+            <CheckBox
+              name="Gender"
+              value="Female"
+              onClick={this.onCheckBoxTicked} />
+            <CheckBox
+              name="Gender"
+              value="Unspecified"/>
           </BoxField>
 
           <BoxField name="Country">
@@ -55,20 +69,23 @@ class FilterBox extends Component {
           </BoxField>
 
           <BoxField name="Continent">
-            <CheckBox name="Continent" value="Europe"/>
-            <CheckBox name="Continent" value="Asia"/>
-            <CheckBox name="Continent" value="North America"/>
-            <CheckBox name="Continent" value="Oceana"/>
-            <CheckBox name="Continent" value="South America"/>
-            <CheckBox name="Continent" value="Africa"/>
+            <CheckBox name="Continent" value="Europe" />
+            <CheckBox name="Continent" value="Asia" />
+            <CheckBox name="Continent" value="North America" />
+            <CheckBox name="Continent" value="Oceana" />
+            <CheckBox name="Continent" value="South America" />
+            <CheckBox name="Continent" value="Africa" />
           </BoxField>
 
           <BoxField name="Status">
-            <CheckBox name="status" value="Completed"/>
-            <CheckBox name="status" value="Inomplete"/>
-            <CheckBox name="status" value="Terminated"/>
-            <CheckBox name="status" value="Active"/>
-            <CheckBox name="status" value="Unknown"/>
+            <CheckBox
+              name="status"
+              value="Completed"
+            />
+            <CheckBox name="status" value="Inomplete" />
+            <CheckBox name="status" value="Terminated" />
+            <CheckBox name="status" value="Active" />
+            <CheckBox name="status" value="Unknown" />
           </BoxField>
 
         </div>
@@ -77,4 +94,6 @@ class FilterBox extends Component {
   }
 }
 
-export default FilterBox;
+const mapStateToProps = ({filter}) => ({filter})
+
+export default connect(mapStateToProps)(FilterBox);
