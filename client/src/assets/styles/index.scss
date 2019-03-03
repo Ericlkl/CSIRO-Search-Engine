@@ -1,10 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: 0;
+    font-family: 'Roboto', sans-serif;
 }
 
 .container{
     max-width: 1100px;
-    margin: auto 0;
+    margin: 0 auto;
 }
+
+body{
+    background-color: #f4f4f4;
+}
+@import './SearchBar.scss'
