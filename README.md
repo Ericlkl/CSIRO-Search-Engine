@@ -60,8 +60,8 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **John Santias ** - *Project Manager / Scrum Master* - [AsianJohnBoi](https://github.com/AsianJohnBoi)
-* **lan Williams ** - *Team Leader* - [IanWil](https://github.com/IanWil)
-* **Aaron Tolmaci ** - *Back End Developer* - [aaron-tolmaci](https://github.com/aaron-tolmaci)
-* **Eric lee ** - *Front End Developer* - [Ericlkl](https://github.com/Ericlkl)
-* **Emma Lu ** - *Front End Developer* - [Emmalululu](https://github.com/Emmalululu)
+* **John Santias** - *Project Manager / Scrum Master* - [AsianJohnBoi](https://github.com/AsianJohnBoi)
+* **lan Williams** - *Team Leader* - [IanWil](https://github.com/IanWil)
+* **Aaron Tolmaci** - *Back End Developer* - [aaron-tolmaci](https://github.com/aaron-tolmaci)
+* **Eric lee** - *Front End Developer* - [Ericlkl](https://github.com/Ericlkl)
+* **Emma Lu** - *Front End Developer* - [Emmalululu](https://github.com/Emmalululu)
