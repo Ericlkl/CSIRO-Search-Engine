@@ -1,0 +1,27 @@
+.result-section{
+    .container{
+        display: grid;
+        grid-template-rows: repeat(2,1fr);
+        grid-gap:3rem;
+    }
+    margin: 5rem 0;
+    border: 1px solid blue;
+}
+
+// Larger than mobile
+@media (min-width: 500px){
+    .result-section{
+        .container{
+            grid-template-rows: 1fr;
+            grid-template-columns: 40% 60%;
+        }
+    }
+}
+
+@media (min-width: 700px){
+    .result-section{
+        .container{
+            grid-template-columns: 25% 75%;
+        }
+    }
+}
