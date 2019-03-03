@@ -1,13 +1,16 @@
-import { 
+import {
     FILTER_GENDER,
+    FILTER_SORTBY,
+    FILTER_COUNTRY,
     FILTER_CONTINENT,
-    FILTER_STATUS
+    FILTER_STATUS,
+    FILTER_RESET
 } from '../actions/types';
 
 const filterState = {
-    sortBy: "most recent",
+    sortBy: "Most Recent",
     gender: ["Male"],
-    country: "Australia",
+    country: "United State",
     continent: [],
     status: []
 };
@@ -36,6 +39,17 @@ export default (state = filterState, action) => {
                 newState.status.push(action.payload.value);
             }
             return newState
+
+        case FILTER_COUNTRY:
+            newState.country = action.payload
+            return newState;
+
+        case FILTER_SORTBY:
+            newState.sortBy = action.payload
+            return newState;
+
+        case FILTER_RESET:
+            return filterState;
         default:
             return state
     }

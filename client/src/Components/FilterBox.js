@@ -1,6 +1,12 @@
 import React, { Component } from 'react'
 import {connect} from 'react-redux';
-import { filterGender, filterContinent, filterStatus } from '../actions/index';
+import { 
+  filterGender, 
+  filterContinent, 
+  filterStatus,
+  filterCountry,
+  filterSortBy
+} from '../actions/index';
 
 const CheckBox = props => {
   const {name, value, isChecked} = props;
@@ -18,6 +24,7 @@ const CheckBox = props => {
     </div>
   )
 }
+
 const BoxField = props => {
   return (
     <div>
@@ -41,10 +48,12 @@ class FilterBox extends Component {
 
           <BoxField name="Sort By">
             <select className="ui dropdown fluid"
+              onChange={e => this.props.filterSortBy(e.target.value)}
+              value={this.props.filter.sortBy}
               name="sortBy">
-              <option value="revelance">Revelance</option>
-              <option value="most recent">Most Recent</option>
-              <option value="earliest registration">Earliest Registration</option>
+              <option value="Revelance">Revelance</option>
+              <option value="Most Recent">Most Recent</option>
+              <option value="Earliest Registration">Earliest Registration</option>
             </select>
           </BoxField>
 
@@ -67,12 +76,16 @@ class FilterBox extends Component {
           </BoxField>
 
           <BoxField name="Country">
-            <select className="ui dropdown fluid" name="country">
-              <option value="au">Australia</option>
-              <option value="us">United State</option>
-              <option value="china">China</option>
-              <option value="uk">United Kingdom</option>
-              <option value="france">France</option>
+            <select 
+              className="ui dropdown fluid" 
+              onChange={e => this.props.filterCountry(e.target.value)}
+              value={this.props.filter.country}
+              name="country">
+              <option value="Australia">Australia</option>
+              <option value="United State">United State</option>
+              <option value="China">China</option>
+              <option value="United Kingdom">United Kingdom</option>
+              <option value="France">France</option>
             </select>
           </BoxField>
 
@@ -149,5 +162,7 @@ const mapStateToProps = ({filter}) => ({filter})
 export default connect(mapStateToProps, {
   filterGender,
   filterContinent, 
-  filterStatus 
+  filterStatus,
+  filterSortBy,
+  filterCountry
 })(FilterBox);
