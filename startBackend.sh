@@ -8,17 +8,32 @@ DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 
 # Nonblocking ES start, a shutdown script will be written in the future.
 # For demonstrative purposes clean shutdown is uneccesary at this point.
-$DIR/elasticSearch/bin/elasticsearch &
+$DIR/elasticSearch/bin/elasticsearch -d
 
-sleep 5
+until $(curl --output /dev/null --silent --head --fail http://localhost:9200); do
+    printf '.'
+    sleep 5
+done
 
-#TODO: while ES not ready sleep
+#get pid of elasticsearch
+pid=$(pgrep -f elasticsearch)
+echo "elasticsearch ready! - PID is $pid"
+
 #TODO: clear existing ES DB (for easier workflow testing
 
-#TODO: index pdf file
-#TODO: index multiple PDF files
+# cleanup function
+function finish() {
+	pkill -f elasticsearch
+	while kill -0 $pid 2> /dev/null; do sleep 1; done;
+  	echo "elasticsearch exited cleanly"
+}
 
-#TODO: repeat last 2 steps for various file types
 
 # Kibana for query testing.
-$DIR/kibana/bin/kibana &
+#$DIR/kibana/bin/kibana &
+
+#wait for user to press enter
+read -p "press enter to shutdown elasticsearch"
+
+# catch exit
+trap finish EXIT
