@@ -1,5 +1,0 @@
-created new test job using fscrawler
-	./fscrawler-2.5/bin/fscrawler --config_dir ./fscJobs/pdf fdf
-
-edit default url to location of docs
-    "url" : "/home/aaron/Capstone/sortedData/pdf/",
