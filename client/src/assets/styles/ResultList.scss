@@ -1,3 +1,14 @@
 .result-list{
-    
+    margin: 2rem;
+}
+
+// Larger than mobile
+@media (min-width: 500px){
+    .result-list{
+        margin: 0 2rem;
+    }
+}
+
+@media (min-width: 700px){
+
 }

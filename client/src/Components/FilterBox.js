@@ -26,17 +26,27 @@ const CheckBox = props => {
   )
 }
 
-const BoxField = props => {
-  return (
-    <div>
-      <div className="active title">
-        <h2><i className="dropdown icon"></i>{props.name}</h2>
-      </div>
-      <div className="active content">
-        {props.children}
-      </div>
-    </div>
+class BoxField extends Component{
+  state = {
+    active: true
+  }
+
+  render() {
+      return (
+        <div>
+          <div onClick={
+            e => this.setState({ active: !this.state.active })
+          } 
+          className={this.state.active ? "active title" : "title"}>
+            <h2 ><i className="dropdown icon"></i>{this.props.name}</h2>
+          </div>
+          <div className={this.state.active ? "active content" : "content"}>
+            {this.props.children}
+          </div>
+        </div>
   )
+  }
+
 }
 
 class FilterBox extends Component {
