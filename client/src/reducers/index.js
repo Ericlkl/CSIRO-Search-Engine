@@ -1,5 +1,6 @@
 import { FETCH_ITEMS } from '../actions/types';
 import filterReducer from './filterReducer';
+import searchHistoryReducer from './searchHistoryReducer';
 import { combineReducers } from 'redux';
 
 const searchItemReducer = (state = "", action) => {
@@ -13,5 +14,6 @@ const searchItemReducer = (state = "", action) => {
 
 export default combineReducers({
     searchItem: searchItemReducer,
-    filter: filterReducer
+    filter: filterReducer,
+    searchHistory: searchHistoryReducer
 })

@@ -27,3 +27,5 @@
 [2019-02-18T15:51:54,876][WARN ][o.e.d.s.ScriptModule     ] Script: returning default values for missing document values is deprecated. Set system property '-Des.scripting.exception_for_missing_value=true' to make behaviour compatible with future major versions.
 [2019-02-18T16:42:00,096][WARN ][o.e.d.c.ParseField       ] Deprecated field [all_fields] used, replaced by [Set [fields] to `*` instead]
 [2019-02-18T16:42:00,113][WARN ][o.e.d.c.ParseField       ] Deprecated field [inline] used, expected [source] instead
+[2019-03-04T19:02:48,226][WARN ][o.e.d.s.ScriptModule     ] Script: returning default values for missing document values is deprecated. Set system property '-Des.scripting.exception_for_missing_value=true' to make behaviour compatible with future major versions.
+[2019-03-04T19:03:37,603][WARN ][o.e.d.s.ScriptModule     ] Script: returning default values for missing document values is deprecated. Set system property '-Des.scripting.exception_for_missing_value=true' to make behaviour compatible with future major versions.

@@ -5,7 +5,9 @@ import {
     FILTER_COUNTRY,
     FILTER_CONTINENT,
     FILTER_STATUS,
-    FILTER_RESET
+    FILTER_RESET,
+    ADD_SEARCH_HISTORY,
+    RESET_SEARCH_HISTORY
 } from './types'
 
 export const fetchItems = (payload) => {
@@ -55,3 +57,12 @@ export const filterStatus = (payload) => {
         payload
     }
 }
+
+export const addSearchHistory = (keyword) => {
+    return {
+        type: ADD_SEARCH_HISTORY,
+        payload: keyword
+    }
+}
+
+export const resetSearchHistory = () => ({type: RESET_SEARCH_HISTORY})

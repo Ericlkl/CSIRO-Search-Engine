@@ -6,7 +6,9 @@ import {
   filterStatus,
   filterCountry,
   filterSortBy,
-  filterReset
+  filterReset,
+  addSearchHistory,
+  resetSearchHistory
 } from '../actions/index';
 
 const CheckBox = props => {
@@ -52,10 +54,12 @@ class BoxField extends Component{
 class FilterBox extends Component {
 
   render() {
-    console.log(this.props.filter);
     return (
       <div className="filterBox">
         <div className="ui styled fluid accordion">
+
+        <BoxField name="Search History">
+        </BoxField>
 
           <BoxField name="Sort By">
             <select className="ui dropdown fluid"
@@ -172,7 +176,7 @@ class FilterBox extends Component {
   }
 }
 
-const mapStateToProps = ({filter}) => ({filter})
+const mapStateToProps = ({filter,searchHistory}) => ({filter, searchHistory})
 
 export default connect(mapStateToProps, {
   filterGender,
@@ -180,5 +184,7 @@ export default connect(mapStateToProps, {
   filterStatus,
   filterSortBy,
   filterCountry,
-  filterReset
+  filterReset,
+  addSearchHistory,
+  resetSearchHistory
 })(FilterBox);
