@@ -7,7 +7,8 @@ import {
   filterCountry,
   filterSortBy,
   filterReset,
-  resetSearchHistory
+  resetSearchHistory,
+  updateSearchKeywords
 } from '../actions/index';
 
 const CheckBox = props => {
@@ -60,7 +61,11 @@ class FilterBox extends Component {
         <BoxField name="Search History">
           {this.props.searchHistory.map(keyword => {
             return (
-              <div className="ui purple horizontal large label">{keyword}</div>
+              <div key={keyword} 
+                  onClick={e => this.props.updateSearchKeywords(keyword)}
+                  className="ui purple horizontal large label">
+                  {keyword}
+              </div>
             )
           })}
           <button 
@@ -192,5 +197,6 @@ export default connect(mapStateToProps, {
   filterSortBy,
   filterCountry,
   filterReset,
-  resetSearchHistory
+  resetSearchHistory,
+  updateSearchKeywords
 })(FilterBox);

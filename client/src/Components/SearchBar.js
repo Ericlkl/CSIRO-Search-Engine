@@ -1,19 +1,17 @@
 import React, { Component } from 'react'
 import logo from '../assets/img/logo.png'
 import {connect} from 'react-redux';
-import {fetchItems, addSearchHistory} from '../actions/index'
+import {updateSearchKeywords, addSearchHistory} from '../actions/index'
 
 class SearchBar extends Component {
     onInputChange = (e) => {
         // When User Insert the keyword, using redux to do something
-        this.props.fetchItems(e.target.value)
-        // Display Fetch Item Name
-        console.log(this.props.searchItem);
+        this.props.updateSearchKeywords(e.target.value)
     }
 
     // When User Clicked on the search icon
     onSearchData = () => {
-        this.props.addSearchHistory(this.props.searchItem);
+        this.props.addSearchHistory(this.props.searchKey);
     }
     
     render() {
@@ -26,7 +24,7 @@ class SearchBar extends Component {
                     </div>
 
                     <div className="ui input search-bar">
-                        <input onChange={this.onInputChange} type="text" placeholder="Search..."/>
+                        <input value={this.props.searchKey} onChange={this.onInputChange} type="text" placeholder="Search..."/>
                         <button onClick={this.onSearchData} className="ui mini button"><i className="search icon"></i>Search</button>
                     </div>
                 </div>
@@ -35,9 +33,9 @@ class SearchBar extends Component {
     }
 }
 
-const mapStateToProps = ({searchItem}) => ({searchItem});
+const mapStateToProps = ({searchKey}) => ({searchKey});
 
 export default connect(mapStateToProps, {
-    fetchItems,
+    updateSearchKeywords,
     addSearchHistory
 })(SearchBar);

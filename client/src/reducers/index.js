@@ -1,11 +1,11 @@
-import { FETCH_ITEMS } from '../actions/types';
+import { UPDATE_SEARCH_KEYWORDS } from '../actions/types';
 import filterReducer from './filterReducer';
 import searchHistoryReducer from './searchHistoryReducer';
 import { combineReducers } from 'redux';
 
-const searchItemReducer = (state = "", action) => {
+const searchKeyReducer = (state = "", action) => {
     switch(action.type){
-        case FETCH_ITEMS:
+        case UPDATE_SEARCH_KEYWORDS:
             return action.payload;
         default:
             return state
@@ -13,7 +13,7 @@ const searchItemReducer = (state = "", action) => {
 }
 
 export default combineReducers({
-    searchItem: searchItemReducer,
+    searchKey: searchKeyReducer,
     filter: filterReducer,
     searchHistory: searchHistoryReducer
 })

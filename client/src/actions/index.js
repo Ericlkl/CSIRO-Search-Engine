@@ -7,12 +7,20 @@ import {
     FILTER_STATUS,
     FILTER_RESET,
     ADD_SEARCH_HISTORY,
-    RESET_SEARCH_HISTORY
+    RESET_SEARCH_HISTORY,
+    UPDATE_SEARCH_KEYWORDS
 } from './types'
 
 export const fetchItems = (payload) => {
     return {
         type: FETCH_ITEMS,
+        payload
+    }
+}
+
+export const updateSearchKeywords = (payload) => {
+    return {
+        type: UPDATE_SEARCH_KEYWORDS,
         payload
     }
 }

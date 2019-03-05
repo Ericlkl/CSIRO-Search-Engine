@@ -1,6 +1,6 @@
 import {ADD_SEARCH_HISTORY, RESET_SEARCH_HISTORY} from '../actions/types'
 
-export default (state = ["Cancel", "Sars"], action) => {
+export default (state = [], action) => {
     switch(action.type){
         case ADD_SEARCH_HISTORY:
             if (action.payload === "" || state.includes(action.payload)) {
