@@ -58,7 +58,7 @@ export const filterStatus = (payload) => {
     }
 }
 
-export const addSearchHistory = (keyword) => {
+export const addSearchHistory = (keyword) => { 
     return {
         type: ADD_SEARCH_HISTORY,
         payload: keyword

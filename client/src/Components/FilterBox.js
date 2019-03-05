@@ -7,7 +7,6 @@ import {
   filterCountry,
   filterSortBy,
   filterReset,
-  addSearchHistory,
   resetSearchHistory
 } from '../actions/index';
 
@@ -59,6 +58,14 @@ class FilterBox extends Component {
         <div className="ui styled fluid accordion">
 
         <BoxField name="Search History">
+          {this.props.searchHistory.map(keyword => {
+            return (
+              <div className="ui purple horizontal large label">{keyword}</div>
+            )
+          })}
+          <button 
+            onClick={this.props.resetSearchHistory} 
+            className="ui button fluid">Clean</button>
         </BoxField>
 
           <BoxField name="Sort By">
@@ -185,6 +192,5 @@ export default connect(mapStateToProps, {
   filterSortBy,
   filterCountry,
   filterReset,
-  addSearchHistory,
   resetSearchHistory
 })(FilterBox);
