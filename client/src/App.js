@@ -7,6 +7,8 @@ import reducer from './reducers/index'
 import SearchBar from './Components/SearchBar'
 import Result from './Components/Result';
 
+import { CookiesProvider } from 'react-cookie';
+
 const store = createStore(reducer,
   {},
   compose(
@@ -18,12 +20,14 @@ const store = createStore(reducer,
 class App extends Component {
   render() {
     return (
-      <Provider store={store}>
-        <div>
-          <SearchBar/>
-          <Result/>
-        </div>
-      </Provider>
+      <CookiesProvider>
+        <Provider store={store}>
+          <div>
+            <SearchBar/>
+            <Result/>
+          </div>
+        </Provider>
+      </CookiesProvider>
     );
   }
 }

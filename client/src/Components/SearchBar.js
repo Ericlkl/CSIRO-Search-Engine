@@ -1,9 +1,19 @@
 import React, { Component } from 'react'
 import logo from '../assets/img/logo.png'
+import { withCookies } from 'react-cookie';
 import {connect} from 'react-redux';
-import {updateSearchKeywords, addSearchHistory} from '../actions/index'
+import {updateSearchKeywords, addSearchHistory, getSearchHistoryCookies} from '../actions/index'
 
 class SearchBar extends Component {
+
+    state = {
+        history: this.props.cookies.get('searchHistory') || []
+    }
+
+    componentDidMount(){
+        this.props.getSearchHistoryCookies(this.state.history);
+    }
+
     onInputChange = (e) => {
         // When User Insert the keyword, using redux to do something
         this.props.updateSearchKeywords(e.target.value)
@@ -11,10 +21,14 @@ class SearchBar extends Component {
 
     // When User Clicked on the search icon
     onSearchData = () => {
-        this.props.addSearchHistory(this.props.searchKey);
+        if (this.props.searchKey !== "" && !this.props.searchHistory.includes(this.props.searchKey)) {
+            this.props.addSearchHistory(this.props.searchKey);
+            this.props.cookies.set('searchHistory', [...this.state.history, this.props.searchKey ] ) 
+        } 
     }
     
     render() {
+        console.log(this.state.history);
         return (
             <div className="search-bar">
                 <div className="container">
@@ -33,9 +47,10 @@ class SearchBar extends Component {
     }
 }
 
-const mapStateToProps = ({searchKey}) => ({searchKey});
+const mapStateToProps = ({searchKey, searchHistory}) => ({searchKey,searchHistory});
 
 export default connect(mapStateToProps, {
     updateSearchKeywords,
-    addSearchHistory
-})(SearchBar);
+    addSearchHistory,
+    getSearchHistoryCookies
+})(withCookies(SearchBar));

@@ -8,7 +8,8 @@ import {
     FILTER_RESET,
     ADD_SEARCH_HISTORY,
     RESET_SEARCH_HISTORY,
-    UPDATE_SEARCH_KEYWORDS
+    UPDATE_SEARCH_KEYWORDS,
+    GET_SEARCH_HISTORY_COOKIES
 } from './types'
 
 export const fetchItems = (payload) => {
@@ -70,6 +71,13 @@ export const addSearchHistory = (keyword) => {
     return {
         type: ADD_SEARCH_HISTORY,
         payload: keyword
+    }
+}
+
+export const getSearchHistoryCookies = (values) => { 
+    return {
+        type: GET_SEARCH_HISTORY_COOKIES,
+        payload: values
     }
 }
 
