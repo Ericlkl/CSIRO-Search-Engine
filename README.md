@@ -80,7 +80,7 @@ This script will notify terminal when ES is ready to recieve requests, and will 
 ./startBackend.sh
 ```
 ### Running Kibana
-Kibana is a dev tool used for indexing new data into ES.
+Kibana is a dev tool used for managing and viewing ES indexes and data.
 
 The ES server needs to be running before you can use Kibana, but kibana will launch without ES and wait for the server.
 
