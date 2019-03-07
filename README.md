@@ -53,6 +53,52 @@ Currently the project is deployed on ...
 URI : https://
 ```
 
+## Backend usage
+
+### Running Elasticsearch
+
+Currently this project runs a portable copy of elasticsearch
+There are a few ways of launching the ES server at the moment
+
+From the project root directory in terminal
+
+```
+./elasticSearch/bin/elasticsearch
+```
+Will run and lock the current console to ES, exiting the terminal or sending an interrupt signal will close ES.
+
+ES can be run as a Daemon, doing this will allow further use of the current terminal. 
+And closing the console will have no effect on the ES server.
+```
+./elasticSearch/bin/elasticsearch -d
+```
+
+The final way of running ES is using our startup script.
+This script will notify terminal when ES is ready to recieve requests, and will cleanly shutdown the server when the user presses enter in the terminal.
+
+```
+./startBackend.sh
+```
+### Running Kibana
+Kibana is a dev tool used for indexing new data into ES.
+
+The ES server needs to be running before you can use Kibana, but kibana will launch without ES and wait for the server.
+
+To run from project root use:
+```
+./kibana/bin/kibana
+```
+
+### XML Parser
+The XML dataset we are using requires a parser for indexing files correctly into ES.
+Currently the parser needs to be run from it's working directory.
+
+From project root:
+```
+cd sortedTestData
+python indexXML.py
+```
+Be sure ES is running for parsing to work.
 
 ## Contributing
 
