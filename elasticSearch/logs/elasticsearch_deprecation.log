@@ -29,3 +29,28 @@
 [2019-02-18T16:42:00,113][WARN ][o.e.d.c.ParseField       ] Deprecated field [inline] used, expected [source] instead
 [2019-03-04T19:02:48,226][WARN ][o.e.d.s.ScriptModule     ] Script: returning default values for missing document values is deprecated. Set system property '-Des.scripting.exception_for_missing_value=true' to make behaviour compatible with future major versions.
 [2019-03-04T19:03:37,603][WARN ][o.e.d.s.ScriptModule     ] Script: returning default values for missing document values is deprecated. Set system property '-Des.scripting.exception_for_missing_value=true' to make behaviour compatible with future major versions.
+[2019-03-06T11:52:46,098][WARN ][o.e.d.s.ScriptModule     ] Script: returning default values for missing document values is deprecated. Set system property '-Des.scripting.exception_for_missing_value=true' to make behaviour compatible with future major versions.
+[2019-03-06T16:08:38,433][WARN ][o.e.d.s.ScriptModule     ] Script: returning default values for missing document values is deprecated. Set system property '-Des.scripting.exception_for_missing_value=true' to make behaviour compatible with future major versions.
+[2019-03-06T18:17:33,084][WARN ][o.e.d.s.ScriptModule     ] Script: returning default values for missing document values is deprecated. Set system property '-Des.scripting.exception_for_missing_value=true' to make behaviour compatible with future major versions.
+[2019-03-06T18:24:21,720][WARN ][o.e.d.c.m.MetaDataCreateIndexService] the default number of shards will change from [5] to [1] in 7.0.0; if you wish to continue using the default of [5] shards, you must manage this on the create index request or with an index template
+[2019-03-06T18:27:35,789][WARN ][o.e.d.c.ParseField       ] Deprecated field [all_fields] used, replaced by [Set [fields] to `*` instead]
+[2019-03-06T18:27:35,810][WARN ][o.e.d.c.ParseField       ] Deprecated field [inline] used, expected [source] instead
+[2019-03-06T18:34:30,000][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2019-03-06T18:34:30,746][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2019-03-06T18:34:43,374][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2019-03-06T18:34:43,420][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2019-03-06T18:34:43,472][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2019-03-06T18:35:56,195][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2019-03-06T18:35:56,201][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2019-03-06T18:36:19,037][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2019-03-06T18:36:19,634][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2019-03-06T18:36:20,939][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2019-03-06T19:04:22,705][WARN ][o.e.d.c.m.MetaDataCreateIndexService] the default number of shards will change from [5] to [1] in 7.0.0; if you wish to continue using the default of [5] shards, you must manage this on the create index request or with an index template
+[2019-03-06T19:49:57,007][WARN ][o.e.d.c.m.MetaDataCreateIndexService] the default number of shards will change from [5] to [1] in 7.0.0; if you wish to continue using the default of [5] shards, you must manage this on the create index request or with an index template
+[2019-03-06T21:48:31,258][WARN ][o.e.d.c.m.MetaDataCreateIndexService] the default number of shards will change from [5] to [1] in 7.0.0; if you wish to continue using the default of [5] shards, you must manage this on the create index request or with an index template
+[2019-03-07T13:01:20,741][WARN ][o.e.d.s.ScriptModule     ] Script: returning default values for missing document values is deprecated. Set system property '-Des.scripting.exception_for_missing_value=true' to make behaviour compatible with future major versions.
+[2019-03-11T13:24:34,746][WARN ][o.e.d.s.ScriptModule     ] Script: returning default values for missing document values is deprecated. Set system property '-Des.scripting.exception_for_missing_value=true' to make behaviour compatible with future major versions.
+[2019-03-11T13:26:05,272][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2019-03-11T13:26:32,005][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2019-03-11T13:27:02,151][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2019-03-11T13:30:53,755][WARN ][o.e.d.s.ScriptModule     ] Script: returning default values for missing document values is deprecated. Set system property '-Des.scripting.exception_for_missing_value=true' to make behaviour compatible with future major versions.
