@@ -59,6 +59,8 @@
 #http.port: 9200
 #
 # For more information, consult the network module documentation.
+#http.cors.enabled: true
+#http.cors.allow-origin: /https?:\/\/localhost(:[0-9]+)?/
 #
 # --------------------------------- Discovery ----------------------------------
 #

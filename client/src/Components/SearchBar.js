@@ -2,7 +2,12 @@ import React, { Component } from 'react'
 import logo from '../assets/img/logo.png'
 import { withCookies } from 'react-cookie';
 import {connect} from 'react-redux';
-import {updateSearchKeywords, addSearchHistory, getSearchHistoryCookies} from '../actions/index'
+import {
+    updateSearchKeywords,
+    addSearchHistory, 
+    getSearchHistoryCookies,
+    fetchResults
+} from '../actions/index'
 
 class SearchBar extends Component {
 
@@ -20,29 +25,34 @@ class SearchBar extends Component {
     }
 
     // When User Clicked on the search icon
-    onSearchData = () => {
+    onSearchData = (e) => {
+        e.preventDefault();
+        this.props.fetchResults(this.props.searchKey);
         if (this.props.searchKey !== "" && !this.props.searchHistory.includes(this.props.searchKey)) {
+            // Add New Keyword to the search history
             this.props.addSearchHistory(this.props.searchKey);
+            // Save history to the cookies, once the user turn off the web. it will retrieve the data later on.
             this.props.cookies.set('searchHistory', [...this.state.history, this.props.searchKey ] ) 
         } 
     }
     
     render() {
-        console.log(this.state.history);
         return (
-            <div className="search-bar">
-                <div className="container">
-                    <div className="logo-section">
-                        <img className="logo" src={logo} alt="logo"/>
-                        <h1 className="title">Health Text Visualisation</h1>
-                    </div>
+            <form onSubmit={this.onSearchData}>
+                <div className="search-bar">
+                    <div className="container">
+                        <div className="logo-section">
+                            <img className="logo" src={logo} alt="logo"/>
+                            <h1 className="title">Health Text Visualisation</h1>
+                        </div>
 
-                    <div className="ui input search-bar">
-                        <input value={this.props.searchKey} onChange={this.onInputChange} type="text" placeholder="Search..."/>
-                        <button onClick={this.onSearchData} className="ui mini button"><i className="search icon"></i>Search</button>
+                        <div className="ui input search-bar">
+                            <input value={this.props.searchKey} onChange={this.onInputChange} type="text" placeholder="Search..."/>
+                            <button onClick={this.onSearchData} className="ui mini button"><i className="search icon"></i>Search</button>
+                        </div>
                     </div>
                 </div>
-            </div>
+            </form>
         )
     }
 }
@@ -52,5 +62,6 @@ const mapStateToProps = ({searchKey, searchHistory}) => ({searchKey,searchHistor
 export default connect(mapStateToProps, {
     updateSearchKeywords,
     addSearchHistory,
-    getSearchHistoryCookies
+    getSearchHistoryCookies,
+    fetchResults
 })(withCookies(SearchBar));

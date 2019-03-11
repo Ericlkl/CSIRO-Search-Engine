@@ -5,16 +5,14 @@ import thunk from 'redux-thunk';
 import reducer from './reducers/index'
 
 import SearchBar from './Components/SearchBar'
+import HelpPopUp from './Components/HelpPopUp'
 import Result from './Components/Result';
 
 import { CookiesProvider } from 'react-cookie';
 
 const composeEnhancer = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
 
-const store = createStore(reducer,
-  {},
-  composeEnhancer(applyMiddleware(thunk))
-);
+const store = createStore(reducer, composeEnhancer(applyMiddleware(thunk)));
 
 class App extends Component {
   render() {
@@ -23,6 +21,7 @@ class App extends Component {
         <Provider store={store}>
           <div>
             <SearchBar/>
+            <HelpPopUp></HelpPopUp>
             <Result/>
           </div>
         </Provider>

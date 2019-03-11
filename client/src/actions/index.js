@@ -1,5 +1,5 @@
 import {
-    FETCH_ITEMS, 
+    FETCH_RESULTS, 
     FILTER_GENDER,
     FILTER_SORTBY,
     FILTER_COUNTRY,
@@ -12,11 +12,15 @@ import {
     GET_SEARCH_HISTORY_COOKIES
 } from './types'
 
-export const fetchItems = (payload) => {
-    return {
-        type: FETCH_ITEMS,
-        payload
-    }
+import axios from 'axios';
+
+export const fetchResults = keyword => async dispatch => {
+    const res = await axios.get('/main/xml/_search?q='+ keyword);
+    
+    dispatch({
+        type: FETCH_RESULTS,
+        payload: res.data.hits
+    });
 }
 
 export const updateSearchKeywords = (payload) => {

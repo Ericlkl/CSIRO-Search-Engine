@@ -1,36 +1,36 @@
 import React, { Component } from 'react'
+import {connect} from 'react-redux';
 
 const Post = (props) => {
+  const { id, text } = props;
   return (
     <div className="ui segment">
-      <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, asperiores. Fugit sint, atque dignissimos repellat quo ab molestias corporis possimus laudantium autem. Saepe, deleniti placeat? Aspernatur, eveniet deserunt. Nisi excepturi tempora, quae inventore corrupti natus repudiandae minus rem veritatis fugit! Commodi delectus eligendi rerum quos libero natus dolorem magnam sint! </p>
+      <p>{id}</p>
+      <p>{text}</p>
     </div>
   )
 }
 
 class ResultList extends Component {
   render() {
+    const {total, hits} = this.props.result;
     return (
       <div className="result-list">
         <div className="ui raised segments">
           <div className="ui secondary segment">
-            <p> xxxx result found</p>
+            <p> {total} result found</p>
           </div>
-          <Post/>
-          <Post/>
-          <Post/>
-          <Post/>
-          <Post/>
-          <Post/>
-          <Post/>
-          <Post/>
-          <Post/>
-          <Post/>
-          <Post/>
+          {
+            hits.map(
+              hit => <Post key={hit._id} id={hit._id} text={hit._source.text} /> 
+            )
+          }
         </div>
       </div>
     )
   }
 }
 
-export default ResultList;
+const mapStateToProps = ({result}) => ({result});
+
+export default connect(mapStateToProps)(ResultList);
