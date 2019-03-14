@@ -55,39 +55,54 @@ URI : https://
 
 ## Backend usage
 
-### Running Elasticsearch
-
-Currently this project runs a portable copy of elasticsearch
-There are a few ways of launching the ES server at the moment
-
-From the project root directory in terminal
+### Dependencies
 
 ```
-./elasticSearch/bin/elasticsearch
+pyCurl
+Elasticsearch
 ```
-Will run and lock the current console to ES, exiting the terminal or sending an interrupt signal will close ES.
-
-ES can be run as a Daemon, doing this will allow further use of the current terminal. 
-And closing the console will have no effect on the ES server.
+Optional dev tool
 ```
-./elasticSearch/bin/elasticsearch -d
+Kibana
 ```
 
-The final way of running ES is using our startup script.
-This script will notify terminal when ES is ready to recieve requests, and will cleanly shutdown the server when the user presses enter in the terminal.
+### Elasticsearch
 
+GNU/Linux using systemctl
 ```
-./startBackend.sh
+sudo systemctl start elasticsearch.service
 ```
-### Running Kibana
-Kibana is a dev tool used for managing and viewing ES indexes and data.
+will run elasticsearch until system reboot
 
-The ES server needs to be running before you can use Kibana, but kibana will launch without ES and wait for the server.
+Check if running by going to:
+```
+localhost:9200
+```
 
-To run from project root use:
+### Kibana
+
+GNU/Linux using systemctl
 ```
-./kibana/bin/kibana
+sudo systemctl start kibana.service
 ```
+will run kibana until system reboot
+
+Use by going to:
+```
+localhost:5601
+```
+
+First time usage will need an index pattern to be mapped
+```
+1. Go to management
+2. Click on index patterns
+3. If there are no patterns listed under "Create index pattern" click on the button
+4. Enter index pattern "main" and click next step
+!. If no matching indexes are found the data needs to be parsed first!
+5. Click "Create index pattern"
+```
+
+Data can be viewed in Discover tab.
 
 ### XML Parser
 The XML dataset we are using requires a parser for indexing files correctly into ES.

@@ -1,9 +1,11 @@
+
 #Elasticsearch XML indexer
 
 import os
 import xml.etree.ElementTree as ET
 import pycurl
 import json
+
 try:
     from io import BytesIO
 except ImportError:
@@ -23,14 +25,27 @@ for r, dirs, files in os.walk(os.getcwd()):
 			continue;
 		Q = "";
 		filename = os.path.join(r,name);
+
+		#get path to root of current file
 		root = ET.parse(filename).getroot();
+
+		#set pyurl get command eg "http://localhost:9200/xml/filename"
 		c.setopt(c.URL, URI+"/"+INDEX+"/"+TYPE+"/"+name);
 		c.setopt(c.HTTPHEADER, ["Content-Type: application/json"])
 		c.setopt(c.UPLOAD, 1)
 		for text in root.iter('TEXT'):
-			Q+=('{"text":"placehold text","tags":[{\n');
-			#LAST THING TO FIX SPECIAL CHARACTERS NEED TO BE ESCAPED
-			#Q+=('{"text":"'+(text.text[:10])+'","tags":[{\n');
+
+			#Fix dirty XML data.
+			escaped = text.text.translate(str.maketrans({
+				"\n": r"\\n",
+				"\t": r"\\t",
+				"'": r"\\'",
+				'"': r'\"'
+				}))
+
+
+			Q+=('{"text":"'+escaped+'","tags":[{\n');
+
 		for child in root.iter('TAGS'):
 			for tag in child:
 				Q+=('"tag":"'+(tag.tag)+'",')
@@ -43,8 +58,8 @@ for r, dirs, files in os.walk(os.getcwd()):
 			#cut trailing brace
 			Q=Q[:-5];
 		#add final closing backets for query
-		Q+=('}]}')
-		buffer = BytesIO(Q.encode('utf-8'))
-		c.setopt(c.READDATA, buffer)
-		c.perform()
+		Q+=('}]}');
+		buffer = BytesIO(Q.encode('utf-8'));
+		c.setopt(c.READDATA, buffer);
+		c.perform();
 c.close()
