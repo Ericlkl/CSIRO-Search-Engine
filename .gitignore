@@ -67,7 +67,7 @@ DS_Store
 elasticSearch/data/
 
 #ES logs
-elasticSearch/logs/
+#elasticSearch/logs/
 
 #package-lock.json
 client/package-lock.json
