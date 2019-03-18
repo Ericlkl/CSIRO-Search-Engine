@@ -15,7 +15,9 @@ const filterState = {
     status: []
 };
 
+
 export default (state = filterState, action) => {
+
     let newState = Object.assign({}, state);
 
     switch(action.type){

@@ -18,8 +18,8 @@ class SearchBar extends Component {
     onSearchData = (e) => {
         e.preventDefault(); // Not allow Default Submit behavior
         const {fetchResults, addSearchHistory , searchKey } = this.props;
-        fetchResults(searchKey); // Fetch data from backend server using keyword in searchField
-        addSearchHistory(searchKey); // Add Search History to the result
+        fetchResults(searchKey.trim()); // Fetch data from backend server using keyword in searchField
+        addSearchHistory(searchKey.trim()); // Add Search History to the result
     }
     
     render() {
