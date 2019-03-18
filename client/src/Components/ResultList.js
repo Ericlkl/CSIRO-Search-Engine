@@ -5,7 +5,7 @@ import {connect} from 'react-redux';
 const Post = ({ fileName, tags, informations }) => {
   return (
     <div className="ui segment">
-      <a href="#">{fileName}</a>
+      <a href="www.google.com">{fileName}</a>
       {informations.map( (info, index) => <p key={index}>{info}</p>)}
     </div>
   )

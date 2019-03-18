@@ -11,8 +11,6 @@ import {
   updateSearchKeywords
 } from '../actions/index';
 
-import { withCookies } from 'react-cookie';
-
 const CheckBox = props => {
   const {name, value, isChecked} = props;
   return (
@@ -56,7 +54,6 @@ class BoxField extends Component{
 class FilterBox extends Component {
 
   onCleanSearchHistory = () => {
-    this.props.cookies.set('searchHistory', []);
     this.props.resetSearchHistory();
   }
 
@@ -197,8 +194,6 @@ class FilterBox extends Component {
 
 const mapStateToProps = ({filter,searchHistory}) => ({filter, searchHistory})
 
-const FilterBoxWithCookies = withCookies(FilterBox);
-
 export default connect(mapStateToProps, {
   filterGender,
   filterContinent, 
@@ -208,4 +203,4 @@ export default connect(mapStateToProps, {
   filterReset,
   resetSearchHistory,
   updateSearchKeywords
-})(FilterBoxWithCookies);
+})(FilterBox);
