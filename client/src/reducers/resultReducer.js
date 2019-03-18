@@ -2,7 +2,7 @@ import { FETCH_RESULTS } from '../actions/types'
 
 const defaultState = {
     total: 0,
-    hits: []
+    results: []
 }
 
 export default (state = defaultState, action ) => {

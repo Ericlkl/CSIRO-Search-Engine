@@ -1,36 +1,41 @@
 import React, { Component } from 'react'
 import {connect} from 'react-redux';
 
-const Post = (props) => {
-  const { id, text } = props;
+const Post = ({ fileName, tags, informations }) => {
   return (
     <div className="ui segment">
-      <p>{id}</p>
-      <p>{text}</p>
+      <p>{fileName}</p>
+      {informations.map( (info, index) => <p key={index}>{info}</p>)}
     </div>
   )
 }
 
 class ResultList extends Component {
+
   render() {
-    const {total, hits} = this.props.result;
+    const {total, results} = this.props.searchResult;
     return (
       <div className="result-list">
         <div className="ui raised segments">
           <div className="ui secondary segment">
             <p> {total} result found</p>
+            {
+              results.map(result => 
+                <Post 
+                  key={result.fileName}
+                  fileName={result.fileName}
+                  tags={result.tags}
+                  informations={result.informations}
+                />
+              )
+            }
           </div>
-          {
-            hits.map(
-              hit => <Post key={hit._id} id={hit._id} text={hit._source.text} /> 
-            )
-          }
         </div>
       </div>
     )
   }
 }
 
-const mapStateToProps = ({result}) => ({result});
+const mapStateToProps = ({searchResult}) => ({searchResult});
 
 export default connect(mapStateToProps)(ResultList);

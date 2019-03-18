@@ -16,6 +16,6 @@ const searchKeyReducer = (state = "", action) => {
 export default combineReducers({
     searchKey: searchKeyReducer,
     filter: filterReducer,
-    result: resultReducer,
+    searchResult: resultReducer,
     searchHistory: searchHistoryReducer
 })
