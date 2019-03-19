@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 
 class HelpPopUp extends Component {
   state ={
-    show: true
+    show: false
   }
 
   render() {
