@@ -11,18 +11,7 @@ const Post = ({ fileName, tags, informations }) => {
   )
 }
 
-// PropTypes Requirement
-Post.propTypes = {
-  fileName: PropTypes.string, // XML File Name
-  tags: PropTypes.array,  // Tags embedded in the XML Files
-  informations: PropTypes.array   // Information saved in to the array to display on the result box
-}
-
 class ResultList extends Component {
-
-  propTypes = {
-    searchResult: PropTypes.object  // Search Result / response from the backend server
-  };
 
   render() {
     // total = Total result found by elastic search
@@ -49,6 +38,17 @@ class ResultList extends Component {
     )
   }
 }
+
+// PropTypes Requirement
+Post.propTypes = {
+  fileName: PropTypes.string.isRequired, // XML File Name
+  tags: PropTypes.array.isRequired,  // Tags embedded in the XML Files
+  informations: PropTypes.array.isRequired   // Information saved in to the array to display on the result box
+}
+
+ResultList.propTypes = {
+  searchResult: PropTypes.object.isRequired  // Search Result / response from the backend server
+};
 
 // Maping Redux store to this class component
 const mapStateToProps = ({searchResult}) => ({searchResult});
