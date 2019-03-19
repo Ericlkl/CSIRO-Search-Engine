@@ -1,13 +1,42 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
+import {connect} from 'react-redux';
+import {Link} from 'react-router-dom';
 
 class XMLTagPage extends Component {
-  render() {
+
+  renderTable = (tag) => {
+    let row = [];
+
+    for (const key of Object.keys(tag)) {
+      row.push(
+        <tr>
+          <td>{key}</td>
+          <td>{tag[key]}</td>
+        </tr>
+      )
+    }
+
     return (
-      <div>
-        XML
+      <table className="ui definition table">
+        <tbody>
+          {row}
+        </tbody>
+      </table>
+    )
+  }
+
+  render() {
+    const { xmlTags } = this.props;
+    return (
+      <div className="container">
+        <Link className="ui primary button" to="/">Go Back</Link>
+
+        { xmlTags.length !== 0 ? xmlTags.map(tag => this.renderTable(tag)) : <div className="ui text loader">Loading</div>  }
       </div>
     )
   }
 }
 
-export default XMLTagPage;
+const mapStateToProps = ({xmlTags}) => ({xmlTags})
+
+export default connect(mapStateToProps, null)(XMLTagPage);

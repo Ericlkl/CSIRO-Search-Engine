@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import { withRouter } from 'react-router-dom'
 import PropTypes from 'prop-types'
 import {connect} from 'react-redux';
 import { updateXMLTags } from '../actions/index'
@@ -7,7 +8,10 @@ class ResultList extends Component {
 
   renderResult = (fileName, tags, informations) => (
     <div className="ui segment">
-      <button onClick={e => this.props.updateXMLTags(tags)}>{fileName}</button>
+      <button onClick={ e => {
+        this.props.updateXMLTags(tags);
+        this.props.history.push('/xml-result')
+      }}>{fileName}</button>
       {informations.map( (info, index) => <p key={index}>{info}</p>)}
     </div>
   )
@@ -42,4 +46,4 @@ ResultList.propTypes = {
 // Maping Redux store to this class component
 const mapStateToProps = ({searchResult}) => ({searchResult});
 
-export default connect(mapStateToProps, { updateXMLTags})(ResultList);
+export default connect(mapStateToProps, { updateXMLTags})(withRouter(ResultList));
