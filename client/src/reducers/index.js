@@ -1,18 +1,10 @@
-import { UPDATE_SEARCH_KEYWORDS } from '../actions/types';
 import filterReducer from './filterReducer';
+import searchKeyReducer from './searchKeyReducer'
 import searchHistoryReducer from './searchHistoryReducer';
 import resultReducer from './resultReducer';
 import { combineReducers } from 'redux';
 
-const searchKeyReducer = (state = "", action) => {
-    switch(action.type){
-        case UPDATE_SEARCH_KEYWORDS:
-            return action.payload;
-        default:
-            return state
-    }
-}
-
+// All variable in the redux store
 export default combineReducers({
     searchKey: searchKeyReducer,
     filter: filterReducer,

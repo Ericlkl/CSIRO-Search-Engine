@@ -2,24 +2,28 @@ import React, { Component } from 'react'
 import logo from '../assets/img/logo.png'
 import {connect} from 'react-redux';
 import {
-    updateSearchKeywords,
+    updateSearchKeyword,
     addSearchHistory,
     fetchResults
 } from '../actions/index'
+import PropTypes from 'prop-types';
 
 class SearchBar extends Component {
 
     onInputChange = (e) => {
         // When User Insert the keyword, using redux to do something
-        this.props.updateSearchKeywords(e.target.value)
+        this.props.updateSearchKeyword(e.target.value)
     }
 
     // When User Clicked on the search icon
     onSearchData = (e) => {
         e.preventDefault(); // Not allow Default Submit behavior
         const {fetchResults, addSearchHistory , searchKey } = this.props;
-        fetchResults(searchKey.trim()); // Fetch data from backend server using keyword in searchField
-        addSearchHistory(searchKey.trim()); // Add Search History to the result
+
+        // Fetch data from backend server using keyword in searchField
+        fetchResults(searchKey.trim());
+        // Add Search History to the result
+        addSearchHistory(searchKey.trim());
     }
     
     render() {
@@ -43,13 +47,17 @@ class SearchBar extends Component {
     }
 }
 
+SearchBar.propTypes = {
+    // SearchKey String for fetching Data and reading the search history tag event
+    searchKey: PropTypes.string.isRequired
+}
+
 // Map Redux store to this Class Component
 // searchKey = Search Term in searchField
-// searchHistory = Array contains all the searchHistory values
-const mapStateToProps = ({searchKey, searchHistory}) => ({searchKey,searchHistory});
+const mapStateToProps = ({searchKey}) => ({searchKey});
 
 export default connect(mapStateToProps, {
-    updateSearchKeywords,
+    updateSearchKeyword,
     addSearchHistory,
     fetchResults
 })(SearchBar);

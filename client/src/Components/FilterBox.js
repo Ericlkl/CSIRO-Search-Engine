@@ -8,7 +8,7 @@ import {
   filterSortBy,
   filterReset,
   resetSearchHistory,
-  updateSearchKeywords
+  updateSearchKeyword
 } from '../actions/index';
 import PropTypes from 'prop-types';
 
@@ -57,7 +57,7 @@ class FilterBox extends Component {
       {
         this.props.searchHistory.map( keyword => (
           <div key={keyword} 
-              onClick={e => this.props.updateSearchKeywords(keyword)}
+              onClick={e => this.props.updateSearchKeyword(keyword)}
               className="ui purple horizontal large label">
               {keyword}
           </div>
@@ -237,5 +237,5 @@ export default connect(mapStateToProps, {
   filterCountry,
   filterReset,
   resetSearchHistory,
-  updateSearchKeywords
+  updateSearchKeyword
 })(FilterBox);
