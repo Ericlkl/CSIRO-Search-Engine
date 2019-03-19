@@ -1,5 +1,6 @@
 .filterBox{
-    margin: 0 2rem;
+    display: flex;
+    flex-direction: column;
     height: auto;
     >div{
         background-color: white;

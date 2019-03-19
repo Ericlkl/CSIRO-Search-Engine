@@ -1,15 +1,22 @@
 import React, { Component } from 'react'
 
-export default class HelpPopUp extends Component {
+class HelpPopUp extends Component {
+  state ={
+    show: true
+  }
+
   render() {
     return (
-        <div className="field help" placeholder="Last Name">
-        <div className="container">
-          <div className="ui pointing grey purple fluid label">
-            <h3 className="text-center">Enter Your Search keyword here</h3>
+        <div style={ this.state.show === false ? {display: "none"} : {display: "initial"}} 
+            className="field fluid help"
+            onClick={() => this.setState({show: false})}>
+        
+          <div className="ui pointing grey purple label">
+            <h3 className="text-center">{this.props.text}</h3>
           </div>
-        </div>
       </div>
     )
   }
 }
+
+export default HelpPopUp;

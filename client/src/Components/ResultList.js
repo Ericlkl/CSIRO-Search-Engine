@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import HelpPopUp from '../Components/HelpPopUp';
 import { withRouter } from 'react-router-dom'
 import PropTypes from 'prop-types'
 import {connect} from 'react-redux';
@@ -21,16 +22,19 @@ class ResultList extends Component {
     // results = array object that contain all the result about this keyword
     const {total, results} = this.props.searchResult;
     return (
-      <div className="result-list">
-        <div className="ui raised segments">
-          <div className="ui secondary segment">
-            <p> {total} result found</p>
-            {
-              // Generate result box by filling information by one result array item
-              results.map(result => 
-                <div key={result.fileName}>{this.renderResult(result.fileName, result.tags, result.informations)}</div>
-              )
-            }
+      <div>
+        <HelpPopUp text="The Search Result will be display here"/>
+        <div className="result-list">
+          <div className="ui raised segments">
+            <div className="ui secondary segment">
+              <p> {total} result found</p>
+              {
+                // Generate result box by filling information by one result array item
+                results.map(result => 
+                  <div key={result.fileName}>{this.renderResult(result.fileName, result.tags, result.informations)}</div>
+                )
+              }
+            </div>
           </div>
         </div>
       </div>

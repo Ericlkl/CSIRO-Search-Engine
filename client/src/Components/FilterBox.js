@@ -12,6 +12,8 @@ import {
 } from '../actions/index';
 import PropTypes from 'prop-types';
 
+import HelpPopUp from '../Components/HelpPopUp';
+
 const CheckBox = ({name, value, isChecked, onChange}) => {
   return (
     <div className="field">
@@ -187,15 +189,18 @@ class FilterBox extends Component {
   render() {
     return (
       <div className="filterBox">
-        <div className="ui styled fluid accordion">
-          {this.renderSearchHistoryBox()}
-          {this.renderSortByBox()}
-          {this.renderGenderBox()}
-          {this.renderCountryBox()}
-          {this.renderContinentBox()}
-          {this.renderStatusBox()}
-          <div className="active content">
-            <button onClick={this.props.filterReset} className="ui button primary fluid">Reset</button>
+        <HelpPopUp text="Select the filter value you want" />
+        <div>
+          <div className="ui styled fluid accordion">
+            {this.renderSearchHistoryBox()}
+            {this.renderSortByBox()}
+            {this.renderGenderBox()}
+            {this.renderCountryBox()}
+            {this.renderContinentBox()}
+            {this.renderStatusBox()}
+            <div className="active content">
+              <button onClick={this.props.filterReset} className="ui button primary fluid">Reset</button>
+            </div>
           </div>
         </div>
       </div>
