@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-export default class XMLTagPage extends Component {
+class XMLTagPage extends Component {
   render() {
     return (
       <div>
@@ -9,3 +9,5 @@ export default class XMLTagPage extends Component {
     )
   }
 }
+
+export default XMLTagPage;

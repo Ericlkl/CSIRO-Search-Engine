@@ -1,6 +1,7 @@
 import { addSearchHistory,resetSearchHistory } from './searchHistoryActions'
 import { fetchResults } from './resultActions'
 import { updateSearchKeyword } from './searchKeyActions';
+import { updateXMLTags } from './xmlTagsActions'
 import { 
     filterContinent,
     filterCountry,
@@ -20,5 +21,6 @@ export {
     filterStatus,
     addSearchHistory,
     resetSearchHistory,
-    updateSearchKeyword
+    updateSearchKeyword,
+    updateXMLTags
 }

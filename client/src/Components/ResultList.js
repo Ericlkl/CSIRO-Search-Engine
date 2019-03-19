@@ -1,17 +1,16 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import {connect} from 'react-redux';
+import { updateXMLTags } from '../actions/index'
 
-const Post = ({ fileName, tags, informations }) => {
-  return (
+class ResultList extends Component {
+
+  renderResult = (fileName, tags, informations) => (
     <div className="ui segment">
-      <a href="www.google.com">{fileName}</a>
+      <button onClick={e => this.props.updateXMLTags(tags)}>{fileName}</button>
       {informations.map( (info, index) => <p key={index}>{info}</p>)}
     </div>
   )
-}
-
-class ResultList extends Component {
 
   render() {
     // total = Total result found by elastic search
@@ -25,11 +24,7 @@ class ResultList extends Component {
             {
               // Generate result box by filling information by one result array item
               results.map(result => 
-                <Post 
-                  key={result.fileName}
-                  fileName={result.fileName}
-                  tags={result.tags}
-                  informations={result.informations} />
+                <div key={result.fileName}>{this.renderResult(result.fileName, result.tags, result.informations)}</div>
               )
             }
           </div>
@@ -39,18 +34,12 @@ class ResultList extends Component {
   }
 }
 
-// PropTypes Requirement
-Post.propTypes = {
-  fileName: PropTypes.string.isRequired, // XML File Name
-  tags: PropTypes.array.isRequired,  // Tags embedded in the XML Files
-  informations: PropTypes.array.isRequired   // Information saved in to the array to display on the result box
-}
-
 ResultList.propTypes = {
-  searchResult: PropTypes.object.isRequired  // Search Result / response from the backend server
+  searchResult: PropTypes.object.isRequired,  // Search Result / response from the backend server
+  updateXMLTags: PropTypes.func.isRequired,
 };
 
 // Maping Redux store to this class component
 const mapStateToProps = ({searchResult}) => ({searchResult});
 
-export default connect(mapStateToProps)(ResultList);
+export default connect(mapStateToProps, { updateXMLTags})(ResultList);
