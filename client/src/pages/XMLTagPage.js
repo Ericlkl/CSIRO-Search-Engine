@@ -9,7 +9,7 @@ class XMLTagPage extends Component {
 
     for (const key of Object.keys(tag)) {
       row.push(
-        <tr>
+        <tr className="center aligned">
           <td>{key}</td>
           <td>{tag[key]}</td>
         </tr>
@@ -17,7 +17,7 @@ class XMLTagPage extends Component {
     }
 
     return (
-      <table className="ui definition table">
+      <table className="ui green definition two column table">
         <tbody>
           {row}
         </tbody>

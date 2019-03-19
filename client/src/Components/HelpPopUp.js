@@ -4,7 +4,7 @@ class HelpPopUp extends Component {
   state ={
     show: false
   }
-
+  
   render() {
     return (
         <div style={ this.state.show === false ? {display: "none"} : {display: "initial"}} 

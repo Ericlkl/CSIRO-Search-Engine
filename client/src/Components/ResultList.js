@@ -9,10 +9,12 @@ class ResultList extends Component {
 
   renderResult = (fileName, tags, informations) => (
     <div className="ui segment">
-      <button onClick={ e => {
+      <button className="ui positive button" onClick={ e => {
         this.props.updateXMLTags(tags);
         this.props.history.push('/xml-result')
-      }}>{fileName}</button>
+      }}>
+        <i class="file icon"></i>{fileName}
+      </button>
       {informations.map( (info, index) => <p key={index}>{info}</p>)}
     </div>
   )
