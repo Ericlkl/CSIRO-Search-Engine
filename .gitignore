@@ -62,12 +62,3 @@ typings/
 
 DS_Store
 .DS_Store
-
-#ES nodes (re-indexing needed before data available for demonstration)
-elasticSearch/data/
-
-#ES logs
-#elasticSearch/logs/
-
-#package-lock.json
-client/package-lock.json
