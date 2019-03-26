@@ -11,5 +11,5 @@ export default combineReducers({
     filter: filterReducer,
     searchResult: resultReducer,
     searchHistory: searchHistoryReducer,
-    xmlTags: xmlTagsReducer
+    xml: xmlTagsReducer
 })

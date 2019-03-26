@@ -4,39 +4,50 @@ import {Link} from 'react-router-dom';
 
 class XMLTagPage extends Component {
 
-  renderTable = (tag) => {
-    let row = [];
+  renderTable = (tags) => {
+    let columns = [];
 
-    for (const key of Object.keys(tag)) {
-      row.push(
-        <tr className="center aligned">
-          <td>{key}</td>
-          <td>{tag[key]}</td>
-        </tr>
-      )
-    }
+    tags.forEach(tag => {
+      for (const key of Object.keys(tag)) {
+        if (!columns.includes(key)){
+          columns.push(key)
+        }
+      }
+    })
 
     return (
-      <table className="ui green definition two column table">
-        <tbody>
-          {row}
-        </tbody>
-      </table>
+      <table className="ui celled table">
+      <thead>
+        <tr>{columns.map(column => <th key={column}>{column}</th>)}</tr>
+      </thead>
+      <tbody>
+        {tags.map(tag => {
+          const rows = [];
+          columns.forEach(column => {
+            rows.push(<td key={column} data-label={column}>{
+              tag[column] === undefined || tag[column] === ""  ? "N/A" : tag[column] 
+            }</td>)         
+          })
+          return <tr key={tag.id}>{rows}</tr>
+        })}
+      </tbody>
+    </table>
     )
   }
 
   render() {
-    const { xmlTags } = this.props;
+    const {fileName, informations, tags} = this.props.xml
     return (
       <div className="container">
         <Link className="ui primary button" to="/">Go Back</Link>
-
-        { xmlTags.length !== 0 ? xmlTags.map(tag => this.renderTable(tag)) : <div className="ui text loader">Loading</div>  }
+        <h1>{fileName}</h1>
+        {informations.map( (info, index) => <p key={index}>{info}</p>)}
+        {this.renderTable(tags)}
       </div>
     )
   }
 }
 
-const mapStateToProps = ({xmlTags}) => ({xmlTags})
+const mapStateToProps = ({xml}) => ({xml})
 
 export default connect(mapStateToProps, null)(XMLTagPage);

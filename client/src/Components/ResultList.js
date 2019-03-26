@@ -7,15 +7,15 @@ import { updateXMLTags } from '../actions/index'
 
 class ResultList extends Component {
 
-  renderResult = (fileName, tags, informations) => (
+  renderResult = (result) => (
     <div className="ui segment">
       <button className="ui positive button" onClick={ e => {
-        this.props.updateXMLTags(tags);
+        this.props.updateXMLTags(result);
         this.props.history.push('/xml-result')
       }}>
-        <i class="file icon"></i>{fileName}
+        <i className="file icon"></i>{result.fileName}
       </button>
-      {informations.map( (info, index) => <p key={index}>{info}</p>)}
+      {result.informations.map( (info, index) => <p key={index}>{info}</p>)}
     </div>
   )
 
@@ -33,7 +33,10 @@ class ResultList extends Component {
               {
                 // Generate result box by filling information by one result array item
                 results.map(result => 
-                  <div key={result.fileName}>{this.renderResult(result.fileName, result.tags, result.informations)}</div>
+                  <div key={result.fileName}>{
+                    this.renderResult(result)
+                  }
+                  </div>
                 )
               }
             </div>
