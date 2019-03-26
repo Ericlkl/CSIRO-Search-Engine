@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import {connect} from 'react-redux';
 import {Link} from 'react-router-dom';
 
-class XMLTagPage extends Component {
+class XMLPage extends Component {
 
   renderTable = (tags) => {
     let columns = [];
@@ -50,4 +50,4 @@ class XMLTagPage extends Component {
 
 const mapStateToProps = ({xml}) => ({xml})
 
-export default connect(mapStateToProps, null)(XMLTagPage);
+export default connect(mapStateToProps, null)(XMLPage);

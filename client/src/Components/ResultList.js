@@ -3,14 +3,14 @@ import HelpPopUp from '../Components/HelpPopUp';
 import { withRouter } from 'react-router-dom'
 import PropTypes from 'prop-types'
 import {connect} from 'react-redux';
-import { updateXMLTags } from '../actions/index'
+import { updateXMLResult } from '../actions/index'
 
 class ResultList extends Component {
 
   renderResult = (result) => (
     <div className="ui segment">
       <button className="ui positive button" onClick={ e => {
-        this.props.updateXMLTags(result);
+        this.props.updateXMLResult(result);
         this.props.history.push('/xml-result')
       }}>
         <i className="file icon"></i>{result.fileName}
@@ -49,10 +49,10 @@ class ResultList extends Component {
 
 ResultList.propTypes = {
   searchResult: PropTypes.object.isRequired,  // Search Result / response from the backend server
-  updateXMLTags: PropTypes.func.isRequired,
+  updateXMLResult: PropTypes.func.isRequired,
 };
 
 // Maping Redux store to this class component
 const mapStateToProps = ({searchResult}) => ({searchResult});
 
-export default connect(mapStateToProps, { updateXMLTags})(withRouter(ResultList));
+export default connect(mapStateToProps, { updateXMLResult})(withRouter(ResultList));

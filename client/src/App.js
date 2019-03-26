@@ -10,8 +10,7 @@ import reducer from './reducers/index'
 
 // Page Component
 import SearchPage from './pages/SearchPage';
-import XMLTagPage from './pages/XMLTagPage';
-import LoginPage from './pages/LoginPage';
+import XMLPage from './pages/XMLPage';
 
 const composeEnhancer = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
 
@@ -26,8 +25,7 @@ class App extends Component {
           <BrowserRouter>
             <Switch>
               <Route path="/" exact component={SearchPage} />
-              <Route path="/login" component={LoginPage} />
-              <Route path="/xml-result" component={XMLTagPage} />
+              <Route path="/xml-result" component={XMLPage} />
             </Switch>
           </BrowserRouter>
         </Provider>
