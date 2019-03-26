@@ -5,19 +5,32 @@ import PropTypes from 'prop-types'
 import {connect} from 'react-redux';
 import { updateXMLResult } from '../actions/index'
 
+class ResultBox extends Component{
+  state = {
+    expand: false
+  }
+
+  render(){
+    const { result, onFileBtnClicked } = this.props;
+    return (
+      <div style={ this.state.expand ? { height: "auto"} : {height: "300px", overflow: "hidden"} }
+          onClick={ e => this.setState({ expand: !this.state.expand})} 
+          className="ui segment result-box">
+        <button className="ui positive button" onClick={ e => onFileBtnClicked(result) } >
+          <i className="file icon"></i>{result.fileName}
+        </button>
+        {result.informations.map( (info, index) => <p key={index}>{info}</p>)}
+      </div>
+    )
+  }
+}
+
 class ResultList extends Component {
 
-  renderResult = (result) => (
-    <div className="ui segment">
-      <button className="ui positive button" onClick={ e => {
-        this.props.updateXMLResult(result);
-        this.props.history.push('/xml-result')
-      }}>
-        <i className="file icon"></i>{result.fileName}
-      </button>
-      {result.informations.map( (info, index) => <p key={index}>{info}</p>)}
-    </div>
-  )
+  onFileBtnClicked = result => {
+    this.props.updateXMLResult(result);
+    this.props.history.push('/xml-result')
+  }
 
   render() {
     // total = Total result found by elastic search
@@ -34,7 +47,9 @@ class ResultList extends Component {
                 // Generate result box by filling information by one result array item
                 results.map(result => 
                   <div key={result.fileName}>{
-                    this.renderResult(result)
+                    <ResultBox 
+                      result={result} 
+                      onFileBtnClicked={this.onFileBtnClicked}/>
                   }
                   </div>
                 )
