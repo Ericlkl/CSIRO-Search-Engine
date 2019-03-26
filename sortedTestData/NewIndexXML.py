@@ -27,14 +27,18 @@ indexedFiles = set();	#files indexed in csv
 modifiedFiles = set();	#files with no intersection
 unchangedFiles = set()	#file that havn't changed
 
-
-
-#read index file entries and store in set indexedFiles
-index = open('index.csv','rt');
-reader = csv.reader(index,delimiter=',')
 delimiter = ','
-for row in reader:
-	indexedFiles.add(delimiter.join(row));
+
+#if index exists read file entries and store in set indexedFiles
+try:
+	index = open('index.csv','rt');
+	reader = csv.reader(index,delimiter=',')
+
+	for row in reader:
+		indexedFiles.add(delimiter.join(row));
+except:
+	index = open('index.csv','wt');
+
 
 #iterate through files in working directory and sub-directories of script location
 #addes all files found to set of foundFiles
@@ -55,9 +59,6 @@ for r, dirs, files in os.walk(os.getcwd()):
 #will also add new files to list
 modifiedFiles = foundFiles  -  indexedFiles;
 unchangedFiles = foundFiles & indexedFiles;
-print(len(modifiedFiles));
-
-
 
 for item in modifiedFiles:
 	filename = item.split(',',1)[0];
