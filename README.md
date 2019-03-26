@@ -33,6 +33,23 @@ These instructions will get you a copy of the project up and running on your loc
 4. type ' npm install '
 5. When install package is finished, type 'npm run start'
 6. Open your web browser and insert url (http://localhost:3000/)
+
+```
+
+
+## Server Side Production Build (Ubuntu)
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+```
+1. ssh to the server
+2. sudo su 
+3. Change directory to the root folder of this project CSIRO-Search-Engine-Project/
+4. run 'nvm use v11.11.0'
+5. run 'npm -v' to check npm is higher than version 6.0.0
+5. run 'npm install'
+6. run 'npm run start' start the server
+7. Open your web browser and insert url (http://localhost:3001/) or domin name:port
 ```
 
 ### Prerequisites
