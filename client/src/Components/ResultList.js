@@ -10,16 +10,22 @@ class ResultBox extends Component{
     expand: false
   }
 
+  onExpandBtnClick = e => {
+    this.setState({ expand: !this.state.expand})
+  }
+
   render(){
     const { result, onFileBtnClicked } = this.props;
     return (
-      <div style={ this.state.expand ? { height: "auto"} : {height: "300px", overflow: "hidden"} }
-          onClick={ e => this.setState({ expand: !this.state.expand})} 
+      <div style={ this.state.expand ? {} : {height: "300px"} }
           className="ui segment result-box">
         <button className="ui positive button" onClick={ e => onFileBtnClicked(result) } >
           <i className="file icon"></i>{result.fileName}
         </button>
         {result.informations.map( (info, index) => <p key={index}>{info}</p>)}
+        <div onClick={this.onExpandBtnClick} className="expand-btn">
+          { this.state.expand === false ? <h4><i class="fas fa-angle-double-down"></i> Expand</h4> : <h4><i class="fas fa-angle-double-up"></i> Close</h4>}
+        </div>
       </div>
     )
   }
