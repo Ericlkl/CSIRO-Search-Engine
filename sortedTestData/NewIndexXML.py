@@ -21,6 +21,9 @@ URI		= 'http://localhost:9200'
 Q = "";
 c = pycurl.Curl();
 
+#Sets working directory of script to location of script
+#allow python script to be executed from any working directory
+os.chdir(os.path.dirname(os.path.realpath(__file__)))
 
 foundFiles = set();		#files found
 indexedFiles = set();	#files indexed in csv
