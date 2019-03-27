@@ -47,9 +47,10 @@ These instructions will get you a copy of the project up and running on your loc
 3. Change directory to the root folder of this project CSIRO-Search-Engine-Project/
 4. run 'nvm use v11.11.0'
 5. run 'npm -v' to check npm is higher than version 6.0.0
-5. run 'npm install'
-6. run 'npm run start' start the server
-7. Open your web browser and insert url (http://localhost:3001/) or domin name:port
+6. run 'npm install'
+7. run 'npm run build'
+8. run 'npm run start' start the server
+9. Open your web browser and insert url (http://localhost:3001/) or domin name:port
 ```
 
 ### Prerequisites
