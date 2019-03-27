@@ -39,7 +39,7 @@ class SearchBar extends Component {
                         </div>
                     </div>
                 </form>
-                <HelpPopUp text="Step 1 : Enter the Search keyword on the input field"/>
+                <HelpPopUp sectionName="searchBar" text="Step 1 : Enter the Search keyword on the input field"/>
             </section>
         )
     }

@@ -3,6 +3,7 @@ import searchKeyReducer from './searchKeyReducer'
 import searchHistoryReducer from './searchHistoryReducer';
 import resultReducer from './resultReducer';
 import xmlReducer from './xmlReducer';
+import helpSectionReducer from './helpSectionReducer';
 import { combineReducers } from 'redux';
 
 // All variable in the redux store
@@ -11,5 +12,6 @@ export default combineReducers({
     filter: filterReducer,
     searchResult: resultReducer,
     searchHistory: searchHistoryReducer,
-    xml: xmlReducer
+    xml: xmlReducer,
+    help: helpSectionReducer
 })

@@ -190,6 +190,7 @@ class FilterBox extends Component {
     return (
       <div className="filterBox">
         <HelpPopUp text="Step 3 : Select the filter value you want" 
+          sectionName="filter"
           pointing="below"/>
         <div>
           <div className="ui styled fluid accordion">

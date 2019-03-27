@@ -5,6 +5,12 @@
     overflow: hidden;
 }
 
+.result-list__toolsbar{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
 .expand-btn{
     position: absolute;
     cursor: pointer;
@@ -20,9 +26,7 @@
 
 // Larger than mobile
 @media (min-width: 500px){
-    .result-list{
-        // margin: 0 2rem;
-    }
+
 }
 
 @media (min-width: 700px){

@@ -11,6 +11,8 @@ import {
     filterStatus
 } from './filterAction'
 
+import { showHelpSections, closeHelpSection } from './helpAction'
+
 export { 
     fetchResults,
     filterContinent,
@@ -22,5 +24,7 @@ export {
     addSearchHistory,
     resetSearchHistory,
     updateSearchKeyword,
-    updateXMLResult
+    updateXMLResult,
+    showHelpSections,
+    closeHelpSection
 }

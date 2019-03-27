@@ -1,18 +1,18 @@
 import React, { Component } from 'react'
+import {connect} from 'react-redux';
+import {closeHelpSection} from '../actions/index'
 
 class HelpPopUp extends Component {
-  state ={
-    show: true
-  }
-  
+
   render() {
+    const {help, sectionName, text, pointing, closeHelpSection} = this.props;
     return (
-        <div style={ this.state.show === false ? {display: "none"} : {display: "initial"}} 
+        <div style={ help[sectionName] === false ? {display: "none"} : {display: "initial"}} 
             className="field fluid help"
-            onClick={() => this.setState({show: false})}>
+            onClick={() => closeHelpSection(sectionName)}>
           <div className="text-center">
-            <div className={"ui grey purple label pointing " + this.props.pointing}>
-              <h3>{this.props.text}</h3>
+            <div className={"ui grey purple label pointing " + pointing}>
+              <h3>{text}</h3>
             </div>
           </div>
       </div>
@@ -20,4 +20,6 @@ class HelpPopUp extends Component {
   }
 }
 
-export default HelpPopUp;
+const mapStateToProps = ({help}) => ({help});
+
+export default connect( mapStateToProps , {closeHelpSection})(HelpPopUp);

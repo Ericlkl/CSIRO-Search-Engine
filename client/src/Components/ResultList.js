@@ -3,7 +3,7 @@ import HelpPopUp from '../Components/HelpPopUp';
 import { withRouter } from 'react-router-dom'
 import PropTypes from 'prop-types'
 import {connect} from 'react-redux';
-import { updateXMLResult } from '../actions/index'
+import { updateXMLResult, showHelpSections } from '../actions/index'
 
 class ResultBox extends Component{
   state = {
@@ -44,11 +44,18 @@ class ResultList extends Component {
     const {total, results} = this.props.searchResult;
     return (
       <div>
-        <HelpPopUp text="Step 2 : Check the search result here" 
-        pointing="below"/>
-          <div className="ui raised segments result-list">
+        <HelpPopUp 
+          sectionName="resultList"
+          text="Step 2 : Check the search result here" 
+          pointing="below"/>
+          <div style={{margin: 0}} className="ui raised segments result-list">
             <div className="ui secondary segment">
-              <p> {total} result found</p>
+
+              <div className="result-list__toolsbar">
+                <p> {total} result found</p>
+                <button onClick={this.props.showHelpSections} className="ui button primary">Help</button>
+              </div>
+
               {
                 // Generate result box by filling information by one result array item
                 results.map(result => 
@@ -75,4 +82,4 @@ ResultList.propTypes = {
 // Maping Redux store to this class component
 const mapStateToProps = ({searchResult}) => ({searchResult});
 
-export default connect(mapStateToProps, { updateXMLResult})(withRouter(ResultList));
+export default connect(mapStateToProps, { updateXMLResult, showHelpSections})(withRouter(ResultList));
