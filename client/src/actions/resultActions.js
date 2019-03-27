@@ -4,7 +4,7 @@ import _ from 'lodash';
 import { FETCH_RESULTS } from './types';
 
 export const fetchResults = keyword => async dispatch => {
-    const updateRes = await axios.get('http://localhost:3001/data');
+    // const updateRes = await axios.get('http://localhost:3001/data');
     const res = await axios.get('/main/xml/_search?q='+ keyword);
 
     // Result Array contains all the result object
