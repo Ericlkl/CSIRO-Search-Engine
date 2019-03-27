@@ -24,7 +24,7 @@ class ResultBox extends Component{
         </button>
         {result.informations.map( (info, index) => <p key={index}>{info}</p>)}
         <div onClick={this.onExpandBtnClick} className="expand-btn">
-          { this.state.expand === false ? <h4><i className="fas fa-angle-double-down"></i> Expand</h4> : <h4><i class="fas fa-angle-double-up"></i> Close</h4>}
+          { this.state.expand === false ? <h4><i className="fas fa-angle-double-down"></i> Expand</h4> : <h4><i className="fas fa-angle-double-up"></i> Close</h4>}
         </div>
       </div>
     )
