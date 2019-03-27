@@ -1,12 +1,9 @@
 import React, { Component } from 'react'
 import logo from '../assets/img/logo.png'
 import {connect} from 'react-redux';
-import {
-    updateSearchKeyword,
-    addSearchHistory,
-    fetchResults
-} from '../actions/index'
+import { updateSearchKeyword, addSearchHistory,fetchResults} from '../actions/index'
 import PropTypes from 'prop-types';
+import HelpPopUp from './HelpPopUp';
 
 class SearchBar extends Component {
 
@@ -28,8 +25,8 @@ class SearchBar extends Component {
     
     render() {
         return (
-            <form onSubmit={this.onSearchData}>
-                <div className="search-bar">
+            <section className="search-bar-section">
+                <form className="search-bar" onSubmit={this.onSearchData}>
                     <div className="container">
                         <div className="logo-section">
                             <img className="logo" src={logo} alt="logo"/>
@@ -41,8 +38,9 @@ class SearchBar extends Component {
                             <button onClick={this.onSearchData} className="ui mini button"><i className="search icon"></i>Search</button>
                         </div>
                     </div>
-                </div>
-            </form>
+                </form>
+                <HelpPopUp text="Step 1 : Enter the Search keyword on the input field"/>
+            </section>
         )
     }
 }

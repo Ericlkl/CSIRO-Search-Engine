@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 
 class HelpPopUp extends Component {
   state ={
-    show: false
+    show: true
   }
   
   render() {
@@ -10,9 +10,10 @@ class HelpPopUp extends Component {
         <div style={ this.state.show === false ? {display: "none"} : {display: "initial"}} 
             className="field fluid help"
             onClick={() => this.setState({show: false})}>
-        
-          <div className="ui pointing grey purple label">
-            <h3 className="text-center">{this.props.text}</h3>
+          <div className="text-center">
+            <div className={"ui grey purple label pointing " + this.props.pointing}>
+              <h3>{this.props.text}</h3>
+            </div>
           </div>
       </div>
     )

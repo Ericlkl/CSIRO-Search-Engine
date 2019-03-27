@@ -44,9 +44,9 @@ class ResultList extends Component {
     const {total, results} = this.props.searchResult;
     return (
       <div>
-        <HelpPopUp text="The Search Result will be display here"/>
-        <div className="result-list">
-          <div className="ui raised segments">
+        <HelpPopUp text="Step 2 : Check the search result here" 
+        pointing="below"/>
+          <div className="ui raised segments result-list">
             <div className="ui secondary segment">
               <p> {total} result found</p>
               {
@@ -62,7 +62,6 @@ class ResultList extends Component {
               }
             </div>
           </div>
-        </div>
       </div>
     )
   }

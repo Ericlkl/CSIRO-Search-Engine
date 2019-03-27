@@ -189,7 +189,8 @@ class FilterBox extends Component {
   render() {
     return (
       <div className="filterBox">
-        <HelpPopUp text="Select the filter value you want" />
+        <HelpPopUp text="Step 3 : Select the filter value you want" 
+          pointing="below"/>
         <div>
           <div className="ui styled fluid accordion">
             {this.renderSearchHistoryBox()}
