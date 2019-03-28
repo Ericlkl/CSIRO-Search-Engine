@@ -6,7 +6,6 @@ import xml.etree.ElementTree as ET
 import pycurl
 import json
 import csv
-import pandas as pd
 
 try:
     from io import BytesIO
