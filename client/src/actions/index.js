@@ -11,6 +11,8 @@ import {
     filterStatus
 } from './filterAction'
 
+import { fetchSuggestion } from './sugestionAction'
+
 import { showHelpSections, closeHelpSection } from './helpAction'
 
 export { 
@@ -26,5 +28,6 @@ export {
     updateSearchKeyword,
     updateXMLResult,
     showHelpSections,
-    closeHelpSection
+    closeHelpSection,
+    fetchSuggestion
 }
