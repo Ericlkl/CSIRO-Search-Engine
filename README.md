@@ -40,7 +40,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 **Important** You will need to keep the path as short as you can. otherwise, it might cause to some installation problem.
 
-e.g. C:\Users\administrator\Documents\Workspace\CSIRO-Search-Engine-Project\client <- too long
+e.g. C:\Users\administrator\Documents\Workspace\CSIRO-Search-Engine-Project\client <- too long <br/>
 e.g  C:\Users\CSIRO-Search-Engine-Project\client <- to this short
 
 ```
