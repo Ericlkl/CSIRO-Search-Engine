@@ -1,4 +1,4 @@
-import { FETCH_SUGGESTION } from './types'
+import { FETCH_SUGGESTION, CLOSE_SUGGESTION_BOX } from './types'
 import axios from 'axios';
 import _ from 'lodash';
 
@@ -21,9 +21,18 @@ export const fetchSuggestion = keyword => async dispatch => {
 
     const suggestions = [];
     res.data.collection.forEach(obj => suggestions.push(obj.prefLabel))
-
     dispatch({
         type: FETCH_SUGGESTION,
-        payload: _.uniq(suggestions)
+        payload: {
+            show: true,
+            suggestions: _.uniq(suggestions)
+        }
     });
 }
+
+export const closeSuggestionBox = () => ({
+    type: CLOSE_SUGGESTION_BOX,
+    payload: {
+        show: false
+    }
+});

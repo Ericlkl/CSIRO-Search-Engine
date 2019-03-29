@@ -4,52 +4,15 @@ import {connect} from 'react-redux';
 import { updateSearchKeyword, addSearchHistory, fetchResults, fetchSuggestion } from '../actions/index'
 import PropTypes from 'prop-types';
 import HelpPopUp from './HelpPopUp';
-
-class Suggestions extends Component {
-
-    state = {
-        show: true
-    };
-
-    componentWillMount(){
-        document.addEventListener('mousedown', this.handleClick, false);
-    }
-
-    componentWillUnmount(){
-        document.removeEventListener('mousedown', this.handleClick, false);
-    }
-
-    handleClick = e => {
-        if (this.node.contains(e.target)){
-            // The click is inside, Continute to whatever you are doing
-            return 
-        }
-        this.setState({show: false});
-    }
-
-    render(){
-        const results = [];
-        this.props.suggests.forEach(suggest => {
-            if (results.length === 10) return 
-            results.push(suggest);
-        })
-
-        return (
-            <div style={ this.state.show ? {} : {display: "none"} }
-                ref={node => this.node = node} 
-                className="suggestions">
-                {results.map(result=> <p key={result}>{result}</p>)}
-            </div>
-        )
-    }
-}
+import SuggestionBox from './SuggestionBox';
 
 class SearchBar extends Component {
 
     onInputChange = (e) => {
+        const word = e.target.value;
+        this.props.updateSearchKeyword(word)
         // When User Insert the keyword, using redux to do something
-        this.props.updateSearchKeyword(e.target.value)
-        this.props.fetchSuggestion(e.target.value)
+        this.props.fetchSuggestion(word)
     }
 
     // When User Clicked on the search icon
@@ -84,7 +47,7 @@ class SearchBar extends Component {
                                     <i className="search icon"></i>Search
                                 </button>
                             </div>
-                           { this.props.suggestions.length !== 0 ? <Suggestions suggests={this.props.suggestions}/> : null}
+                           <SuggestionBox/>
                         </div>
 
                     </div>
@@ -102,7 +65,7 @@ SearchBar.propTypes = {
 
 // Map Redux store to this Class Component
 // searchKey = Search Term in searchField
-const mapStateToProps = ({searchKey, suggestions}) => ({searchKey, suggestions});
+const mapStateToProps = ({searchKey}) => ({searchKey});
 
 export default connect(mapStateToProps, {
     updateSearchKeyword,

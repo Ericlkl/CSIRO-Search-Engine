@@ -14,6 +14,6 @@ export default combineReducers({
     searchResult: resultReducer,
     searchHistory: searchHistoryReducer,
     xml: xmlReducer,
-    suggestions: suggestionReducer,
+    suggestBox: suggestionReducer,
     help: helpSectionReducer
 })
