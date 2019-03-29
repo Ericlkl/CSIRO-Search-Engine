@@ -8,10 +8,10 @@ class SearchPage extends Component {
     return (
       <div>
         <SearchBar/>
-        <div className="result-section">
-          <FilterBox/>
-          <ResultList/>
-        </div>
+          <section className="result-section">
+            <FilterBox/>
+            <ResultList/>
+          </section>
       </div>
     )
   }
