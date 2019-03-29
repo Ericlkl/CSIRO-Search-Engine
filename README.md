@@ -22,7 +22,7 @@ Sass
   redux-thunk
 ```
 
-## Getting Started (Front-end Website)
+## Getting Started (Front-end Website) 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
@@ -36,6 +36,19 @@ These instructions will get you a copy of the project up and running on your loc
 
 ```
 
+## How to install npm in Ubuntu
+  You must install it as root user. otherwise you will get lots of permission problem when install the node_modules.installing npm via nvm, you will need to manually install npm anytime you turned off the terminal.
+
+```
+sudo su
+apt-get update
+apt-get curl
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash
+open new tab on terminal
+sudo su
+nvm install v11.11.0
+nvm use v11.11.0
+```
 
 ## Server Side Production Build (Ubuntu)
 
@@ -45,12 +58,11 @@ These instructions will get you a copy of the project up and running on your loc
 1. ssh to the server
 2. sudo su 
 3. Change directory to the root folder of this project CSIRO-Search-Engine-Project/
-4. run 'nvm use v11.11.0'
-5. run 'npm -v' to check npm is higher than version 6.0.0
-6. run 'npm install'
-7. run 'npm run build'
-8. run 'npm run start' start the server
-9. Open your web browser and insert url (http://localhost:3001/) or domin name:port
+4. If you have installed nvm on your machine, go forward. if no, please follow the instruction above
+5. run 'nvm use v11.11.0'
+6. run 'npm run build'
+7. run 'npm run dev' start the server
+8. Open your web browser and insert url (http://localhost:3001/) or domin name:port
 ```
 
 ### Prerequisites
