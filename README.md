@@ -22,7 +22,7 @@ Sass
   redux-thunk
 ```
 
-## Getting Started (Front-end Website) 
+## Turn on Front-end Website (MacOS/ Linux)
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
@@ -35,6 +35,26 @@ These instructions will get you a copy of the project up and running on your loc
 6. Open your web browser and insert url (http://localhost:3000/)
 
 ```
+
+## Turn on Front-end Website (Windows 10)
+
+**Important** You will need to keep the path as short as you can. otherwise, it might cause to some installation problem.
+
+e.g. C:\Users\administrator\Documents\Workspace\CSIRO-Search-Engine-Project\client <- too long
+e.g  C:\Users\CSIRO-Search-Engine-Project\client <- to this short
+
+```
+1. Install NodeJS on your computer
+2. Open Node.js command prompt
+3. Change directory to the client folder of this project 
+4. npm install
+5. npm run dev
+6. open a new tab and go the root folder of this project CSIRO-Search-Engine-Project\
+7. npm install
+8. npm run start
+
+```
+
 
 ## How to install npm in Ubuntu
   You must install it as root user. otherwise you will get lots of permission problem when install the node_modules.installing npm via nvm, you will need to manually install npm anytime you turned off the terminal.
