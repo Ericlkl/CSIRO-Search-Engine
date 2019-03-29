@@ -15,7 +15,7 @@ except ImportError:
 
 INDEX	= 'main' #ES index name
 TYPE	= 'xml'
-URI		= 'http://localhost:9200'
+URI		= '127.0.0.1:9200'
 
 Q = "";
 c = pycurl.Curl();
