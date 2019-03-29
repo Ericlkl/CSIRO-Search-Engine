@@ -16,8 +16,7 @@ export const fetchSuggestion = keyword => async dispatch => {
             display_links:false,
             fbclid:"IwAR3hCJ3MQJVjGjvQcqYASojeOoeOD28fd-ekLOUkzMBS9NMysgNl4GxuJdw",
             subtree_ontology:"SNOMEDCT",
-            apikey:"95c268f6-fef3-4de7-919e-6a3013f5b7a0",
-            fbclid:"IwAR1lZ_5YOdQT1PiXTKGY8iHwFGNu5JUo19mTcX6ulMXEp_tba0UQy_f2Nws",
+            apikey:"95c268f6-fef3-4de7-919e-6a3013f5b7a0"
         }})
 
     const suggestions = [];
