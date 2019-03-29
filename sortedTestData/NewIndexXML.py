@@ -64,10 +64,10 @@ unchangedFiles = foundFiles & indexedFiles;
 
 for item in modifiedFiles:
 	filename = item.split(',',1)[0];
+	name = os.path.basename(filename);
 	if not filename.endswith('.xml'):
 		continue;
 	Q = "";
-	filename = os.path.join(r,name);
 
 	#get path to root of current file
 	root = ET.parse(filename).getroot();
