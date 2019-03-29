@@ -29,9 +29,9 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 1. Install NodeJS on your computer
 2. Open Terminal/ Bash on your computer
-3. Change directory to the client folder
-4. type ' npm install '
-5. When install package is finished, type 'npm run start'
+3. Change directory to the root folder of this project 'CSIRO-Search-Engine-Project/'
+4. type ' npm run build '
+5. When install package is finished, type 'npm run dev'
 6. Open your web browser and insert url (http://localhost:3000/)
 
 ```
