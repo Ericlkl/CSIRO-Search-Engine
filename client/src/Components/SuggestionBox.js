@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import _ from 'lodash';
 import {connect} from 'react-redux';
-import { closeSuggestionBox } from '../actions/index'
+import { closeSuggestionBox, updateSearchKeyword } from '../actions/index'
 
 class SuggestionBox extends Component {
 
@@ -22,13 +22,18 @@ class SuggestionBox extends Component {
         this.props.closeSuggestionBox();
     }
 
+    onSuggestKeywordClicked = (word) => {
+        this.props.updateSearchKeyword(word);
+        this.props.closeSuggestionBox();
+    }
+
     render(){
         const results = [];
         if (this.props.suggestBox.suggestions.length === 0) return <div ref={node => this.node = node} ></div>
 
         this.props.suggestBox.suggestions.forEach(suggest => {
             if (results.length === 10) return 
-            results.push(<p key={suggest}>{suggest}</p>);
+            results.push(<p onClick={e => this.onSuggestKeywordClicked(suggest)} key={suggest}>{suggest}</p>);
         })
 
         return (
@@ -43,4 +48,7 @@ class SuggestionBox extends Component {
 
 const mapStateToProps = ({suggestBox}) => ({suggestBox})
 
-export default connect(mapStateToProps, { closeSuggestionBox })(SuggestionBox);
+export default connect(mapStateToProps, { 
+    closeSuggestionBox, 
+    updateSearchKeyword 
+})(SuggestionBox);
