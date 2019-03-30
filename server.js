@@ -9,7 +9,7 @@ const options = {
     encoding: `utf8`,
     scriptPath: './sortedTestData/',
     pythonOptions: ['-u'],
-    pythonPath: `/usr/local/bin/python3`
+    pythonPath: `python3`
 };
 
 app.use(express.static('client/build'));
