@@ -19,9 +19,8 @@ export const fetchSuggestion = keyword => async dispatch => {
             apikey:"95c268f6-fef3-4de7-919e-6a3013f5b7a0"
         }})
 
-    const suggestions = [];
-    res.data.collection.forEach(obj => suggestions.push(obj.prefLabel))
-    
+    const suggestions = res.data.collection.map(obj => _.capitalize(obj.prefLabel))
+
     dispatch({
         type: FETCH_SUGGESTION,
         payload: {

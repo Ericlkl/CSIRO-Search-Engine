@@ -12,23 +12,22 @@ export const fetchResults = keyword => async dispatch => {
     
     // Result Array contains all the result object
     const payload = {
-        results: [],
+        results: queryData.data.hits.hits.map( hit => {
+            // Loop through the hits object
+            // First Split the text and put every text into array
+            // Second Filter out the "" by length === 0
+            const informations = _.split(hit._source.text,/\\[a-z]+/)
+                            .filter(word => word.length > 0 );
+                            
+            return {
+                fileName: hit._id,
+                tags: hit._source.tags,
+                informations
+            }
+        }),
         total: queryData.data.hits.total
     };
 
-    // Loop through the hits object
-    queryData.data.hits.hits.forEach( hit => {
-        // First Split the text and put every text into array
-        // Second Filter out the "" by length === 0
-        const informations = _.split(hit._source.text,/\\[a-z]+/)
-                        .filter(word => word.length > 0 );
-                        
-        payload.results.push({
-            fileName: hit._id,
-            tags: hit._source.tags,
-            informations
-        });
-    })
         
     dispatch({
         type: FETCH_RESULTS,
