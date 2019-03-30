@@ -1,6 +1,11 @@
 import React, { Component } from 'react'
 import {connect} from 'react-redux';
-import { closeSuggestionBox, updateSearchKeyword } from '../actions/index'
+import { 
+    closeSuggestionBox, 
+    updateSearchKeyword,
+    addSearchHistory,
+    fetchResults 
+} from '../actions/index'
 
 class SuggestionBox extends Component {
 
@@ -22,6 +27,8 @@ class SuggestionBox extends Component {
     }
 
     onSuggestKeywordClicked = (word) => {
+        this.props.fetchResults(word);
+        this.props.addSearchHistory(word);
         this.props.updateSearchKeyword(word);
         this.props.closeSuggestionBox();
     }
@@ -49,5 +56,7 @@ const mapStateToProps = ({suggestBox}) => ({suggestBox})
 
 export default connect(mapStateToProps, { 
     closeSuggestionBox, 
-    updateSearchKeyword 
+    updateSearchKeyword,
+    addSearchHistory,
+    fetchResults
 })(SuggestionBox);

@@ -1,11 +1,15 @@
+import {nodeServer} from '../api/index';
 import axios from 'axios';
 import _ from 'lodash';
 
 import { FETCH_RESULTS } from './types';
 
 export const fetchResults = keyword => async dispatch => {
-    const updateRes = await axios.get('http://localhost:3001/data/update');
+    const updateRes = await nodeServer.get('/data/update');
     const queryData = await axios.get('/main/xml/_search?q='+ keyword);
+
+    console.log(updateRes);
+    
     // Result Array contains all the result object
     const payload = {
         results: [],

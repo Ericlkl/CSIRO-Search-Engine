@@ -1,12 +1,12 @@
 import { FETCH_SUGGESTION, CLOSE_SUGGESTION_BOX } from './types'
-import axios from 'axios';
+import {bioontologyServer} from '../api/index';
 import _ from 'lodash';
 
 export const fetchSuggestion = keyword => async dispatch => {
 
     if (keyword === "") return dispatch({ type: CLOSE_SUGGESTION_BOX });
 
-    const res = await axios.get("http://data.bioontology.org/search?",{
+    const res = await bioontologyServer.get("/search?",{
         params: {
             q: `$${keyword}*`,
             ontology:"SNOMEDCT",
