@@ -62,6 +62,23 @@ for r, dirs, files in os.walk(os.getcwd()):
 modifiedFiles = foundFiles  -  indexedFiles;
 unchangedFiles = foundFiles & indexedFiles;
 
+#Create empty index
+c.setopt(c.URL, URI+"/"+INDEX);
+c.setopt(c.HTTPHEADER, ["Content-Type: application/json"])
+# createIndex = '{}'
+# c.setopt(c.UPLOAD, 1)
+# buffer = BytesIO(createIndex.encode('utf-8'));
+# c.setopt(c.READDATA, buffer);
+# c.perform();
+
+#Add basic index for nested object types
+mapping = '{"mappings": {"xml": {"properties": {"tags":{"type":"nested"} } } } }'
+c.setopt(c.UPLOAD, 1)
+buffer = BytesIO(mapping.encode('utf-8'));
+c.setopt(c.READDATA, buffer);
+c.perform();
+
+
 for item in modifiedFiles:
 	filename = item.split(',',1)[0];
 	name = os.path.basename(filename);
