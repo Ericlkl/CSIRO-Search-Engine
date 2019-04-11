@@ -3,7 +3,6 @@ import { FETCH_RESULTS } from './types';
 
 export const fetchResults = keyword => async dispatch => {
     const res = await nodeServer.post('/data', {keyword} );
-    console.log(res);
     dispatch({
         type: FETCH_RESULTS,
         payload: res.data
