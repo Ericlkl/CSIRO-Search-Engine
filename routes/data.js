@@ -4,11 +4,7 @@ const _ = require("lodash");
 
 module.exports = app => {
     // This Route ables The front end side fetch the data from ES
-    app.get('/data', async (req,res) => {
-        // Read the keyword from the front end side request
-        // This is exact the value that user insert from searchbar
-        const {keyword} = req.body;
-
+    app.get('/data/:keyword', async (req,res) => {
         // Elastic Search Query Setup
         // the Result is saved in this variable 
         const ESresult = await esclient.search({
@@ -16,7 +12,7 @@ module.exports = app => {
             body: {
               query: {
                   match: { 
-                    text: keyword
+                    text: req.params.keyword
                   }
               },   
               aggs: {
@@ -46,9 +42,10 @@ module.exports = app => {
             }),
             total: ESresult.hits.total
         };
+
         // Return the formatted result to the front end side
         res.status(200).send(result);
-    })
+    });
 
     // Return XML Data to the XML Page
     app.get('/xml/:id', async (req,res) => {
