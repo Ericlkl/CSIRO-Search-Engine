@@ -3,6 +3,7 @@ const express = require('express');
 const {PythonShell} = require('python-shell')
 const cors = require('cors');
 const app = express();
+const bodyParser = require('body-parser');
 
 const options = {
     mode: 'text',
@@ -14,8 +15,9 @@ const options = {
 
 app.use(express.static('client/build'));
 app.use(cors());
+app.use(bodyParser.json());
 
-app.get('/data/update', (req, res) => {
+app.post('*', (req, res, next) => {
     console.log("Python Script: NewIndexXML.py is running...");
 
     PythonShell.run('NewIndexXML.py', options, (err, results) => {
@@ -25,9 +27,12 @@ app.get('/data/update', (req, res) => {
         } 
         console.log("Python Script Excuted Successfully!");
         console.log('results: %j', results);
-        res.status(200).send({msg: "Success!"})
+        next()
     }); 
 })
+
+// ElasticSearch Data route
+require('./routes/data')(app);
 
 app.get('*', (req,res) => {
     res.sendFile(path.resolve(__dirname, 'client','build', 'index.html'))     
