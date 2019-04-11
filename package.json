@@ -7,7 +7,7 @@
     "start": "node server.js",
     "server": "nodemon server.js",
     "client": "npm run start --prefix client",
-    "dev": "concurrently 'npm run client' 'npm run start' ",
+    "dev": "concurrently 'npm run client' 'npm run server' ",
     "build": "npm install --prefix client && npm run build --prefix client && npm install",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
   },
@@ -27,6 +27,7 @@
     "cors": "^2.8.5",
     "elasticsearch": "^15.4.1",
     "express": "^4.16.4",
+    "lodash": "^4.17.11",
     "python-shell": "^1.0.7"
   }
 }
