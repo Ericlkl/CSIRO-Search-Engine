@@ -1,8 +1,21 @@
 import React, { Component } from 'react';
-import {connect} from 'react-redux';
-import {Link} from 'react-router-dom';
+import {Link} from 'react-router-dom'
+import {nodeServer} from '../api'
 
 class XMLPage extends Component {
+
+  state = {
+    fileName: null,
+    tags: null,
+    informations: null
+  }
+
+  componentDidMount = async () => {
+    console.log(this.props.match.params.xmlID);
+    const result = await nodeServer.get(`xml/${this.props.match.params.xmlID}`)
+    const {fileName, tags, informations } = result.data
+    this.setState({fileName, tags, informations })
+  }
 
   renderTable = (tags) => {
     let columns = [];
@@ -36,7 +49,12 @@ class XMLPage extends Component {
   }
 
   render() {
-    const {fileName, informations, tags} = this.props.xml
+    const {fileName, tags, informations } = this.state;
+
+    if (fileName === null) {
+      return <div>Loading</div>
+    }
+
     return (
       <div className="container">
         <Link className="ui primary button" to="/">Go Back</Link>
@@ -48,6 +66,5 @@ class XMLPage extends Component {
   }
 }
 
-const mapStateToProps = ({xml}) => ({xml})
 
-export default connect(mapStateToProps, null)(XMLPage);
+export default XMLPage;

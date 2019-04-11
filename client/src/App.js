@@ -25,7 +25,7 @@ class App extends Component {
           <BrowserRouter>
             <Switch>
               <Route path="/" exact component={SearchPage} />
-              <Route path="/xml-result" component={XMLPage} />
+              <Route path="/xml/:xmlID" component={XMLPage} />
             </Switch>
           </BrowserRouter>
         </Provider>

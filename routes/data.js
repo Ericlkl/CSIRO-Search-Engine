@@ -4,7 +4,7 @@ const _ = require("lodash");
 
 module.exports = app => {
     // This Route ables The front end side fetch the data from ES
-    app.post('/data', async (req,res) => {
+    app.get('/data', async (req,res) => {
         // Read the keyword from the front end side request
         // This is exact the value that user insert from searchbar
         const {keyword} = req.body;
@@ -48,6 +48,27 @@ module.exports = app => {
         };
         // Return the formatted result to the front end side
         res.status(200).send(result);
+    })
+
+    // Return XML Data to the XML Page
+    app.get('/xml/:id', async (req,res) => {
+      let esResult = await esclient.search({
+        index: 'main',
+        body: {
+          query: {
+              match: { 
+                  _id: `${req.params.id}.xml`
+              }
+          }
+        }
+      })
+      const { _id, _source } = esResult.hits.hits[0];
+      const result = {
+        fileName: _id,
+        tags: _source.tags,
+        informations: _.split(_source.text,/\\[a-z]+/).filter(word => word.length > 0 )
+      };
+      res.status(200).send(result)
     })
 
     // Template For Filter, If it is useless feel free to delete
