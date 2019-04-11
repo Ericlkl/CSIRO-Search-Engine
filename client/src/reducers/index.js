@@ -2,7 +2,6 @@ import filterReducer from './filterReducer';
 import searchKeyReducer from './searchKeyReducer'
 import searchHistoryReducer from './searchHistoryReducer';
 import resultReducer from './resultReducer';
-import xmlReducer from './xmlReducer';
 import suggestionReducer from './suggestionReducer';
 import helpSectionReducer from './helpSectionReducer';
 import { combineReducers } from 'redux';
@@ -13,7 +12,6 @@ export default combineReducers({
     filter: filterReducer,
     searchResult: resultReducer,
     searchHistory: searchHistoryReducer,
-    xml: xmlReducer,
     suggestBox: suggestionReducer,
     help: helpSectionReducer
 })

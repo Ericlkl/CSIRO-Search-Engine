@@ -1,7 +1,6 @@
 import { addSearchHistory,resetSearchHistory } from './searchHistoryActions'
 import { fetchResults } from './resultActions'
 import { updateSearchKeyword } from './searchKeyActions';
-import { updateXMLResult } from './xmlActions'
 import { 
     filterContinent,
     filterCountry,
@@ -26,7 +25,6 @@ export {
     addSearchHistory,
     resetSearchHistory,
     updateSearchKeyword,
-    updateXMLResult,
     showHelpSections,
     closeHelpSection,
     fetchSuggestion,

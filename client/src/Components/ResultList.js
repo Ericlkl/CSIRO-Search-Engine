@@ -1,9 +1,10 @@
 import React, { Component } from 'react'
+import _ from 'lodash';
 import HelpPopUp from '../Components/HelpPopUp';
 import { withRouter } from 'react-router-dom'
 import PropTypes from 'prop-types'
 import {connect} from 'react-redux';
-import { updateXMLResult, showHelpSections } from '../actions/index'
+import { showHelpSections } from '../actions/index'
 
 class ResultBox extends Component{
   state = {
@@ -19,7 +20,7 @@ class ResultBox extends Component{
     return (
       <div style={ this.state.expand ? {} : {height: "300px"} }
           className="ui segment result-box">
-        <button className="ui positive button" onClick={ e => onFileBtnClicked(result) } >
+        <button className="ui positive button" onClick={ e => onFileBtnClicked(result.fileName) } >
           <i className="file icon"></i>{result.fileName}
         </button>
         {result.informations.map( (info, index) => <p key={index}>{info}</p>)}
@@ -33,9 +34,8 @@ class ResultBox extends Component{
 
 class ResultList extends Component {
 
-  onFileBtnClicked = result => {
-    this.props.updateXMLResult(result);
-    this.props.history.push('/xml-result')
+  onFileBtnClicked = (fileName) => {
+    this.props.history.push(`/xml/${_.replace(fileName,'.xml','') }`)
   }
 
   render() {
@@ -59,11 +59,8 @@ class ResultList extends Component {
               {
                 // Generate result box by filling information by one result array item
                 results.map(result => 
-                  <div key={result.fileName}>{
-                    <ResultBox 
-                      result={result} 
-                      onFileBtnClicked={this.onFileBtnClicked}/>
-                  }
+                  <div key={result.fileName}>
+                    { <ResultBox result={result} onFileBtnClicked={this.onFileBtnClicked} /> }
                   </div>
                 )
               }
@@ -76,10 +73,9 @@ class ResultList extends Component {
 
 ResultList.propTypes = {
   searchResult: PropTypes.object.isRequired,  // Search Result / response from the backend server
-  updateXMLResult: PropTypes.func.isRequired,
 };
 
 // Maping Redux store to this class component
 const mapStateToProps = ({searchResult}) => ({searchResult});
 
-export default connect(mapStateToProps, { updateXMLResult, showHelpSections})(withRouter(ResultList));
+export default connect(mapStateToProps, { showHelpSections})(withRouter(ResultList));
