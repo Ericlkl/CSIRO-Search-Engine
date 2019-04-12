@@ -22,7 +22,6 @@ let searchResult = esclient.search({
 }})
 .then(esResult => {
   // The Result will come back here saved in esResult Variable
-
   console.log(esResult);
 })
   

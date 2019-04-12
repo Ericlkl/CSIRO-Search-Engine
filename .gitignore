@@ -64,4 +64,4 @@ DS_Store
 .DS_Store
 
 #ignore index file
-sortedTestData/index.csv
+/sortedTestData/index.csv
