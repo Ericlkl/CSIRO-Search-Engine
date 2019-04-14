@@ -1,18 +1,16 @@
 import {
-    FILTER_GENDER,
+    FILTER_TIME,
+    FILTER_INDICATOR,
     FILTER_SORTBY,
-    FILTER_COUNTRY,
-    FILTER_CONTINENT,
-    FILTER_STATUS,
-    FILTER_RESET
+    FILTER_TAG,
+    FILTER_RESET,
 } from '../actions/types';
 
 const filterState = {
     sortBy: "Revelance",
-    gender: [],
-    country: "Australia",
-    continent: [],
-    status: []
+    Time: [],
+    Indicator: [],
+    Tag: []
 };
 
 
@@ -21,30 +19,26 @@ export default (state = filterState, action) => {
     let newState = Object.assign({}, state);
 
     switch(action.type){
-        case FILTER_GENDER:
-            newState.gender = state.gender.filter(gender => gender !== action.payload.value)
+        case FILTER_TIME:
+            newState.Time = state.Time.filter(Time => Time !== action.payload.value)
             if (action.payload.checked){
-                newState.gender.push(action.payload.value);
+                newState.Time.push(action.payload.value);
             }
             return newState
 
-        case FILTER_CONTINENT:
-            newState.continent = state.continent.filter(continent => continent !== action.payload.value)
+        case FILTER_INDICATOR:
+            newState.Indicator = state.Indicator.filter(Indicator => Indicator !== action.payload.value)
             if (action.payload.checked){
-                newState.continent.push(action.payload.value);
+                newState.Indicator.push(action.payload.value);
             }
             return newState
 
-        case FILTER_STATUS:
-            newState.status = state.status.filter(status => status !== action.payload.value)
+        case FILTER_TAG:
+            newState.Tag = state.Tag.filter(Tag => Tag !== action.payload.value)
             if (action.payload.checked){
-                newState.status.push(action.payload.value);
+                newState.Tag.push(action.payload.value);
             }
             return newState
-
-        case FILTER_COUNTRY:
-            newState.country = action.payload
-            return newState;
 
         case FILTER_SORTBY:
             newState.sortBy = action.payload

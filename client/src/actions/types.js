@@ -1,27 +1,24 @@
+// Result Reducer Actions
 export const FETCH_RESULTS = "FETCH_RESULTS";
 
+// Keyword Reducer Actions
 export const UPDATE_SEARCH_KEYWORD = "UPDATE_SEARCH_KEYWORD";
 
-export const FILTER_GENDER = "FILTER_GENDER";
-
-export const FILTER_COUNTRY = "FILTER_COUNTRY";
-
+// Filter Reducer Actions
+export const FILTER_TIME = "FILTER_TIME";
+export const FILTER_INDICATOR = "FILTER_INDICATOR";
 export const FILTER_SORTBY = "FILTER_SORTBY";
-
+export const FILTER_TAG = "FILTER_TAG";
 export const FILTER_RESET = "FILTER_RESET"
 
-export const FILTER_CONTINENT = "FILTER_CONTINENT";
-
-export const FILTER_STATUS = "FILTER_STATUS";
-
+// Search History Reducers Action
 export const ADD_SEARCH_HISTORY = "ADD_SEARCH_HISTORY";
-
 export const RESET_SEARCH_HISTORY = "RESET_SEARCH_HISTORY";
 
+// Help Reducers Actions
 export const SHOW_ALL_HELP_SECTION = "SHOW_ALL_HELP_SECTION";
-
 export const CLOSE_HELP_SECTION = "CLOSE_HELP_SECTION";
 
+// Suggestion Reducers Actions
 export const FETCH_SUGGESTION = "FETCH_SUGGESTION";
-
 export const CLOSE_SUGGESTION_BOX = "CLOSE_SUGGESTION_BOX";

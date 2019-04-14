@@ -2,12 +2,11 @@ import { addSearchHistory,resetSearchHistory } from './searchHistoryActions'
 import { fetchResults } from './resultActions'
 import { updateSearchKeyword } from './searchKeyActions';
 import { 
-    filterContinent,
-    filterCountry,
-    filterGender,
     filterReset,
+    filterTime,
     filterSortBy,
-    filterStatus
+    filterIndicator,
+    filterTag,
 } from './filterAction'
 
 import { fetchSuggestion, closeSuggestionBox } from './sugestionAction'
@@ -16,12 +15,11 @@ import { showHelpSections, closeHelpSection } from './helpAction'
 
 export { 
     fetchResults,
-    filterContinent,
-    filterCountry,
-    filterGender,
     filterReset,
+    filterTime,
     filterSortBy,
-    filterStatus,
+    filterIndicator,
+    filterTag,
     addSearchHistory,
     resetSearchHistory,
     updateSearchKeyword,

@@ -1,12 +1,11 @@
 import React, { Component } from 'react'
 import {connect} from 'react-redux';
 import { 
-  filterGender, 
-  filterContinent, 
-  filterStatus,
-  filterCountry,
-  filterSortBy,
   filterReset,
+  filterTime,
+  filterSortBy,
+  filterIndicator,
+  filterTag,
   resetSearchHistory,
   updateSearchKeyword,
   fetchResults
@@ -88,105 +87,79 @@ class FilterBox extends Component {
     </BoxField>
   )
 
-  renderGenderBox = () => (
-    <BoxField name="Gender">
+  renderTimeBox = () => (
+    <BoxField name="Time">
       <CheckBox 
-        name="Gender" 
-        value="Male"
-        onChange={this.props.filterGender} 
-        isChecked={this.props.filter.gender.includes("Male")} />
+        name="Time" 
+        value="Before DCT"
+        onChange={this.props.filterTime} 
+        isChecked={this.props.filter.Time.includes("Before DCT")} />
       <CheckBox
-        name="Gender"
-        value="Female"
-        onChange={this.props.filterGender} 
-        isChecked={this.props.filter.gender.includes("Female")} />
-      <CheckBox
-        name="Gender"
-        value="Unspecified"
-        onChange={this.props.filterGender} 
-        isChecked={this.props.filter.gender.includes("Unspecified")} />
+        name="Time"
+        value="After DCT"
+        onChange={this.props.filterTime} 
+        isChecked={this.props.filter.Time.includes("After DCT")} />
     </BoxField>
   )
 
-  renderCountryBox = () => (
-    <BoxField name="Country">
-      <select 
-        className="ui dropdown fluid" 
-        onChange={e => this.props.filterCountry(e.target.value)}
-        value={this.props.filter.country}
-        name="country">
-        <option value="Australia">Australia</option>
-        <option value="United State">United State</option>
-        <option value="China">China</option>
-        <option value="United Kingdom">United Kingdom</option>
-        <option value="France">France</option>
-      </select>
-    </BoxField>
-  )
-
-  renderContinentBox = () => (
-    <BoxField name="Continent">
+  renderIndicatorBox = () => (
+    <BoxField name="Indicator">
       <CheckBox 
-        name="Continent" 
-        value="Europe" 
-        onChange={this.props.filterContinent} 
-        isChecked={this.props.filter.continent.includes("Europe")}
+        name="Indicator" 
+        value="Mention" 
+        onChange={this.props.filterIndicator} 
+        isChecked={this.props.filter.Indicator.includes("Mention")}
       />
       <CheckBox 
-        name="Continent" 
-        value="Asia"
-        onChange={this.props.filterContinent} 
-        isChecked={this.props.filter.continent.includes("Asia")} />
+        name="Indicator" 
+        value="Test"
+        onChange={this.props.filterIndicator} 
+        isChecked={this.props.filter.Indicator.includes("Test")} />
       <CheckBox 
-        name="Continent" 
-        value="North America" 
-        onChange={this.props.filterContinent} 
-        isChecked={this.props.filter.continent.includes("North America")} />
+        name="Indicator" 
+        value="Event" 
+        onChange={this.props.filterIndicator} 
+        isChecked={this.props.filter.Indicator.includes("Event")} />
       <CheckBox 
-        name="Continent" 
-        value="Oceana"
-        onChange={this.props.filterContinent} 
-        isChecked={this.props.filter.continent.includes("Oceana")} />
-      <CheckBox 
-        name="Continent" 
-        value="South America"
-        onChange={this.props.filterContinent} 
-        isChecked={this.props.filter.continent.includes("South America")} />
-      <CheckBox 
-        name="Continent" 
-        value="Africa"
-        onChange={this.props.filterContinent} 
-        isChecked={this.props.filter.continent.includes("Africa")} />
+        name="Indicator" 
+        value="Not Present"
+        onChange={this.props.filterIndicator} 
+        isChecked={this.props.filter.Indicator.includes("Not Present")} />
     </BoxField>
   )
 
-  renderStatusBox = () => (
-    <BoxField name="Status">
+  renderTagBox = () => (
+    <BoxField name="Tag">
       <CheckBox
-        name="status"
-        value="Completed"
-        onChange={this.props.filterStatus} 
-        isChecked={this.props.filter.status.includes("Completed")} />
+        name="Tag"
+        value="medication"
+        onChange={this.props.filterTag} 
+        isChecked={this.props.filter.Tag.includes("medication")} />
       <CheckBox 
-        name="status" 
-        value="Incomplete"
-        onChange={this.props.filterStatus} 
-        isChecked={this.props.filter.status.includes("Incomplete")} />
+        name="Tag" 
+        value="hyperlipidemia"
+        onChange={this.props.filterTag} 
+        isChecked={this.props.filter.Tag.includes("hyperlipidemia")} />
       <CheckBox 
-        name="status" 
-        value="Terminated"
-        onChange={this.props.filterStatus} 
-        isChecked={this.props.filter.status.includes("Terminated")} />
+        name="Tag" 
+        value="hypertension"
+        onChange={this.props.filterTag} 
+        isChecked={this.props.filter.Tag.includes("hypertension")} />
       <CheckBox 
-        name="status" 
-        value="Active"
-        onChange={this.props.filterStatus} 
-        isChecked={this.props.filter.status.includes("Active")} />
+        name="Tag" 
+        value="cad"
+        onChange={this.props.filterTag} 
+        isChecked={this.props.filter.Tag.includes("cad")} />
       <CheckBox 
-        name="status" 
-        value="Unknown"
-        onChange={this.props.filterStatus} 
-        isChecked={this.props.filter.status.includes("Unknown")} />
+        name="Tag" 
+        value="family_hist"
+        onChange={this.props.filterTag} 
+        isChecked={this.props.filter.Tag.includes("family_hist")} />
+      <CheckBox 
+        name="Tag" 
+        value="diabetes"
+        onChange={this.props.filterTag} 
+        isChecked={this.props.filter.Tag.includes("diabetes")} />
     </BoxField>
   )
 
@@ -199,11 +172,9 @@ class FilterBox extends Component {
         <div>
           <div className="ui styled fluid accordion">
             {this.renderSearchHistoryBox()}
-            {this.renderSortByBox()}
-            {this.renderGenderBox()}
-            {this.renderCountryBox()}
-            {this.renderContinentBox()}
-            {this.renderStatusBox()}
+            {this.renderTimeBox()}
+            {this.renderIndicatorBox()}
+            {this.renderTagBox()}
             <div className="active content">
               <button onClick={this.props.filterReset} className="ui button primary fluid">Reset</button>
             </div>
@@ -241,12 +212,11 @@ FilterBox.propTypes = {
 const mapStateToProps = ({filter,searchHistory}) => ({filter, searchHistory})
 
 export default connect(mapStateToProps, {
-  filterGender,
-  filterContinent, 
-  filterStatus,
-  filterSortBy,
-  filterCountry,
   filterReset,
+  filterTime,
+  filterSortBy,
+  filterIndicator,
+  filterTag,
   resetSearchHistory,
   updateSearchKeyword,
   fetchResults

@@ -1,15 +1,13 @@
 import {
-    FILTER_GENDER,
+    FILTER_TIME,
+    FILTER_INDICATOR,
     FILTER_SORTBY,
-    FILTER_COUNTRY,
-    FILTER_CONTINENT,
-    FILTER_STATUS,
-    FILTER_RESET
+    FILTER_TAG,
+    FILTER_RESET,
 } from './types'
 
 export const filterReset = () => ({ type: FILTER_RESET} )
-export const filterGender = payload => ({ type: FILTER_GENDER, payload })
+export const filterTime = payload => ({ type: FILTER_TIME, payload })
 export const filterSortBy = payload => ({ type: FILTER_SORTBY, payload })
-export const filterCountry = payload => ({ type: FILTER_COUNTRY, payload })
-export const filterContinent = payload => ({ type: FILTER_CONTINENT, payload })
-export const filterStatus = payload => ({ type: FILTER_STATUS, payload })
+export const filterIndicator = payload => ({ type: FILTER_INDICATOR, payload })
+export const filterTag = payload => ({ type: FILTER_TAG, payload })
