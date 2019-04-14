@@ -8,9 +8,9 @@ import {
 
 const filterState = {
     sortBy: "Revelance",
-    Time: [],
-    Indicator: [],
-    Tag: []
+    time: [],
+    indicator: [],
+    tag: []
 };
 
 
@@ -20,23 +20,23 @@ export default (state = filterState, action) => {
 
     switch(action.type){
         case FILTER_TIME:
-            newState.Time = state.Time.filter(Time => Time !== action.payload.value)
+            newState.time = state.time.filter(time => time !== action.payload.value)
             if (action.payload.checked){
-                newState.Time.push(action.payload.value);
+                newState.time.push(action.payload.value);
             }
             return newState
 
         case FILTER_INDICATOR:
-            newState.Indicator = state.Indicator.filter(Indicator => Indicator !== action.payload.value)
+            newState.indicator = state.indicator.filter(indicator => indicator !== action.payload.value)
             if (action.payload.checked){
-                newState.Indicator.push(action.payload.value);
+                newState.indicator.push(action.payload.value);
             }
             return newState
 
         case FILTER_TAG:
-            newState.Tag = state.Tag.filter(Tag => Tag !== action.payload.value)
+            newState.tag = state.tag.filter(tag => tag !== action.payload.value)
             if (action.payload.checked){
-                newState.Tag.push(action.payload.value);
+                newState.tag.push(action.payload.value);
             }
             return newState
 

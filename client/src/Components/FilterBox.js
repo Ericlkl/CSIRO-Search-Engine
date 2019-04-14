@@ -90,76 +90,76 @@ class FilterBox extends Component {
   renderTimeBox = () => (
     <BoxField name="Time">
       <CheckBox 
-        name="Time" 
+        name="time" 
         value="Before DCT"
         onChange={this.props.filterTime} 
-        isChecked={this.props.filter.Time.includes("Before DCT")} />
+        isChecked={this.props.filter.time.includes("Before DCT")} />
       <CheckBox
-        name="Time"
+        name="time"
         value="After DCT"
         onChange={this.props.filterTime} 
-        isChecked={this.props.filter.Time.includes("After DCT")} />
+        isChecked={this.props.filter.time.includes("After DCT")} />
     </BoxField>
   )
 
   renderIndicatorBox = () => (
     <BoxField name="Indicator">
       <CheckBox 
-        name="Indicator" 
+        name="indicator" 
         value="Mention" 
         onChange={this.props.filterIndicator} 
-        isChecked={this.props.filter.Indicator.includes("Mention")}
+        isChecked={this.props.filter.indicator.includes("Mention")}
       />
       <CheckBox 
-        name="Indicator" 
+        name="indicator" 
         value="Test"
         onChange={this.props.filterIndicator} 
-        isChecked={this.props.filter.Indicator.includes("Test")} />
+        isChecked={this.props.filter.indicator.includes("Test")} />
       <CheckBox 
-        name="Indicator" 
+        name="indicator" 
         value="Event" 
         onChange={this.props.filterIndicator} 
-        isChecked={this.props.filter.Indicator.includes("Event")} />
+        isChecked={this.props.filter.indicator.includes("Event")} />
       <CheckBox 
-        name="Indicator" 
+        name="indicator" 
         value="Not Present"
         onChange={this.props.filterIndicator} 
-        isChecked={this.props.filter.Indicator.includes("Not Present")} />
+        isChecked={this.props.filter.indicator.includes("Not Present")} />
     </BoxField>
   )
 
   renderTagBox = () => (
     <BoxField name="Tag">
       <CheckBox
-        name="Tag"
-        value="medication"
+        name="tag"
+        value="Medication"
         onChange={this.props.filterTag} 
-        isChecked={this.props.filter.Tag.includes("medication")} />
+        isChecked={this.props.filter.tag.includes("Medication")} />
       <CheckBox 
-        name="Tag" 
-        value="hyperlipidemia"
+        name="tag" 
+        value="Hyperlipidemia"
         onChange={this.props.filterTag} 
-        isChecked={this.props.filter.Tag.includes("hyperlipidemia")} />
+        isChecked={this.props.filter.tag.includes("Hyperlipidemia")} />
       <CheckBox 
-        name="Tag" 
-        value="hypertension"
+        name="tag" 
+        value="Hypertension"
         onChange={this.props.filterTag} 
-        isChecked={this.props.filter.Tag.includes("hypertension")} />
+        isChecked={this.props.filter.tag.includes("Hypertension")} />
       <CheckBox 
-        name="Tag" 
-        value="cad"
+        name="tag" 
+        value="CAD"
         onChange={this.props.filterTag} 
-        isChecked={this.props.filter.Tag.includes("cad")} />
+        isChecked={this.props.filter.tag.includes("CAD")} />
       <CheckBox 
-        name="Tag" 
-        value="family_hist"
+        name="tag" 
+        value="Family_hist"
         onChange={this.props.filterTag} 
-        isChecked={this.props.filter.Tag.includes("family_hist")} />
+        isChecked={this.props.filter.tag.includes("Family_hist")} />
       <CheckBox 
-        name="Tag" 
-        value="diabetes"
+        name="tag" 
+        value="Diabetes"
         onChange={this.props.filterTag} 
-        isChecked={this.props.filter.Tag.includes("diabetes")} />
+        isChecked={this.props.filter.tag.includes("Diabetes")} />
     </BoxField>
   )
 
