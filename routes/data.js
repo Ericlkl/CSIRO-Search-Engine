@@ -11,8 +11,8 @@ module.exports = app => {
         const {filter, keyword} = req.body;
         console.log(filter);
         const times = filter.time.map(time => ({ "match" : { "tags.time": time }}) )
-        const incas = filter.indicator.map(indicator => ({ "match" : { "tags.indicator": _.lowerCase(indicator) }}))
-        const tags = filter.tag.map(tag => ({ "match" : { "tags.tag": _.upperCase(tag) }}))
+        const incas = filter.indicator.map(indicator => ({ "match" : { "tags.indicator": indicator.toLowerCase() }}))
+        const tags = filter.tag.map(tag => ({ "match" : { "tags.tag": tag.toUpperCase() }}))
 
         console.log("\n\n");
         console.log(times);
@@ -45,7 +45,7 @@ module.exports = app => {
                 }
               }
             }
-        })
+})
         
         const result = {
             results: ESresult.hits.hits.map( hit => {
