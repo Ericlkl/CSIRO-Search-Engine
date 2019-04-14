@@ -24,13 +24,15 @@ let searchResult = esclient.search(
             {
               nested:{
                 //This is the containing array for all objects we have in each document.
-                path:[tags], //couldn't get just tags to work so had to use variable.
+                path: 'tags', //couldn't get just tags to work so had to use variable.
                 query:
                 [
                   //multiple filters can be inserted here comma seperate each line eg;
-                  {terms:{['tags.time']:['before', 'after']}},
-                  {terms:{['tags.indicator']:['mention','test','event','not present']}},
-                  {terms:{[tag]: singleFilter }}   //tag had to be used because it complained about "unexpect token ."
+                  {
+                    terms:{["tags.time"]:['before', 'after']},
+                    terms:{["tags.indicator"]: ['mention','test','event','not present']},
+                    terms:{["tags.tag"]: ['medication','hyperlipidemia','hypertension','cad','family_hist','diabetes']}
+                  }
                 ]
               }
             }

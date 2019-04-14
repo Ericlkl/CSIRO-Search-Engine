@@ -8,7 +8,8 @@ import {
   filterSortBy,
   filterReset,
   resetSearchHistory,
-  updateSearchKeyword
+  updateSearchKeyword,
+  fetchResults
 } from '../actions/index';
 import PropTypes from 'prop-types';
 
@@ -59,7 +60,10 @@ class FilterBox extends Component {
       {
         this.props.searchHistory.map( keyword => (
           <div key={keyword} 
-              onClick={e => this.props.updateSearchKeyword(keyword)}
+              onClick={e => {
+                this.props.updateSearchKeyword(keyword)
+                this.props.fetchResults(keyword)
+              }}
               className="ui purple horizontal large label">
               {keyword}
           </div>
@@ -244,5 +248,6 @@ export default connect(mapStateToProps, {
   filterCountry,
   filterReset,
   resetSearchHistory,
-  updateSearchKeyword
+  updateSearchKeyword,
+  fetchResults
 })(FilterBox);

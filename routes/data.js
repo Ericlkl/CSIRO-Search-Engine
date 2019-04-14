@@ -4,26 +4,38 @@ const _ = require("lodash");
 
 module.exports = app => {
     // This Route ables The front end side fetch the data from ES
-    app.get('/data/:keyword', async (req,res) => {
+    app.post('/data/', async (req,res) => {
         // Elastic Search Query Setup
         // the Result is saved in this variable 
-        const ESresult = await esclient.search({
-            index: 'main',
-            body: {
-              query: {
-                  match: { 
-                    text: req.params.keyword
+        const ESresult = await esclient.search(  {
+          index: 'main',
+          body:{
+            query: {
+              bool: {
+                must:
+                [
+                  //This is the basic search term we are using
+                  //Later this will need to be swapped out on the fly if we choose to be serching CT terms or by text
+                  {terms:{text: [req.body.keyword] }},
+                  {
+                    nested:{
+                      //This is the containing array for all objects we have in each document.
+                      path: 'tags', //couldn't get just tags to work so had to use variable.
+                      query:
+                      [
+                        //multiple filters can be inserted here comma seperate each line eg;
+                        {
+                          terms:{["tags.time"]:['before', 'after']},
+                          terms:{["tags.indicator"]: ['mention','test','event','not present']},
+                          terms:{["tags.tag"]: ['medication','hyperlipidemia','hypertension','cad','family_hist','diabetes']}
+                        }
+                      ]
+                    }
                   }
-              },   
-              aggs: {
-                top_10_states: {
-                  terms: {
-                      field: 'state',
-                      size: 10
-                  }
-                }
+                ]
               }
-            }   // End of the body
+            }
+          }
         })
         
         const result = {

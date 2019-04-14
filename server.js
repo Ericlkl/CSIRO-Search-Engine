@@ -17,7 +17,7 @@ app.use(express.static('client/build'));
 app.use(cors());
 app.use(bodyParser.json());
 
-app.get('*', (req, res, next) => {
+app.post('*', (req, res, next) => {
     console.log("Python Script: NewIndexXML.py is running...");
 
     PythonShell.run('NewIndexXML.py', options, (err, results) => {
