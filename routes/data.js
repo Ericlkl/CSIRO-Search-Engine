@@ -7,40 +7,44 @@ module.exports = app => {
     app.post('/data/', async (req,res) => {
         // Elastic Search Query Setup
         // the Result is saved in this variable 
+        console.log("\n\n\n");
         const {filter, keyword} = req.body;
         console.log(filter);
-        console.log(filter.time.map(time => _.lowerCase( _.replace(time," DCT",""))));
+        const times = filter.time.map(time => ({ "match" : { "tags.time": time }}) )
+        const incas = filter.indicator.map(indicator => ({ "match" : { "tags.indicator": _.lowerCase(indicator) }}))
+        const tags = filter.tag.map(tag => ({ "match" : { "tags.tag": _.upperCase(tag) }}))
 
+        console.log("\n\n");
+        console.log(times);
+        console.log(incas);
+        console.log(tags);
 
-        const ESresult = await esclient.search(  {
-          index: 'main',
-          body:{
-            query: {
-              bool: {
-                must:
-                [
-                  //This is the basic search term we are using
-                  //Later this will need to be swapped out on the fly if we choose to be serching CT terms or by text
-                  {terms:{text: [keyword] }},
-                  {
-                    nested:{
-                      //This is the containing array for all objects we have in each document.
-                      path: 'tags', //couldn't get just tags to work so had to use variable.
-                      query:
-                      [
-                        //multiple filters can be inserted here comma seperate each line eg;
-                        {
-                          terms:{["tags.time"]: filter.time.map(time => _.lowerCase( _.replace(time," DCT","")))},
-                          terms:{["tags.indicator"]: filter.indicator.map(indicator => _.lowerCase(indicator))},
-                          terms:{["tags.tag"]: filter.tag.map(tag => _.lowerCase(tag))}
-                        }
-                      ]
+        const ESresult = await esclient.search(  
+          {
+            index: 'main',
+            body:{
+              query: {
+                bool:{
+                  must: [
+                    {terms:{text:[keyword]}},
+                    {
+                      nested: {
+                        path: "tags",
+                        query: {
+                          bool: {
+                            must:[
+                              { bool: { should: times} },
+                              { bool: { should: incas} },
+                              { bool: { should: tags} },
+                            ]
+                          } // Bool end
+                        } //Query End
+                      } // Nested End
                     }
-                  }
-                ]
+                  ] // End Should
+                }
               }
             }
-          }
         })
         
         const result = {

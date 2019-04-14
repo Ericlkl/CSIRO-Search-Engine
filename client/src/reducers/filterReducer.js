@@ -8,10 +8,18 @@ import {
 
 const filterState = {
     sortBy: "Revelance",
-    time: ["Before DCT", "After DCT"],
-    indicator: ["Mention", "Test", "Event", "Not Present"],
-    tag: [ "Medication", "Hyperlipidemia", "Hypertension", "CAD", "Family_Hist", "Diabetes"]
+    time: [],
+    indicator: [],
+    tag: []
 };
+
+// For Testing
+// const filterState = {
+//     sortBy: "Revelance",
+//     time: ["Before DCT", "After DCT"],
+//     indicator: ["Mention", "Test", "Event", "Not Present"],
+//     tag: [ "Medication", "Hyperlipidemia", "Hypertension", "CAD", "Family_Hist", "Diabetes"]
+// };
 
 
 export default (state = filterState, action) => {
