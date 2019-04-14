@@ -1,5 +1,5 @@
 import filterReducer from './filterReducer';
-import searchKeyReducer from './searchKeyReducer'
+import keywordReducer from './keywordReducer'
 import searchHistoryReducer from './searchHistoryReducer';
 import resultReducer from './resultReducer';
 import suggestionReducer from './suggestionReducer';
@@ -8,7 +8,7 @@ import { combineReducers } from 'redux';
 
 // All variable in the redux store
 export default combineReducers({
-    searchKey: searchKeyReducer,
+    keyword: keywordReducer,
     filter: filterReducer,
     searchResult: resultReducer,
     searchHistory: searchHistoryReducer,

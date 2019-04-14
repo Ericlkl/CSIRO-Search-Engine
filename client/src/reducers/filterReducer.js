@@ -8,9 +8,9 @@ import {
 
 const filterState = {
     sortBy: "Revelance",
-    time: [],
-    indicator: [],
-    tag: []
+    time: ["Before DCT", "After DCT"],
+    indicator: ["Mention", "Test", "Event", "Not Present"],
+    tag: [ "Medication", "Hyperlipidemia", "Hypertension", "CAD", "Family_Hist", "Diabetes"]
 };
 
 

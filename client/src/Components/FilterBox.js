@@ -1,20 +1,20 @@
 import React, { Component } from 'react'
 import {connect} from 'react-redux';
 import { 
+  filterTag,
   filterReset,
   filterTime,
   filterSortBy,
   filterIndicator,
-  filterTag,
+  fetchResults,
   resetSearchHistory,
   updateSearchKeyword,
-  fetchResults
 } from '../actions/index';
 import PropTypes from 'prop-types';
 
 import HelpPopUp from '../Components/HelpPopUp';
 
-const CheckBox = ({name, value, isChecked, onChange}) => {
+const CheckBoxUnwrapped = ({name, value, isChecked, onChange, fetchResults}) => {
   return (
     <div className="field">
       <div className="ui checkbox">
@@ -22,13 +22,20 @@ const CheckBox = ({name, value, isChecked, onChange}) => {
           name={name}
           value={value}
           checked={isChecked}
-          onChange={e => onChange({ checked: e.target.checked, value})}
+          onChange={e => {
+            onChange({ checked: e.target.checked, value})
+            fetchResults();
+          }}
         />
         <label>{value}</label>
       </div>
     </div>
   )
 }
+
+const CheckBox = connect(null,{
+  fetchResults
+})(CheckBoxUnwrapped);
 
 class BoxField extends Component{
   state = {
@@ -61,7 +68,7 @@ class FilterBox extends Component {
           <div key={keyword} 
               onClick={e => {
                 this.props.updateSearchKeyword(keyword)
-                this.props.fetchResults(keyword)
+                this.props.fetchResults()
               }}
               className="ui purple horizontal large label">
               {keyword}
@@ -152,9 +159,9 @@ class FilterBox extends Component {
         isChecked={this.props.filter.tag.includes("CAD")} />
       <CheckBox 
         name="tag" 
-        value="Family_hist"
+        value="Family_Hist"
         onChange={this.props.filterTag} 
-        isChecked={this.props.filter.tag.includes("Family_hist")} />
+        isChecked={this.props.filter.tag.includes("Family_Hist")} />
       <CheckBox 
         name="tag" 
         value="Diabetes"
@@ -212,12 +219,12 @@ FilterBox.propTypes = {
 const mapStateToProps = ({filter,searchHistory}) => ({filter, searchHistory})
 
 export default connect(mapStateToProps, {
+  filterTag,
   filterReset,
   filterTime,
   filterSortBy,
   filterIndicator,
-  filterTag,
+  fetchResults,
   resetSearchHistory,
   updateSearchKeyword,
-  fetchResults
 })(FilterBox);

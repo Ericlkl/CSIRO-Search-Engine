@@ -7,6 +7,11 @@ module.exports = app => {
     app.post('/data/', async (req,res) => {
         // Elastic Search Query Setup
         // the Result is saved in this variable 
+        const {filter, keyword} = req.body;
+        console.log(filter);
+        console.log(filter.time.map(time => _.lowerCase( _.replace(time," DCT",""))));
+
+
         const ESresult = await esclient.search(  {
           index: 'main',
           body:{
@@ -16,7 +21,7 @@ module.exports = app => {
                 [
                   //This is the basic search term we are using
                   //Later this will need to be swapped out on the fly if we choose to be serching CT terms or by text
-                  {terms:{text: [req.body.keyword] }},
+                  {terms:{text: [keyword] }},
                   {
                     nested:{
                       //This is the containing array for all objects we have in each document.
@@ -25,9 +30,9 @@ module.exports = app => {
                       [
                         //multiple filters can be inserted here comma seperate each line eg;
                         {
-                          terms:{["tags.time"]:['before', 'after']},
-                          terms:{["tags.indicator"]: ['mention','test','event','not present']},
-                          terms:{["tags.tag"]: ['medication','hyperlipidemia','hypertension','cad','family_hist','diabetes']}
+                          terms:{["tags.time"]: filter.time.map(time => _.lowerCase( _.replace(time," DCT","")))},
+                          terms:{["tags.indicator"]: filter.indicator.map(indicator => _.lowerCase(indicator))},
+                          terms:{["tags.tag"]: filter.tag.map(tag => _.lowerCase(tag))}
                         }
                       ]
                     }

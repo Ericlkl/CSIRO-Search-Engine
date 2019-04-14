@@ -1,11 +1,15 @@
 import {nodeServer} from '../api/index';
 import { FETCH_RESULTS } from './types';
 
-export const fetchResults = keyword => async (dispatch, getState) => {
-    const {filter, searchKey} = getState();
-    console.log(filter);
-    console.log(searchKey);
-    const res = await nodeServer.post(`/data/`,{ keyword: searchKey });
+export const fetchResults = () => async (dispatch, getState) => {
+    // Get filter and keyword data from redux store
+    const {filter, keyword} = getState();
+    // Send Keyword and filter data to nodeServer
+    const res = await nodeServer.post(`/data/`, { 
+        keyword,
+        filter
+    })
+    // Put the data to result
     dispatch({
         type: FETCH_RESULTS,
         payload: res.data

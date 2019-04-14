@@ -10,39 +10,75 @@ var singleFilter = ['medication','hyperlipidemia','hypertension','cad','family_h
 //You can get a list of these using:
 
 // Implement your elastic Search Query Here
+// let searchResult = esclient.search(
+//   {
+//     index: 'main',
+//     body:{
+//       query: {
+//         bool: {
+//           must:
+//           [
+//             //This is the basic search term we are using
+//             //Later this will need to be swapped out on the fly if we choose to be serching CT terms or by text
+//             {terms:{text:[searchString]}},
+//             {
+//               nested:{
+//                 //This is the containing array for all objects we have in each document.
+//                 path: 'tags', //couldn't get just tags to work so had to use variable.
+//                 query: {
+//                   bool:{
+//                     must:                 
+//                     [
+//                       //multiple filters can be inserted here comma seperate each line eg;
+//                       {
+//                         terms:{["tags.time"]:['before', 'after']},
+//                         terms:{["tags.indicator"]: ['mention','test','event','not present']},
+//                         terms:{["tags.tag"]: ['hyperlipidemia','hypertension','cad','family_hist','diabetes']}
+//                       }
+//                     ]
+//                   }
+//                 }
+//               }
+//             }
+//           ]
+//         }
+//       }
+//     }
+// })
+// .then(esResult => {
+//   // The Result will come back here saved in esResult Variable
+//   console.log("Elastic Search Result");
+//   console.log(esResult.hits);
+// })
+
 let searchResult = esclient.search(
   {
     index: 'main',
     body:{
       query: {
-        bool: {
-          must:
-          [
-            //This is the basic search term we are using
-            //Later this will need to be swapped out on the fly if we choose to be serching CT terms or by text
+        bool:{
+          must: [
             {terms:{text:[searchString]}},
             {
-              nested:{
-                //This is the containing array for all objects we have in each document.
-                path: 'tags', //couldn't get just tags to work so had to use variable.
-                query:
-                [
-                  //multiple filters can be inserted here comma seperate each line eg;
-                  {
-                    terms:{["tags.time"]:['before', 'after']},
-                    terms:{["tags.indicator"]: ['mention','test','event','not present']},
-                    terms:{["tags.tag"]: ['medication','hyperlipidemia','hypertension','cad','family_hist','diabetes']}
-                  }
-                ]
-              }
+              nested: {
+                path: "tags",
+                query: {
+                  bool: {
+                    must: [
+                      { "match" : { "tags.tag": "Medication" } },
+                      { "match" : { "tags.time": "After DCT" } }
+                    ] // Must - Array - End
+                  } // Bool end
+                } //Query End
+              } // Nested End
             }
-          ]
+          ] // End Should
         }
       }
     }
-  })
-  .then(esResult => {
-    // The Result will come back here saved in esResult Variable
-    console.log("Elastic Search Result");
-    console.log(esResult.hits);
-  })
+})
+.then(esResult => {
+  // The Result will come back here saved in esResult Variable
+  console.log("Elastic Search Result");
+  console.log(esResult.hits);
+})

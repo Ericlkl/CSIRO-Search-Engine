@@ -18,11 +18,10 @@ class SearchBar extends Component {
     // When User Clicked on the search icon
     onSearchData = (e) => {
         e.preventDefault(); // Not allow Default Submit behavior
-        const {fetchResults, addSearchHistory , searchKey } = this.props;
         // Fetch data from backend server using keyword in searchField
-        fetchResults(searchKey.trim());
+        this.props.fetchResults();
         // Add Search History to the result
-        addSearchHistory(searchKey.trim());
+        this.props.addSearchHistory();
     }
     
     render() {
@@ -37,7 +36,7 @@ class SearchBar extends Component {
 
                         <div className="search-area">
                             <div className="search-box">
-                                <input value={this.props.searchKey} 
+                                <input value={this.props.keyword} 
                                     onChange={this.onInputChange} 
                                     type="text"
                                     className="search-field" 
@@ -60,12 +59,12 @@ class SearchBar extends Component {
 
 SearchBar.propTypes = {
     // SearchKey String for fetching Data and reading the search history tag event
-    searchKey: PropTypes.string.isRequired
+    keyword: PropTypes.string.isRequired
 }
 
 // Map Redux store to this Class Component
 // searchKey = Search Term in searchField
-const mapStateToProps = ({searchKey}) => ({searchKey});
+const mapStateToProps = ({keyword}) => ({keyword});
 
 export default connect(mapStateToProps, {
     updateSearchKeyword,
