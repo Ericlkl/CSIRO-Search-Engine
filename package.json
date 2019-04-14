@@ -23,6 +23,7 @@
   "homepage": "https://github.com/AsianJohnBoi/CSIRO-Search-Engine-Project#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
+    "bodybuilder": "^2.2.17",
     "concurrently": "^4.1.0",
     "cors": "^2.8.5",
     "elasticsearch": "^15.4.1",
