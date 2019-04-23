@@ -4,10 +4,12 @@ import {connect} from 'react-redux';
 import { fetchResults } from '../actions/index';
 import PropTypes from 'prop-types';
 
+import {CheckBoxLabel} from '../StyledComponents/Filterbox'
+
 const CheckBoxUnwrapped = ({name, value, isChecked, onChange, fetchResults}) => {
     return (
       <div className="field">
-        <div className="ui checkbox">
+        <div className="ui">
           <input type="checkbox"
             name={name}
             value={value}
@@ -17,7 +19,7 @@ const CheckBoxUnwrapped = ({name, value, isChecked, onChange, fetchResults}) => 
               fetchResults();
             }}
           />
-          <label>{value}</label>
+          <CheckBoxLabel>{value}</CheckBoxLabel>
         </div>
       </div>
     )

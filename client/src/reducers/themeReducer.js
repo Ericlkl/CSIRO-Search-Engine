@@ -2,11 +2,19 @@ import { TURN_DARK_MODE_ON, USE_DEFAULT_THEME} from '../actions/types'
 
 const defaultTheme = {
     bgColor: "#f4f4f4",
-    textColor: "white"
+    filterBox:{
+        bgColor: "white",
+        labelColor: "black"
+    },
+    textColor: "black"
 };
 
 const darkModeTheme = {
     bgColor: "#333333",
+    filterBox:{
+        bgColor: "#666666",
+        labelColor: "white"
+    },
     textColor: "white"
 }
 

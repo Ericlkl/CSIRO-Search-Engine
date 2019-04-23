@@ -141,9 +141,9 @@ class Filter extends Component {
             {this.renderTimeBox()}
             {this.renderIndicatorBox()}
             {this.renderTagBox()}
-            <div className="active content">
+            <FilterBox name="Filter Tools">
               <button onClick={this.props.filterReset} className="ui button primary fluid">Reset</button>
-            </div>
+            </FilterBox>
           </div>
         </div>
       </div>

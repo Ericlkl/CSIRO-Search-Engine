@@ -1,22 +1,24 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types';
 
+import { Box , BoxTitle } from '../StyledComponents/Filterbox'
+
 class FilterBox extends Component{
     state = {
       active: true  // Value determine Expand The FilterBox 
     }
     render() {
         return (
-          <div>
+          <Box>
             <div onClick={
               e => this.setState({ active: !this.state.active })
             } className={this.state.active ? "active title" : "title"} >
-              <h2><i className="dropdown icon"></i>{this.props.name}</h2>
+              <BoxTitle><i className="dropdown icon"></i>{this.props.name}</BoxTitle>
             </div>
             <div className={this.state.active ? "active content" : "content"}>
               {this.props.children}
             </div>
-          </div>
+          </Box>
     )
     }
 }

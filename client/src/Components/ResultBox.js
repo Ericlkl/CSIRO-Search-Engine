@@ -4,7 +4,7 @@ import ReactHtmlParser from 'react-html-parser';
 import {connect} from 'react-redux';
 
 // Styled Component
-import { ExpendBtn } from '../StyledComponents/ResultBox';
+import { Result, ExpendBtn } from '../StyledComponents/ResultBox';
 
 class ResultBox extends Component{
     state = {
@@ -19,12 +19,9 @@ class ResultBox extends Component{
         const { result, keyword, onFileBtnClicked } = this.props;
         console.log(keyword)
         return (
-            <div style={{ 
+            <Result style={{ 
                 height:  this.state.expand ? "auto" : "300px",
-                display: 'block',
-                margin: '2rem 0',
-                overflow: "hidden"
-            }} className="ui segment">
+            }}>
 
             <button className="ui positive button" onClick={ e => onFileBtnClicked(result.fileName) } >
                 <i className="file icon"></i>{result.fileName}
@@ -42,7 +39,7 @@ class ResultBox extends Component{
                 <ExpendBtn onClick={this.onExpandBtnClick} >
                     { this.state.expand === false ? <h4><i className="fas fa-angle-double-down"></i> Expand</h4> : <h4><i className="fas fa-angle-double-up"></i> Close</h4>}
                 </ExpendBtn>`
-            </div>
+            </Result>
         )
     }
 }

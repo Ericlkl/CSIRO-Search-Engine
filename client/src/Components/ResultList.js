@@ -10,7 +10,7 @@ import ThemeBtn from './ThemeBtn'
 import ResultBox from './ResultBox';
 import HelpPopUp from './HelpPopUp';
 // Styled Component
-import { ToolsBar } from '../StyledComponents/ResultList'
+import { ToolsBar , List , ListContent } from '../StyledComponents/ResultList'
 import { showHelpSections } from '../actions/index'
 
 class ResultList extends Component {
@@ -29,9 +29,10 @@ class ResultList extends Component {
           sectionName="resultList"
           text="Step 2 : Check the search result here" 
           pointing="below"/>
-          <div style={{margin: 0}} className="ui raised segments result-list">
-            <div className="ui secondary segment">
 
+          <List>
+            <ListContent>
+            
               <ToolsBar>
                 <p> {total} result found</p>
                 <div>
@@ -51,8 +52,8 @@ class ResultList extends Component {
                   </div>
                 )
               }
-            </div>
-          </div>
+            </ListContent>
+          </List>
       </div>
     )
   }
