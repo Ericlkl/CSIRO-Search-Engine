@@ -22,3 +22,7 @@ export const CLOSE_HELP_SECTION = "CLOSE_HELP_SECTION";
 // Suggestion Reducers Actions
 export const FETCH_SUGGESTION = "FETCH_SUGGESTION";
 export const CLOSE_SUGGESTION_BOX = "CLOSE_SUGGESTION_BOX";
+
+// Theme Reducers Actions
+export const TURN_DARK_MODE_ON = "DARK_THEME";
+export const USE_DEFAULT_THEME = "DEFAULT_THEME";

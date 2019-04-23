@@ -13,6 +13,8 @@ import { fetchSuggestion, closeSuggestionBox } from './sugestionAction'
 
 import { showHelpSections, closeHelpSection } from './helpAction'
 
+import { useDarkModeTheme, useDefaultTheme } from './themeActions';
+
 export { 
     fetchResults,
     filterReset,
@@ -26,5 +28,7 @@ export {
     showHelpSections,
     closeHelpSection,
     fetchSuggestion,
-    closeSuggestionBox
+    closeSuggestionBox,
+    useDarkModeTheme, 
+    useDefaultTheme
 }

@@ -1,26 +1,38 @@
 import React, { Component } from 'react'
+import {connect} from 'react-redux'
+import { useDarkModeTheme, useDefaultTheme } from '../actions/themeActions';
 
-class CustomizeBtn extends Component {
+class ThemeBtn extends Component {
     state = {
         show: false
     }
 
-    onCustomizeClick = () => this.setState({show: !this.state.show})
+    onThemeBtnClicked = () => this.setState({show: !this.state.show})
+
+    onDarkModeThemeClicked = () => {
+        this.props.useDarkModeTheme();
+        this.setState({show: !this.state.show});
+    }
+
+    onDefaultThemeClicked = () => {
+        this.props.useDefaultTheme();
+        this.setState({show: !this.state.show});
+    }
 
     render() {
         return (
         <div className={this.state.show ? "ui button teal simple dropdown active" : "ui button teal dropdown"}>
-            <div onClick={this.onCustomizeClick} style={{ zIndex: 100}}>
+            <div onClick={this.onThemeBtnClicked} style={{ zIndex: 100}}>
                 <i className="fa fa-cog" aria-hidden="true"></i>&nbsp;Theme 
                 <i className="dropdown icon"></i>
             </div>
             <div className="menu">
-            <div onClick={this.onCustomizeClick} className="item">Default</div>
-            <div onClick={this.onCustomizeClick} className="item">Dark</div>
+            <div onClick={this.onDefaultThemeClicked} className="item">Default</div>
+            <div onClick={this.onDarkModeThemeClicked} className="item">Dark</div>
             </div>
         </div>
         )
     }
 }
 
-export default CustomizeBtn;
+export default connect(null, { useDarkModeTheme, useDefaultTheme })(ThemeBtn);
