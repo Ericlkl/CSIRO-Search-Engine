@@ -17,25 +17,40 @@ let filterOptions = esclient.search(
 {
   index: 'main',
   body:{
-    size:0,
-    aggs:{
-      objects:{
-        nested:{path:[tags]},
-        aggs:{
-          filters:{
-            filter:{
-              bool:{
-                must:
-                [
-                  {exists:{field:[indicator]}}
-                ]
+  size: 0,
+  aggs: {
+    objects: {
+      nested: {
+        path: 'tags'
+      },
+      aggs: {
+        "Top level filters": {
+          terms: {
+            field: "tags"
+          },
+          aggs: {
+            "indicator": {
+              terms: {
+                field: "tags.indicator.keyword",
+                size:500
               }
             },
-            aggs:{
-              results:{
-                terms:{
-                  field:[keyword]
-                }
+            "time": {
+              terms: {
+                field: "tags.time.keyword",
+                size:500
+              }
+            },
+            "type1": {
+              "terms": {
+                field: 'tags.type1.keyword',
+                size:500
+              }
+            },
+            "type2": {
+              terms: {
+                field: 'tags.type2.keyword',
+                size:500
               }
             }
           }
@@ -43,44 +58,12 @@ let filterOptions = esclient.search(
       }
     }
   }
+}
 }
 )
 .then(filterOptions =>{
   console.log(filterOptions);
 })
-
-
-/*
-POST main/xml/_search
-{
-  "size": 0,
-  "aggs": {
-    "objects": {
-      "nested": {
-        "path": "tags"
-      },
-      "aggs": {
-        "filteredObjects":{
-          "filter": {
-            "bool": {
-              "must":[
-                {"exists":{"field":"tags.indicator"}}
-                ]
-            }
-          },
-          "aggs": {
-            "results": {
-              "terms": {
-                "field": "tags.tag.keyword"
-              }
-            }  
-          }
-        }
-      }
-    }
-  }
-}
-*/
 
 // Implement your elastic Search Query Here
 let searchResult = esclient.search(
