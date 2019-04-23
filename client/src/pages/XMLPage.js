@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import {Link} from 'react-router-dom'
 import {nodeServer} from '../api'
+import {Container} from '../StyledComponents/Public'
 
 class XMLPage extends Component {
 
@@ -56,12 +57,12 @@ class XMLPage extends Component {
     }
 
     return (
-      <div className="container">
+      <Container>
         <Link className="ui primary button" to="/">Go Back</Link>
         <h1>{fileName}</h1>
         {informations.map( (info, index) => <p key={index}>{info}</p>)}
         {this.renderTable(tags)}
-      </div>
+      </Container>
     )
   }
 }

@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import SearchBar from '../Components/SearchBar';
-import FilterBox from '../Components/FilterBox';
+import Filter from '../Components/Filter';
 import ResultList from '../Components/ResultList';
 import Body from '../StyledComponents/Body';
 import ResultSection from '../StyledComponents/ResultSection'
@@ -11,7 +11,7 @@ class SearchPage extends Component {
       <Body>
         <SearchBar/>
           <ResultSection>
-            <FilterBox/>
+            <Filter/>
             <ResultList/>
           </ResultSection>
       </Body>
