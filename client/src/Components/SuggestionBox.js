@@ -1,11 +1,31 @@
 import React, { Component } from 'react'
 import {connect} from 'react-redux';
+import styled from 'styled-components';
 import { 
     closeSuggestionBox, 
     updateSearchKeyword,
     addSearchHistory,
     fetchResults 
 } from '../actions/index'
+
+const Wrapper = styled.div`
+    color: black;
+    background-color: white;
+    position: absolute;
+    height: auto;
+    text-align: left;
+    z-index: 12;
+    top: 2.74rem;
+    width: 70%;
+    border-radius: 0px 5px;
+    border: .5px solid black;
+`;
+
+const Word = styled.p`
+    margin: 1rem;
+    cursor: pointer;
+    text-transform: capitalize;
+`;
 
 class SuggestionBox extends Component {
 
@@ -39,15 +59,15 @@ class SuggestionBox extends Component {
 
         this.props.suggestBox.suggestions.forEach(suggest => {
             if (results.length === 10) return 
-            results.push(<p onClick={e => this.onSuggestKeywordClicked(suggest)} key={suggest}>{suggest}</p>);
+            results.push(<Word onClick={e => this.onSuggestKeywordClicked(suggest)} key={suggest}>{suggest}</Word>);
         })
 
         return (
-            <div style={ this.props.suggestBox.show ? {} : {display: "none"} }
+            <Wrapper style={ this.props.suggestBox.show ? {} : {display: "none"} }
                 ref={node => this.node = node} 
                 className="suggestions">
                 {results}
-            </div>
+            </Wrapper>
         )
     }
 }

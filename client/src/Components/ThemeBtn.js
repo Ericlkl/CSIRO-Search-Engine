@@ -9,9 +9,11 @@ class CustomizeBtn extends Component {
 
     render() {
         return (
-        <div className={this.state.show ? "ui compact selection simple active dropdown" : "ui compact selection dropdown"}>
-            Theme 
-            <i onClick={this.onCustomizeClick} className="dropdown icon"></i>
+        <div className={this.state.show ? "ui button teal simple dropdown active" : "ui button teal dropdown"}>
+            <div onClick={this.onCustomizeClick} style={{ zIndex: 100}}>
+                <i className="fa fa-cog" aria-hidden="true"></i>&nbsp;Theme 
+                <i className="dropdown icon"></i>
+            </div>
             <div className="menu">
             <div onClick={this.onCustomizeClick} className="item">Default</div>
             <div onClick={this.onCustomizeClick} className="item">Dark</div>

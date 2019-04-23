@@ -31,7 +31,10 @@ class ResultList extends Component {
               <div className="result-list__toolsbar">
                 <p> {total} result found</p>
                 <div>
-                  <button onClick={this.props.showHelpSections} className="ui button primary">Help</button>
+                  <button onClick={this.props.showHelpSections} className="ui button primary">
+                    <i className="fa fa-info-circle" aria-hidden="true"></i>
+                    &nbsp;Help
+                  </button>
                   <ThemeBtn/>
                 </div>
                 
