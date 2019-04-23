@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import _ from 'lodash';
 import HelpPopUp from '../Components/HelpPopUp';
+import ThemeBtn from './ThemeBtn'
 import { withRouter } from 'react-router-dom'
 import PropTypes from 'prop-types'
 import {connect} from 'react-redux';
@@ -53,7 +54,12 @@ class ResultList extends Component {
 
               <div className="result-list__toolsbar">
                 <p> {total} result found</p>
-                <button onClick={this.props.showHelpSections} className="ui button primary">Help</button>
+                <div>
+                  <button onClick={this.props.showHelpSections} className="ui button primary">Help</button>
+                  <ThemeBtn/>
+                </div>
+                
+
               </div>
 
               {
