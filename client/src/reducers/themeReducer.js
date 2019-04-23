@@ -1,11 +1,21 @@
 import { TURN_DARK_MODE_ON, USE_DEFAULT_THEME} from '../actions/types'
 
-export default (state = "default", action) => {
+const defaultTheme = {
+    bgColor: "#f4f4f4",
+    textColor: "white"
+};
+
+const darkModeTheme = {
+    bgColor: "#333333",
+    textColor: "white"
+}
+
+export default (state = defaultTheme, action) => {
     switch(action.type){
         case TURN_DARK_MODE_ON:
-            return "dark";
+            return darkModeTheme;
         case USE_DEFAULT_THEME:
-            return "default";
+            return defaultTheme;
         default:
             return state;
     }

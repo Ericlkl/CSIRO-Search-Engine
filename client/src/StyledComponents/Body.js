@@ -1,5 +1,6 @@
 import styled from "styled-components";
 
 export default styled.div`
-    background-color: #f4f4f4;
+    background-color: ${props => props.theme.bgColor};
+    color: ${props => props.theme.textColor}
 `;
