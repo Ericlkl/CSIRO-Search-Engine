@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import {connect} from 'react-redux';
-import styled from 'styled-components';
 import { 
     closeSuggestionBox, 
     updateSearchKeyword,
@@ -8,24 +7,7 @@ import {
     fetchResults 
 } from '../actions/index'
 
-const Wrapper = styled.div`
-    color: black;
-    background-color: white;
-    position: absolute;
-    height: auto;
-    text-align: left;
-    z-index: 12;
-    top: 2.74rem;
-    width: 70%;
-    border-radius: 0px 5px;
-    border: .5px solid black;
-`;
-
-const Word = styled.p`
-    margin: 1rem;
-    cursor: pointer;
-    text-transform: capitalize;
-`;
+import {Wrapper, Word} from '../StyledComponents/SuggestionBox'
 
 class SuggestionBox extends Component {
 

@@ -1,13 +1,17 @@
-import React, { Component } from 'react'
-import ResultBox from './ResultBox';
+// Third-Party Library
 import _ from 'lodash';
-import HelpPopUp from '../Components/HelpPopUp';
-import ThemeBtn from './ThemeBtn'
-import { withRouter } from 'react-router-dom'
+import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import {connect} from 'react-redux';
-import { showHelpSections } from '../actions/index'
+import { withRouter } from 'react-router-dom'
 
+// Other Reuse Component
+import ThemeBtn from './ThemeBtn'
+import ResultBox from './ResultBox';
+import HelpPopUp from './HelpPopUp';
+// Styled Component
+import { ToolsBar } from '../StyledComponents/ResultList'
+import { showHelpSections } from '../actions/index'
 
 class ResultList extends Component {
 
@@ -28,7 +32,7 @@ class ResultList extends Component {
           <div style={{margin: 0}} className="ui raised segments result-list">
             <div className="ui secondary segment">
 
-              <div className="result-list__toolsbar">
+              <ToolsBar>
                 <p> {total} result found</p>
                 <div>
                   <button onClick={this.props.showHelpSections} className="ui button primary">
@@ -37,9 +41,7 @@ class ResultList extends Component {
                   </button>
                   <ThemeBtn/>
                 </div>
-                
-
-              </div>
+              </ToolsBar>
 
               {
                 // Generate result box by filling information by one result array item

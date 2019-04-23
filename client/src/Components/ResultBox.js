@@ -1,8 +1,10 @@
-import React, { Component } from 'react'
-import {connect} from 'react-redux';
-import ReactHtmlParser from 'react-html-parser';
-
 import _ from 'lodash';
+import React, { Component } from 'react'
+import ReactHtmlParser from 'react-html-parser';
+import {connect} from 'react-redux';
+
+// Styled Component
+import { ExpendBtn } from '../StyledComponents/ResultBox';
 
 class ResultBox extends Component{
     state = {
@@ -17,8 +19,13 @@ class ResultBox extends Component{
         const { result, keyword, onFileBtnClicked } = this.props;
         console.log(keyword)
         return (
-            <div style={ this.state.expand ? {} : {height: "300px"} }
-                className="ui segment result-box">
+            <div style={{ 
+                height:  this.state.expand ? "auto" : "300px",
+                display: 'block',
+                margin: '2rem 0',
+                overflow: "hidden"
+            }} className="ui segment">
+
             <button className="ui positive button" onClick={ e => onFileBtnClicked(result.fileName) } >
                 <i className="file icon"></i>{result.fileName}
             </button>
@@ -32,9 +39,9 @@ class ResultBox extends Component{
                     </p>
                 })
             }
-            <div onClick={this.onExpandBtnClick} className="expand-btn">
-                { this.state.expand === false ? <h4><i className="fas fa-angle-double-down"></i> Expand</h4> : <h4><i className="fas fa-angle-double-up"></i> Close</h4>}
-            </div>
+                <ExpendBtn onClick={this.onExpandBtnClick} >
+                    { this.state.expand === false ? <h4><i className="fas fa-angle-double-down"></i> Expand</h4> : <h4><i className="fas fa-angle-double-up"></i> Close</h4>}
+                </ExpendBtn>`
             </div>
         )
     }

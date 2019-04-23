@@ -1,64 +1,25 @@
-import React, { Component } from 'react'
-import styled from 'styled-components';
-import logo from '../assets/img/logo.png'
+import React, { Component } from 'react';
 import {connect} from 'react-redux';
-import { updateSearchKeyword, addSearchHistory, fetchResults, fetchSuggestion } from '../actions/index'
 import PropTypes from 'prop-types';
+import logo from '../assets/img/logo.png';
+import { updateSearchKeyword, addSearchHistory, fetchResults, fetchSuggestion } from '../actions/index'
+
+// Style Components
+import { 
+    Wrapper,
+    SearchForm,
+    Content,
+    LogoSection,
+    SearchBarLogo,
+    Title,
+    SearchFieldContainer,
+    SearchField
+} from '../StyledComponents/SearchBar'
+import { FlexHorizontial } from '../StyledComponents/Public'
+
+// Other Components
 import HelpPopUp from './HelpPopUp';
 import SuggestionBox from './SuggestionBox';
-
-const Wrapper = styled.section` text-align: center; `;
-
-const SearchForm = styled.form`
-    background-color: rgb(53, 189, 178);
-    -webkit-box-shadow: 0 8px 6px -6px black;
-    -moz-box-shadow: 0 8px 6px -6px black;
-    box-shadow: 0 8px 6px -6px black;
-`;
-
-const Content = styled.div`
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    color: white;
-    padding: 1rem;
-`;
-
-const LogoSection = styled.div`
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    flex-basis: 20%;
-`;
-
-const SearchBarLogo = styled.img`
-    width: 4rem;
-    height: 100%;
-    margin: 0 1.5rem;
-`;
-
-const Title = styled.h1`
-    font-size: 1.5rem;
-    padding-bottom: 1rem;
-`;
-
-const SearchFieldContainer = styled.div`
-    display: flex;
-    position: relative;
-    flex-basis: 70%;
-    flex-direction: column;
-`;
-
-const FlexHorizontial = styled.div`
-    display: flex;
-`;
-
-const SearchField = styled.input`
-    width: 70%;
-    height: 2.75rem;
-    border-radius: 5px;
-    padding-left: .5rem;
-`;
 
 
 class SearchBar extends Component {
