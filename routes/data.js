@@ -7,17 +7,17 @@ module.exports = app => {
     app.post('/api/data', async (req,res) => {
         // Elastic Search Query Setup
         // the Result is saved in this variable 
-        console.log("\n\n\n");
-        const {filter, keyword} = req.body;
-        console.log(filter);
-        const times = filter.time.map(time => ({ "match" : { "tags.time": time }}) )
-        const incas = filter.indicator.map(indicator => ({ "match" : { "tags.indicator": indicator.toLowerCase() }}))
-        const tags = filter.tag.map(tag => ({ "match" : { "tags.tag": tag.toUpperCase() }}))
+        // console.log("\n\n\n");
+        const {keyword} = req.body;
+        // console.log(filter);
+        // const times = filter.time.map(time => ({ "match" : { "tags.time": time }}) )
+        // const incas = filter.indicator.map(indicator => ({ "match" : { "tags.indicator": indicator.toLowerCase() }}))
+        // const tags = filter.tag.map(tag => ({ "match" : { "tags.tag": tag.toUpperCase() }}))
 
-        console.log("\n\n");
-        console.log(times);
-        console.log(incas);
-        console.log(tags);
+        // console.log("\n\n");
+        // console.log(times);
+        // console.log(incas);
+        // console.log(tags);
 
         const ESresult = await esclient.search(  
           {
@@ -26,21 +26,7 @@ module.exports = app => {
               query: {
                 bool:{
                   must: [
-                    {terms:{text:[keyword]}},
-                    {
-                      nested: {
-                        path: "tags",
-                        query: {
-                          bool: {
-                            must:[
-                              { bool: { should: times} },
-                              { bool: { should: incas} },
-                              { bool: { should: tags} },
-                            ]
-                          } // Bool end
-                        } //Query End
-                      } // Nested End
-                    }
+                    {terms:{text:[keyword]}}
                   ] // End Should
                 }
               }
