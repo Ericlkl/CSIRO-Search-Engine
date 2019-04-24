@@ -51,28 +51,87 @@ var singleFilter = ['medication','hyperlipidemia','hypertension','cad','family_h
 //   console.log(esResult.hits);
 // })
 
+// let searchResult = esclient.search(
+//   {
+//     index: 'main',
+//     body:{
+//       query: {
+//         bool:{
+//           must: [
+//             {terms:{text:[searchString]}},
+//             {
+//               nested: {
+//                 path: "tags",
+//                 query: {
+//                   bool: {
+//                     must: [
+//                       { "match" : { "tags.tag": "Medication" } },
+//                       { "match" : { "tags.time": "After DCT" } }
+//                     ] // Must - Array - End
+//                   } // Bool end
+//                 } //Query End
+//               } // Nested End
+//             }
+//           ] // End Should
+//         }
+//       }
+//     }
+// })
+// .then(esResult => {
+//   // The Result will come back here saved in esResult Variable
+//   console.log("Elastic Search Result");
+//   console.log(esResult.hits);
+// })
+
+
+
 let searchResult = esclient.search(
   {
     index: 'main',
-    body:{
-      query: {
-        bool:{
-          must: [
-            {terms:{text:[searchString]}},
-            {
-              nested: {
-                path: "tags",
-                query: {
-                  bool: {
-                    must: [
-                      { "match" : { "tags.tag": "Medication" } },
-                      { "match" : { "tags.time": "After DCT" } }
-                    ] // Must - Array - End
-                  } // Bool end
-                } //Query End
-              } // Nested End
+    body: {  
+      "query": { 
+        "match": {
+        "text": "disease"
+      }
+      }, 
+      "aggs": {
+        "filterValues": {
+          "nested": {
+            "path": "tags"
+          },
+          "aggs": {
+            "Tag": {
+              "terms": {
+                "field": "tags.tag.keyword"
+              },
+              "aggs": {
+                "indicators": {
+                  "terms": {
+                    "field": "tags.indicator.keyword",
+                    "size":500
+                  }
+                },
+                "time": {
+                  "terms": {
+                    "field": "tags.time.keyword",
+                    "size":500
+                  }
+                },
+                "type1": {
+                  "terms": {
+                    "field": "tags.type1.keyword",
+                    "size":500
+                  }
+                },
+                 "type2": {
+                  "terms": {
+                    "field": "tags.typ2.keyword",
+                    "size":500
+                  }
+                }
+              }
             }
-          ] // End Should
+          }
         }
       }
     }
@@ -80,5 +139,61 @@ let searchResult = esclient.search(
 .then(esResult => {
   // The Result will come back here saved in esResult Variable
   console.log("Elastic Search Result");
-  console.log(esResult.hits);
+  
+  // First Layer of the filter, it contains the tags name
+  const firstLayer = esResult.aggregations.filterValues.Tag.buckets;
+  
+  const result = firstLayer.map(tag => ({
+      tag: tag.key,
+      tagCount: tag.doc_count,
+      time:  tag.time.buckets,
+      type1: tag.type1.buckets,
+      type2: tag.type2.buckets,
+      indicators: tag.indicators.buckets
+    }));
+
+  console.log(result);
+
 })
+
+// {
+//   "query": {
+//     "bool": {
+//       "must": [ 
+//         { 
+//           "term": { "text": "disease" } 
+//         },
+//         { 
+//           "nested": {
+//           "path": "tags",
+//           "query": { "match": { "tags.tag": "cad" }  }
+//           }
+//         },
+//         { 
+//           "nested": {
+//           "path": "tags",
+//           "query": { "match": { "tags.tag": "medication" }  }
+//           }
+//         },
+//         { 
+//           "nested": {
+//           "path": "tags",
+//           "query": { "match": { "tags.tag": "phi" }  }
+//           }
+//         },
+//         { 
+//           "nested": {
+//           "path": "tags",
+//           "query": { "match": { "tags.tag": "hypertension" }  }
+//           }
+//         },
+//         { 
+//           "nested": {
+//           "path": "tags",
+//           "query": { "match": { "tags.time": "during dct" }  }
+//           }
+//         }
+//       ]
+//     }
+//   }
+// }

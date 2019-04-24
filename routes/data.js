@@ -45,7 +45,7 @@ module.exports = app => {
                 }
               }
             }
-})
+          })  // End of ESresult
         
         const result = {
             results: ESresult.hits.hits.map( hit => {
@@ -68,52 +68,4 @@ module.exports = app => {
         res.status(200).send(result);
     });
 
-    // Return XML Data to the XML Page
-    app.get('/xml/:id', async (req,res) => {
-      let esResult = await esclient.search({
-        index: 'main',
-        body: {
-          query: {
-              match: { 
-                  _id: `${req.params.id}.xml`
-              }
-          }
-        }
-      })
-      const { _id, _source } = esResult.hits.hits[0];
-      const result = {
-        fileName: _id,
-        tags: _source.tags,
-        informations: _.split(_source.text,/\\[a-z]+/).filter(word => word.length > 0 )
-      };
-      res.status(200).send(result)
-    })
-
-    // Template For Filter, If it is useless feel free to delete
-    app.post('/data/filter', async (req,res) => {
-        const {keyword} = req.body;
-
-        // Elastic Search Query Set Up
-        const ESresult = await esclient.search({
-            index: 'main',
-            body: {
-              query: {
-                  match: { 
-                    text: keyword
-                  }
-              },   
-              aggs: {
-                top_10_states: {
-                  terms: {
-                      field: 'state',
-                      size: 10
-                  }
-                }
-              }
-            }   // End of the body
-        })
-
-        // Send something back to the front end
-        // res.status(200).send();
-    })
 }

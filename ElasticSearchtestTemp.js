@@ -62,44 +62,44 @@ let filterOptions = esclient.search(
 }
 )
 .then(filterOptions =>{
-  console.log(filterOptions);
+  console.log(filterOptions.aggregations);
 })
 
 // Implement your elastic Search Query Here
-let searchResult = esclient.search(
-{
-  index: 'main',
-  body:{
-    query: {
-      bool: {
-        must:
-        [
-          //This is the basic search term we are using
-          //Later this will need to be swapped out on the fly if we choose to be serching CT terms or by text
-          {terms:{text:[searchString]}},
-          {
-            nested:{
-              //This is the containing array for all objects we have in each document.
-              path:[tags], //couldn't get just tags to work so had to use variable.
-              query:
-              [
-                //multiple filters can be inserted here comma seperate each line eg;
-                //{terms:{[tag]:[anotherFilter]}},
-                //{terms:{[tag]:[singleFilter]}} 
-                {terms:{[tag]:[singleFilter]}}   //tag had to be used because it complained about "unexpect token ."
-              ]
-            }
-          }
-        ]
-      }
-    }
-  }
-})
-.then(esResult => {
-  // The Result will come back here saved in esResult Variable
+// let searchResult = esclient.search(
+// {
+//   index: 'main',
+//   body:{
+//     query: {
+//       bool: {
+//         must:
+//         [
+//           //This is the basic search term we are using
+//           //Later this will need to be swapped out on the fly if we choose to be serching CT terms or by text
+//           {terms:{text:[searchString]}},
+//           {
+//             nested:{
+//               //This is the containing array for all objects we have in each document.
+//               path:[tags], //couldn't get just tags to work so had to use variable.
+//               query:
+//               [
+//                 //multiple filters can be inserted here comma seperate each line eg;
+//                 //{terms:{[tag]:[anotherFilter]}},
+//                 //{terms:{[tag]:[singleFilter]}} 
+//                 {terms:{[tag]:[singleFilter]}}   //tag had to be used because it complained about "unexpect token ."
+//               ]
+//             }
+//           }
+//         ]
+//       }
+//     }
+//   }
+// })
+// .then(esResult => {
+//   // The Result will come back here saved in esResult Variable
 
-  console.log(esResult);
-})
+//   console.log(esResult.hits);
+// })
   
 
 //This is the equivilent query.

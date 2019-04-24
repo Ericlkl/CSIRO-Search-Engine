@@ -31,8 +31,12 @@ app.post('*', (req, res, next) => {
     }); 
 })
 
-// ElasticSearch Data route
+// ElasticSearch Data route which return data back according to the medical terms
 require('./routes/data')(app);
+// ElasticSearch filter route which return filters options and values
+require('./routes/filter')(app);
+// ElasticSearch xml route which return the xml file data to show it on xml page
+require('./routes/xml')(app);
 
 app.get('*', (req,res) => {
     res.sendFile(path.resolve(__dirname, 'client','build', 'index.html'))     
