@@ -22,9 +22,7 @@ class Filter extends Component {
   renderFilterItem = (optionsArray, sectionName) => {
     // filterobj should be an array
     // it contains all the selectable fields
-    console.log("Array:")
-    console.log(optionsArray);
-    if(optionsArray.length === 0) return
+    // if(optionsArray.length === 0) return
 
     return (
         <div className="content">
@@ -49,8 +47,7 @@ class Filter extends Component {
 
             {
               filterValues.map(tag => {
-                let options = Object.keys(tag.filterOptions);
-                console.log(options);
+                const options = Object.keys(tag.filterOptions);
                 return (
                   <FilterBox name={tag.tagName}>
                     <div className="ui relaxed divided list">

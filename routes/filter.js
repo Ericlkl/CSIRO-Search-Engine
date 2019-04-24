@@ -63,15 +63,20 @@ module.exports = app => {
         // First Layer of the filter, it contains the tags name
         const firstLayer = esResult.aggregations.filterValues.Tag.buckets;
         
-        const result = firstLayer.map(tag => ({
-            tagName: tag.key,
-            filterOptions:{
-              time:  tag.time.buckets.map(obj => obj.key),
-              type1: tag.type1.buckets.map(obj => obj.key),
-              type2: tag.type2.buckets.map(obj => obj.key),
-              indicators: tag.indicators.buckets.map(obj => obj.key)
-            }
-        }));
+        const result = [];
+
+        firstLayer.forEach(tag => {
+          const filterOptions = {};
+          if (tag.time.buckets.length !== 0) filterOptions.time = tag.time.buckets.map(obj => obj.key);
+          if (tag.type1.buckets.length !== 0) filterOptions.type1 = tag.type1.buckets.map(obj => obj.key);
+          if (tag.type2.buckets.length !== 0) filterOptions.type2 = tag.type2.buckets.map(obj => obj.key);
+          if (tag.indicators.buckets.length !== 0) filterOptions.indicators = tag.indicators.buckets.map(obj => obj.key);
+          if (Object.keys(filterOptions).length === 0) return;
+
+          result.push({ tagName: tag.key, filterOptions }) 
+        });
+
+        console.log(result);
 
         // Send something back to the front end
         res.status(200).send(result);
