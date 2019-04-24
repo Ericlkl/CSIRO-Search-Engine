@@ -64,12 +64,13 @@ module.exports = app => {
         const firstLayer = esResult.aggregations.filterValues.Tag.buckets;
         
         const result = firstLayer.map(tag => ({
-            tag: tag.key,
-            tagCount: tag.doc_count,
-            time:  tag.time.buckets,
-            type1: tag.type1.buckets,
-            type2: tag.type2.buckets,
-            indicators: tag.indicators.buckets
+            tagName: tag.key,
+            filterOptions:{
+              time:  tag.time.buckets.map(obj => obj.key),
+              type1: tag.type1.buckets.map(obj => obj.key),
+              type2: tag.type2.buckets.map(obj => obj.key),
+              indicators: tag.indicators.buckets.map(obj => obj.key)
+            }
         }));
 
         // Send something back to the front end
