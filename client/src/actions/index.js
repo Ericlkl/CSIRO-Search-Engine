@@ -3,10 +3,8 @@ import { fetchResults } from './resultActions'
 import { updateSearchKeyword } from './searchKeyActions';
 import { 
     filterReset,
-    filterTime,
-    filterSortBy,
-    filterIndicator,
-    filterTag,
+    filterSelect,
+    fetchFilterValues
 } from './filterAction'
 
 import { fetchSuggestion, closeSuggestionBox } from './sugestionAction'
@@ -17,11 +15,9 @@ import { useDarkModeTheme, useDefaultTheme } from './themeActions';
 
 export { 
     fetchResults,
+    filterSelect,
+    fetchFilterValues,
     filterReset,
-    filterTime,
-    filterSortBy,
-    filterIndicator,
-    filterTag,
     addSearchHistory,
     resetSearchHistory,
     updateSearchKeyword,

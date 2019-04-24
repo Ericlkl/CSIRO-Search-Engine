@@ -2,7 +2,13 @@ import React, { Component } from 'react';
 import {connect} from 'react-redux';
 import PropTypes from 'prop-types';
 import logo from '../assets/img/logo.png';
-import { updateSearchKeyword, addSearchHistory, fetchResults, fetchSuggestion } from '../actions/index'
+import { 
+    updateSearchKeyword, 
+    addSearchHistory, 
+    fetchResults, 
+    fetchFilterValues, 
+    fetchSuggestion 
+} from '../actions/index'
 
 // Style Components
 import { 
@@ -36,6 +42,7 @@ class SearchBar extends Component {
         e.preventDefault(); // Not allow Default Submit behavior
         // Fetch data from backend server using keyword in searchField
         this.props.fetchResults();
+        this.props.fetchFilterValues();
         // Add Search History to the result
         this.props.addSearchHistory();
     }
@@ -87,5 +94,6 @@ export default connect(mapStateToProps, {
     updateSearchKeyword,
     addSearchHistory,
     fetchResults,
-    fetchSuggestion
+    fetchSuggestion,
+    fetchFilterValues
 })(SearchBar);

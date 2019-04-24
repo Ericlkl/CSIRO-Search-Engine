@@ -5,11 +5,9 @@ export const FETCH_RESULTS = "FETCH_RESULTS";
 export const UPDATE_SEARCH_KEYWORD = "UPDATE_SEARCH_KEYWORD";
 
 // Filter Reducer Actions
-export const FILTER_TIME = "FILTER_TIME";
-export const FILTER_INDICATOR = "FILTER_INDICATOR";
-export const FILTER_SORTBY = "FILTER_SORTBY";
-export const FILTER_TAG = "FILTER_TAG";
+export const FILTER_SELECTED = "FILTER_SELECTED";
 export const FILTER_RESET = "FILTER_RESET"
+export const FETCH_FILTER_VALUES = "FETCH_FILTER_VALUES"
 
 // Search History Reducers Action
 export const ADD_SEARCH_HISTORY = "ADD_SEARCH_HISTORY";

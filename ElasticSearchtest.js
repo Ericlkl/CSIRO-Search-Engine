@@ -144,13 +144,13 @@ let searchResult = esclient.search(
   const firstLayer = esResult.aggregations.filterValues.Tag.buckets;
   
   const result = firstLayer.map(tag => ({
-      tag: tag.key,
-      tagCount: tag.doc_count,
-      time:  tag.time.buckets,
-      type1: tag.type1.buckets,
-      type2: tag.type2.buckets,
-      indicators: tag.indicators.buckets
-    }));
+    tag: tag.key,
+    tagCount: tag.doc_count,
+    time:  tag.time.buckets,
+    type1: tag.type1.buckets,
+    type2: tag.type2.buckets,
+    indicators: tag.indicators.buckets
+  }));
 
   console.log(result);
 

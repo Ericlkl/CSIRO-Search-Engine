@@ -4,7 +4,7 @@ const _ = require("lodash");
 
 module.exports = app => {
     // This Route ables The front end side fetch the data from ES
-    app.post('/data/', async (req,res) => {
+    app.post('/api/data', async (req,res) => {
         // Elastic Search Query Setup
         // the Result is saved in this variable 
         console.log("\n\n\n");

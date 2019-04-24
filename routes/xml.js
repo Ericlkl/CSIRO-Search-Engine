@@ -5,7 +5,7 @@ const _ = require("lodash");
 module.exports = app => {
 
     // Return XML Data to the XML Page
-    app.get('/xml/:id', async (req,res) => {
+    app.get('/api/xml/:id', async (req,res) => {
         let esResult = await esclient.search({
           index: 'main',
           body: {
