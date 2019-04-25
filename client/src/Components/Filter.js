@@ -13,7 +13,13 @@ import PropTypes, { object } from 'prop-types';
 import FilterBox from './FilterBox';
 import FilterCheckbox from './FilterCheckbox';
 import SearchHistoryBox from './SearchHistoryBox';
-import {FilterCategoryTitle} from '../StyledComponents/Filterbox';
+import {
+  DividedList,
+  DividedListItem,
+  DividedListItemContent,
+  DividedListItemTitle,
+} from '../StyledComponents/DividedList'
+import { FilterCategoryTitle } from '../StyledComponents/Filterbox';
 
 
 class Filter extends Component {
@@ -21,18 +27,18 @@ class Filter extends Component {
   renderFilterItem = (optionsArray, sectionName) => {
     // filterobj should be an array
     // it contains all the selectable fields
-    // if(optionsArray.length === 0) return
 
     return (
-        <div className="content">
-          <h4 className="header">{sectionName}</h4>
+        <DividedListItemContent>
+          <DividedListItemTitle>{sectionName}</DividedListItemTitle>
           { optionsArray.map(selection => <FilterCheckbox name={selection} />) }
-        </div>
+        </DividedListItemContent>
     )
 
   }
   render() {
     // Extract all the filter information from redux store
+    // First Layer
     const { filterValues } = this.props;
     console.log(filterValues);
     return (
@@ -41,12 +47,14 @@ class Filter extends Component {
 
             {
               filterValues.map(tag => {
+                // Get all the filter options from the array
+                // Get the Second Layer
                 const options = Object.keys(tag.filterOptions);
                 return (
                   <FilterBox name={tag.tagName}>
-                    <div className="ui relaxed divided list">
-                      { options.map(name => this.renderFilterItem( tag.filterOptions[name] ,name) ) }
-                    </div>
+                    <DividedList>
+                      { options.map(name => <DividedListItem>{ this.renderFilterItem(tag.filterOptions[name],name)}</DividedListItem> ) }
+                    </DividedList>
                   </FilterBox>
                 )
               })

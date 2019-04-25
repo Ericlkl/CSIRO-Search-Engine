@@ -41,8 +41,7 @@ class ResultList extends Component {
                 results.map(result => 
                   <div key={result.fileName}>
                     { <ResultBox result={result} onFileBtnClicked={this.onFileBtnClicked} /> }
-                  </div>
-                )
+                  </div>)
               }
             </ListContent>
           </List>
