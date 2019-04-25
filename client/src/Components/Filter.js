@@ -13,7 +13,6 @@ import PropTypes, { object } from 'prop-types';
 import FilterBox from './FilterBox';
 import FilterCheckbox from './FilterCheckbox';
 import SearchHistoryBox from './SearchHistoryBox';
-import HelpPopUp from '../Components/HelpPopUp';
 import {FilterCategoryTitle} from '../StyledComponents/Filterbox';
 
 
@@ -37,11 +36,6 @@ class Filter extends Component {
     const { filterValues } = this.props;
     console.log(filterValues);
     return (
-      <div>
-        <HelpPopUp text="Step 3 : Select the filter value you want" 
-          sectionName="filter"
-          pointing="below"/>
-
           <div className="ui styled fluid accordion">
             <SearchHistoryBox/>
 
@@ -62,7 +56,6 @@ class Filter extends Component {
               <button onClick={this.props.filterReset} className="ui button primary fluid">Reset</button>
             </FilterBox>
           </div>
-      </div>
     )
   }
 }

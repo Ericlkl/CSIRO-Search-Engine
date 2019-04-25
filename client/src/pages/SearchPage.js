@@ -1,6 +1,9 @@
 import React, { Component } from 'react'
 import {ThemeProvider} from "styled-components";
 import {connect} from "react-redux";
+
+import HelpPopUp from '../Components/HelpPopUp';
+import { HelpPopUpWrapper } from '../StyledComponents/HelpPopUp';
 import SearchBar from '../Components/SearchBar';
 import Filter from '../Components/Filter';
 import ResultList from '../Components/ResultList';
@@ -13,11 +16,26 @@ class SearchPage extends Component {
     return (
       <ThemeProvider theme={this.props.theme}>
         <Body>
-          <SearchBar/>
-            <ResultSection>
+          <HelpPopUpWrapper>
+            <SearchBar/>
+            <HelpPopUp text="Step 1 : Enter the Search keyword on the input field"
+            sectionName="searchBar" />
+          </HelpPopUpWrapper>
+      
+          <ResultSection>
+            <HelpPopUpWrapper>
+              <HelpPopUp text="Step 3 : Select the filter value you want" 
+                sectionName="filter" pointing="below"/>
               <Filter/>
+            </HelpPopUpWrapper>
+
+            <HelpPopUpWrapper>
+              <HelpPopUp text="Step 2 : Check the search result here" 
+                sectionName="resultList" pointing="below"/>
               <ResultList/>
-            </ResultSection>
+            </HelpPopUpWrapper>
+
+          </ResultSection>
         </Body>
       </ThemeProvider>
     )

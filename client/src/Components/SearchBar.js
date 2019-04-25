@@ -24,7 +24,6 @@ import {
 import { FlexHorizontial } from '../StyledComponents/Public'
 
 // Other Components
-import HelpPopUp from './HelpPopUp';
 import SuggestionBox from './SuggestionBox';
 
 
@@ -49,7 +48,6 @@ class SearchBar extends Component {
     
     render() {
         return (
-            <Wrapper>
                 <SearchForm onSubmit={this.onSearchData}>
                     <Content>
                         <LogoSection>
@@ -75,8 +73,6 @@ class SearchBar extends Component {
 
                     </Content>
                 </SearchForm>
-                <HelpPopUp sectionName="searchBar" text="Step 1 : Enter the Search keyword on the input field"/>
-            </Wrapper>
         )
     }
 }
