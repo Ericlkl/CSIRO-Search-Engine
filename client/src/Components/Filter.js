@@ -19,7 +19,6 @@ import {
   DividedListItemContent,
   DividedListItemTitle,
 } from '../StyledComponents/DividedList'
-import { FilterCategoryTitle } from '../StyledComponents/Filterbox';
 
 
 class Filter extends Component {
@@ -27,38 +26,42 @@ class Filter extends Component {
   renderFilterItem = (optionsArray, sectionName) => {
     // filterobj should be an array
     // it contains all the selectable fields
+    // Render the second Layer
 
     return (
         <DividedListItemContent>
           <DividedListItemTitle>{sectionName}</DividedListItemTitle>
-          { optionsArray.map(selection => <FilterCheckbox name={selection} />) }
+          { optionsArray.map(selection => <FilterCheckbox key={selection} name={selection} />) }
         </DividedListItemContent>
     )
-
   }
+
+  renderFilterBoxForTag = tag => {
+    // Render The First Layer 
+    // Which is a Tag Name
+
+    // Get all the Second Layer options from the array
+    const options = Object.keys(tag.filterOptions);
+    return (
+      <FilterBox key={tag.tagName} name={tag.tagName}>
+        <DividedList>
+          { options.map(name => <DividedListItem key={name}>{ this.renderFilterItem(tag.filterOptions[name],name)}</DividedListItem> ) }
+        </DividedList>
+      </FilterBox>
+    )
+  }
+
+
   render() {
     // Extract all the filter information from redux store
     // First Layer
     const { filterValues } = this.props;
-    console.log(filterValues);
+
     return (
           <div className="ui styled fluid accordion">
             <SearchHistoryBox/>
 
-            {
-              filterValues.map(tag => {
-                // Get all the filter options from the array
-                // Get the Second Layer
-                const options = Object.keys(tag.filterOptions);
-                return (
-                  <FilterBox name={tag.tagName}>
-                    <DividedList>
-                      { options.map(name => <DividedListItem>{ this.renderFilterItem(tag.filterOptions[name],name)}</DividedListItem> ) }
-                    </DividedList>
-                  </FilterBox>
-                )
-              })
-            }
+            { filterValues.map(tag => this.renderFilterBoxForTag(tag)) }
 
             <FilterBox name="Filter Tools">
               <button onClick={this.props.filterReset} className="ui button primary fluid">Reset</button>
