@@ -17,7 +17,6 @@ class ResultBox extends Component{
   
     render(){
         const { result, keyword, onFileBtnClicked } = this.props;
-        console.log(keyword)
         return (
             <Result style={{ 
                 height:  this.state.expand ? "auto" : "300px",
@@ -30,9 +29,7 @@ class ResultBox extends Component{
             {
                 result.informations.map( (info, index) => {
                     return <p key={index}>
-                        { 
-                            ReactHtmlParser(_.replace(info, keyword, `<span class="highlight">${keyword}</span>`) ) 
-                        } 
+                        { ReactHtmlParser(_.replace(info, keyword, `<span class="highlight">${keyword}</span>`) )} 
                     </p>
                 })
             }

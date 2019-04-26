@@ -26,7 +26,7 @@ class FilterCheckbox extends Component {
           <input type="checkbox" 
             value={value} 
             checked={isChecked}
-            onClick={this.onCheckboxChecked}/>
+            onChange={this.onCheckboxChecked}/>
           <CheckBoxLabel>{value}</CheckBoxLabel>
         </div>
       </div>

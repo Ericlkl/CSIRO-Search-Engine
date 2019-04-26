@@ -42,7 +42,7 @@ class Filter extends Component {
 
     // Get all the Second Layer options from the array
     return (
-      <FilterBox key={mainTagName} name={mainTagName}>
+      <FilterBox active={false} key={mainTagName} name={mainTagName}>
         <DividedList>
           { Object.keys(subTags).map(subTagName => <DividedListItem key={subTagName}>{ this.renderSubTagItems(subTags[subTagName],mainTagName,subTagName)}</DividedListItem> ) }
         </DividedList>

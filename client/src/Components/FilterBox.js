@@ -7,6 +7,11 @@ class FilterBox extends Component{
     state = {
       active: true  // Value determine Expand The FilterBox 
     }
+
+    componentDidMount(){
+      if(this.props.active === false) this.setState({ active: !this.state.active })
+    }
+    
     render() {
         return (
           <Box>
