@@ -9,15 +9,14 @@ import { CheckBoxLabel } from '../StyledComponents/Filterbox'
 class FilterCheckbox extends Component {
   onCheckboxChecked = () => {
     // Get tag name and this checkbox value from props
-    const {tagname, value} = this.props;
-    this.props.filterSelect({ [tagname]: value })
+    const { mainTagName, subTagName, value} = this.props;
+    this.props.filterSelect({ [mainTagName]: { [subTagName] : value } })
   }
 
   render(){
 
-    const {tagname, value} = this.props;
-    // console.log("tag Name is : " + tagname);
-    // console.log("Value is : " + value);
+    const {mainTagName, subTagName, value} = this.props;
+    
     return (
       <div className="field">
         <div className="ui">

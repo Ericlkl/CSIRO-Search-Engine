@@ -1,11 +1,13 @@
 import { FETCH_FILTER_VALUES, FILTER_SELECTED, FILTER_RESET } from './types'
 import { nodeServer } from '../api/index'
+import _ from 'lodash';
 
 const filterSelectorInit = filterValues => {
-    let filterSelector = Object.assign({}, filterValues);
+    const filterSelector = _.cloneDeep(filterValues);
 
-    for(const key in filterSelector) {
-        filterSelector[key] = []
+    for(const tag in filterSelector) {
+        for(const option in filterSelector[tag])
+            filterSelector[tag][option] = []
     }
     return filterSelector
 }
@@ -33,6 +35,13 @@ export const fetchFilterValues = () => async (dispatch, getState) => {
 
     // Create Empty array for all the tag 
     const filterSelector = filterSelectorInit(filterValues);
+
+
+
+    console.log("Selector : the thing we want : ")
+    console.log(filterSelector)
+    console.log("filterValues : The thing we original have")
+    console.log(filterValues)
 
     // Return a object that contains all the tag name as property name
     // Which contains an empty array for filter use

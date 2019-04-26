@@ -13,44 +13,38 @@ import PropTypes, { object } from 'prop-types';
 import FilterBox from './FilterBox';
 import FilterCheckbox from './FilterCheckbox';
 import SearchHistoryBox from './SearchHistoryBox';
-import {
-  DividedList,
-  DividedListItem,
-  DividedListItemContent,
-  DividedListItemTitle,
-} from '../StyledComponents/DividedList'
+import { DividedList, DividedListItem, DividedListItemContent,DividedListItemTitle } from '../StyledComponents/DividedList'
 
 
 class Filter extends Component {
 
-  renderFilterItem = (optionsArray, tagName ,sectionName) => {
+  renderSubTagItems = (subTags, mainTagName ,subTagName) => {
     // filterobj should be an array
     // it contains all the selectable fields
     // Render the second Layer
-    // console.log(tagName);
     return (
         <DividedListItemContent>
-          <DividedListItemTitle>{sectionName}</DividedListItemTitle>
-          { optionsArray.map(selection => (
-            <FilterCheckbox key={selection} 
-              tagname={tagName}
-              value={selection}
-            />)
-            ) 
+          <DividedListItemTitle>{subTagName}</DividedListItemTitle>
+          { subTags.map(subTagValue => (
+            <FilterCheckbox key={subTagValue} 
+              mainTagName={mainTagName}
+              subTagName={subTagName}
+              value={subTagValue}/>
+            )) 
           }
         </DividedListItemContent>
     )
   }
 
-  renderFilterBoxForTag = (filterOptions, tagName) => {
+  renderMainTagBox = (subTags, mainTagName) => {
     // Render The First Layer 
     // Which is a Tag Name
 
     // Get all the Second Layer options from the array
     return (
-      <FilterBox key={tagName} name={tagName}>
+      <FilterBox key={mainTagName} name={mainTagName}>
         <DividedList>
-          { Object.keys(filterOptions).map(optionName => <DividedListItem key={optionName}>{ this.renderFilterItem(filterOptions[optionName],tagName,optionName)}</DividedListItem> ) }
+          { Object.keys(subTags).map(subTagName => <DividedListItem key={subTagName}>{ this.renderSubTagItems(subTags[subTagName],mainTagName,subTagName)}</DividedListItem> ) }
         </DividedList>
       </FilterBox>
     )
@@ -66,7 +60,7 @@ class Filter extends Component {
           <div className="ui styled fluid accordion">
             <SearchHistoryBox/>
 
-            {  Object.keys(filterValues).map( tagName =>  this.renderFilterBoxForTag(filterValues[tagName], tagName) ) }
+            {  Object.keys(filterValues).map(mainTagName =>  this.renderMainTagBox(filterValues[mainTagName], mainTagName) ) }
 
             <FilterBox name="Filter Tools">
               <button onClick={this.props.filterReset} className="ui button primary fluid">Reset</button>
