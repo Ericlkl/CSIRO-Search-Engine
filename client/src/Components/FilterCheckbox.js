@@ -10,17 +10,23 @@ class FilterCheckbox extends Component {
   onCheckboxChecked = () => {
     // Get tag name and this checkbox value from props
     const { mainTagName, subTagName, value} = this.props;
-    this.props.filterSelect({ [mainTagName]: { [subTagName] : value } })
+    this.props.filterSelect([mainTagName, subTagName, value])
   }
 
   render(){
+    const {mainTagName, subTagName, value, filter} = this.props;
+    // determine the checkbox is checked or not
+    // because the user might click the reset button
+    // The value in redux store will remove, but the checkbox is still check if we don't have this statement
+    let isChecked = filter[mainTagName] !== undefined && filter[mainTagName][subTagName].includes(value) ? true : false
 
-    const {mainTagName, subTagName, value} = this.props;
-    
     return (
       <div className="field">
         <div className="ui">
-          <input type="checkbox" value={value} onChange={this.onCheckboxChecked}/>
+          <input type="checkbox" 
+            value={value} 
+            checked={isChecked}
+            onClick={this.onCheckboxChecked}/>
           <CheckBoxLabel>{value}</CheckBoxLabel>
         </div>
       </div>
@@ -40,7 +46,9 @@ class FilterCheckbox extends Component {
 //     onChange: PropTypes.func.isRequired
 // }
 
-export default connect(null,{
+const mapStateToProps = ({filter}) => ({filter})
+
+export default connect(mapStateToProps,{
   fetchResults,
   filterSelect
 })(FilterCheckbox);

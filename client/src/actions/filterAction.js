@@ -12,6 +12,7 @@ const filterSelectorInit = filterValues => {
     return filterSelector
 }
 
+// payload is an array in format ["mainTagName", "subTagName", "value"]
 export const filterSelect = payload => ({ type: FILTER_SELECTED, payload })
 
 export const filterReset = () => (dispatch, getState) => {
@@ -35,13 +36,6 @@ export const fetchFilterValues = () => async (dispatch, getState) => {
 
     // Create Empty array for all the tag 
     const filterSelector = filterSelectorInit(filterValues);
-
-
-
-    console.log("Selector : the thing we want : ")
-    console.log(filterSelector)
-    console.log("filterValues : The thing we original have")
-    console.log(filterValues)
 
     // Return a object that contains all the tag name as property name
     // Which contains an empty array for filter use
