@@ -63,7 +63,7 @@ module.exports = app => {
         // First Layer of the filter, it contains the tags name
         const firstLayer = esResult.aggregations.filterValues.Tag.buckets;
         
-        const result = [];
+        const result = {};
 
         firstLayer.forEach(tag => {
           const filterOptions = {};
@@ -73,10 +73,8 @@ module.exports = app => {
           if (tag.indicators.buckets.length !== 0) filterOptions.indicators = tag.indicators.buckets.map(obj => obj.key);
           if (Object.keys(filterOptions).length === 0) return;
 
-          result.push({ tagName: tag.key, filterOptions }) 
+          result[tag.key] = filterOptions
         });
-
-        console.log(result);
 
         // Send something back to the front end
         res.status(200).send(result);

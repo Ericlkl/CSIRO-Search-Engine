@@ -23,29 +23,34 @@ import {
 
 class Filter extends Component {
 
-  renderFilterItem = (optionsArray, sectionName) => {
+  renderFilterItem = (optionsArray, tagName ,sectionName) => {
     // filterobj should be an array
     // it contains all the selectable fields
     // Render the second Layer
-
+    // console.log(tagName);
     return (
         <DividedListItemContent>
           <DividedListItemTitle>{sectionName}</DividedListItemTitle>
-          { optionsArray.map(selection => <FilterCheckbox key={selection} name={selection} />) }
+          { optionsArray.map(selection => (
+            <FilterCheckbox key={selection} 
+              tagname={tagName}
+              value={selection}
+            />)
+            ) 
+          }
         </DividedListItemContent>
     )
   }
 
-  renderFilterBoxForTag = tag => {
+  renderFilterBoxForTag = (filterOptions, tagName) => {
     // Render The First Layer 
     // Which is a Tag Name
 
     // Get all the Second Layer options from the array
-    const options = Object.keys(tag.filterOptions);
     return (
-      <FilterBox key={tag.tagName} name={tag.tagName}>
+      <FilterBox key={tagName} name={tagName}>
         <DividedList>
-          { options.map(name => <DividedListItem key={name}>{ this.renderFilterItem(tag.filterOptions[name],name)}</DividedListItem> ) }
+          { Object.keys(filterOptions).map(optionName => <DividedListItem key={optionName}>{ this.renderFilterItem(filterOptions[optionName],tagName,optionName)}</DividedListItem> ) }
         </DividedList>
       </FilterBox>
     )
@@ -61,7 +66,7 @@ class Filter extends Component {
           <div className="ui styled fluid accordion">
             <SearchHistoryBox/>
 
-            { filterValues.map(tag => this.renderFilterBoxForTag(tag)) }
+            {  Object.keys(filterValues).map( tagName =>  this.renderFilterBoxForTag(filterValues[tagName], tagName) ) }
 
             <FilterBox name="Filter Tools">
               <button onClick={this.props.filterReset} className="ui button primary fluid">Reset</button>

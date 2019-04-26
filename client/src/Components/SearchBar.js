@@ -4,10 +4,10 @@ import PropTypes from 'prop-types';
 import logo from '../assets/img/logo.png';
 import { 
     updateSearchKeyword, 
-    addSearchHistory, 
     fetchResults, 
     fetchFilterValues, 
-    fetchSuggestion 
+    fetchSuggestion,
+    filterReset
 } from '../actions/index'
 
 // Style Components
@@ -42,37 +42,35 @@ class SearchBar extends Component {
         // Fetch data from backend server using keyword in searchField
         this.props.fetchResults();
         this.props.fetchFilterValues();
-        // Add Search History to the result
-        this.props.addSearchHistory();
     }
     
     render() {
         return (
-                <SearchForm onSubmit={this.onSearchData}>
-                    <Content>
-                        <LogoSection>
-                            <SearchBarLogo src={logo} alt="logo"/>
-                            <Title>Health Text Visualisation</Title>
-                        </LogoSection>
+            <SearchForm onSubmit={this.onSearchData}>
+                <Content>
+                    <LogoSection>
+                        <SearchBarLogo src={logo} alt="logo"/>
+                        <Title>Health Text Visualisation</Title>
+                    </LogoSection>
 
-                        <SearchFieldContainer>
-                            <FlexHorizontial>
+                    <SearchFieldContainer>
+                        <FlexHorizontial>
 
-                                <SearchField value={this.props.keyword} 
-                                    onChange={this.onInputChange} 
-                                    type="text"
-                                    placeholder="Search..."/>
+                            <SearchField value={this.props.keyword} 
+                                onChange={this.onInputChange} 
+                                type="text"
+                                placeholder="Search..."/>
 
-                                <button onClick={this.onSearchData} 
-                                    className="ui button">
-                                    <i className="search icon"></i>Search
-                                </button>
-                            </FlexHorizontial>
-                           <SuggestionBox/>
-                        </SearchFieldContainer>
+                            <button onClick={this.onSearchData} 
+                                className="ui button">
+                                <i className="search icon"></i>Search
+                            </button>
+                        </FlexHorizontial>
+                        <SuggestionBox/>
+                    </SearchFieldContainer>
 
-                    </Content>
-                </SearchForm>
+                </Content>
+            </SearchForm>
         )
     }
 }
@@ -88,8 +86,8 @@ const mapStateToProps = ({keyword}) => ({keyword});
 
 export default connect(mapStateToProps, {
     updateSearchKeyword,
-    addSearchHistory,
     fetchResults,
     fetchSuggestion,
-    fetchFilterValues
+    fetchFilterValues,
+    filterReset
 })(SearchBar);

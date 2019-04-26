@@ -1,20 +1,32 @@
-import React from 'react'
+import React, {Component} from 'react'
+import PropTypes from 'prop-types';
 import {connect} from 'react-redux';
 
-import { fetchResults } from '../actions/index';
-import PropTypes from 'prop-types';
+import { fetchResults, filterSelect } from '../actions/index';
 
 import { CheckBoxLabel } from '../StyledComponents/Filterbox'
 
-const CheckBoxUnwrapped = ({name}) => {
+class FilterCheckbox extends Component {
+  onCheckboxChecked = () => {
+    // Get tag name and this checkbox value from props
+    const {tagname, value} = this.props;
+    this.props.filterSelect({ [tagname]: value })
+  }
+
+  render(){
+
+    const {tagname, value} = this.props;
+    // console.log("tag Name is : " + tagname);
+    // console.log("Value is : " + value);
     return (
       <div className="field">
         <div className="ui">
-          <input type="checkbox"/>
-          <CheckBoxLabel>{name}</CheckBoxLabel>
+          <input type="checkbox" value={value} onChange={this.onCheckboxChecked}/>
+          <CheckBoxLabel>{value}</CheckBoxLabel>
         </div>
       </div>
     )
+  }
 }
 
 // // PropTypes 
@@ -29,8 +41,7 @@ const CheckBoxUnwrapped = ({name}) => {
 //     onChange: PropTypes.func.isRequired
 // }
 
-const FilterCheckbox = connect(null,{
-fetchResults
-})(CheckBoxUnwrapped);
-
-export default FilterCheckbox;
+export default connect(null,{
+  fetchResults,
+  filterSelect
+})(FilterCheckbox);
