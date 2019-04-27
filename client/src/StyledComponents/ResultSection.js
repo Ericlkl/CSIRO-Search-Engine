@@ -8,7 +8,12 @@ export default styled.div`
 
     @media (min-width: 850px){
         margin: 2.5rem 8rem;
-        grid-template-columns: 25% 75%;
+        grid-template-columns: 40% 60%;
+    }
+
+    @media (min-width: 1090px){
+        margin: 2.5rem 8rem;
+        grid-template-columns: 30% 70%;
     }
 
 `;

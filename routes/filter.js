@@ -28,7 +28,7 @@ module.exports = app => {
                           "field": "tags.tag.keyword"
                         },
                         "aggs": {
-                          "indicators": {
+                          "indicator": {
                             "terms": {
                               "field": "tags.indicator.keyword",
                               "size":500
@@ -70,7 +70,7 @@ module.exports = app => {
           if (tag.time.buckets.length !== 0) filterOptions.time = tag.time.buckets.map(obj => obj.key);
           if (tag.type1.buckets.length !== 0) filterOptions.type1 = tag.type1.buckets.map(obj => obj.key);
           if (tag.type2.buckets.length !== 0) filterOptions.type2 = tag.type2.buckets.map(obj => obj.key);
-          if (tag.indicators.buckets.length !== 0) filterOptions.indicators = tag.indicators.buckets.map(obj => obj.key);
+          if (tag.indicator.buckets.length !== 0) filterOptions.indicator = tag.indicator.buckets.map(obj => obj.key);
           if (Object.keys(filterOptions).length === 0) return;
 
           result[tag.key] = filterOptions

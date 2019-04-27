@@ -156,6 +156,7 @@ let searchResult = esclient.search(
 
 })
 
+// First Phase
 // {
 //   "query": {
 //     "bool": {
@@ -197,3 +198,20 @@ let searchResult = esclient.search(
 //     }
 //   }
 // }
+
+
+const mainTagFullQuery = { 
+  "nested": {
+  "path": "tags",
+  "query": {
+    "bool": {
+      "must": [
+        { "match": {"tags.tag": "CAD" } },
+        { "match": {"tags.indicator": "mention" } },
+        { "match": {"tags.time": "after DCT" } },
+        { "match": {"tags.time": "before DCT" } }
+      ]
+    }
+  }
+  }
+};
