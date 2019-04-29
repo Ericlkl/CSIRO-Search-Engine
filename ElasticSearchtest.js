@@ -199,6 +199,54 @@ let searchResult = esclient.search(
 //   }
 // }
 
+// Final Phase ?
+// POST /main/_search
+// {
+//   "query": {
+//     "bool": {
+//       "must": [ 
+//         { 
+//           "term": { "text": "disease" } 
+//         },
+//         { 
+//           "nested": {
+//           "path": "tags",
+//           "query": {
+//             "bool": {
+//               "must": [
+//                 { "match": {"tags.tag": "CAD" } },
+//                 { "match": {"tags.indicator": "mention" } },
+//                 { "match": {"tags.time": "after DCT" } },
+//                 { "match": {"tags.time": "before DCT" } }
+//               ]
+//             }
+//           }
+//           }
+//         },
+//         { 
+//           "nested": {
+//           "path": "tags",
+//           "query": { "match": { "tags.tag": "medication" }  }
+//           }
+//         },
+//         { 
+//           "nested": {
+//           "path": "tags",
+//           "query": { "match": { "tags.tag": "phi" }  }
+//           }
+//         },
+//         { 
+//           "nested": {
+//           "path": "tags",
+//           "query": { "match": { "tags.tag": "hypertension" }  }
+//           }
+//         }
+//       ]
+//     }
+//   }
+// }
+
+
 
 const mainTagFullQuery = { 
   "nested": {

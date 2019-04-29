@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import {connect} from 'react-redux';
 import PropTypes from 'prop-types';
-import logo from '../assets/img/logo.png';
+import logo from '../img/logo.png';
 import { 
     updateSearchKeyword, 
     fetchResults, 
