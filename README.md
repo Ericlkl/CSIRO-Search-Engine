@@ -2,27 +2,41 @@
 
 ## Key Technology Include
 ```
-ReactJS
-Redux
-Sass
+  ReactJS
+  Redux
+  ElasticSearch
+  Styled-Components
+  ExpressJS
+```
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+  NodeJS
+  NPM package manager
+  Web Browser
+  ElasticSearch
+  Python
 ```
 
 ## Client Side Package Include
 ```
-  react
-  react-dom
-  react-redux
-  react-router
-  react-router-dom
-  react-scripts
-  redux
-  node-sass
-  axios
-  react-redux
-  redux-thunk
+  "axios": "^0.18.0",
+  "lodash": "^4.17.11",
+  "react": "^16.8.6",
+  "react-dom": "^16.8.6",
+  "react-html-parser": "^2.0.2",
+  "react-redux": "^7.0.3",
+  "react-router-dom": "^5.0.0",
+  "react-scripts": "3.0.0",
+  "redux": "^4.0.1",
+  "redux-thunk": "^2.3.0",
+  "sfcookies": "^1.0.2",
+  "styled-components": "^4.2.0"
 ```
 
-## Turn on Front-end Website (MacOS/ Linux)
+## Turn on Front-end Website (MacOS) *Fast & easy way 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
@@ -83,16 +97,6 @@ These instructions will get you a copy of the project up and running on your loc
 6. run 'npm run build'
 7. run 'npm run dev' start the server
 8. Open your web browser and insert url (http://localhost:3001/) or domin name:port
-```
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-NodeJS
-npm package manager
-Web browser
 ```
 
 ## Deployment
