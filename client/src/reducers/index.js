@@ -3,7 +3,7 @@ import keywordReducer from './keyword'
 import searchHistoryReducer from './searchHistory';
 import resultReducer from './result';
 import suggestionReducer from './suggestion';
-import helpSectionReducer from './helpSection';
+import helpSectionReducer from './help';
 import themeReducer from './theme'
 import { combineReducers } from 'redux';
 import filterValuesReducer from './filterValues';

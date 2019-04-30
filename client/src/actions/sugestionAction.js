@@ -23,10 +23,7 @@ export const fetchSuggestion = keyword => async dispatch => {
 
     dispatch({
         type: FETCH_SUGGESTION,
-        payload: {
-            show: true,
-            suggestions: _.uniq(suggestions)
-        }
+        payload:  _.uniq(suggestions)
     });
 }
 

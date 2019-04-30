@@ -12,9 +12,6 @@ const defaultTheme = {
     textColor: "black"
 };
 
-// 323333
-// 414242
-
 const darkModeTheme = {
     navbarBgColor: "#666666",
     resultListBgColor: "#414242",
