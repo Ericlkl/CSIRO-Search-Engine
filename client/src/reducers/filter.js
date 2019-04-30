@@ -6,6 +6,19 @@ const filterState = {
 };
 
 
+// Reset or SetUp the Filter 
+const filterSelectorInit = filterValues => {
+    // Deep Copy the filterValues in other memory
+    const filterSelector = _.cloneDeep(filterValues);
+
+    for(const tag in filterSelector) {
+        for(const option in filterSelector[tag])
+            // Put all the values to empty array
+            filterSelector[tag][option] = []
+    }
+    return filterSelector
+}
+
 export default (state = filterState, action) => {
 
     switch(action.type){
@@ -33,7 +46,7 @@ export default (state = filterState, action) => {
             return newState;
 
         case FILTER_RESET:
-            return action.payload;
+            return filterSelectorInit(action.payload);
         default:
             return state
     }

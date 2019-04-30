@@ -1,12 +1,12 @@
-import filterReducer from './filterReducer';
-import keywordReducer from './keywordReducer'
-import searchHistoryReducer from './searchHistoryReducer';
-import resultReducer from './resultReducer';
-import suggestionReducer from './suggestionReducer';
-import helpSectionReducer from './helpSectionReducer';
-import themeReducer from './themeReducer'
+import filterReducer from './filter';
+import keywordReducer from './keyword'
+import searchHistoryReducer from './searchHistory';
+import resultReducer from './result';
+import suggestionReducer from './suggestion';
+import helpSectionReducer from './helpSection';
+import themeReducer from './theme'
 import { combineReducers } from 'redux';
-import filterValuesReducer from './filterValuesReducer';
+import filterValuesReducer from './filterValues';
 
 // All variable in the redux store
 export default combineReducers({
