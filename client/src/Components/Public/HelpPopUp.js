@@ -2,7 +2,7 @@ import React from 'react'
 import {connect} from 'react-redux';
 import {closeHelpSection} from '../../actions/index'
 
-const HelpPopUp = ({help, sectionName, text, pointing, closeHelpSection}) => {
+export const HelpPopUp = ({help, sectionName, text, pointing, closeHelpSection}) => {
   return (
     <div style={ help[sectionName] === false ? {display: "none"} : {display: "initial"}} 
         className="field fluid help"
