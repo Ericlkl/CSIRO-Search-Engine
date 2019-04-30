@@ -1,18 +1,17 @@
 import React, { Component } from 'react';
 import {connect} from 'react-redux';
 import PropTypes from 'prop-types';
-import logo from '../img/logo.png';
+import logo from '../../img/logo.png';
 import { 
     updateSearchKeyword, 
     fetchResults, 
     fetchFilterValues, 
     fetchSuggestion,
     filterReset
-} from '../actions/index'
+} from '../../actions/index'
 
 // Style Components
 import { 
-    Wrapper,
     SearchForm,
     Content,
     LogoSection,
@@ -20,14 +19,14 @@ import {
     Title,
     SearchFieldContainer,
     SearchField
-} from '../StyledComponents/SearchBar'
-import { FlexHorizontial } from '../StyledComponents/Public'
+} from '../../StyledComponents/SearchBar'
+import { FlexHorizontial } from '../../StyledComponents/Public'
 
 // Other Components
 import SuggestionBox from './SuggestionBox';
 
 
-class SearchBar extends Component {
+export class SearchBar extends Component {
 
     onInputChange = (e) => {
         const word = e.target.value;
@@ -61,8 +60,7 @@ class SearchBar extends Component {
                                 type="text"
                                 placeholder="Search..."/>
 
-                            <button onClick={this.onSearchData} 
-                                className="ui button">
+                            <button onClick={this.onSearchData} className="ui button">
                                 <i className="search icon"></i>Search
                             </button>
                         </FlexHorizontial>

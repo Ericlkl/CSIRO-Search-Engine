@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import {connect} from 'react-redux'
-import { useDarkModeTheme, useDefaultTheme } from '../actions/themeActions';
+import { useDarkModeTheme, useDefaultTheme } from '../../actions/themeActions';
 
 class ThemeBtn extends Component {
     state = {

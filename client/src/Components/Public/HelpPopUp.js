@@ -1,6 +1,6 @@
 import React from 'react'
 import {connect} from 'react-redux';
-import {closeHelpSection} from '../actions/index'
+import {closeHelpSection} from '../../actions/index'
 
 const HelpPopUp = ({help, sectionName, text, pointing, closeHelpSection}) => {
   return (

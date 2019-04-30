@@ -5,7 +5,7 @@ import {
     fetchResults,
     fetchFilterValues,
     resetSearchHistory
-} from '../actions/index';
+} from '../../actions/index';
 
 import FilterBox from './FilterBox';
 

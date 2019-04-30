@@ -6,17 +6,32 @@ import {
   fetchResults, 
   resetSearchHistory, 
   updateSearchKeyword
-} from '../actions/index';
+} from '../../actions/index';
 
 import PropTypes, { object } from 'prop-types';
 
 import FilterBox from './FilterBox';
 import FilterCheckbox from './FilterCheckbox';
 import SearchHistoryBox from './SearchHistoryBox';
-import { DividedList, DividedListItem, DividedListItemContent,DividedListItemTitle } from '../StyledComponents/DividedList'
+import { DividedList, DividedListItem, DividedListItemContent,DividedListItemTitle } from '../../StyledComponents/DividedList'
 
 
 class Filter extends Component {
+
+  // Render The Expendable Box for Main Tag
+  renderMainTagBox = (subTags, mainTagName) => {
+    // Render The First Layer 
+    // Which is a Tag Name
+
+    // Get all the Second Layer options from the array
+    return (
+      <FilterBox active={false} key={mainTagName} name={mainTagName}>
+        <DividedList>
+          { Object.keys(subTags).map(subTagName => <DividedListItem key={subTagName}>{ this.renderSubTagItems(subTags[subTagName],mainTagName,subTagName)}</DividedListItem> ) }
+        </DividedList>
+      </FilterBox>
+    )
+  }
 
   renderSubTagItems = (subTags, mainTagName ,subTagName) => {
     // filterobj should be an array
@@ -36,21 +51,6 @@ class Filter extends Component {
     )
   }
 
-  renderMainTagBox = (subTags, mainTagName) => {
-    // Render The First Layer 
-    // Which is a Tag Name
-
-    // Get all the Second Layer options from the array
-    return (
-      <FilterBox active={false} key={mainTagName} name={mainTagName}>
-        <DividedList>
-          { Object.keys(subTags).map(subTagName => <DividedListItem key={subTagName}>{ this.renderSubTagItems(subTags[subTagName],mainTagName,subTagName)}</DividedListItem> ) }
-        </DividedList>
-      </FilterBox>
-    )
-  }
-
-
   render() {
     // Extract all the filter information from redux store
     // First Layer
@@ -59,9 +59,7 @@ class Filter extends Component {
     return (
           <div className="ui styled fluid accordion">
             <SearchHistoryBox/>
-
-            {  Object.keys(filterValues).map(mainTagName =>  this.renderMainTagBox(filterValues[mainTagName], mainTagName) ) }
-
+            {  Object.keys(filterValues).map(mainTagName => this.renderMainTagBox(filterValues[mainTagName], mainTagName) ) }
             <FilterBox name="Filter Tools">
               <button onClick={this.props.filterReset} className="ui button primary fluid">Reset</button>
             </FilterBox>
@@ -77,6 +75,7 @@ class Filter extends Component {
 //   searchHistory: PropTypes.array.isRequired
 // }
 
+// Connecting To Redux Store, to put filter, filterValues to this component
 const mapStateToProps = ({filter, filterValues}) => ({filter, filterValues})
 
 export default connect(mapStateToProps, {

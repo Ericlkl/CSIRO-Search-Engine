@@ -6,11 +6,11 @@ import {connect} from 'react-redux';
 import { withRouter } from 'react-router-dom'
 
 // Other Reuse Component
-import ThemeBtn from './ThemeBtn'
+import ThemeBtn from '../Public/ThemeBtn'
 import ResultBox from './ResultBox';
 // Styled Component
-import { ToolsBar , List , ListContent } from '../StyledComponents/ResultList'
-import { showHelpSections } from '../actions/index'
+import { ToolsBar , List , ListContent } from '../../StyledComponents/ResultList'
+import { showHelpSections } from '../../actions/index'
 
 class ResultList extends Component {
 

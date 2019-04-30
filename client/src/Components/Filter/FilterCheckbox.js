@@ -2,9 +2,9 @@ import React, {Component} from 'react'
 import PropTypes from 'prop-types';
 import {connect} from 'react-redux';
 
-import { fetchResults, filterSelect } from '../actions/index';
+import { fetchResults, filterSelect } from '../../actions/index';
 
-import { CheckBoxLabel } from '../StyledComponents/Filterbox'
+import { CheckBoxLabel } from '../../StyledComponents/Filterbox'
 
 class FilterCheckbox extends Component {
   onCheckboxChecked = () => {

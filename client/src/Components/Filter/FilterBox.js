@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types';
 
-import { Box , BoxTitle } from '../StyledComponents/Filterbox'
+import { Box , BoxTitle } from '../../StyledComponents/Filterbox'
 
 class FilterBox extends Component{
     state = {

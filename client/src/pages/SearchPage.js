@@ -2,11 +2,11 @@ import React, { Component } from 'react'
 import {ThemeProvider} from "styled-components";
 import {connect} from "react-redux";
 
-import HelpPopUp from '../Components/HelpPopUp';
+import HelpPopUp from '../Components/Public/HelpPopUp';
 import { HelpPopUpWrapper } from '../StyledComponents/HelpPopUp';
-import SearchBar from '../Components/SearchBar';
-import Filter from '../Components/Filter';
-import ResultList from '../Components/ResultList';
+import SearchBar from '../Components/SearchBar/SearchBar';
+import Filter from '../Components/Filter/Filter';
+import ResultList from '../Components/Result/ResultList';
 import Body from '../StyledComponents/Body';
 import ResultSection from '../StyledComponents/ResultSection'
 

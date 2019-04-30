@@ -5,11 +5,11 @@ import {
     updateSearchKeyword,
     addSearchHistory,
     fetchResults 
-} from '../actions/index'
+} from '../../actions/index'
 
-import {Wrapper, Word} from '../StyledComponents/SuggestionBox'
+import {Wrapper, Word} from '../../StyledComponents/SuggestionBox'
 
-class SuggestionBox extends Component {
+export class SuggestionBox extends Component {
 
     componentWillMount(){
         document.addEventListener('mousedown', this.handleClick, false);

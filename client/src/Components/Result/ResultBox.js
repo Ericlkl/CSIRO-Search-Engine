@@ -4,7 +4,7 @@ import ReactHtmlParser from 'react-html-parser';
 import {connect} from 'react-redux';
 
 // Styled Component
-import { Result, ExpendBtn } from '../StyledComponents/ResultBox';
+import { Result, ExpendBtn } from '../../StyledComponents/ResultBox';
 
 class ResultBox extends Component{
     state = {
