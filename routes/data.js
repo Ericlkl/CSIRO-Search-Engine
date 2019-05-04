@@ -1,7 +1,7 @@
 const elasticsearch = require('elasticsearch');
 const esclient = new elasticsearch.Client({ host: 'localhost:9200' });
 const _ = require("lodash");
-const util = require('util')
+const util = require('util');
 
 module.exports = app => {
     // This Route ables The front end side fetch the data from ES
@@ -53,7 +53,7 @@ module.exports = app => {
         
         } //End of the if has filter 
 
-        console.log(util.inspect(ESQuery, {showHidden: false, depth: null}))
+        // console.log(util.inspect(ESQuery, {showHidden: false, depth: null}))
 
         const ESresult = await esclient.search(ESQuery)  // End of ESresult
         

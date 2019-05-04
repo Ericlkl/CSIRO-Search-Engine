@@ -13,7 +13,10 @@ import PropTypes, { object } from 'prop-types';
 import FilterBox from './FilterBox';
 import FilterCheckbox from './FilterCheckbox';
 import SearchHistoryBox from './SearchHistoryBox';
+
+import { FlexHorizontial } from '../../StyledComponents/Public';
 import { DividedList, DividedListItem, DividedListItemContent,DividedListItemTitle } from '../../StyledComponents/DividedList'
+
 
 
 class Filter extends Component {
@@ -23,11 +26,17 @@ class Filter extends Component {
     // Render The First Layer 
     // Which is a Tag Name
 
+    // { Object.keys(subTags).map(subTagName => <DividedListItem key={subTagName}>{ this.renderSubTagItems(subTags[subTagName],mainTagName,subTagName)}</DividedListItem> ) }
     // Get all the Second Layer options from the array
     return (
       <FilterBox active={false} key={mainTagName} name={mainTagName}>
         <DividedList>
-          { Object.keys(subTags).map(subTagName => <DividedListItem key={subTagName}>{ this.renderSubTagItems(subTags[subTagName],mainTagName,subTagName)}</DividedListItem> ) }
+        {
+          Object.keys(subTags).map(subTagName => {
+            if (subTagName === "doc_count") return
+            return this.renderSubTagItems(subTags[subTagName],mainTagName,subTagName)
+          })
+        }
         </DividedList>
       </FilterBox>
     )
@@ -37,14 +46,18 @@ class Filter extends Component {
     // filterobj should be an array
     // it contains all the selectable fields
     // Render the second Layer
+    console.log(subTags);
     return (
         <DividedListItemContent>
           <DividedListItemTitle>{subTagName}</DividedListItemTitle>
-          { subTags.map(subTagValue => (
-            <FilterCheckbox key={subTagValue} 
-              mainTagName={mainTagName}
-              subTagName={subTagName}
-              value={subTagValue}/>
+          { Object.keys(subTags).map(subTagValue => (
+            <FlexHorizontial style={{ justifyContent: "space-between"}}>
+              <FilterCheckbox key={subTagValue} 
+                mainTagName={mainTagName}
+                subTagName={subTagName}
+                value={subTagValue}/>
+              <p>{subTags[subTagValue]}</p>
+            </FlexHorizontial>
             )) 
           }
         </DividedListItemContent>

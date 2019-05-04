@@ -1,6 +1,7 @@
 const elasticsearch = require('elasticsearch');
 const esclient = new elasticsearch.Client({ host: 'localhost:9200' });
 const _ = require("lodash");
+const util = require('util');
 
 module.exports = app => {
 
@@ -67,11 +68,27 @@ module.exports = app => {
 
         firstLayer.forEach(tag => {
           const filterOptions = {};
-          if (tag.type1.buckets.length !== 0) filterOptions.type1 = tag.type1.buckets.map(obj => obj.key);
-          if (tag.type2.buckets.length !== 0) filterOptions.type2 = tag.type2.buckets.map(obj => obj.key);
-          if (tag.indicator.buckets.length !== 0) filterOptions.indicator = tag.indicator.buckets.map(obj => obj.key);
-          if (Object.keys(filterOptions).length === 0) return;
+          // Get all the second layer tag to return their name as object key and document counts as values
+          // E.g. { "Before DCT" }
 
+          if (tag.type1.buckets.length !== 0) {
+            filterOptions.type1 = {};
+            tag.type1.buckets.forEach(value => filterOptions.type1[value.key] = value.doc_count );
+          }
+
+          if (tag.type2.buckets.length !== 0){ 
+            filterOptions.type2 = {};
+            tag.type2.buckets.forEach(value =>  filterOptions.type2[value.key] = value.doc_count  )
+          }
+
+          if (tag.indicator.buckets.length !== 0){ 
+            filterOptions.indicator = {};
+            tag.indicator.buckets.forEach(value => filterOptions.indicator[value.key] = value.doc_count)
+          }
+
+          if (Object.keys(filterOptions).length === 0) return;
+          
+          filterOptions.doc_count = tag.doc_count;
           result[tag.key] = filterOptions
         });
 
