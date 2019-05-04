@@ -67,7 +67,6 @@ module.exports = app => {
 
         firstLayer.forEach(tag => {
           const filterOptions = {};
-          if (tag.time.buckets.length !== 0) filterOptions.time = tag.time.buckets.map(obj => obj.key);
           if (tag.type1.buckets.length !== 0) filterOptions.type1 = tag.type1.buckets.map(obj => obj.key);
           if (tag.type2.buckets.length !== 0) filterOptions.type2 = tag.type2.buckets.map(obj => obj.key);
           if (tag.indicator.buckets.length !== 0) filterOptions.indicator = tag.indicator.buckets.map(obj => obj.key);
