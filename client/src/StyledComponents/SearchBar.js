@@ -27,7 +27,7 @@ export const LogoSection = styled.div`
 `;
 
 export const SearchBarLogo = styled.img`
-    width: 4rem;
+    width: 10rem;
     height: 100%;
     margin: 0 1.5rem;
 `;
