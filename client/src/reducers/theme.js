@@ -9,7 +9,10 @@ const defaultTheme = {
         bgColor: "white",
         labelColor: "black"
     },
-    textColor: "black"
+    textColor: "black",
+    chart: {
+        labelColor: "black"
+    }
 };
 
 const darkModeTheme = {
@@ -20,7 +23,10 @@ const darkModeTheme = {
         bgColor: "#666666",
         labelColor: "white"
     },
-    textColor: "white"
+    textColor: "white",
+    chart: {
+        labelColor: "white"
+    }
 }
 
 export default (state = defaultTheme, action) => {

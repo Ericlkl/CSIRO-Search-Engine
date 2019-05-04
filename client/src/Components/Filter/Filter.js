@@ -50,8 +50,8 @@ class Filter extends Component {
         <DividedListItemContent key={subTagName}>
           <DividedListItemTitle>{subTagName}</DividedListItemTitle>
           { Object.keys(subTags).map(subTagValue => (
-            <FlexHorizontial style={{ justifyContent: "space-between"}}>
-              <FilterCheckbox key={subTagValue} 
+            <FlexHorizontial key={subTagValue}  style={{ justifyContent: "space-between"}}>
+              <FilterCheckbox 
                 mainTagName={mainTagName}
                 subTagName={subTagName}
                 value={subTagValue}/>
