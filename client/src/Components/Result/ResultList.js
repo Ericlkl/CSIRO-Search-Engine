@@ -15,10 +15,6 @@ import { showHelpSections } from '../../actions/index'
 
 class ResultList extends Component {
 
-  onFileBtnClicked = (fileName) => {
-    this.props.history.push(`/xml/${_.replace(fileName,'.xml','') }`)
-  }
-
   render() {
     // total = Total result found by elastic search
     // results = array object that contain all the result about this keyword
@@ -27,7 +23,10 @@ class ResultList extends Component {
           <List>
             <ListContent>
               <ToolsBar>
-                <p> {total} result found</p>
+                <div>
+                  <h2> {total} result found</h2>
+                </div>
+                
                 <div>
                   <button onClick={this.props.showHelpSections} className="ui button primary">
                     <i className="fa fa-info-circle" aria-hidden="true"></i>
@@ -43,7 +42,7 @@ class ResultList extends Component {
                 // Generate result box by filling information by one result array item
                 results.map(result => 
                   <div key={result.fileName}>
-                    { <ResultBox result={result} onFileBtnClicked={this.onFileBtnClicked} /> }
+                    { <ResultBox result={result}/> }
                   </div>)
               }
             </ListContent>
