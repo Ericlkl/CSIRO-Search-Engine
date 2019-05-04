@@ -8,6 +8,7 @@ import { withRouter } from 'react-router-dom'
 // Other Reuse Component
 import ThemeBtn from '../Public/ThemeBtn'
 import ResultBox from './ResultBox';
+import TagChart from './TagChart';
 // Styled Component
 import { ToolsBar , List , ListContent } from '../../StyledComponents/ResultList'
 import { showHelpSections } from '../../actions/index'
@@ -35,6 +36,8 @@ class ResultList extends Component {
                   <ThemeBtn/>
                 </div>
               </ToolsBar>
+
+              <TagChart/>
 
               {
                 // Generate result box by filling information by one result array item

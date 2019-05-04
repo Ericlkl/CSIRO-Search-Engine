@@ -46,9 +46,8 @@ class Filter extends Component {
     // filterobj should be an array
     // it contains all the selectable fields
     // Render the second Layer
-    console.log(subTags);
     return (
-        <DividedListItemContent>
+        <DividedListItemContent key={subTagName}>
           <DividedListItemTitle>{subTagName}</DividedListItemTitle>
           { Object.keys(subTags).map(subTagValue => (
             <FlexHorizontial style={{ justifyContent: "space-between"}}>
