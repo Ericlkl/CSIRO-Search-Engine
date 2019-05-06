@@ -17,19 +17,19 @@ app.use(express.static('client/build'));
 app.use(cors());
 app.use(bodyParser.json());
 
-app.post('*', (req, res, next) => {
-    console.log("Python Script: NewIndexXML.py is running...");
+// app.post('*', (req, res, next) => {
+//     console.log("Python Script: NewIndexXML.py is running...");
 
-    PythonShell.run('NewIndexXML.py', options, (err, results) => {
-        if (err) {
-            res.status(401).send({msg: "Server Error!"});
-            throw err;
-        } 
-        console.log("Python Script Excuted Successfully!");
-        console.log('results: %j', results);
-        next()
-    }); 
-})
+//     PythonShell.run('NewIndexXML.py', options, (err, results) => {
+//         if (err) {
+//             res.status(401).send({msg: "Server Error!"});
+//             throw err;
+//         } 
+//         console.log("Python Script Excuted Successfully!");
+//         console.log('results: %j', results);
+//         next()
+//     }); 
+// })
 
 // ElasticSearch Data route which return data back according to the medical terms
 require('./routes/data')(app);
