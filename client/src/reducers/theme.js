@@ -2,7 +2,7 @@ import { TURN_DARK_MODE_ON, USE_DEFAULT_THEME} from '../actions/types'
 import {bake_cookie, read_cookie} from 'sfcookies'
 
 const defaultTheme = {
-    navbarBgColor: "#007C92",
+    navbarBgColor: "#00607F",
     resultListBgColor: "white",
     bgColor: "#f4f4f4",
     filterBox:{

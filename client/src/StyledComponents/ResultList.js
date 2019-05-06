@@ -3,6 +3,7 @@ import styled from 'styled-components';
 export const ToolsBar = styled.div`
     display: flex;
     justify-content: space-between;
+    padding: 1rem 0rem;
     align-content: center;
     align-items: center;
     >p{
