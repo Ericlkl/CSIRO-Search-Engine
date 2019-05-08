@@ -6,6 +6,26 @@ import _ from 'lodash';
 
 // import 'chartjs-plugin-labels';
 
+function ColorLuminance(hex, lum) {
+
+	// validate hex string
+	hex = String(hex).replace(/[^0-9a-f]/gi, '');
+	if (hex.length < 6) {
+		hex = hex[0]+hex[0]+hex[1]+hex[1]+hex[2]+hex[2];
+	}
+	lum = lum || 0;
+
+	// convert to decimal and change luminosity
+	var rgb = "#", c, i;
+	for (i = 0; i < 3; i++) {
+		c = parseInt(hex.substr(i*2,2), 16);
+		c = Math.round(Math.min(Math.max(0, c + (c * lum)), 255)).toString(16);
+		rgb += ("00"+c).substr(c.length);
+	}
+
+	return rgb;
+}
+
 class TagChart extends Component {
 
     // State For the chart
@@ -13,8 +33,6 @@ class TagChart extends Component {
     state = {
         // Data for the chart
         data: {},
-        // Color for the chart, it will fill the proportion of each section
-        color: ['#16a085', '#f1c40f','#e67e22', '#2980b9','#44FFD1', '#556222', '#8c1515'],
         // Other Specification for the chart
         option: { 
             tooltips: {
@@ -67,7 +85,7 @@ class TagChart extends Component {
         // Second Layer Variables, the values of subTags in mainTag
         // [ "type1","type2", "indicator" ...]
         let subTagsNames = [];
-
+        let firstLayerColors = [];
         // Thrid Layer Variables, the value of the second layer
         // ["insulin", ....]
 
@@ -77,23 +95,27 @@ class TagChart extends Component {
         // Second Layer Tags
         mainTags.forEach( (mainTagName, index) => {
             // Contains all the subtags name for current main Tag
-            const subTagsTemp = _.pull(Object.keys(filterValues[mainTagName]), "doc_count");
+            let subTagsTemp = _.pull(Object.keys(filterValues[mainTagName]), "doc_count");
 
-            subTagsNames = subTagsNames.concat(subTagsTemp);     
+            // Put the Second Layer Names to the result array outside the loop
+            subTagsNames = subTagsNames.concat(subTagsTemp.map(name => `${mainTagName}.${name}`));   
+
+            // Create a Lighter Color for this Second layer element
+            firstLayerColors.push(ColorLuminance("fc9272", 0.1 * index))  
+
             // Get Third Layer Names & Values
             subTagsTemp.forEach(subTagName => {
                 Object.keys(filterValues[mainTagName][subTagName])
-                    .forEach(value => {
-                        subTagsValuesNames.push(value);
+                    .forEach((value, index) => {
+                        subTagsValuesNames.push(`${value}`);
                         subTagsValuesCounts.push(filterValues[mainTagName][subTagName][value]);
-                        thridLayerColors.push( this.state.color[index] );
+                        thridLayerColors.push(ColorLuminance("034e7b", 0.22 * index));
                     })
             })
         });
 
         this.setState({
             data:{
-                labels: mainTags,
                 datasets:[
                 {
                     label: subTagsValuesNames,
@@ -105,7 +127,7 @@ class TagChart extends Component {
                     label: subTagsNames,
                     labels: subTagsNames,
                     data: mainTags.map(tagName => filterValues[tagName].doc_count),
-                    backgroundColor: this.state.color
+                    backgroundColor: firstLayerColors
                 }
             ]
             },
