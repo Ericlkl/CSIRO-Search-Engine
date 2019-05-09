@@ -2,14 +2,17 @@ import reducer from '../theme';
 import * as actionTypes from '../../actions/types';
 
 const defaultTheme = {
-    navbarBgColor: "rgb(53, 189, 178)",
+    navbarBgColor: "#00607F",
     resultListBgColor: "white",
     bgColor: "#f4f4f4",
     filterBox:{
         bgColor: "white",
         labelColor: "black"
     },
-    textColor: "black"
+    textColor: "black",
+    chart: {
+        labelColor: "black"
+    }
 };
 
 const darkModeTheme = {
@@ -20,8 +23,11 @@ const darkModeTheme = {
         bgColor: "#666666",
         labelColor: "white"
     },
-    textColor: "white"
-}
+    textColor: "white",
+    chart: {
+        labelColor: "white"
+    }
+};
 
 describe('Theme Reducer', () => {
     it('Should return the initial state', () => {

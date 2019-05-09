@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import {connect} from 'react-redux'
 import { useDarkModeTheme, useDefaultTheme } from '../../actions/themeActions';
 
-class ThemeBtn extends Component {
+export class ThemeBtn extends Component {
     state = {
         show: false
     }
@@ -27,8 +27,8 @@ class ThemeBtn extends Component {
                 <i className="dropdown icon"></i>
             </div>
             <div className="menu">
-            <div onClick={this.onDefaultThemeClicked} className="item">Default</div>
-            <div onClick={this.onDarkModeThemeClicked} className="item">Dark</div>
+            <div onClick={this.onDefaultThemeClicked} id="dafault-btn" className="item">Default</div>
+            <div onClick={this.onDarkModeThemeClicked} id="darkmode-btn" className="item">Dark</div>
             </div>
         </div>
         )
