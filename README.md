@@ -111,7 +111,8 @@ URI : https://
 
 ```
 pyCurl
-Elasticsearch
+Python >= 3.0
+Elasticsearch >=6
 ```
 Optional dev tool
 ```
@@ -163,7 +164,7 @@ Currently the parser needs to be run from it's working directory.
 From project root:
 ```
 cd sortedTestData
-python indexXML.py
+python NewIndexXML.py
 ```
 Be sure ES is running for parsing to work.
 
