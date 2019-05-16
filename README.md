@@ -84,7 +84,7 @@ nvm use v11.11.0
 
 ## Unit Test
 
-Unit test is implemented in the front-end side. It is for checking the front-end website works as expected
+Unit test is implemented in the front-end side. It is for checking the front-end website works as expected. Files are located in client/src/Components/test and client/src/reducers/test. NOTE: Moving the folders outside the client folder will cause compilation errors.
 
 ```
 1. You must successfully run the website first
