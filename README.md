@@ -82,19 +82,15 @@ nvm install v11.11.0
 nvm use v11.11.0
 ```
 
-## Server Side Production Build (Ubuntu)
+## Unit Test
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Unit test is implemented in the front-end side. It is for checking the front-end website works as expected
 
 ```
-1. ssh to the server
-2. sudo su 
-3. Change directory to the root folder of this project CSIRO-Search-Engine-Project/
-4. If you have installed nvm on your machine, go forward. if no, please follow the instruction above
-5. run 'nvm use v11.11.0'
-6. run 'npm run build'
-7. run 'npm run dev' start the server
-8. Open your web browser and insert url (http://localhost:3001/) or domin name:port
+1. You must successfully run the website first
+2. open another tab on terminal
+3. cd to the client folder
+4. npm run test
 ```
 
 ## Deployment
